@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>북악하늘 나들길.kmz</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>북악하늘 나들길</name>
+			<description>서울의 비무장지대라고 불릴 정도로 잘 보존된 숲 사이로 뻗은 산책로를 통해 42년간 금단의 땅이었던 북악산을 만끽할 수 있는 코스이다.</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9864260028992,37.6078877237868,0 126.9861350935962,37.6078305446534,0 126.9859306001405,37.60760856196411,0 126.9856998907686,37.60762909480886,0 126.9854448462873,37.60736529908284,0 126.985324897083,37.60695252533907,0 126.9856683931336,37.60637628676274,0 126.9856578623387,37.60621545590213,0 126.9858376260035,37.6061084629612,0 126.9858315069113,37.60586562101318,0 126.9859690814666,37.60563707025115,0 126.9858392657428,37.60517045815745,0 126.9859763392124,37.60474321125474,0 126.9858696929278,37.60418226011063,0 126.9856452361624,37.6040028597413,0 126.9854406689629,37.60361937102211,0 126.9854878132335,37.60327926867275,0 126.985831334974,37.60215000515618,0 126.986179043799,37.60183398932892,0 126.9861238268387,37.60146887858434,0 126.9863844888903,37.60130654841013,0 126.9864817214077,37.60106422234638,0 126.9864892997765,37.60074122401488,0 126.9861933962255,37.6007792845319,0 126.9860193634639,37.6009064163697,0 126.9859688456133,37.60074512056182,0 126.985694853775,37.60068967850678,0 126.9855131669534,37.60077437775939,0 126.9851724231973,37.60073859218603,0 126.9849578300758,37.60050569554063,0 126.9844718160721,37.60060255338335,0 126.9842535170879,37.60080232433692,0 126.9837933376597,37.60075188397172,0 126.9837579828061,37.60042663632846,0 126.9835888506544,37.60001385124638,0 126.9834085757807,37.59960392394547,0 126.9833734848571,37.5992271314917,0 126.983317914966,37.59872980559308,0 126.9827854498536,37.59838200903864,0 126.9824031588829,37.59821620881058,0 126.9826810833945,37.59801272319276,0 126.9825711249181,37.59768755791006,0 126.9826956232329,37.59738996267762,0 126.9827824883177,37.59701735321465,0 126.9830760644683,37.59685558292796,0 126.9831850143305,37.59659975814166,0 126.9831264529877,37.59635687020167,0 126.9835753390628,37.59602928465851,0 126.9836961446649,37.59571527879638,0 126.9839934431209,37.5954061093217,0 126.9841869147187,37.59511970460599,0 126.9845061473924,37.59499591862453,0 126.9849716143139,37.59492180121296,0 126.9853718171395,37.59463349197655,0 126.985606906049,37.59453369657893,0 126.985885404708,37.59407846190624,0 126.9859145544121,37.59365505940249,0 126.9861530323501,37.59316529816806,0 126.9864206359038,37.59295264395679,0 126.986201653946,37.59235226645274,0 126.9856109214156,37.59224755054635,0 126.9847205909383,37.59109804659938,0 126.9847987193437,37.59077430776885,0 126.9846805368052,37.59057620717058,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>북악하늘 나들길</name>
+			<description>서울의 비무장지대라고 불릴 정도로 잘 보존된 숲 사이로 뻗은 산책로를 통해 42년간 금단의 땅이었던 북악산을 만끽할 수 있는 코스이다.</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.981809655432,37.59521795292056,0 126.9820300335291,37.59546818813078,0 126.9818943011653,37.59574579485307,0 126.9819766364348,37.59591005879519,0 126.9817409758884,37.59599281204456,0 126.9818114808879,37.59617105366819,0 126.982058040733,37.59610344197348,0 126.983132806304,37.59636695427528,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>하늘교</name>
+			<LookAt>
+				<longitude>126.9852320486153</longitude>
+				<latitude>37.60676795480246</latitude>
+				<altitude>0</altitude>
+				<heading>92.54967174502281</heading>
+				<tilt>0</tilt>
+				<range>2726.288873642779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.9858186574191,37.60592188203982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>호경암</name>
+			<description>1968.01.21사태 격전지로 청와대를 습격할 목적으로 침투한 김신조 외 30명이 습격에 실패하자 호경암 쪽으로 도주하다 33대대 2중대 와 교전을 벌였고 그 상황을 보여주듯 50여발의 총탄 자국이 남아있는 바위이다.</description>
+			<LookAt>
+				<longitude>126.9852808861007</longitude>
+				<latitude>37.59955838664333</latitude>
+				<altitude>0</altitude>
+				<heading>92.8708896159263</heading>
+				<tilt>0</tilt>
+				<range>2025.431216825849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9858849440436,37.60429978066293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>성북천발원지</name>
+			<description>한강지류 지방 2급의 하천으로 다양한 생물서식지로서의 역할을 하며 등산객 및 인근 주민의 생태체험 학습장으로 활용되고 있다.</description>
+			<LookAt>
+				<longitude>126.9855465854848</longitude>
+				<latitude>37.59720593389871</latitude>
+				<altitude>0</altitude>
+				<heading>92.87105160732</heading>
+				<tilt>0</tilt>
+				<range>2074.6257310462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9829565999831,37.59850913845664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>숙정문</name>
+			<LookAt>
+				<longitude>126.9829621924147</longitude>
+				<latitude>37.59489721821496</latitude>
+				<altitude>0</altitude>
+				<heading>98.00592096197052</heading>
+				<tilt>0</tilt>
+				<range>492.915742436905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9817990321213,37.59522551916877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>말바위 안내소</name>
+			<description>서울 성북구에 위치하고 있으며, 신청서를 작성하고 신분증과 함께 제사하여 출입증을 받는 곳이다.</description>
+			<LookAt>
+				<longitude>126.9853658419507</longitude>
+				<latitude>37.59246897602657</latitude>
+				<altitude>0</altitude>
+				<heading>98.00738729076207</heading>
+				<tilt>0</tilt>
+				<range>1410.400734488782</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>126.9857483169131,37.59429318390802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>삼청공원 산책로</name>
+			<description>북악산 등산로 코스와 같이 할 수 있는 산책로로 벚꽃 축제가 열리는 곳이기도 하다.</description>
+			<LookAt>
+				<longitude>126.9877214352449</longitude>
+				<latitude>37.58978462235051</latitude>
+				<altitude>0</altitude>
+				<heading>98.00882423793104</heading>
+				<tilt>0</tilt>
+				<range>1426.528972222185</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_6</styleUrl>
+			<Point>
+				<coordinates>126.9849593755083,37.59141680360544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>삼청공원</name>
+			<description> 면적 38만753㎡ 경복궁 북동쪽의 북악산 기슭에 위치하고 있으며, 노송을 비롯한 울창한 수림과 청계천의 상류인 삼청천의 계곡이 공원의 주된 경관을 이룬다.
+</description>
+			<LookAt>
+				<longitude>126.9881995554924</longitude>
+				<latitude>37.5866273800487</latitude>
+				<altitude>0</altitude>
+				<heading>98.00911572186337</heading>
+				<tilt>0</tilt>
+				<range>1484.266164599185</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_7</styleUrl>
+			<Point>
+				<coordinates>126.9847069618052,37.59059537519521,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

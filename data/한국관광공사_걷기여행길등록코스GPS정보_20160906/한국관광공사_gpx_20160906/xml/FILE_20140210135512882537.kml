@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>대구중구골목2코스.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>대구중구골목2코스</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				128.5921561960539,35.86867653699862,0 128.5917632273213,35.86864334118421,0 128.5916798958915,35.86902358305405,0 128.5920315203767,35.86921225663063,0 128.5930567119893,35.86918875763914,0 128.5925893160932,35.8683619886375,0 128.5921101533886,35.86762403953377,0 128.5921887690613,35.86729169228198,0 128.5922941786152,35.86696436722675,0 128.5912224762266,35.86710622828839,0 128.5901531293792,35.86746181465829,0 128.5902250905495,35.8684824567295,0 128.5896632286055,35.86837323866755,0 128.5894842616676,35.86780921990312,0 128.5887709650668,35.86779116035999,0 128.5890227563104,35.86725424860786,0 128.5874914498667,35.86701033569715,0 128.5870178531319,35.86770445841133,0 128.5871141951473,35.8680740062028,0 128.5866523054351,35.86813252152273,0 128.586800551361,35.86771708049609,0 128.5857269799991,35.8674676062142,0 128.5849094132843,35.86792601322189,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

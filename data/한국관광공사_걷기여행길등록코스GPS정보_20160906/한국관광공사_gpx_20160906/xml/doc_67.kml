@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>월계공원산책길.kmz</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>월계공원진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.057449544651,37.62904861972297,0 127.0571224184087,37.62887364767982,0 127.056964335125,37.62877632891315,0 127.0568829351416,37.62871214771754,0 127.0568802129136,37.62864900233272,0 127.056929294996,37.62860894805899,0 127.0569995551439,37.62860736924979,0 127.0570639656062,37.62858933523618,0 127.0571229663284,37.6285631875306,0 127.0571593054801,37.62849785691223,0 127.0571824960632,37.62837377169242,0 127.0571456406517,37.6280374848433,0 127.0571165413821,37.62772825717477,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>월계공원진입로2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0595235809517,37.62211969644238,0 127.0593210181954,37.6221932214462,0 127.0591729581118,37.62248626455566,0 127.058454683279,37.62295896462055,0 127.0582050818915,37.62348400598313,0 127.0574992962606,37.62379772940813,0 127.0569135882303,37.62467643769157,0 127.0573089674068,37.62492050858609,0 127.0576690624295,37.62520307963003,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>월계공원산책길</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0577633671568,37.62493460263025,0 127.0575661044538,37.62549041918351,0 127.0576369503885,37.62562248579582,0 127.0574542007214,37.62565085034638,0 127.0572264914248,37.6255493449995,0 127.0562085828899,37.6257517917031,0 127.0560075633328,37.62592064751951,0 127.0560173202947,37.62654670185576,0 127.0558028928596,37.62669913817886,0 127.0559097004065,37.6268622445765,0 127.0561831826931,37.62688449941792,0 127.0563069947403,37.62743219803166,0 127.0568048635311,37.62747064538534,0 127.0569831027419,37.62765986987337,0 127.057947248238,37.62815272830336,0 127.058173722141,37.62753571404743,0 127.0589013679543,37.62735698030503,0 127.0593661107842,37.62752188509793,0 127.0592789121844,37.62658138292339,0 127.0584206795646,37.62652468987675,0 127.0588575098363,37.6257585425743,0 127.0583337358492,37.62561531252599,0 127.058183411637,37.62519350144885,0 127.0577633671568,37.62493460263025,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>인덕사거리</name>
+			<LookAt>
+				<longitude>127.0573640813288</longitude>
+				<latitude>37.6283991410383</latitude>
+				<altitude>0</altitude>
+				<heading>84.40133589419203</heading>
+				<tilt>18.39561679116287</tilt>
+				<range>216.9254779432004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.0574114701637,37.62904880221237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>월계삼거리</name>
+			<LookAt>
+				<longitude>127.0595979377599</longitude>
+				<latitude>37.6221827307168</latitude>
+				<altitude>0</altitude>
+				<heading>84.40175852847194</heading>
+				<tilt>24.43799100305498</tilt>
+				<range>246.9950035603293</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.0594921599368,37.6221151693525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>체력장</name>
+			<description>근린공원 내 있는 체력장으로 넓은 공터에 다양한 운동기구들과 쉼터가 있어 체력을 단련하고, 휴식을 취할 수 있는 공간이다.
+</description>
+			<LookAt>
+				<longitude>127.0572762675581</longitude>
+				<latitude>37.62741797231529</latitude>
+				<altitude>0</altitude>
+				<heading>77.64889000942179</heading>
+				<tilt>19.66804645896813</tilt>
+				<range>154.3227889610241</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.0572074443662,37.62778213022696,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

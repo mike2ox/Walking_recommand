@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-11-13T12:45:14Z</time>
+    <bounds maxlat="36.2938925" maxlon="128.7709491" minlat="36.2871013" minlon="128.7680320"/>
+  </metadata>
+
+  <trk>
+    <name>트랙 001</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="36.2871013" lon="128.7705653">
+        <ele>140.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2873529" lon="128.7698745">
+        <ele>140.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2881703" lon="128.7694906">
+        <ele>140.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2893022" lon="128.7702583">
+        <ele>140.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2903711" lon="128.7705653">
+        <ele>138.7031250</ele>
+      </trkpt>
+      <trkpt lat="36.2904341" lon="128.7705653">
+        <ele>138.4570313</ele>
+      </trkpt>
+      <trkpt lat="36.2913144" lon="128.7709491">
+        <ele>131.9960938</ele>
+      </trkpt>
+      <trkpt lat="36.2925092" lon="128.7703350">
+        <ele>130.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2928236" lon="128.7695673">
+        <ele>130.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2932637" lon="128.7685694">
+        <ele>130.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2935153" lon="128.7681088">
+        <ele>130.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2935153" lon="128.7680320">
+        <ele>130.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2938925" lon="128.7685694">
+        <ele>130.0000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>동작충효길3코스-한강나들길.kmz</name>
+	<open>1</open>
+	<Style id="sh_13">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/13.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_14">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/14.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_12">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/12.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_12">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/12.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_13">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/13.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_14">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/14.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_11">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/11.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_11">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/11.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_subway0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_subway0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>동작충효길3코스-한강나들길</name>
+		<description>사육신공원입구-노량진배수지 시민공원-노들역2번출입구-효사정-동작역2번출입구</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9812173673173,37.50163591228989,0 126.9799983677071,37.50283339283039,0 126.9784999819574,37.50483592055253,0 126.9776809402254,37.50564067903784,0 126.9770588537994,37.50593622189639,0 126.9764367176167,37.50591485361131,0 126.9757944119015,37.50583315599289,0 126.9751998695181,37.50586612791579,0 126.9746217390823,37.50607735708498,0 126.9736331417275,37.5061963716314,0 126.9728288676889,37.50632800813544,0 126.9716085548714,37.50697227706452,0 126.9706861688295,37.50725556743794,0 126.9698548220933,37.50775544930628,0 126.9684158156401,37.50817256729219,0 126.9669831682541,37.50884584582695,0 126.9653558369992,37.50942321942597,0 126.9649862190426,37.50964441141957,0 126.9644436007065,37.51002041357825,0 126.9632681812277,37.51075658317217,0 126.9615187312272,37.51180777088318,0 126.9599759757985,37.51252540542136,0 126.9591142029823,37.51278853703558,0 126.9583303210023,37.5131006975197,0 126.9571001942858,37.51320527916319,0 126.9560625332422,37.51338994634468,0 126.9553309071052,37.51292150910913,0 126.9545669209935,37.51306724245281,0 126.9541269349676,37.51363284245338,0 126.9538579093347,37.51423828621569,0 126.952985730965,37.51435406724287,0 126.9523310567849,37.51466031626393,0 126.9514897917752,37.51488851522294,0 126.9510882675037,37.51401152378601,0 126.9515001233166,37.51370341435172,0 126.9509368282711,37.51330504315745,0 126.9502461284041,37.51335047626468,0 126.9498165210428,37.51334705427173,0 126.9493238865769,37.51327714134718,0 126.9482873972077,37.51344664552819,0 126.9480477520291,37.51359997599764,0 126.9472419637197,37.51385578640166,0 126.9461554875266,37.51390463337565,0 126.9450508792567,37.51408765782207,0 126.9433703119832,37.51397587392349,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>사육신공원 입구</name>
+		<description>한강대교와 노량진역 사이의 언덕에 있는 사육신묘(서울특별시유형문화재 8) 일대 4만 9401㎢의 면적을 성역으로 가꾸어 문을 연 공원이다. 오전 9시부터 오후 6시까지 문을 연다. 사육신묘는 조선 제6대 왕 단종을 몰아내고 왕위를 빼앗은 세조에 반대해 단종복위를 꾀하다 들켜 죽은 성삼문·박팽년·하위지·이개·유성원·유응부·김문기 등의 일곱 충신을 모신 곳이다.</description>
+		<LookAt>
+			<longitude>126.9485851677386</longitude>
+			<latitude>37.51401437639364</latitude>
+			<altitude>0</altitude>
+			<heading>-0.00827657519566696</heading>
+			<tilt>0</tilt>
+			<range>390.2643581110641</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>126.9474009463149,37.51381251905116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진배수지 시민공원</name>
+		<description>노량진 배수지를 공원화하였다.</description>
+		<LookAt>
+			<longitude>126.9544163054885</longitude>
+			<latitude>37.5132948628813</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004725725651869838</heading>
+			<tilt>0</tilt>
+			<range>406.6382454725132</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_11</styleUrl>
+		<Point>
+			<coordinates>126.9544163054885,37.5132948628813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노들역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9553601802052</longitude>
+			<latitude>37.51308849141805</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004154373668585274</heading>
+			<tilt>2.460574810802137</tilt>
+			<range>184.1878505096199</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_12</styleUrl>
+		<Point>
+			<coordinates>126.9554667643064,37.51303542567548,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>효사정</name>
+		<description>효사정(孝思亭)은 조선 세종 때 한성부윤과 우의정을 지낸 공숙공(恭肅公) 노한(盧閈 1376~1443)의 별서(別墅)였다. 노한은 모친이 돌아가시자 3년간 시묘를 했던 자리(지금의 노량진 한강변)에 정자를 짓고 때때로 올라가 모친을 그리워했으며, 멀리 북쪽을 바라보면서 개성에 묘를 쓴 아버지를 추모했다 한다.</description>
+		<LookAt>
+			<longitude>126.9627942407828</longitude>
+			<latitude>37.5107228262085</latitude>
+			<altitude>0</altitude>
+			<heading>0.0003748973235877559</heading>
+			<tilt>2.461145703324349</tilt>
+			<range>234.5068966694859</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_13</styleUrl>
+		<Point>
+			<coordinates>126.9630660603504,37.51091537583071,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>동작역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9785971306501</longitude>
+			<latitude>37.50352999606628</latitude>
+			<altitude>0</altitude>
+			<heading>0.009998478518941248</heading>
+			<tilt>2.461750675800434</tilt>
+			<range>374.47584909798</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_14</styleUrl>
+		<Point>
+			<coordinates>126.9795635007388,37.50346584958719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진역 1번 출입구</name>
+		<LookAt>
+			<longitude>126.9436136058688</longitude>
+			<latitude>37.51418462043988</latitude>
+			<altitude>0</altitude>
+			<heading>-0.01150836558283863</heading>
+			<tilt>3.327046765576784</tilt>
+			<range>194.6001371326563</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway0</styleUrl>
+		<Point>
+			<coordinates>126.943377903196,37.51394592220293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노들역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9550853373729</longitude>
+			<latitude>37.51311071110475</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004521046748646705</heading>
+			<tilt>3.327804807415239</tilt>
+			<range>235.1021429008798</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9555541393265,37.51301946032643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>동작역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9796857090539</longitude>
+			<latitude>37.50360654180359</latitude>
+			<altitude>0</altitude>
+			<heading>0.01027774700028508</heading>
+			<tilt>13.42323749942397</tilt>
+			<range>190.5809669324334</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9795827459097,37.50336792476966,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>홍릉수목원산책길.kmz</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>홍릉수목원진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.036556683297,37.59046997426672,0 127.0365228446542,37.59129253476488,0 127.041775295332,37.59134365862903,0 127.0427073243607,37.59166335608114,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>홍릉수목원산책길</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0427126991978,37.59165887458386,0 127.0421058103423,37.59185489469829,0 127.0422617520167,37.59199234852486,0 127.0421392570633,37.59209924616666,0 127.042215710275,37.59279046636266,0 127.0428495293182,37.59312062603743,0 127.0433733133452,37.59322441170226,0 127.0435142426475,37.59353019908206,0 127.0439131413293,37.59366791214771,0 127.0436232899099,37.59395760230453,0 127.0432843177632,37.59402857508398,0 127.0430470350499,37.59438807102206,0 127.0437558941609,37.59487468611779,0 127.0442500274711,37.59594879129377,0 127.0441729352979,37.59614502799813,0 127.044261444766,37.59628284027367,0 127.0442193078413,37.59647810743289,0 127.0440224278951,37.59664487146736,0 127.0440334998464,37.5968529765802,0 127.0442334513331,37.5969651338208,0 127.044283655184,37.59716308475298,0 127.0444725696708,37.59727937026876,0 127.0448297886152,37.59701327965836,0 127.0447115135774,37.5966072874503,0 127.0442198298017,37.59648843568746,0 127.0443763450402,37.59626919987719,0 127.0443254749988,37.59607429732218,0 127.0446235938084,37.5964027945334,0 127.0452564643603,37.5957224554809,0 127.0449396727024,37.59533951934087,0 127.0452547312686,37.59515412666162,0 127.0457282652696,37.59522645834318,0 127.0458209114521,37.59489728941178,0 127.0457196284034,37.59458121831575,0 127.0459095574655,37.59449987856241,0 127.046011429228,37.59418600338132,0 127.0457632778913,37.59369711953609,0 127.0449947256675,37.59328166984663,0 127.0450229690867,37.59313200982818,0 127.0447026805165,37.59317219169369,0 127.0444373398541,37.59279028932157,0 127.0441602215371,37.59285175838481,0 127.0439779460291,37.59271863197254,0 127.0437694171512,37.59276190889637,0 127.043557487651,37.59267939368308,0 127.0436527746116,37.59248407177396,0 127.0440369243056,37.59237818801349,0 127.0441300901469,37.59219233328329,0 127.043924300025,37.59224889007027,0 127.0437987863901,37.59199826670226,0 127.0427316005732,37.59175331612538,0 127.0427126991978,37.59165887458386,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>지하철정류장(고려대역3번출입구)</name>
+			<LookAt>
+				<longitude>127.0428320118522</longitude>
+				<latitude>37.59267892093799</latitude>
+				<altitude>0</altitude>
+				<heading>2.409578154575339</heading>
+				<tilt>0</tilt>
+				<range>1481.952816638127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0365154717446,37.59036534430744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍릉수목원 입구</name>
+			<description>홍릉수목원은 명성황후의 능인 홍릉이 있던 자리에 세워진 국내 최초의 수목원으로, 일제강점기 당시 한국의 산림자원을 연구할 목적으로 일제가 1922년부터 전국의 나무들을 모아서 이곳에 심은 것이 시초다. 전체면적은 44만㎡이며 일제강점기 때 수집된 표본들은 한국전쟁 중 대부분 소실되었고, 1960년대 들어서야 수목원 사업을 전개해 지금에 이르고 있다. 
+</description>
+			<LookAt>
+				<longitude>127.0428320118522</longitude>
+				<latitude>37.59267892093799</latitude>
+				<altitude>0</altitude>
+				<heading>2.409578154575339</heading>
+				<tilt>0</tilt>
+				<range>1481.952816638127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.0426935751468,37.59165041487733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>조경인의 숲</name>
+			<description>홍릉수목원 중 가장 안쪽에 자리하고 있는 곳으로 조경회사들이 기증한 최고의 조경수들로 조성되어 있다.
+</description>
+			<LookAt>
+				<longitude>127.0428320118522</longitude>
+				<latitude>37.59267892093799</latitude>
+				<altitude>0</altitude>
+				<heading>2.409578154575339</heading>
+				<tilt>0</tilt>
+				<range>1481.952816638127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.0444637116424,37.59724578790333,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

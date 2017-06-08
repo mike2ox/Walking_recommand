@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>위례길_1코스_사랑길.kml</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>위례길_1코스_사랑길</name>
+		<open>1</open>
+		<Placemark>
+			<name>위례길_1코스_사랑길</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.277538,37.524578,30.38 127.276994,37.524973,30.97 127.276461,37.52544,32.54 127.275896,37.525853,29.33 127.275652,37.525683,36.84 127.27543,37.525907,34.38 127.275019,37.525889,39.79 127.274986,37.526069,35.2 127.274764,37.526096,36.5 127.274321,37.526257,35.89 127.273778,37.526473,33.32 127.272957,37.526553,34.57 127.27258,37.526634,33.56 127.272047,37.526652,32.13 127.271659,37.526706,30 127.271415,37.526913,30 127.271515,37.52738,28.5 127.271381,37.527739,23.84 127.271159,37.527964,22.12 127.270682,37.52817,23.58 127.269706,37.52862,21.65 127.268885,37.528925,22.03 127.268486,37.529042,22.14 127.268164,37.528898,28.23 127.267565,37.529033,28.82 127.267265,37.529248,27.17 127.266533,37.529626,27.15 127.265779,37.529967,25.45 127.265047,37.530317,26.93 127.264658,37.530479,29.42 127.264248,37.53074,30.5 127.263848,37.530991,30.98 127.263693,37.531063,32.15 127.264015,37.531341,20.85 127.263382,37.53171,21.16 127.262739,37.532024,25.45 127.262151,37.53233,26.98 127.261596,37.532527,30.85 127.261119,37.532662,37.41 127.260886,37.532851,37.19 127.260609,37.532959,38.41 127.260731,37.533102,29.91 127.260453,37.533273,29.38 127.260032,37.533444,30.71 127.259677,37.533587,31.96 127.259344,37.533821,31.09 127.258956,37.534028,30.35 127.258812,37.534234,26.11 127.258512,37.534531,21.82 127.258124,37.534638,22.69 127.257935,37.534791,20.5 127.25748,37.534899,20.27 127.256992,37.53507,20.85 127.256493,37.535375,21.41 127.256182,37.535609,20.79 127.255494,37.535824,24.82 127.25515,37.536067,22.43 127.254618,37.536336,21.99 127.254252,37.536723,20 127.253997,37.536777,20 127.253309,37.537289,20 127.25292,37.537361,21.59 127.252588,37.537675,20.17 127.252233,37.537756,21.98 127.252111,37.537855,22 127.251811,37.537522,28.75 127.251423,37.537693,27.91 127.251234,37.537693,29.22 127.250446,37.538124,27.11 127.250147,37.538483,21.73 127.249248,37.538861,20.22 127.248239,37.53913,20.25 127.247096,37.539588,25 127.246219,37.539876,28.16 127.245598,37.540047,29.1 127.244988,37.540163,29.21 127.244267,37.540424,29.39 127.243734,37.540729,29 127.243446,37.540819,29.06 127.243268,37.541035,29 127.243024,37.541116,29 127.242847,37.541008,29.96 127.242503,37.541232,29.67 127.242104,37.541475,29.98 127.241549,37.541664,30 127.241039,37.541879,29 127.240717,37.541753,30.15 127.239485,37.542095,30.09 127.238565,37.542355,29.52 127.238165,37.542598,29 127.238165,37.542589,29 127.237555,37.542841,29 127.237355,37.543254,28.81 127.236468,37.543631,28 127.235758,37.543874,28 127.235292,37.544089,26.79 127.235003,37.544305,25.61 127.234781,37.544314,25.32 127.23426,37.544538,24 127.233738,37.544736,22.92 127.233517,37.544646,22.17 127.233306,37.544314,22.34 127.233162,37.544242,22.05 127.232984,37.54417,22 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>산곡천</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>			
+			<description>시작점</description>
+			<Point>
+				<coordinates>127.232984,37.54417,22</coordinates>
+			</Point>
+		</Placemark>
+				<Placemark>
+			<name>팔당댐</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>			
+			<description>종착점</description>
+			<Point>
+				<coordinates>127.277538,37.524578,30.38</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>기타</name>
+			<Placemark>
+			<name>도미나루</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>			
+			<Point>
+				<coordinates>127.2457785,37.5399513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>중점</name>
+			<description>중점</description>
+			<Point>
+				<coordinates>127.2551508,37.5355274,0</coordinates>
+			</Point>
+		</Placemark>
+		</Folder>
+		
+	</Folder>
+</Document>
+</kml>

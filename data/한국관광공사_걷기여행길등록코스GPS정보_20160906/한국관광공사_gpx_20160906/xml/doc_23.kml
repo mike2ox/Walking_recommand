@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>청룡산나들길.kmz</name>
+		<open>1</open>
+		<StyleMap id="msn_2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_subway">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sn_2">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_4">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_4</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_subway">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_subway</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_subway</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_5">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_5</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_5">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="sn_5">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_4">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_3</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl2">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin00">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_subway">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_3">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sn_3">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_4">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>청룡산나들길</name>
+			<description>서울대입구역3번출입구-숲길입구-청룡산공원-청룡산생태연못-청룡산누수식생태연못-청룡산림욕장</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9508337087347,37.4761681704951,0 126.9511715824189,37.47680224528806,0 126.9509010563721,37.47724537034603,0 126.9504649711007,37.47726471442099,0 126.9501550030025,37.47689120429888,0 126.9500541997493,37.47651192420899,0 126.949571854414,37.4760026370913,0 126.9486556735706,37.47601655008995,0 126.9479282092581,37.47537480553694,0 126.9475888719157,37.47475974878319,0 126.9471022443616,37.47461768264471,0 126.9465013242253,37.47460451297225,0 126.9463108120113,37.47458243129594,0 126.9457244202147,37.47398863122898,0 126.9451349354694,37.47384782494893,0 126.9448696802072,37.47349958261421,0 126.9452609206649,37.47335571768083,0 126.9456793285212,37.47326234998894,0 126.9461334215307,37.47294757146521,0 126.946339329101,37.47263606778107,0 126.9467870798158,37.47236441553443,0 126.9472006588183,37.47191716921682,0 126.9471644872547,37.47189782586374,0 126.9477397768434,37.4717521230734,0 126.9483593754959,37.47156813419154,0 126.9486833168862,37.47163281412047,0 126.9488286523417,37.47134188938956,0 126.9492568157337,37.47124063221812,0 126.9496145658028,37.47094165551257,0 126.9499321054174,37.47088953314317,0 126.9505372483864,37.47058869685128,0 126.9511153313789,37.4704775438607,0 126.9521988005953,37.47082439612159,0 126.9527229145057,37.47218029620503,0 126.9538261684112,37.47242567214654,0 126.9541894795015,37.47219550796074,0 126.9535610203622,37.47025738826218,0 126.95328597992,37.46986485136843,0 126.9537086264631,37.46945115161741,0 126.9545638806537,37.4682847076643,0 126.9554079750098,37.46701664277627,0 126.9559825217736,37.46659059555535,0 126.9563375898428,37.46565364910303,0 126.956046468876,37.46442054251222,0 126.9557165829473,37.46351207146385,0 126.9555337482772,37.46237205460492,0 126.9558675927844,37.46239183517707,0 126.9561225484346,37.46330345982312,0 126.9563675346361,37.46379968309712,0 126.9569500405342,37.46468531205226,0 126.9572733889131,37.46504934231493,0 126.9573752739397,37.46551682673491,0 126.957362650648,37.4660628484748,0 126.9572360670641,37.46636095573488,0 126.9565417529679,37.46686020552503,0 126.9557242919914,37.46843828520267,0 126.95560821556,37.46882531213409,0 126.9555577787372,37.4691705094086,0 126.9550990239713,37.47034923789541,0 126.9559793999052,37.47165997152558,0 126.9552340846827,37.47316208066896,0 126.9539257063289,37.47464753700061,0 126.9538776248726,37.47485146007328,0 126.9533207477707,37.47474689480442,0 126.953066199905,37.47548491587956,0 126.9529883486945,37.47565802737825,0 126.9530595477909,37.47579425413705,0 126.9530164733185,37.47594853188546,0 126.9525514339933,37.47587213714473,0 126.952562285345,37.4756438930239,0 126.9521732451346,37.47544391378329,0 126.9511235848722,37.4753976756997,0 126.9507562638915,37.4754306355434,0 126.9503471551173,37.47499016950232,0 126.9501448196527,37.47445624839218,0 126.950028728429,37.4741904635602,0 126.948466722043,37.47310621038911,0 126.9475641156912,37.47299778919735,0 126.9473552635024,37.47316736307772,0 126.9470449141365,37.47332560118101,0 126.94693573994,37.47335829287746,0 126.9466921093864,37.47345317381176,0 126.9470995695001,37.47347747105187,0 126.9477220959897,37.47367112129646,0 126.9479846674977,37.47371208986093,0 126.9482329150465,37.47396452570094,0 126.9485899998575,37.47400266606886,0 126.9489324686091,37.47429842315681,0 126.9492853349252,37.47459281547397,0 126.9494573527637,37.47467021173817,0 126.9495269026622,37.47484169716551,0 126.949804007779,37.47513264484719,0 126.9501258877352,37.47540095020471,0 126.9503385219319,37.47539906196891,0 126.9507360452007,37.47574004492403,0 126.9507409679558,37.47593700180973,0 126.9508337087347,37.4761681704951,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>숲길입구</name>
+			<LookAt>
+				<longitude>126.951172870048</longitude>
+				<latitude>37.47630542287735</latitude>
+				<altitude>0</altitude>
+				<heading>3.074785135792761e-005</heading>
+				<tilt>0</tilt>
+				<range>204.4657296714855</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.9511554048203,37.47676156739107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청룡산공원</name>
+			<description>소규모 공원에 속하지만, 운동 공간, 텃밭, 장애인가든 등 다양한 주민들이 함께 즐길 수 있다.</description>
+			<LookAt>
+				<longitude>126.951172870048</longitude>
+				<latitude>37.47630542287735</latitude>
+				<altitude>0</altitude>
+				<heading>3.074785135792761e-005</heading>
+				<tilt>0</tilt>
+				<range>204.4657296714855</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9509022374817,37.47628087695248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청룡산생태연못</name>
+			<LookAt>
+				<longitude>126.950956656981</longitude>
+				<latitude>37.47600939310189</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001008032061133929</heading>
+				<tilt>0</tilt>
+				<range>204.0434660144808</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9507354456772,37.47583260912092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청룡산누수식생태연못</name>
+			<description>관악산내 관음사계곡의 단차를 이용하여 조성한 곳으로 강우 시 유속을 완화하고, 건조기에 계곡수의 저류로 개구리 등 생물들이 서식공간으로 활용하여 생물 다양성 증진 등 생태계 보전 및 회복을 위한 공간이다.</description>
+			<LookAt>
+				<longitude>126.9488851838323</longitude>
+				<latitude>37.47460071326126</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001361111909464695</heading>
+				<tilt>0</tilt>
+				<range>339.4088339188673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9487959658659,37.4741636745319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청룡산림욕장</name>
+			<description>울창한 숲을 이루는 청룡산의 구간을 살려 사람들이 이용할 수 있는 산림욕장 코스이다.</description>
+			<LookAt>
+				<longitude>126.9492044848858</longitude>
+				<latitude>37.47157253091954</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001166844246151285</heading>
+				<tilt>0</tilt>
+				<range>563.6836783294399</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>126.9493212364767,37.47118133148654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9511810154841,37.47699486195022,0 126.9515007303862,37.47724947034418,0 126.9514044061398,37.47866518099511,0 126.9523019127585,37.47859941505063,0 126.9526887864547,37.48129559881925,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>서울대입구역 3번 출입구</name>
+			<LookAt>
+				<longitude>126.952667792922</longitude>
+				<latitude>37.47800772208461</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009402903624226174</heading>
+				<tilt>0</tilt>
+				<range>904.7861699583829</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.952674833117,37.48122841599027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원연계부</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9552228966903,37.4732235730079,0 126.9577022322424,37.47261126948297,0 126.9582184552811,37.47291495384261,0 126.9582693383344,37.47291486186926,0 126.9587298696024,37.47280486641035,0 126.9585036735478,37.47230899087294,0 126.9583503870226,37.47240927327599,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>관악영어마을</name>
+			<LookAt>
+				<longitude>126.9563350436608</longitude>
+				<latitude>37.47306304725194</latitude>
+				<altitude>0</altitude>
+				<heading>0.003171237515036395</heading>
+				<tilt>0</tilt>
+				<range>965.71547573418</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>126.9582869016986,37.47240964207293,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

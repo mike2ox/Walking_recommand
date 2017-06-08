@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>우포늪 생태탐방로 1코스</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon5730">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon5755">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon5710">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon5700">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon5745">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_A1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon5724">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_A6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5718">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5750</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5753</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5725">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon574">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon5728">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon5790">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5736</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5733</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon577">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon570</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon576</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5770">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5728</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5727</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5733">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5739">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon577">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon570">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon5734">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5730">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5726</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5724</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon576">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5726">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon572">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon5711">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5750">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_A1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_icon5754">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5713</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5711</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_A0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_icon572">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon573</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon575</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5711">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5724</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5722</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5713">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon571</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon574">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon5722">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon573">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon578">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5738</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5736</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5749">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon570">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon571</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5738">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5745">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5745</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5743</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon576">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5729</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5745</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon577</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon570</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5755">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon572</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5722">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5749</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5752</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5717">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5734">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon5713">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_A">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon5728">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon571">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon579</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon579</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5710">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_A5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon575">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5734</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5732</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon578">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon5738">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon5740">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5734</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon572">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon576">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_A">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon578">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_A2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_A12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_icon5736">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_A0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5724">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_icon573">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5736">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5725</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5723</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon570">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon5749">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5755</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon578</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon571">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon5753">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5716">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon57">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon574">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5730</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5728</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5745">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_icon5752">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5748</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5751</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5744">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5716</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon577">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5752">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon573">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon572</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_A12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_A3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5760">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon57">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon5727">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5729">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon575</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5760</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon579">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon576</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon577</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon575">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_A5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon5729">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5751">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_A11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_icon5738">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon578</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5717</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon5711">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_A5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon579">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_A0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon575">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5710</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon574</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_A2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon5720">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon5739</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon5738</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5736">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5748">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon5723">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_A20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_A00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/A-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon571">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_A1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_A1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon579">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon5743">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon5712">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon574</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon573</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon5732">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon5700">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>우포늪 생태탐방로 1코스</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				128.418017571007,35.54387813570634,0 128.418108852112,35.54400692943723,0 128.418210610421,35.54410245543245,0 128.4183630454486,35.54419781906431,0 128.4183551255898,35.54432569708651,0 128.4182900088054,35.54441152544518,0 128.4182430161933,35.54448863180574,0 128.4182011532265,35.5445721015448,0 128.4181378802434,35.54464803334548,0 128.4180512953917,35.54467306201742,0 128.4180258741721,35.5447640428817,0 128.4180769101279,35.54505344191752,0 128.4181378760099,35.54528510933488,0 128.4181986822889,35.54543801762915,0 128.4182552205734,35.54561954360209,0 128.4183270821326,35.54564150624651,0 128.4183584756801,35.54567849975875,0 128.418405648925,35.54573211749798,0 128.4184631608615,35.54579012030664,0 128.4184842991847,35.54582337040299,0 128.4184644373804,35.54588171764338,0 128.4185007879714,35.54589005347157,0 128.4185272890041,35.54596945272397,0 128.4185383495411,35.54603227399657,0 128.4185337206504,35.5460616620754,0 128.4185392289866,35.54609105243136,0 128.4185953503514,35.54611605983317,0 128.4186030101709,35.54615604373547,0 128.4185962535299,35.54619062071452,0 128.4186238813518,35.54625331918174,0 128.4186624291872,35.54628773526688,0 128.4186987452301,35.54636039957292,0 128.4187542053715,35.54643946982081,0 128.4187895693004,35.5464805907199,0 128.418782176078,35.54659348303616,0 128.4188339326272,35.5466689882142,0 128.4188329118221,35.5467605435052,0 128.4188742779404,35.54686202621006,0 128.4189077998934,35.546954390354,0 128.4189006835207,35.54699264901718,0 128.4190130642315,35.54708133949976,0 128.4190835680728,35.54718618419546,0 128.4191075055179,35.54724671089188,0 128.4190892428512,35.54729807384891,0 128.419120918692,35.54736185020767,0 128.4191641965507,35.54743195282391,0 128.4191612465414,35.54748225576164,0 128.4191852688904,35.54754278275764,0 128.4191708526757,35.54759389610323,0 128.4191681938136,35.54766104941983,0 128.4191953038129,35.54768331018039,0 128.4191628063364,35.5477925010111,0 128.4191257287871,35.54787312991081,0 128.4191344665162,35.54793426698251,0 128.4191205452617,35.54800266305914,0 128.419194090461,35.54804660212474,0 128.4192063116081,35.54809805137855,0 128.4191959972371,35.54815651135991,0 128.4191970089144,35.54821481548009,0 128.4192205936546,35.54826612109258,0 128.4192327962792,35.54831508191505,0 128.4192620065121,35.54837948369784,0 128.4193416126792,35.54846314250276,0 128.4194060554568,35.54854698979878,0 128.4194359099575,35.54865375137345,0 128.4194877456088,35.548708622212,0 128.419636295281,35.5487696924213,0 128.4197816793797,35.54887579122784,0 128.4199711824963,35.54894587143349,0 128.420108832947,35.54900033090948,0 128.4203656079238,35.54903113123333,0 128.4204347570586,35.54906278832447,0 128.4205956960466,35.54908444126711,0 128.4207147476062,35.5490847131287,0 128.420830000838,35.54908497654908,0 128.420870722956,35.54911075083157,0 128.4207921699197,35.549139460424,0 128.4207405754786,35.54914253672673,0 128.4208043561737,35.54925859466578,0 128.4209964293769,35.54956959130112,0 128.4211823039113,35.54993747109122,0 128.4214618721428,35.55044942602856,0 128.4218415185816,35.55108524868192,0 128.4223318894451,35.55186677511482,0 128.4228711358015,35.55280308899598,0 128.4233109211257,35.55351772628995,0 128.4236927475163,35.55418868409872,0 128.4240309504611,35.5546435797994,0 128.4242919051795,35.55490491316125,0 128.4245251713345,35.55508211950275,0 128.4247204489395,35.55524797439224,0 128.4250820409653,35.55532239012516,0 128.42531253967,35.55538706107246,0 128.4255830801562,35.55542922697251,0 128.4258815096642,35.55544859481234,0 128.4260681634276,35.55545505087763,0 128.4263839355645,35.5554101652014,0 128.4266227066269,35.55535546963773,0 128.426909836112,35.55522972339639,0 128.4271581662496,35.55507798410734,0 128.4275276154541,35.55485105390418,0 128.4277534803538,35.55467941469571,0 128.4283118032348,35.55431057281929,0 128.4286370826549,35.55405525133552,0 128.4290290045534,35.55382342425459,0 128.4292372573222,35.55373674341104,0 128.4293706072246,35.55375236359839,0 128.429410835794,35.55377825618442,0 128.4292705639293,35.55392710000331,0 128.4291681110034,35.55407533069695,0 128.429461030187,35.55438239573338,0 128.4297312210775,35.55471513420549,0 128.4298074241531,35.55491691715835,0 128.4299083616797,35.5551409657653,0 128.4299158465128,35.55516335324364,0 128.429845037927,35.55523037205597,0 128.4294975023249,35.55562187807218,0 128.4292178808846,35.55599376541446,0 128.4291991936439,35.55607665833411,0 128.4292515171012,35.55630385191958,0 128.4295332472076,35.55684584019182,0 128.4297120336072,35.55712314661638,0 128.4297497647264,35.55734125429742,0 128.4297309432437,35.55755236668601,0 128.4293167055572,35.55785835255624,0 128.4289662054488,35.55811612695848,0 128.4282527604455,35.55847459110356,0 128.4274935918163,35.55886149909727,0 128.4270322723425,35.55909041360144,0 128.4269967285867,35.55917099494791,0 128.4270206633908,35.55928373643147,0 128.4269812294509,35.55939318606024,0 128.4269141109189,35.55949934751906,0 128.4268670050588,35.55970182066002,0 128.4269070618958,35.5600175229529,0 128.4269621173585,35.56028464503131,0 128.4269864855307,35.56043527357221,0 128.4270332370994,35.56055448741866,0 128.4270412206672,35.56069925958833,0 128.4270019269764,35.56087923737991,0 128.4269467710222,35.56091446819714,0 128.4267787883072,35.56101022399225,0 128.4266806646922,35.56099771687727,0 128.4264942246151,35.56100241160115,0 128.4262387069483,35.56098828802359,0 128.4261583168458,35.56098891071617,0 128.4260802824721,35.56098583234599,0 128.4259896829172,35.56093149190915,0 128.4258870881757,35.56089621665029,0 128.4257298265832,35.56091854480572,0 128.425297876509,35.56123777624595,0 128.4251150951769,35.56133986266684,0 128.4249416207404,35.56139481113303,0 128.4246595596403,35.56125357194163,0 128.4245995956943,35.5610962894484,0 128.4244827877607,35.56103330266721,0 128.4241350347965,35.56141788270263,0 128.4238261234501,35.56171392518759,0 128.4237140299981,35.56180696859807,0 128.4233415814949,35.56183573400936,0 128.4230454111635,35.56191913437154,0 128.4229883582386,35.56201220182505,0 128.4225977637508,35.56275296522544,0 128.4225317494019,35.56287700303967,0 128.4224346855203,35.56290874024758,0 128.4222771664639,35.56285611657356,0 128.422177659411,35.56277968019963,0 128.4220499826245,35.56269505473363,0 128.4217892519383,35.56260988692338,0 128.4214710640852,35.5625167653312,0 128.4210951576415,35.56239234302249,0 128.4205597820183,35.56223158844898,0 128.4199951496342,35.56213157646384,0 128.4197193421202,35.56217227940375,0 128.4193587650431,35.56233283288739,0 128.4191393417384,35.56242122728382,0 128.4186596936554,35.56247763826496,0 128.4184527099666,35.56253372927387,0 128.4183276837161,35.56253342953919,0 128.418133756057,35.56245342049606,0 128.4176041238776,35.56214474395748,0 128.4171652179504,35.56177471745395,0 128.4166791950577,35.56110429438235,0 128.4163288224281,35.56050569719523,0 128.4160519133766,35.56021517383642,0 128.4158133477698,35.55998018469589,0 128.4152856191888,35.55980846734974,0 128.4145139961445,35.55978508697362,0 128.4136063704904,35.55988039728378,0 128.4132122434166,35.55993589779424,0 128.4128408398842,35.56010213588275,0 128.4125328113019,35.56026125785881,0 128.4126930403787,35.56027608097335,0 128.4122849218903,35.56040989659262,0 128.4121493797774,35.56046428091768,0 128.4120822145871,35.56046427749085,0 128.4119725704857,35.5602382873598,0 128.4119361260576,35.56007423919912,0 128.4119340675468,35.55976953199277,0 128.4118850858189,35.55955132386224,0 128.411779255532,35.55935727257461,0 128.4115863283944,35.55917170151966,0 128.4114253968107,35.55867851469839,0 128.4112527409355,35.55856407936627,0 128.4111898144894,35.55819766836319,0 128.4110759725498,35.5579468940967,0 128.4109369421946,35.55751445670436,0 128.411038277084,35.55730719709849,0 128.411137847442,35.55710652299818,0 128.4112107478863,35.55685265267365,0 128.4111300076316,35.55665581467801,0 128.411032762799,35.55657523856144,0 128.4107896749987,35.55648416375209,0 128.4105661207221,35.55644176302836,0 128.410419965975,35.55643135493192,0 128.4102051039762,35.55639662529604,0 128.41003174614,35.55633465094899,0 128.4098478192636,35.55624900460036,0 128.4096051533788,35.5560164663599,0 128.409451179969,35.55585394688747,0 128.4091913654069,35.5557909730108,0 128.4089705048991,35.5557823640817,0 128.4087919424584,35.55580596621547,0 128.4084874667249,35.55577985395343,0 128.4082783657345,35.55565614843282,0 128.4080575055068,35.55542655045324,0 128.4079135327105,35.55523626044138,0 128.4078098088111,35.55495893030384,0 128.4077400452271,35.55469538398835,0 128.4076280076892,35.55452996103368,0 128.4074822104114,35.5544589226816,0 128.4073462916786,35.55439927913199,0 128.4072033465222,35.55421227514224,0 128.407016789393,35.55404678258812,0 128.4067745508219,35.55364546395185,0 128.406357552036,35.55352436521473,0 128.4063469686597,35.55346877379144,0 128.4060880129509,35.5534966897084,0 128.4056528230112,35.55347260259909,0 128.4040130979284,35.55350535637027,0 128.4030395449651,35.55350013956736,0 128.4030255450252,35.55318769536105,0 128.4029645857876,35.5529191937136,0 128.4028270728805,35.55268983002448,0 128.4026038117092,35.55235829465863,0 128.4024435045413,35.55206896668141,0 128.4024632639542,35.55181717459237,0 128.4025053554543,35.55132499107865,0 128.4027305952663,35.55086742540127,0 128.4029144967702,35.55060341765152,0 128.4031847214977,35.55022798047547,0 128.4033047659394,35.55025264373061,0 128.403418951592,35.55028903063142,0 128.403534756043,35.55033579571087,0 128.4037669086245,35.55020064772004,0 128.4039906309019,35.54980646355307,0 128.4045432109249,35.54900550576321,0 128.4048251598355,35.54849029706316,0 128.4051270591717,35.54790323843156,0 128.4053992024624,35.54740681192343,0 128.4054971463913,35.54711595015732,0 128.4055456961462,35.54694760477261,0 128.4055362115532,35.54667816400596,0 128.4055852383049,35.54632129781682,0 128.4056426585706,35.54597432609767,0 128.40583352847,35.54546680484697,0 128.4059822397764,35.54509284685097,0 128.4059982433251,35.54495843997939,0 128.4062104561594,35.5450428110678,0 128.4068958599738,35.54521960670828,0 128.4074806109545,35.54537902888205,0 128.4080707900919,35.54566389114284,0 128.4084138627797,35.5458268042748,0 128.4088869677975,35.54596812515934,0 128.4095015994516,35.54619752075453,0 128.4099445412585,35.54643597150788,0 128.4102949137575,35.5466330317935,0 128.4107333334146,35.54683037493316,0 128.4109381660907,35.54692520732002,0 128.411022891626,35.54683071924109,0 128.4116155223289,35.54729595651453,0 128.4116723218077,35.54742922013098,0 128.4118951697465,35.54763959706986,0 128.4122592008462,35.54789740226247,0 128.4125680884569,35.54808539264896,0 128.4128326484129,35.54827453259227,0 128.4130755888559,35.54840053055283,0 128.4132951033483,35.54851260594539,0 128.4136816581946,35.5485834686856,0 128.4137991991428,35.54860754794132,0 128.4139170158439,35.54863170120523,0 128.4141110660743,35.54861626270801,0 128.4144340625563,35.54849711734372,0 128.4146898616364,35.5484176057677,0 128.4151455676966,35.54844227729473,0 128.4153366678848,35.54866911014759,0 128.4155176651478,35.54886420674905,0 128.4156966839378,35.5489641882786,0 128.4159567513434,35.54905825290511,0 128.4161716597463,35.54913019709093,0 128.416400829569,35.54913713413643,0 128.4166838090944,35.5490837971096,0 128.4168651119203,35.54898120086316,0 128.4175308126676,35.54877262792633,0 128.4179671034605,35.54832724769783,0 128.4180372367901,35.54815454472705,0 128.4182413637637,35.54806160518782,0 128.4182475392667,35.54787198084247,0 128.4181225073573,35.54769785518464,0 128.4179369422523,35.54750048472798,0 128.4178449550811,35.54739033188419,0 128.417790900915,35.54720980010539,0 128.4178401820676,35.5470843549186,0 128.4180094536799,35.54701365367287,0 128.4182211961756,35.54684102298116,0 128.4183405465954,35.54669236656525,0 128.4183310292368,35.54656781200492,0 128.4182573906808,35.54638970626507,0 128.418132685254,35.54618190109623,0 128.4181220095422,35.54602039426614,0 128.4182038152846,35.54590465918903,0 128.4182204012413,35.54569211925681,0 128.4182508607544,35.54562677286941,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

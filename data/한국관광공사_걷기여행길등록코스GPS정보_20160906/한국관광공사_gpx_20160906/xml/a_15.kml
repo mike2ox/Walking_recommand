@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>중원문화길 1코스.kml</name>
+	<Style id="waypoint34">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint31">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint59">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint55">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint14">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint38">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint19">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint13">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint49">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint24">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint32">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint62">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint33">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint27">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint58">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint21">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint52">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint48">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="waypoint20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="waypoint60">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint29">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint42">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint46">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>중원문화길 1코스</name>
+		<open>1</open>
+		<Placemark>
+			<name>1코스 중원문화길</name>
+			<styleUrl>#stylemap_id10</styleUrl>
+			<LineString>
+				<coordinates>
+					127.8996550228122,36.9873499849027,0 127.8998274,36.9873921,0 127.9002925,36.9874301,0 127.9005781,36.9875736,0 127.9009609,36.9877154,0 127.9015952,36.9880392,0 127.9020262,36.9881632,0 127.9020741,36.9881728,0 127.9025755,36.9883073,0 127.9025444,36.9884712,0 127.902626,36.9887041,0 127.9026824,36.989059,0 127.9027657,36.9891701,0 127.9029361,36.989121,0 127.9031106,36.989254,0 127.9032501,36.9893982,0 127.9035162,36.9893119,0 127.9037042,36.9896495,0 127.9044016,36.9908932,0 127.905028,36.9919133,0 127.9059443,36.9928355,0 127.9075417,36.9943307,0 127.9097401,36.9962787,0 127.9106067,36.9970753,0 127.9117723,36.9981756,0 127.9126021,36.9991184,0 127.9147396,37.003897,0 127.9147783,37.005469,0 127.9149906,37.0070891,0 127.9147921,37.0086051,0 127.914983,37.0097767,0 127.9154406,37.0111664,0 127.9160869,37.0133203,0 127.9163209,37.0141791,0 127.9167722,37.0148972,0 127.9176229,37.0155359,0 127.9176356,37.0155559,0 127.9186008,37.0162316,0 127.9192794,37.0166966,0 127.9197393,37.0173956,0 127.9199397,37.017328,0 127.9199402,37.0171212,0 127.9200029,37.0170139,0 127.9200648,37.0172009,0 127.9200393,37.0174272,0 127.9199888,37.0176342,0 127.9189695,37.0193067,0 127.9178051,37.0210069,0 127.9177631,37.0211613,0 127.9184538,37.0215628,0 127.9199492,37.0223172,0 127.920967,37.0226721,0 127.9216079,37.0227557,0 127.9216331,37.0227559,0 127.922176,37.022712,0 127.9228983,37.0228903,0 127.924061,37.0229959,0 127.9255429,37.0229992,0 127.927657,37.0230493,0 127.9290838,37.0231769,0 127.9304082,37.0231652,0 127.9317595,37.023165,0 127.9322464,37.0231444,0 127.9343761,37.023062,0 127.9359747,37.0230495,0 127.9380885,37.023123,0 127.9410207,37.0231308,0 127.9424447,37.0231188,0 127.9442234,37.0231002,0 127.9466351,37.0230776,0 127.9481517,37.0230857,0 127.9481893,37.0230856,0 127.9495782,37.0233405,0 127.9509552,37.0237019,0 127.9516948,37.0240705,0 127.9518332,37.0245817,0 127.9517172,37.0247727,0 127.9517856,37.0248741,0 127.9518442969142,37.02511413625183,0 127.9521036,37.0252541,0 127.9521387,37.0252623,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>웨이포인트</name>
+			<Placemark>
+				<name>약수터(충주세계무술공원)</name>
+				<description>2013-04-18 3:21:48PM</description>
+				<styleUrl>#waypoint11</styleUrl>
+				<Point>
+					<coordinates>127.9041192,36.9889173,77.03088</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1코스 시작점-자연생태체험관(화장실, 음수대)</name>
+				<description>2013-04-18 2:34:32PM</description>
+				<styleUrl>#waypoint43</styleUrl>
+				<Point>
+					<coordinates>127.9520989459559,37.02523909262818,93.37305000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>시설1(조정경기장)</name>
+				<description>2013-04-18 4:00:58PM</description>
+				<styleUrl>#waypoint67</styleUrl>
+				<Point>
+					<coordinates>127.8671988,37.0109337,79.19373</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>문하재1 중원중앙탑</name>
+				<description>2013-04-18 4:08:42PM</description>
+				<styleUrl>#waypoint0</styleUrl>
+				<Point>
+					<coordinates>127.8667676,37.0156952,72.70483</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>시설2 충주문화원</name>
+				<description>2013-04-18 3:32:54PM</description>
+				<styleUrl>#waypoint41</styleUrl>
+				<Point>
+					<coordinates>127.8980332,36.9871909,109.7155</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>관광지1 충주세계무술공원(자전거대여소)</name>
+				<description>2013-04-18 3:17:43PM</description>
+				<styleUrl>#waypoint70</styleUrl>
+				<Point>
+					<coordinates>127.9045746,36.987411,74.62744000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>관광지2 탄금대</name>
+				<styleUrl>#waypoint17</styleUrl>
+				<Point>
+					<coordinates>127.9004474,36.9894852,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실(음수대)</name>
+				<description>2013-04-18 4:04:49PM</description>
+				<styleUrl>#waypoint13</styleUrl>
+				<Point>
+					<coordinates>127.8673753,37.0145976,74.8678</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실1(강변공원 내)</name>
+				<description>2013-04-18 2:43:10PM</description>
+				<styleUrl>#waypoint35</styleUrl>
+				<Point>
+					<coordinates>127.9340755,37.02333,80.15503</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실2(강변공원 내)</name>
+				<description>2013-04-18 2:51:23PM</description>
+				<styleUrl>#waypoint71</styleUrl>
+				<Point>
+					<coordinates>127.9163823,37.0140397,82.07764</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실3(강변공원 내)</name>
+				<description>2013-04-18 2:54:13PM</description>
+				<styleUrl>#waypoint12</styleUrl>
+				<Point>
+					<coordinates>127.9151673,37.0096799,78.95349</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실4(충주세계무술공원)</name>
+				<description>2013-04-18 3:20:38PM</description>
+				<styleUrl>#waypoint47</styleUrl>
+				<Point>
+					<coordinates>127.9054546,36.9887583,75.34839</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실5(탄금대)</name>
+				<description>2013-04-18 3:27:26PM</description>
+				<styleUrl>#waypoint37</styleUrl>
+				<Point>
+					<coordinates>127.9026268,36.9883197,108.754</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실6(탄금대)</name>
+				<description>2013-04-18 3:36:12PM</description>
+				<styleUrl>#waypoint5</styleUrl>
+				<Point>
+					<coordinates>127.8971743,36.9868771,106.3507</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>유적지(조동리선사유적박물관)</name>
+				<description>2013-04-18 2:31:57PM</description>
+				<styleUrl>#waypoint51</styleUrl>
+				<Point>
+					<coordinates>127.961453,37.0262345,76.06946000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1코스 종점(탄금대 주차장)</name>
+				<LookAt>
+					<longitude>127.9003751297623</longitude>
+					<latitude>36.98863472792079</latitude>
+					<altitude>0</altitude>
+					<heading>-3.045767991552637</heading>
+					<tilt>22.72346251720686</tilt>
+					<range>600.8217282538783</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>127.8996863568285,36.98733348080958,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

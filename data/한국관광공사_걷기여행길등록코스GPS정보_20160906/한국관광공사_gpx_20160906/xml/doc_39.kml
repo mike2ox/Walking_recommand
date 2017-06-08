@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>홍대예술의거리 나들길.kmz</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_9">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>홍대예술의거리 나들길</name>
+			<description>광흥창역에서 시작하는 이 길은 자연과 젊음을 동시에 만끽할 수 있는 길이다. 시작부터 마포의 역사가 서린 공민왕 사당을 만난 후 와우산 산책을 하고, 지칠 때 즈음 와우산 약수터에서 시원한 물 한 잔을 할 수 있다. 산에서 내려오면 홍대 어린이공원, 걷고 싶은 거리, 피카소 거리 등 신선하고 충격적인 문화 속 산책을 하게 된다.</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9230304750012,37.54791188931159,0 126.9231277702549,37.5500332186819,0 126.9242232211796,37.55056578936527,0 126.9242171080506,37.55116788211913,0 126.9242886072937,37.55228142127593,0 126.9238825341578,37.55178867896442,0 126.9235323603968,37.55200118841497,0 126.92365465336,37.55231219072742,0 126.9242641089153,37.55292530996032,0 126.9226089572717,37.55447579064473,0 126.9244160897559,37.55590431916279,0 126.9246455809645,37.5557962094794,0 126.9262491175786,37.55641398540001,0 126.9299526787387,37.55438467040433,0 126.9297872896939,37.55382074257202,0 126.929990957114,37.55334602023085,0 126.9288752080582,37.55285419038312,0 126.9284606695611,37.55230508321895,0 126.9280049544975,37.55200962167091,0 126.9281386445205,37.55190260388812,0 126.9283410811428,37.55202622861087,0 126.9284685637562,37.55192307770989,0 126.9285995750433,37.55193198380842,0 126.9288803113025,37.5520591846314,0 126.9288483277305,37.55219585211763,0 126.9294249488099,37.55252000079172,0 126.9295962016148,37.55242880693162,0 126.9300017930259,37.55254891312533,0 126.9301305827774,37.55245718902501,0 126.9307273969844,37.55246825483217,0 126.930930293122,37.55234479801174,0 126.9309835210923,37.55214181430969,0 126.9308733042175,37.5519632196815,0 126.9299923299941,37.55161339846055,0 126.9294828200166,37.55094386629291,0 126.929091595795,37.55080229920489,0 126.9287212301437,37.55071487283616,0 126.9284173611711,37.55070106689801,0 126.9281366745767,37.55042840156959,0 126.9279554294044,37.55047119822164,0 126.9275204694896,37.54983948545391,0 126.9276016887042,37.5497324447991,0 126.9274808398262,37.54956023212232,0 126.9280243111935,37.54903166436677,0 126.9284019337933,37.54865058635112,0 126.928309347769,37.54845946139292,0 126.9285038367121,37.54828681699864,0 126.9283984918617,37.54818069316634,0 126.9279234499548,37.54814958311953,0 126.9280717783813,37.54775034749508,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9280784961057,37.54775370717141,0 126.9311143898973,37.54764971869288,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로2</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9262436875594,37.55641090290784,0 126.9272582638708,37.5565637167299,0 126.9273149495775,37.55685154807791,0 126.9273838112511,37.5568862151879,0 126.9274041533293,37.55699057478976,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로3</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9237143640854,37.55534913385976,0 126.9226140096294,37.55627104663132,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>공민왕 사당(보호수)</name>
+			<description>등록문화재 제 231호로 지정되어있으며, 마포문화원에서 관리하고 있다. 조선시대 초 공민왕께 당을 짓고 매년 제사를 지내기 위함으로 지어졌다고 한다. 주위 서울특별시 지정보호수 제48호인 느티나무 5그루가 남아있다.</description>
+			<LookAt>
+				<longitude>126.928055976551</longitude>
+				<latitude>37.55075635655939</latitude>
+				<altitude>0</altitude>
+				<heading>10.75935167090301</heading>
+				<tilt>5.634271472876135</tilt>
+				<range>1490.037849180016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.9283771210771,37.54841274053809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>와우산 약수터</name>
+			<description>마포구 서강동 뒷산으로 서교동까지 걸쳐 있는 산이며, 소가 누운 것처럼 생겼다고 한 데서 유래된 와우산으로 중간 약수터이다. 주민들이 산책길에 쉬어 갈 수 있는 공간이다.</description>
+			<LookAt>
+				<longitude>126.928055976551</longitude>
+				<latitude>37.55075635655939</latitude>
+				<altitude>0</altitude>
+				<heading>10.75935167090301</heading>
+				<tilt>5.634271472876135</tilt>
+				<range>1490.037849180016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9274876445989,37.54954560356422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>와우공원</name>
+			<description>와우산 내에 자리하고 있는 근린공원으로 아기자기하게 꾸며져 있다. 근린공원 계단이 주민들에게 아름다운 풍경으로 알려져 있고, 정자와 쉼터가 있다.</description>
+			<LookAt>
+				<longitude>126.928055976551</longitude>
+				<latitude>37.55075635655939</latitude>
+				<altitude>0</altitude>
+				<heading>10.75935167090301</heading>
+				<tilt>5.634271472876135</tilt>
+				<range>1490.037849180016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9291738695476,37.55157481413858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>근현대디자인박물관</name>
+			<description>우리나라 최초의 국기 관련 자료를 비롯해서 최초 신문들의 창간호 일제시대의 디자인 흔적들 광복 후의 디자인 제품들 등 한국 디자인의 역사적 흐름을 한 눈에 볼 수 있는 곳이다.</description>
+			<LookAt>
+				<longitude>126.9281488588998</longitude>
+				<latitude>37.55411755200122</latitude>
+				<altitude>0</altitude>
+				<heading>10.75940670111979</heading>
+				<tilt>5.635542689224129</tilt>
+				<range>2257.881469225413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9294072321693,37.55305249827049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>이팝나무가로수길</name>
+			<LookAt>
+				<longitude>126.9281488588998</longitude>
+				<latitude>37.55411755200122</latitude>
+				<altitude>0</altitude>
+				<heading>10.75940670111979</heading>
+				<tilt>5.635542689224129</tilt>
+				<range>2257.881469225413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>126.9282412030019,37.55530861418027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍대 걷고싶은길</name>
+			<description>젊은이의 거리로 알려진 홍대 걷고 싶은 거리는 홍대 거리문화, 홍대 벽화거리, 홍대패션, 홍대카페 등 홍대를 대표하는 거리이며 볼거리와 먹을거리 등이 다양해 연인, 친구들과의 데이트 코스로 유명하다.</description>
+			<LookAt>
+				<longitude>126.9281488588998</longitude>
+				<latitude>37.55411755200122</latitude>
+				<altitude>0</altitude>
+				<heading>10.75940670111979</heading>
+				<tilt>5.635542689224129</tilt>
+				<range>2257.881469225413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_6</styleUrl>
+			<Point>
+				<coordinates>126.9235097117366,37.55521842576058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍대앞 &quot;서교로 디자인 서울거리&quot;</name>
+			<description>1.75km 왕복 6차선 도로이며 홍익대학교에서 성산로에 이르는 도로이다.</description>
+			<LookAt>
+				<longitude>126.9281488588998</longitude>
+				<latitude>37.55411755200122</latitude>
+				<altitude>0</altitude>
+				<heading>10.75940670111979</heading>
+				<tilt>5.635542689224129</tilt>
+				<range>2257.881469225413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_7</styleUrl>
+			<Point>
+				<coordinates>126.9233423836956,37.55373519688536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍익어린이공원</name>
+			<description>토요일 예술시장이 열리는 곳이기도 하며, 홍대에서 다양한 시장이나 문화공연이 열리는 곳으로 유명하다.</description>
+			<LookAt>
+				<longitude>126.928892252609</longitude>
+				<latitude>37.54925422159007</latitude>
+				<altitude>0</altitude>
+				<heading>10.75985962817631</heading>
+				<tilt>5.635530858867668</tilt>
+				<range>2244.47045872408</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_8</styleUrl>
+			<Point>
+				<coordinates>126.9236429441539,37.55230813335084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍대피카소거리</name>
+			<description>홍대거리 코스 중 하나이며 거리의 모든 건물 벽이 스케치북이 되어 그림이나 낙서가 되어있는 거리로 젊은이들에게 인기가 많다.</description>
+			<LookAt>
+				<longitude>126.928892252609</longitude>
+				<latitude>37.54925422159007</latitude>
+				<altitude>0</altitude>
+				<heading>10.75985962817631</heading>
+				<tilt>5.635530858867668</tilt>
+				<range>2244.47045872408</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_9</styleUrl>
+			<Point>
+				<coordinates>126.924253426805,37.55055978371578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>광흥창역 1번 출입구</name>
+			<LookAt>
+				<longitude>126.9316949821428</longitude>
+				<latitude>37.54855107475459</latitude>
+				<altitude>0</altitude>
+				<heading>10.75943037252902</heading>
+				<tilt>24.96201870014978</tilt>
+				<range>766.0343603691218</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9311963604771,37.54762125079043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍대입구역 7번 출구</name>
+			<LookAt>
+				<longitude>126.9291145889856</longitude>
+				<latitude>37.55557113365784</latitude>
+				<altitude>0</altitude>
+				<heading>10.75947259442261</heading>
+				<tilt>9.223543034374373</tilt>
+				<range>624.4771483120726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9274995211,37.5569899756324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍대입구역 9번 출구</name>
+			<LookAt>
+				<longitude>126.9235672602361</longitude>
+				<latitude>37.55544191998931</latitude>
+				<altitude>0</altitude>
+				<heading>10.75304258918226</heading>
+				<tilt>9.241814864075311</tilt>
+				<range>417.4182876926409</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.922611752401,37.55627870907244,58.43084288847427</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상수역 2번 출입구</name>
+			<LookAt>
+				<longitude>126.9240506850646</longitude>
+				<latitude>37.54837858632833</latitude>
+				<altitude>0</altitude>
+				<heading>10.75340793332507</heading>
+				<tilt>27.53355468743246</tilt>
+				<range>390.6570682269513</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9230833131967,37.54787070102044,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>문화자원연계부</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9288894589426,37.54987736490618,0 126.9286726531967,37.54977824938614,0 126.9284478270389,37.54977735026888,0 126.9277672245253,37.55002266822653,0 126.9275513995837,37.54988750540879,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>부군당</name>
+		<LookAt>
+			<longitude>126.9288716471195</longitude>
+			<latitude>37.55012354780822</latitude>
+			<altitude>0</altitude>
+			<heading>7.063493458420384</heading>
+			<tilt>0</tilt>
+			<range>167.4445859372158</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9288940910886,37.54987786398379,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

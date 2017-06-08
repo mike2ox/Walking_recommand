@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>보라매공원 산책길.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>보라매공원 산책길</name>
+		<description>보라매공원호수-인공암벽등반장-보라매공원후문</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9193136547703,37.49357615129377,0 126.9199804348762,37.49345676506951,0 126.9204398108703,37.49339060353342,0 126.9208548374513,37.49328471055294,0 126.9214921333537,37.49320125659948,0 126.921812941977,37.4931489836265,0 126.9221352119489,37.4931265607156,0 126.9222926407172,37.49307971322229,0 126.9224836485053,37.49287348906336,0 126.9225753640168,37.4928932457827,0 126.9227543109351,37.49290898951932,0 126.9229687485701,37.49278714625095,0 126.9229957782347,37.49265502381147,0 126.9229646565835,37.49253633449425,0 126.9228654373659,37.49246458682948,0 126.9227535275656,37.49238038897229,0 126.9227406562268,37.49236780991684,0 126.9226817563622,37.49225381793874,0 126.9227736092851,37.49212495668463,0 126.9227762378862,37.49197251578384,0 126.9227530307358,37.49185777286046,0 126.9227305087907,37.49173808608433,0 126.9225954700577,37.49170444068815,0 126.9225167547196,37.49172590630413,0 126.9224971330704,37.49177468951277,0 126.9224361238665,37.49181435716012,0 126.9224084078098,37.49157131638126,0 126.9223452875546,37.49133292357383,0 126.922267419883,37.49116657498045,0 126.9221519232425,37.49097453239256,0 126.9220428647079,37.49075854436673,0 126.9219815709783,37.49067911712763,0 126.9217102519993,37.49072995307751,0 126.9213574710698,37.49083669461755,0 126.921050019782,37.49086707510524,0 126.9208619643549,37.49086787560307,0 126.9206705118806,37.49093249642371,0 126.9204366622259,37.49085402285201,0 126.9201046483697,37.490795815757,0 126.9196815843315,37.49065988762556,0 126.9194279318105,37.49067223431414,0 126.9192734874231,37.49064100170097,0 126.9189760882214,37.49060280449584,0 126.9187287335738,37.49061574300753,0 126.9184292501906,37.49068169217431,0 126.9181430069011,37.49074897652578,0 126.9180991074756,37.49075090606425,0 126.9178683037971,37.49079298794398,0 126.9177234434169,37.49087865648997,0 126.9175734145623,37.4908700092176,0 126.9172848068221,37.49086633615782,0 126.9171207076744,37.4907753788204,0 126.9168647759174,37.49075199127044,0 126.9166038269405,37.49085373244029,0 126.9164516355252,37.49098472892193,0 126.9163711511821,37.49113261614468,0 126.9164007547182,37.49127432095438,0 126.9163772558245,37.49142982425131,0 126.916401824096,37.49154171519301,0 126.9165272658416,37.49179255959458,0 126.9165922963276,37.49187754589097,0 126.916619512025,37.49194362277364,0 126.916683702968,37.49204516864069,0 126.9168049413909,37.49214088525696,0 126.9171456200766,37.49223033916216,0 126.9174571570123,37.49225556540846,0 126.9176026555017,37.49232126042432,0 126.9177584310775,37.49239056769167,0 126.9179177607034,37.49243208864503,0 126.9180227501726,37.49259546836073,0 126.9182290417797,37.49280033748876,0 126.9187498619377,37.49339174879886,0 126.9188772843556,37.49344690314536,0 126.9194036958104,37.4933982144753,0 126.9191216165468,37.4935057814906,0 126.9192363383222,37.49353458235429,0 126.9193136547703,37.49357615129377,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>보라매공원 호수</name>
+		<description>면적 41만8㎡를 가진 보라매공원 중 호수는 5만9500㎡의 규모를 차지하고 있다.</description>
+		<LookAt>
+			<longitude>126.9177436860396</longitude>
+			<latitude>37.49063097003828</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001098932955174574</heading>
+			<tilt>0</tilt>
+			<range>293.1378862255076</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>126.9168003131485,37.49078671282712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>인공암벽등반장</name>
+		<description>규모는 높이 15m 폭 14m로, 이용 시간은 오전 10시부터 오후7시까지이다. 배울 수도 있지만 일반인도 참여가 가능하여 많은 사람들이 참여한다. 안전장비와 안전교육 등을 참고하고 즐길 수 있다.</description>
+		<LookAt>
+			<longitude>126.9224179875948</longitude>
+			<latitude>37.49195516384755</latitude>
+			<altitude>0</altitude>
+			<heading>0.00176541819872786</heading>
+			<tilt>6.582521894950718</tilt>
+			<range>266.8775005916913</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_2</styleUrl>
+		<Point>
+			<coordinates>126.9226431712941,37.4917021843041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>보라매공원 후문</name>
+		<description>아파트 단지와 바로 연결되어있어 많은 시민들이 후문으로 출입을 하며, 가족단위의 이용객이 많다.</description>
+		<LookAt>
+			<longitude>126.922639133237</longitude>
+			<latitude>37.49282546706533</latitude>
+			<altitude>0</altitude>
+			<heading>0.001901308266207459</heading>
+			<tilt>12.03224569896529</tilt>
+			<range>160.6474176088711</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_3</styleUrl>
+		<Point>
+			<coordinates>126.9228617220818,37.49284490819232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>보라매공원 산책길진입로</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9165688087657,37.49086026496432,0 126.9165195036487,37.49071619779253,0 126.9164061116858,37.49067205135766,0 126.9160587793073,37.49039801194672,0 126.9160460220062,37.49010823811862,0 126.9156306406894,37.48956060625245,0 126.9155651442747,37.48936880323904,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>보라매공원 남문</name>
+		<LookAt>
+			<longitude>126.9159513664934</longitude>
+			<latitude>37.49032256094493</latitude>
+			<altitude>0</altitude>
+			<heading>-0.002165979760352421</heading>
+			<tilt>12.03458702196438</tilt>
+			<range>399.3487792551679</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.9155618974059,37.48937036247089,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

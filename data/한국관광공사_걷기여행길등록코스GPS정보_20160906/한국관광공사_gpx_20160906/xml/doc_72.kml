@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>중랑캠핑숲나들길.kmz</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>중랑캠핑숲나들길</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.1076428949837,37.60639552474016,0 127.1078491938048,37.60610289473219,0 127.1081085978419,37.60618580119557,0 127.1113104344278,37.60210527122798,0 127.1115362014758,37.60131305824736,0 127.1112474488222,37.6009521060027,0 127.1107079838349,37.60066972454874,0 127.1099075778471,37.60050202599108,0 127.1084789254335,37.60061191091484,0 127.1084585053942,37.60038786912973,0 127.1105538239847,37.60017428055014,0 127.1110311207262,37.59959160832435,0 127.1109830848058,37.59898479912576,0 127.1113742404153,37.59881505202601,0 127.1119069391629,37.59886696725993,0 127.1127848461967,37.59852965774259,0 127.1142363748831,37.59908572098963,0 127.1139884117368,37.59930262549606,0 127.113554298023,37.59949555358883,0 127.1133475412489,37.59985304005283,0 127.1131703089174,37.60015401531583,0 127.1136144140737,37.6003146851148,0 127.1136859584194,37.60055683465563,0 127.1136816336173,37.60089704765672,0 127.1142070096156,37.60099588349046,0 127.114735676451,37.60152834721584,0 127.115771075552,37.60149209738072,0 127.1177446091656,37.60052822778312,0 127.117906586162,37.60078368727903,0 127.1157905087118,37.60183682524351,0 127.1147893330247,37.601911827488,0 127.1143438763693,37.60337796396836,0 127.1139397836661,37.60362980360132,0 127.1133653257049,37.60457029633574,0 127.1131111578936,37.60452820278447,0 127.1127768538155,37.60472388851678,0 127.1125183923702,37.60513386366962,0 127.1124465152432,37.60599978003014,0 127.1127427726617,37.60674033536848,0 127.1126486353663,37.60734813951363,0 127.1109786654863,37.60718495246427,0 127.1094644303176,37.60689008990894,0 127.1082147336883,37.60624814573353,0 127.1081644677647,37.60656600746567,0 127.1076428949837,37.60639552474016,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>지하철정류장(양원역2번출입구)</name>
+			<LookAt>
+				<longitude>127.1082194347762</longitude>
+				<latitude>37.60623207837603</latitude>
+				<altitude>0</altitude>
+				<heading>-14.71091308448884</heading>
+				<tilt>22.86370596444732</tilt>
+				<range>452.1070980857289</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.1076677804557,37.60632771394518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>중랑캠핑숲입구</name>
+			<description>오토캠핑장으로, 총 47면의 캠핑사이트가 설치되어 있어 1일 최대 200명 이상 이용이 가능하다. 각 사이트별로 공간이 넓고 잘 꾸며져 있으며 바베큐장, 스파 및 샤워실 등도 별도로 설치되어 있다. 이용요금은 1명당 25000원이며 전기사용료와 물품 대여료 등 다른 편의시설을 즐기기 위해선 추가비용이 든다. 지하철 중앙선 양원역 2번 출구에서 정면으로 500m 앞에 있다.
+</description>
+			<LookAt>
+				<longitude>127.1089114237829</longitude>
+				<latitude>37.60531264906385</latitude>
+				<altitude>0</altitude>
+				<heading>-4.822857908113518</heading>
+				<tilt>16.64911547746221</tilt>
+				<range>149.3153605985962</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.1085321825212,37.60564603643311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>망우산공원입구</name>
+			<description> 망우산공원 입구는 아차산과도 이어져 있지만 중랑캠핑숲 코스와도 연결되어있다. 망우산공원에는 서울시내 3대 마라톤 훈련 명소가 있으며, 서울시 우수조명명소가 있어 사람들이 즐겨 찾는 공원이다.
+</description>
+			<LookAt>
+				<longitude>127.1121881168878</longitude>
+				<latitude>37.59850165128284</latitude>
+				<altitude>0</altitude>
+				<heading>-4.821577149087439</heading>
+				<tilt>46.20076139733241</tilt>
+				<range>140.8443882109251</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.1119059272511,37.59886585860647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>극락사</name>
+			<description>대한불교조계종 소속의 극락사는 불교대학을 개설하고 ‘극락사봉안당’이라는 납골당을 운영해 불교신자들을 모신다.
+</description>
+			<LookAt>
+				<longitude>127.1135919012905</longitude>
+				<latitude>37.60287675852882</latitude>
+				<altitude>0</altitude>
+				<heading>-9.16244109363574</heading>
+				<tilt>0</tilt>
+				<range>1427.645972302526</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.1133670272627,37.60456912423329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>나들이근린공원</name>
+			<description>중랑구 망우동 산 일대에 인근 산림과 연계하여 조성한 공원으로, 규모는 총 3만2000㎡이다. 인조잔디축구장, 맨발공원, 정자 등 다양한 휴식공간이 자리하고 있으며, 기존 과수원을 그대로 살려 시민들이 과수원 체험을 할 수 있도록 조성되어있다.
+</description>
+			<LookAt>
+				<longitude>127.1130584543166</longitude>
+				<latitude>37.6045322975721</latitude>
+				<altitude>0</altitude>
+				<heading>-9.158301722588664</heading>
+				<tilt>13.81250139361643</tilt>
+				<range>421.8266393033279</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.1124988542523,37.60541688673521,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

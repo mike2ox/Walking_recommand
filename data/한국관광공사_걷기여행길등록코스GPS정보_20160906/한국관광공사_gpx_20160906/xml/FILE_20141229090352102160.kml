@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>낙동강생태탐방로 최종.kml</name>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon573</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon574</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon57">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon570">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon570">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon579</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon575</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_icon571">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_icon572">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon57">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_icon571">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon578</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon573</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon573">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon572">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon576</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon577</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon570">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon573">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon575</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon570</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon574">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon575">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_icon574">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon571</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon579</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon575">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon570</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon572</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon576">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon576">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon572</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon571</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon571">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin90">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon572">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon577">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin90">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon573">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon578">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon574</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon578</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon574">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon579">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon577</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon576</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon577">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon575">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon578">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7faaff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon576">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon579">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon577">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon578">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon579">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>낙동강생태탐방로</name>
+		<open>1</open>
+		<Placemark>
+			<name>1코스</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.2132866823165,36.44504417429285,0 128.2137039543476,36.445105384278,0 128.2139941633806,36.44514254444758,0 128.2141684842478,36.44526715526385,0 128.2146189150575,36.44564019510425,0 128.2149795211868,36.44597782723169,0 128.2165990314231,36.44622099399015,0 128.2172841163258,36.44632065391198,0 128.218657968441,36.44652261557496,0 128.2191339211735,36.44659868834051,0 128.2195492313909,36.44662871720463,0 128.2197061893535,36.44662697839947,0 128.2199214017267,36.44655838195958,0 128.2202757378169,36.44640477174818,0 128.2203707309809,36.44643005267741,0 128.2207341804675,36.44635837703467,0 128.2210239686077,36.44621388586405,0 128.2212976118434,36.44600633925719,0 128.2216442915538,36.44577799479334,0 128.2218648208969,36.44558431617246,0 128.2222046760148,36.44533691528217,0 128.2224424694711,36.44523471376432,0 128.2226655551737,36.44514326315925,0 128.2228072300524,36.4450167233959,0 128.2229989334171,36.44485727628397,0 128.2232177070368,36.44471108836766,0 128.2233888062035,36.44463959608551,0 128.2236055106342,36.44459334374119,0 128.22383645204,36.44454753078473,0 128.2241819402385,36.44454757519237,0 128.2245297210174,36.44455526586285,0 128.2250760012463,36.44459244501555,0 128.2254577569957,36.44461698010804,0 128.2264605362547,36.44470775404419,0 128.2264631781099,36.44464370064273,0 128.2267101216794,36.44466309183154,0 128.226886033035,36.44466842974364,0 128.2270527330407,36.44469148939502,0 128.2273552225215,36.44473840753506,0 128.2275094690355,36.44478738917135,0 128.2276461606256,36.44484340793795,0 128.2278154710637,36.44491734393455,0 128.2279243183291,36.44497204294019,0 128.2280793139947,36.44503933260008,0 128.2282325659697,36.4450891830937,0 128.2283421126459,36.44511591149603,0 128.2284470872378,36.44512305163489,0 128.2286263616959,36.44512317060897,0 128.2289335126726,36.44511276768854,0 128.22908428794,36.44509696411395,0 128.2292480202488,36.44507054969964,0 128.2293635127822,36.44504232622142,0 128.2294568953422,36.44499998791797,0 128.2295693025274,36.44491543978884,0 128.229706115059,36.4447925695596,0 128.2298211296549,36.44470511976485,0 128.2299361282643,36.44463876760381,0 128.2301214008806,36.44454632729008,0 128.2302974143411,36.44445398542701,0 128.2304458379666,36.44436793934613,0 128.2305698217471,36.44429128698106,0 128.2307282244417,36.44420258812485,0 128.2308863272566,36.44412121852427,0 128.2310382600869,36.44406191314769,0 128.2311992914689,36.44399211603078,0 128.2314580027745,36.44389464493843,0 128.2318445658975,36.44377877965216,0 128.2320497664207,36.44371767430818,0 128.2322218753859,36.44367014179316,0 128.2324231104561,36.44362146964873,0 128.2326021530228,36.44356529565023,0 128.2326999165535,36.44352741416146,0 128.2328049387387,36.44347947728087,0 128.2329652286058,36.44333227505379,0 128.2330795231059,36.44323129018535,0 128.2333787173894,36.44304678374832,0 128.233628556186,36.44291630990905,0 128.2337872780549,36.44287999380728,0 128.2339652498562,36.4428634343521,0 128.2341056521315,36.4428692030537,0 128.2342778343559,36.44290334117387,0 128.2343744056476,36.4429642773696,0 128.2345773396175,36.44309494108682,0 128.2346712476833,36.44317642420135,0 128.2349447238625,36.44342878261076,0 128.2351692506977,36.44362768398236,0 128.2355317471115,36.44398069200695,0 128.2358124904346,36.44425800829828,0 128.2368392732673,36.44524251740753,0 128.2370053634754,36.44539237212408,0 128.2371387224654,36.44549990731609,0 128.2372895223745,36.44560805850331,0 128.2374053372872,36.44567671983147,0 128.2376480682145,36.44581413909259,0 128.2377794446032,36.44589528628907,0 128.2378780833824,36.44597651181825,0 128.2380187132133,36.44611418327251,0 128.2382614077517,36.44642176736356,0 128.2385746280041,36.446797309971,0 128.2389132400696,36.44718648970099,0 128.239130750873,36.44742983852717,0 128.2394665572899,36.44776694316241,0 128.2398368787882,36.44815654528517,0 128.240190673413,36.44854765255124,0 128.2403877953065,36.44877883860998,0 128.2404929826344,36.44890810679903,0 128.2405867909901,36.44902419875133,0 128.2406531730437,36.44914603811576,0 128.2406815922013,36.44923628532831,0 128.2407033509799,36.44934400547906,0 128.2407053336014,36.44950745113319,0 128.2406619625384,36.44974242566375,0 128.2406153945481,36.4498561787996,0 128.2405649429067,36.449973082895,0 128.2405121441898,36.45012114767425,0 128.2404892122761,36.45022326588214,0 128.2404913681212,36.45033613001157,0 128.2405053288393,36.45048290917254,0 128.2405363160426,36.45064723598677,0 128.2405835790449,36.45083311177331,0 128.2406124149316,36.45095755252448,0 128.2406573389877,36.45108443679069,0 128.240707071125,36.45114250234024,0 128.2407567626046,36.45117732384857,0 128.2408248822771,36.45118895651405,0 128.2409712001637,36.45116029268311,0 128.2411896608667,36.451088976443,0 128.2413859644024,36.4510261557617,0 128.2414786790644,36.45100530945172,0 128.2416933055901,36.45098280136725,0 128.2418943920043,36.45099051375524,0 128.2421235968963,36.45102102258733,0 128.2423533585622,36.45110539129701,0 128.2428284650038,36.45129111750438,0 128.2430380051565,36.45139323349154,0 128.2432212241806,36.45152292921537,0 128.2435318316547,36.45173511175727,0 128.2440617800996,36.45210531345932,0 128.2443313027752,36.45224750076346,0 128.2445286268161,36.45235764444558,0 128.2446686393512,36.45241426733695,0 128.2448108636467,36.45244126618392,0 128.2449490580059,36.45244185406187,0 128.2451564007262,36.45244427996536,0 128.2453422130076,36.4524612720103,0 128.2454570122541,36.45249302348434,0 128.2456265860161,36.45255067823746,0 128.2457247583268,36.45264881697538,0 128.2461015458885,36.45301369443078,0 128.2462845181406,36.45322077924035,0 128.2465211540736,36.45337153150231,0 128.2467723801156,36.45355197672816,0 128.2472106883464,36.45377639273259,0 128.2476388814046,36.45406367375809,0 128.2481303420969,36.45449664715657,0 128.2484346648265,36.4547300014078,0 128.248598464095,36.45486728474112,0 128.2487299985894,36.45500189443686,0 128.2487780343928,36.45506446950109,0 128.2488085632609,36.45516654256574,0 128.2488738323285,36.45535261992397,0 128.2489444342661,36.45551340166875,0 128.2490138127169,36.4556685902727,0 128.2491016978002,36.45581983164189,0 128.2491808836782,36.45595887308907,0 128.2492586780679,36.45607902311079,0 128.2493656585199,36.45619909336472,0 128.2494898514605,36.4563106207798,0 128.2496058348058,36.45640764107633,0 128.2497573519423,36.4565059430266,0 128.2499048281354,36.45656703948766,0 128.2501219832224,36.45660519242437,0 128.2502934628267,36.45661795823543,0 128.2506054678989,36.456636780706,0 128.2508896952502,36.45663229014143,0 128.2511564807764,36.45662934605905,0 128.2514285043769,36.45663493905757,0 128.2516572676836,36.45665577988916,0 128.2518823701801,36.45668903690915,0 128.2521708546584,36.45670046334958,0 128.2523223211786,36.4567064445509,0 128.2525006587888,36.45667998319334,0 128.2526664195491,36.45664432142036,0 128.2529150579967,36.45655008918305,0 128.2532644115999,36.45639328243917,0 128.253557949818,36.45623127766209,0 128.2539594255603,36.45600431902155,0 128.2542018939492,36.4558642337661,0 128.2543692640801,36.45569819300217,0 128.2548191549517,36.45518942955546,0 128.2551353368395,36.45484052632573,0 128.2556062750512,36.45420343296561,0 128.2558523562754,36.45386568354236,0 128.256104403283,36.45350661702977,0 128.2564723914007,36.45289117593493,0 128.2566874577246,36.45250978490609,0 128.2568903607446,36.45218400046218,0 128.2570039301422,36.45196345581851,0 128.2570928066373,36.45173468142664,0 128.2571312590644,36.45158645679134,0 128.2571947668064,36.45159005058526,0 128.2572187257352,36.45153194688324,0 128.2572403796243,36.45144582921059,0 128.2572906538017,36.45142473196391,0 128.2574027505881,36.45137879642333,0 128.2574954263173,36.45132567139986,0 128.2575674855407,36.45118256193328,0 128.2576396449857,36.45101601783057,0 128.2577295056236,36.45086379384122,0 128.2577816749486,36.4507333814264,0 128.2578713784198,36.45052891703304,0 128.2579748144708,36.45038254878059,0 128.2580658907764,36.45023778245474,0 128.2581368930677,36.45011687308578,0 128.2581648242786,36.45004227246808,0 128.2582156710814,36.4499634372896,0 128.2583319689643,36.44987325957756,0 128.2584457309535,36.44975489130402,0 128.2585288233823,36.44967418483912,0 128.2586413856991,36.4495547439095,0 128.2587538866812,36.44944958612518,0 128.2588270033267,36.44937290821169,0 128.258874953303,36.4493022368022,0 128.2589355394408,36.44920122300153,0 128.2589727735171,36.44908811603072,0 128.2590457829176,36.44893657323119,0 128.2591093699128,36.44879691260109,0 128.259174104802,36.44866252726849,0 128.2592371004525,36.44851697302726,0 128.2592974509535,36.4483733208432,0 128.259350256895,36.44824180855673,0 128.2593854580779,36.44812850619833,0 128.2594005371628,36.44801318180245,0 128.2594181324384,36.44790285197891,0 128.2594231440495,36.44772480860989,0 128.2594206167679,36.44760948544676,0 128.2593904174654,36.44744560711735,0 128.2593577039698,36.44729184498755,0 128.259335055491,36.44716862650395,0 128.2592746711513,36.44697440146355,0 128.259178965094,36.44675989967404,0 128.2591031926208,36.44657984508393,0 128.2589924811359,36.44638788626494,0 128.2588795107414,36.44623827103428,0 128.2586744009966,36.44602195329353,0 128.2585236579023,36.44585417012436,0 128.2583955170587,36.44569235855722,0 128.258232539118,36.44549981993719,0 128.2581168771928,36.44535215691662,0 128.25798356649,36.44523481815219,0 128.2578904963567,36.44515187775299,0 128.2577673123467,36.44505708411661,0 128.2576621004046,36.4449889304361,0 128.257393495548,36.44473437936489,0 128.2572361367215,36.44457973769455,0 128.257137097885,36.44446132288969,0 128.2570578141805,36.44432515333742,0 128.2569039585003,36.44409956379322,0 128.2568113318878,36.44394450953774,0 128.2566777292262,36.44378519619957,0 128.2565244253799,36.44355393934941,0 128.2564109261833,36.44336549199468,0 128.2562899468371,36.44314953906311,0 128.2562088858347,36.44299253121011,0 128.2561228008576,36.44278616663976,0 128.2560758054906,36.44260137496222,0 128.256054982764,36.44250057362378,0 128.2560315598329,36.44237674788808,0 128.2560440502722,36.44214954380933,0 128.2560698181745,36.44204990954814,0 128.2560276831889,36.44189727368251,0 128.2559571076345,36.44178875637724,0 128.2558643634878,36.44163795891369,0 128.2557693968217,36.44148999875782,0 128.2556634885637,36.44138089990001,0 128.255552368581,36.44122540428506,0 128.2554371128747,36.44101565684144,0 128.255381968736,36.44088924596001,0 128.2553409249271,36.44079608349815,0 128.2552803911007,36.44068063271391,0 128.2552445601161,36.44061622699902,0 128.2551642961384,36.44050988001222,0 128.2551310388711,36.44047680345064,0 128.2550699983912,36.4404486854728,0 128.2549788054093,36.44043890967065,0 128.2549275489993,36.44027189135787,0 128.2548842718857,36.44014344957584,0 128.2548267591291,36.44001729738,0 128.2547631217563,36.43991647372439,0 128.2546836587518,36.43983341386209,0 128.2546004359136,36.43976618773727,0 128.2545033846274,36.43967195599124,0 128.2543984130058,36.43956825473926,0 128.2542997775757,36.4394752110879,0 128.2542222208067,36.4394528152069,0 128.254113480339,36.43944181228265,0 128.2539666358866,36.43938672995088,0 128.2538873370276,36.43933139971596,0 128.253797752828,36.43929825729075,0 128.2536911065971,36.43927346936467,0 128.2535914152184,36.43925694506716,0 128.2535159372756,36.43927081899607,0 128.2534370747573,36.43927363263679,0 128.2533305307857,36.43925155671866,0 128.2532926117175,36.43921290125977,0 128.2532581198592,36.43915491343949,0 128.253248335953,36.43910297883612,0 128.2529762886967,36.43915928342791,0 128.2526547905073,36.4392539131598,0 128.2522571554876,36.43936006367402,0 128.2519532474291,36.43941187918102,0 128.2518928513179,36.43935542257225,0 128.2515512254932,36.43936324228896,0 128.2508948582257,36.43938087025718,0 128.250585813972,36.43938825956859,0 128.2504987545455,36.43938315215794,0 128.2504744751335,36.43930494623449,0 128.2504086253159,36.43920154511508,0 128.2503740914411,36.43910726044368,0 128.2503001528357,36.43899638383568,0 128.2502482940875,36.43893054817127,0 128.2501884460926,36.43891611088145,0 128.250114554714,36.43891130950983,0 128.2500385967876,36.43894831173176,0 128.2499425902191,36.43898212960973,0 128.2498605148533,36.43899987881405,0 128.2497663208526,36.43900317119674,0 128.2496227150064,36.43898234681568,0 128.2492238120103,36.43892134897945,0 128.2482470360706,36.43875978362198,0 128.2482041867289,36.43876138559801,0 128.2481816382312,36.43885967879072,0 128.2478656997303,36.44021528687125,0 128.2476590065791,36.44110337365206,0 128.2473351333253,36.44246041336713,0 128.2460341515926,36.44224672735405,0 128.2459368753289,36.44224746681775,0 128.2458539180001,36.44225426597552,0 128.2457772047653,36.44222823862953,0 128.2456205437012,36.44219313545732,0 128.2453533798055,36.44216516453395,0 128.2450693936047,36.44215608937763,0 128.2448556776436,36.44214064784855,0 128.2447129369788,36.44210393314569,0 128.2445710277432,36.44204287442727,0 128.2440256928277,36.44162588025944,0 128.2436751205151,36.44134526968438,0 128.2430890483749,36.44090517484644,0 128.2428419610907,36.44074690330088,0 128.2426171717511,36.44061938568186,0 128.2422716773305,36.44044285157031,0 128.2414384544177,36.44001631541048,0 128.2411254086383,36.43985699596382,0 128.2405346359618,36.43958529039195,0 128.2399223725359,36.43933557170534,0 128.2392825487502,36.43910337482655,0 128.2388249306857,36.43892596766596,0 128.2381938285322,36.43869216512873,0 128.2380108977531,36.43864362263913,0 128.237886046826,36.43861444232702,0 128.2378172287947,36.43861275714202,0 128.2377377647053,36.43863546347426,0 128.2376251081311,36.43869264237826,0 128.2375197029383,36.43874021407157,0 128.2374118870098,36.43876660204288,0 128.237242386304,36.43878823611211,0 128.2369722671945,36.43881138593779,0 128.2359037911123,36.43882113663543,0 128.2353408435374,36.43881456505283,0 128.2340102492574,36.43881718209165,0 128.2328868498645,36.4388239327913,0 128.2322468445822,36.43883178500292,0 128.2320565576322,36.4388476499439,0 128.2318925555427,36.43886815075273,0 128.231521812014,36.43891651191883,0 128.231326966013,36.43892909690712,0 128.2310938244748,36.43894078392488,0 128.2308559919858,36.43893896140049,0 128.2307091234088,36.43893581151988,0 128.2305287312793,36.43890895653357,0 128.2303679784549,36.43887279541489,0 128.2301207479771,36.43880184370847,0 128.2299506587613,36.43875015049893,0 128.2297178544958,36.43868838464562,0 128.2295466941161,36.43866235382426,0 128.2294131987283,36.43866239297832,0 128.2292801741256,36.43867817306369,0 128.2291982898167,36.43870653763986,0 128.2291349466539,36.43875688238762,0 128.2290904599523,36.43882271896169,0 128.2289741672531,36.43903103881362,0 128.2289237111831,36.43910580825995,0 128.2288733354127,36.43914944246084,0 128.2288151267882,36.439191625836,0 128.228748735744,36.43921392963901,0 128.2286502465345,36.43923519967546,0 128.2285653790377,36.43923206686115,0 128.2284200988869,36.43920938913481,0 128.2277862569656,36.43906203127925,0 128.2271560555993,36.43891477889731,0 128.226189537937,36.4386815520261,0 128.2254450940653,36.4385068412208,0 128.2244201822084,36.43825346891767,0 128.2240894405394,36.43816739217346,0 128.2238575649461,36.43810132161283,0 128.2236647693925,36.43803196662064,0 128.2236390994816,36.43805613591555,0 128.223338473717,36.43796646710891,0 128.2231474348884,36.43798752355459,0 128.2227176290828,36.43803479925071,0 128.2226052459907,36.43806564243205,0 128.2225492479053,36.4386389530278,0 128.2225266230349,36.43894137591268,0 128.2225105622243,36.43933358302271,0 128.2225093255183,36.43970316018442,0 128.222516367488,36.43992958859692,0 128.2224387439573,36.43993885973178,0 128.2224173414743,36.44001461668156,0 128.2224162803957,36.44007330038802,0 128.2223789346348,36.44009237736589,0 128.2223448288527,36.44010884420791,0 128.2224059880543,36.44014691215197,0 128.2224453001813,36.4401773861217,0 128.2225299242777,36.44015735281279,0 128.2225995576747,36.44022869587587,0 128.2227451489988,36.44037757182775,0 128.2228475905156,36.44047945007507,0 128.2229511105819,36.4405947072578,0 128.2229859258667,36.44067491927909,0 128.22301540409,36.44085526950063,0 128.2230040355277,36.44116320987203,0 128.2229946772701,36.4414202392035,0 128.2229629621421,36.4415488876761,0 128.2229289556398,36.44163042555991,0 128.2227978837801,36.44178593233943,0 128.222567008293,36.44203331728494,0 128.2221260558311,36.44248651065502,0 128.2219232117633,36.44270153278831,0 128.2218115915926,36.44283297015527,0 128.2217616546726,36.44290762507542,0 128.2217227123457,36.44302696790216,0 128.2217190270007,36.44311661516331,0 128.221715600713,36.4431615283962,0 128.221711394186,36.44319104254539,0 128.2215554306942,36.44313104690566,0 128.2213961651218,36.4430388334834,0 128.2213174415867,36.44299028730656,0 128.2212242086305,36.44293879987789,0 128.2210352445056,36.44297776853411,0 128.2208897175221,36.44305067540934,0 128.2207721823841,36.44306492560403,0 128.2206229852465,36.44310762092641,0 128.2204089071491,36.44315340641682,0 128.220248215139,36.44317069147574,0 128.2201483780081,36.44317934837159,0 128.2200415593219,36.44317673441556,0 128.2199176533114,36.44318015658909,0 128.2197617496489,36.44329942179002,0 128.2195899366328,36.44343119174857,0 128.219374699414,36.44352684054211,0 128.2189875640416,36.44368837091444,0 128.2188211632279,36.44376843300027,0 128.2186989611381,36.44384082476576,0 128.2185458825459,36.44398142357225,0 128.2183828413501,36.44411476766991,0 128.2182240926387,36.44423441980828,0 128.2177947391043,36.44450636571481,0 128.2176853372834,36.44457875236636,0 128.2176418424218,36.44459614357159,0 128.2175777055979,36.44459021860924,0 128.2175147809224,36.44455526616566,0 128.2174070331103,36.44449179893131,0 128.2173298684774,36.44450554234666,0 128.2172301591622,36.44455197104953,0 128.2169252758311,36.44481042302327,0 128.2153363513053,36.44346021839541,0 128.2151865100383,36.44333430381867,0 128.2151305520679,36.44331593404831,0 128.2149815778259,36.44334571514923,0 128.2147805688329,36.44346430306397,0 128.2146457767612,36.44353489738533,0 128.2144975418069,36.44353801500213,0 128.2143515936893,36.4436060125496,0 128.2141643486341,36.44371225335969,0 128.2139709674156,36.44389038787519,0 128.2138725425472,36.44400647040105,0 128.2137349486566,36.4441194720503,0 128.2136362331324,36.44421619592855,0 128.2135669527439,36.44434752494881,0 128.2134635242316,36.4445072871865,0 128.2134113778872,36.44460926361246,0 128.2133251803809,36.44490580117685,0 128.2132866823165,36.44504417429285,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>전망대</name>
+			<LookAt>
+				<longitude>128.3057563323476</longitude>
+				<latitude>36.38068797328582</latitude>
+				<altitude>0</altitude>
+				<heading>0.03013229560669868</heading>
+				<tilt>0</tilt>
+				<range>926.3078752658615</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3038601854825,36.38216287814442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>전망대</name>
+			<LookAt>
+				<longitude>128.2653956491392</longitude>
+				<latitude>36.43486332615046</latitude>
+				<altitude>0</altitude>
+				<heading>0.006172703220039554</heading>
+				<tilt>0</tilt>
+				<range>847.7273569580685</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2631688141794,36.4362985850501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>수암종택</name>
+			<LookAt>
+				<longitude>128.3197507733867</longitude>
+				<latitude>36.40434307294693</latitude>
+				<altitude>0</altitude>
+				<heading>0.03843690386860048</heading>
+				<tilt>0</tilt>
+				<range>1260.247564236376</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3164233231409,36.40290627373952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>청룡사</name>
+			<LookAt>
+				<longitude>128.2674224713913</longitude>
+				<latitude>36.43790317475003</latitude>
+				<altitude>0</altitude>
+				<heading>0.007376590649407253</heading>
+				<tilt>0</tilt>
+				<range>868.5469592502125</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2647187094687,36.4376247896441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>나각산정상</name>
+			<LookAt>
+				<longitude>128.3057563323476</longitude>
+				<latitude>36.38068797328582</latitude>
+				<altitude>0</altitude>
+				<heading>0.03013229560669868</heading>
+				<tilt>0</tilt>
+				<range>926.3078752658615</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3048567564781,36.38044388490678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>삼강한우마을</name>
+			<description>2011-08-07 5:40:09PM</description>
+			<styleUrl>#msn_icon573</styleUrl>
+			<Point>
+				<coordinates>128.2995312594387,36.36002319574204,62.1304931641</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>중동교</name>
+			<LookAt>
+				<longitude>128.3066352759226</longitude>
+				<latitude>36.40573478123281</latitude>
+				<altitude>0</altitude>
+				<heading>0.03065338861535621</heading>
+				<tilt>0</tilt>
+				<range>1288.073859334497</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin17</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3052326587683,36.40452339571836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상주자전거박물관</name>
+			<LookAt>
+				<longitude>128.2565858176136</longitude>
+				<latitude>36.45459513896132</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03025063616872381</heading>
+				<tilt>0</tilt>
+				<range>1000.80743021478</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2551532112079,36.4541499760928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>출렁다리</name>
+			<LookAt>
+				<longitude>128.3057563323476</longitude>
+				<latitude>36.38068797328582</latitude>
+				<altitude>0</altitude>
+				<heading>0.03013229560669868</heading>
+				<tilt>0</tilt>
+				<range>926.3078752658615</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin19</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3038629694605,36.38156939918345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>전망대</name>
+			<LookAt>
+				<longitude>128.3057563323476</longitude>
+				<latitude>36.38068797328582</latitude>
+				<altitude>0</altitude>
+				<heading>0.03013229560669868</heading>
+				<tilt>0</tilt>
+				<range>926.3078752658615</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3052657421329,36.37984588499939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2코스</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.255743514134,36.45401360159674,0 128.25581444363,36.45404666781317,0 128.2559124578852,36.45394437619831,0 128.2559683869343,36.45386301021927,0 128.2560536691662,36.45374329076931,0 128.2561002759111,36.45367074436846,0 128.2581635672161,36.45450224774268,0 128.2592930261153,36.45491229407749,0 128.2594014007709,36.45489366001745,0 128.2593719271624,36.45481403221621,0 128.2593091209099,36.45473068048221,0 128.2592717904052,36.45467815302053,0 128.2592594378431,36.45462829958183,0 128.2592592956974,36.45458816792776,0 128.2592802465264,36.45454260457444,0 128.2593243646493,36.45442640890911,0 128.259340382386,36.4543656390336,0 128.259346519489,36.4543035814932,0 128.2593526199405,36.45424785300286,0 128.2593724052915,36.45419692274408,0 128.2593945816921,36.45414332989211,0 128.2594516279299,36.45409533924482,0 128.2594904399496,36.45406428644499,0 128.2595230645991,36.45404540725973,0 128.2595949757605,36.45401867130673,0 128.2596267249956,36.45400145036524,0 128.2596564227846,36.45396423780461,0 128.2597213381478,36.45387480275794,0 128.2597528526592,36.45383160214787,0 128.2597880567298,36.45378397082538,0 128.2598302824257,36.45375682641058,0 128.25991035587,36.45372531687227,0 128.2600856358543,36.45366691460874,0 128.2601451050371,36.45363864199732,0 128.2601801589024,36.45361647338288,0 128.2602309412392,36.45358379379161,0 128.2602682184481,36.45355289894168,0 128.2602921000797,36.45350759573793,0 128.2602879139259,36.45345929632603,0 128.2602703654555,36.45339148264068,0 128.2602605164002,36.45334994487774,0 128.2602605012005,36.4533484635329,0 128.2602536395038,36.4532885211184,0 128.2602333923157,36.4532455392792,0 128.2602087648289,36.45319268130706,0 128.2602072606909,36.45314311398329,0 128.2602187902987,36.45307331807003,0 128.2602482547672,36.45301333340431,0 128.2602928039673,36.45291940284562,0 128.2603419411563,36.45285268193346,0 128.2604071408652,36.45274947282596,0 128.2604657961099,36.45266237802154,0 128.2605110085403,36.45259202404188,0 128.2605661289406,36.45254016567576,0 128.2606485056549,36.45247668176804,0 128.2606946631458,36.45242086985732,0 128.2608687322759,36.45221156308074,0 128.2609546860813,36.45212562358804,0 128.2610312611186,36.45202869925043,0 128.261112289739,36.45193741432816,0 128.2611595201977,36.45184184223769,0 128.2611993125861,36.45177242005534,0 128.2611993268349,36.45176773739264,0 128.2612678862986,36.4516842430805,0 128.2613542687639,36.45164072332397,0 128.2615008383063,36.45162257570461,0 128.2615870106785,36.4516082190896,0 128.2616135565368,36.45156731119931,0 128.261623488404,36.45150308849975,0 128.261612219021,36.45142961609654,0 128.26163593158,36.45138565222859,0 128.2616798784837,36.45133847893215,0 128.2617202062532,36.45129273298082,0 128.2617728648363,36.45123947729942,0 128.2618130205811,36.45121241753498,0 128.2618637503131,36.45118259249196,0 128.2619334826989,36.45114524233212,0 128.2619772824193,36.45109127040229,0 128.2620034476553,36.45103547827794,0 128.2620037202265,36.45102933455072,0 128.262011051943,36.45097875388592,0 128.2620252692589,36.45083230330529,0 128.2620273966091,36.45078491552675,0 128.2620286096613,36.45074191547137,0 128.262056458243,36.45069398706875,0 128.2621017001765,36.45064807424875,0 128.2621550483587,36.45061584479916,0 128.2622268614654,36.4505586304407,0 128.2622782739759,36.45049842992434,0 128.2623020477956,36.45046566925304,0 128.2623122640764,36.4504245111174,0 128.2623381090244,36.45026410705132,0 128.2623374231534,36.45019443721541,0 128.2623384769907,36.45012598244389,0 128.2623378835864,36.45004976148067,0 128.262347499161,36.44999899166604,0 128.2623855565908,36.44992915579825,0 128.2624330347343,36.44986703348076,0 128.2624975046454,36.44979155588678,0 128.2625836112299,36.44974602473983,0 128.2626291048526,36.44970126475599,0 128.2626336065409,36.44965602339911,0 128.2626406354621,36.44954811624071,0 128.2626524809828,36.44946527141979,0 128.2626802018528,36.44936958105043,0 128.262712035829,36.44932307708271,0 128.2627690579788,36.44924513451014,0 128.2628095732499,36.44918890223055,0 128.2628131127403,36.44914032379234,0 128.2628295301884,36.44910076145013,0 128.2628500428559,36.44906183914609,0 128.2629071462863,36.44899729383408,0 128.26293986049,36.44895063792689,0 128.2629416689437,36.4489474668204,0 128.2629668968669,36.44889110305779,0 128.2629687259592,36.44885455317913,0 128.2630547111587,36.44866810900862,0 128.2631517934323,36.44837536038715,0 128.2632054827692,36.44828845284708,0 128.2632693323515,36.44816879333041,0 128.2632850418888,36.44810308483316,0 128.2633163650876,36.44790998449103,0 128.2633209361672,36.44781231266609,0 128.2633109101021,36.44761031014348,0 128.2633177466061,36.44751295125176,0 128.2633494334121,36.44744011140156,0 128.2633937350221,36.44733952860223,0 128.2634595138965,36.44721949591005,0 128.2635667859717,36.4471175665999,0 128.2636529241719,36.44705247353812,0 128.2637131104156,36.44703125886906,0 128.2638013550779,36.44698159986152,0 128.2638547799841,36.44690278609328,0 128.2639055741573,36.44679808706083,0 128.263933415826,36.44670310736391,0 128.263957195916,36.44656214775925,0 128.2639907485243,36.44637849371706,0 128.2640123832478,36.44624485022316,0 128.2640298778167,36.44618788001063,0 128.2640569709294,36.44617245096156,0 128.2641182255578,36.44618124581313,0 128.2641897345835,36.44619316283318,0 128.2642635873946,36.44619413849935,0 128.2643431982671,36.44619214613714,0 128.2644106013588,36.44617647241489,0 128.2644955792006,36.44614907915522,0 128.2645536423584,36.44609775532513,0 128.2646006927116,36.44601226281817,0 128.2646378415751,36.44593588498241,0 128.2646783805639,36.4458717973129,0 128.2647388456442,36.44580129016859,0 128.2648028085458,36.44573046616015,0 128.2648717289562,36.44566707442808,0 128.2649244121842,36.44560508066692,0 128.2649760912058,36.44554285070163,0 128.2650079221676,36.44550099900165,0 128.2650105544447,36.44545583371855,0 128.2650108773382,36.44539943671384,0 128.265002857842,36.44528922094952,0 128.2649930428766,36.44517279395409,0 128.265001552428,36.44509889192041,0 128.2650105747557,36.44503207672274,0 128.2650313880563,36.44492273981672,0 128.2650555360142,36.44483639386543,0 128.2650852482238,36.44475935368146,0 128.2651390446937,36.44468970432806,0 128.2651975355756,36.44462955348327,0 128.265367117915,36.44451756826418,0 128.2654512946247,36.44446300849787,0 128.2655190342135,36.44440494739206,0 128.2655622978764,36.44436907915873,0 128.265594924948,36.44431899517523,0 128.2656343743628,36.44423629166045,0 128.2656950778444,36.44406288423917,0 128.2657404774213,36.44395502096765,0 128.2657578671685,36.44386451978144,0 128.2657609211639,36.44379097189651,0 128.2657498788076,36.44370766471127,0 128.2657317627209,36.44361437180982,0 128.2657297960961,36.4435524411796,0 128.2657429838868,36.44342167835301,0 128.2657725006829,36.4433031488775,0 128.2658187734804,36.44312321563935,0 128.2658552095824,36.4429817487619,0 128.2658723544838,36.44284428901878,0 128.2658917473363,36.44274924212445,0 128.2659350011,36.4426432262453,0 128.2659647681078,36.44252964319355,0 128.2659757614429,36.44243207682769,0 128.2659717139443,36.44230293483344,0 128.2659715301791,36.44218614698817,0 128.2659734590793,36.44207377309341,0 128.2659996323517,36.44199530505011,0 128.2660581009468,36.44184057026153,0 128.2661494154336,36.44166849089922,0 128.2662404045509,36.44152099948655,0 128.2663529685809,36.44138054339996,0 128.2665343361721,36.44116769180882,0 128.2666585982469,36.44104441773404,0 128.2668249942374,36.44082264846275,0 128.2670715699875,36.4406173818806,0 128.2672182817986,36.4404838278665,0 128.2672994543132,36.44034198679967,0 128.2673930167333,36.44019009377124,0 128.2674994268764,36.44006014738219,0 128.2675793257101,36.43998299388448,0 128.2676727036162,36.43990628519536,0 128.2677551959721,36.43987454452701,0 128.2678787147593,36.43984393165201,0 128.267990404339,36.43982310066245,0 128.2680563997987,36.43980702908443,0 128.2680914961571,36.43977978908749,0 128.2680997177627,36.43974120995377,0 128.2681014167441,36.43966006253891,0 128.2681210164437,36.4395496165155,0 128.2681702429716,36.43948610530079,0 128.268221671534,36.43941649420274,0 128.2682870444722,36.43935851816644,0 128.2683371235377,36.43932828236358,0 128.2683645051176,36.43928607497498,0 128.2683736947496,36.43922516471037,0 128.2683651416507,36.43916010002199,0 128.2683680768525,36.43909883837868,0 128.2683924040978,36.43903526192937,0 128.2684326722656,36.43897382499139,0 128.2685098896963,36.43889168543122,0 128.2685597059233,36.43881521937576,0 128.2685911240015,36.43874952378242,0 128.2685864969006,36.43868931910999,0 128.2685540331902,36.43861104783966,0 128.2685238968293,36.43854854492743,0 128.2685181681849,36.4384983510642,0 128.2685180163819,36.43844281136928,0 128.2685453704721,36.4383909761833,0 128.268611663521,36.43828818746413,0 128.2686530194294,36.43822845990073,0 128.2686847925555,36.43815090657626,0 128.2687007209254,36.43807357611896,0 128.2687146514769,36.43801828946015,0 128.2687261886199,36.43798056905277,0 128.2687550804509,36.43794597169467,0 128.2687755431433,36.4379150305383,0 128.2687467292541,36.43788560008234,0 128.2686580865279,36.43785549725948,0 128.2685382530498,36.43782845972839,0 128.2684553399326,36.43781010361076,0 128.2683676206002,36.43781223051278,0 128.2682680945408,36.43781873095445,0 128.2681902951047,36.43780486955721,0 128.2680605762493,36.43773792339423,0 128.2679940940338,36.43769571270853,0 128.2679506698089,36.43765818427065,0 128.2679036829659,36.4376094183156,0 128.2678708810642,36.43757537453979,0 128.26782833116,36.43754023951806,0 128.2677729390845,36.43751864777241,0 128.2677141512224,36.43750212785315,0 128.2676201298914,36.43749502217822,0 128.2675390248093,36.43749598495189,0 128.2674528777624,36.43751446114957,0 128.2673805607163,36.43752470155615,0 128.2673130913233,36.4375469684462,0 128.2672305697085,36.43754121983383,0 128.2671134591192,36.43751655812812,0 128.2670534530032,36.43749996457858,0 128.2669544273937,36.43748636796672,0 128.2668754536732,36.43748682350315,0 128.2668119838933,36.43752548644606,0 128.2667777115115,36.43757373507388,0 128.2667512855931,36.43763630103008,0 128.2667386115342,36.43768504417251,0 128.2667285121846,36.43774088869694,0 128.2667174856589,36.43780259262184,0 128.2667027414857,36.43786250164327,0 128.2666724083852,36.43793171515257,0 128.2666126499012,36.43794143744803,0 128.2665576131731,36.43792282706777,0 128.2664912894157,36.43789883317807,0 128.2664518820491,36.43786634467914,0 128.2664118304014,36.43784224560302,0 128.2663286658451,36.43781477517472,0 128.2662545186295,36.43780344701435,0 128.2661784977205,36.43779814029047,0 128.2661077169613,36.43777865084013,0 128.2660467861455,36.43775439621142,0 128.2660039375131,36.43771179980049,0 128.2659696704917,36.4376642915088,0 128.2659376174591,36.4376287458276,0 128.2658964405571,36.4376030440765,0 128.2658216189233,36.43759103009645,0 128.2657518037317,36.43758242959801,0 128.2656909257634,36.43756301339362,0 128.2656176298358,36.43753713891675,0 128.265545082077,36.43752164499278,0 128.2654838171151,36.43749890502065,0 128.2654136847188,36.4374885980337,0 128.2652992485223,36.43748528593083,0 128.2651708466342,36.43749052891897,0 128.2650827182493,36.43748881800956,0 128.2649945845245,36.43749237976994,0 128.2649344988252,36.43749480810234,0 128.2648497786176,36.4375000318147,0 128.2648069055324,36.43751447317425,0 128.264748884952,36.43754632170695,0 128.2647030730643,36.43758940543997,0 128.2646492436748,36.43765144813822,0 128.264569066233,36.43773548092668,0 128.2645240447916,36.43776107959582,0 128.2644523750015,36.43775588247856,0 128.2644056839095,36.43774066815984,0 128.2643255785823,36.43763569025742,0 128.2642669119316,36.43753779650651,0 128.2641309026277,36.43735579432858,0 128.2640770723167,36.43724037802967,0 128.2640031678687,36.43711520952492,0 128.2639562365211,36.43700576055564,0 128.2638829464708,36.43689713983403,0 128.2637723422189,36.43674432585013,0 128.2637061876218,36.43668086700242,0 128.2636181300339,36.43656774193193,0 128.2635684682854,36.43652706360522,0 128.2635336609132,36.43649962691198,0 128.2634904000951,36.43647620764538,0 128.263421117649,36.43642002993822,0 128.2633459135001,36.43633512461488,0 128.2632979445652,36.43631219951065,0 128.263257260607,36.43631334486619,0 128.2632290641158,36.43631413869517,0 128.2631703116599,36.43628940003296,0 128.2631541371068,36.43627340700682,0 128.2631350598549,36.43623020102254,0 128.2631096770488,36.43622401515306,0 128.2630761890185,36.43621622132593,0 128.2630544099863,36.43617600204129,0 128.2630526908576,36.43613569361217,0 128.2630565801765,36.43609661002432,0 128.263079283845,36.43606379170585,0 128.2630973704596,36.43603625428228,0 128.2631186797434,36.43597910258173,0 128.2631120166974,36.43584325926039,0 128.2631186085025,36.43576093237114,0 128.2631131683581,36.43554759822184,0 128.2631105836353,36.43546600935969,0 128.2631646721314,36.43539810819615,0 128.2631692906909,36.43539776317935,0 128.2631908903329,36.43534482805935,0 128.2631897311822,36.43525688632423,0 128.2631621804452,36.43503227692936,0 128.2631574110908,36.43492334721088,0 128.2631110905466,36.43478792085352,0 128.2630214804755,36.43463037441111,0 128.2629572481874,36.43450169341788,0 128.262937182992,36.434348334273,0 128.2629466578972,36.4342063552258,0 128.2630179301211,36.43414051998888,0 128.2631167472534,36.43405767033738,0 128.2632080647139,36.43401317356305,0 128.2632784808509,36.43397011918955,0 128.2632957406647,36.43392213080907,0 128.2632917706808,36.43387996170183,0 128.2632665549059,36.43383793684635,0 128.2631846574095,36.43379895445838,0 128.2631027706463,36.43377116622157,0 128.2630171652398,36.4337321272945,0 128.2629064289547,36.43366785851441,0 128.2628563444042,36.43362028668322,0 128.262793057059,36.43352672826666,0 128.2627627114733,36.43344888950497,0 128.2627475135692,36.4333795233711,0 128.2627813047111,36.43331536490918,0 128.2628037226351,36.43326976078562,0 128.2628035879155,36.43323055160176,0 128.2627998276154,36.43322757375739,0 128.2627621063828,36.43312583734917,0 128.2627545169978,36.43306320612563,0 128.2627544039609,36.43299782740181,0 128.2627617163084,36.43292975892592,0 128.2627875721392,36.432882511165,0 128.2628465895995,36.4328150607449,0 128.2629127438844,36.43275374191668,0 128.2629674686979,36.43269264107529,0 128.2630454756716,36.43258180822217,0 128.2630832386332,36.4325016401563,0 128.2630549887164,36.43242255968188,0 128.2629993742446,36.43230019819752,0 128.2629175003575,36.43220068615488,0 128.2628594318307,36.43214194771655,0 128.2628015296849,36.43206497941886,0 128.2627336708522,36.43191636282657,0 128.262685430515,36.4318216965374,0 128.2626413825726,36.43175346662597,0 128.2625933964767,36.43170525567575,0 128.2624812427096,36.43167735690979,0 128.2623412886133,36.43161089163392,0 128.2622409718927,36.43159902769816,0 128.2621477468575,36.43159510424299,0 128.2620662213375,36.43157540561847,0 128.2619988705218,36.43150467416503,0 128.261990340144,36.43141188344288,0 128.2619497819532,36.43130167852882,0 128.2618560922401,36.43118144541514,0 128.2616740803679,36.43093616079036,0 128.2615764279501,36.43084685501037,0 128.2614640256237,36.43077186644284,0 128.2613854476859,36.43071773907887,0 128.2613273562534,36.43066064067897,0 128.2612932403932,36.43059678269808,0 128.2612825384923,36.43050702777717,0 128.2613080170516,36.43043145004444,0 128.261313111566,36.43034356316752,0 128.2613218600156,36.43025024397456,0 128.2612887283055,36.43019279936792,0 128.2612362687415,36.43012646971015,0 128.2612005770395,36.43009207640996,0 128.2611462206912,36.43007980106937,0 128.2610844522605,36.43008323409165,0 128.2610262360749,36.43007097375644,0 128.2609214326867,36.43003704757687,0 128.2608478250735,36.43000930184399,0 128.2607627479363,36.4299972011828,0 128.2606542279856,36.43000698474143,0 128.2605252572669,36.43002400086093,0 128.2604428387681,36.4300218787712,0 128.2603842502426,36.43000676393805,0 128.2602870924653,36.42996407759016,0 128.2601901731997,36.42990992028808,0 128.2600928364932,36.42987394382091,0 128.2599989786108,36.4298870243825,0 128.2599006857737,36.42990947306807,0 128.2597982576069,36.42990032551374,0 128.2596798351925,36.42985744128312,0 128.2595729524989,36.42982997261451,0 128.2594815264542,36.42982105158957,0 128.2593613015551,36.42984657343371,0 128.2592686164641,36.42986895499071,0 128.2591762273461,36.42988180319792,0 128.2590405243837,36.42988507922539,0 128.2589005442248,36.42985723842706,0 128.2587488782073,36.42980640815513,0 128.2586506351951,36.42974810347027,0 128.2585444862829,36.4296802324431,0 128.2584792132879,36.42962506696843,0 128.2583093242367,36.42949268230485,0 128.2582371877005,36.42943830154797,0 128.2581494942837,36.42937787314354,0 128.2579550406715,36.42929577788941,0 128.2577924272515,36.42926440916031,0 128.2576764213917,36.42926140839181,0 128.2575319551531,36.42926157840054,0 128.2573053627333,36.42928076631741,0 128.2571707840619,36.42929677551668,0 128.2569900067631,36.42931933679492,0 128.2568813551974,36.42934510405513,0 128.2567549566746,36.42937749201207,0 128.2566624673763,36.42942947467923,0 128.2565731797949,36.42954358459684,0 128.2565429033745,36.42964564007402,0 128.2565224665798,36.42972876963495,0 128.256463862143,36.42986321289869,0 128.2564240588166,36.42997534325524,0 128.2563875722335,36.43015941140392,0 128.2563901903284,36.43028199059033,0 128.2564268928286,36.43039036804995,0 128.2564076726214,36.43050379924836,0 128.2563432308391,36.43058067889071,0 128.2562562282147,36.43062464534441,0 128.2562347167234,36.43063795001316,0 128.2560974242709,36.43072855485318,0 128.256016147823,36.4307645498851,0 128.2558810855434,36.4307848826087,0 128.2558007412907,36.43078278520805,0 128.2556973359787,36.430814591089,0 128.2556249693931,36.43087134835362,0 128.2555342593525,36.43091859849326,0 128.2553944308124,36.43092676100084,0 128.2552706949881,36.43092970397412,0 128.2550918787006,36.43095046433228,0 128.2549337372786,36.43099607059593,0 128.2547726965812,36.43109919248127,0 128.2546682335413,36.43117922894214,0 128.254513375115,36.43132243450245,0 128.2543905261829,36.43143049864144,0 128.2542924207871,36.4315271311763,0 128.2542884351628,36.43153458882018,0 128.2541957373023,36.43162251170489,0 128.2540935730469,36.43167436419871,0 128.253998816389,36.43171027277943,0 128.2537476641595,36.43175101556105,0 128.2536090537691,36.43178975103288,0 128.2535018559427,36.4318327245824,0 128.2533229991077,36.43182584792662,0 128.253219294325,36.43180146236713,0 128.2531290627448,36.4317575728981,0 128.2530638492345,36.43172478869565,0 128.2530082049381,36.4316730931102,0 128.2529892251884,36.43163976920651,0 128.2530129673989,36.43157950739864,0 128.2530768016711,36.4315265559847,0 128.2531515429204,36.4314849331817,0 128.2532464146296,36.43142064229225,0 128.2532870985199,36.43139443671931,0 128.2533439188683,36.43133005480113,0 128.2533604618565,36.43126261770432,0 128.253361211387,36.43119296975171,0 128.2533267803007,36.43113458315663,0 128.2532180514127,36.43110408595022,0 128.2531175767204,36.43106044956348,0 128.2529385265062,36.43105529252462,0 128.2528257152275,36.43106769557912,0 128.2526934298625,36.43111469001298,0 128.2526809542471,36.43112161980626,0 128.2525998168624,36.43113988068181,0 128.2524685034381,36.43117276458933,0 128.2524480006182,36.43117654816341,0 128.2524270884598,36.43118375990992,0 128.2523014626427,36.43122358126701,0 128.2521731176841,36.43124925157535,0 128.252003544965,36.43126897020647,0 128.2518742897768,36.43128475964134,0 128.251747461661,36.43128295461781,0 128.2515648898995,36.43122891744817,0 128.2514883751323,36.4311889281867,0 128.2514297717092,36.43116656307836,0 128.2513888513821,36.4311517111742,0 128.2512813389447,36.43110438691129,0 128.2512110528327,36.43110077765714,0 128.2511122946079,36.43107434595958,0 128.2509767125702,36.43107475555188,0 128.250856681288,36.43107712235035,0 128.2507716158026,36.43108088717193,0 128.2506951077934,36.43108427332875,0 128.2506122706596,36.43106339400239,0 128.2504771788595,36.43102076560076,0 128.2503335191441,36.43097589956381,0 128.2501764428883,36.43091482053882,0 128.2500790072451,36.4308627634615,0 128.2499687534943,36.43083227398036,0 128.2498618034391,36.43080452453931,0 128.2497514290824,36.43078751003043,0 128.2496392454128,36.43075978575387,0 128.2495014845125,36.43072662632868,0 128.2494582622372,36.4307398665015,0 128.249397588145,36.43077425082499,0 128.2493394576127,36.43080889113386,0 128.2492851976157,36.43083309810794,0 128.2492465198784,36.43087617490232,0 128.2491766964046,36.43094437226724,0 128.2491112510296,36.43101429530874,0 128.2490554122,36.43107673738515,0 128.2490158673352,36.43113127177617,0 128.2489100285859,36.43118152374543,0 128.2488373087187,36.43118738531113,0 128.2487781065318,36.43116971525072,0 128.2487299163304,36.43112853965948,0 128.2486858467003,36.4311017350261,0 128.2486309985389,36.43106409150116,0 128.2485732365869,36.43102669499685,0 128.2485429882251,36.4309996752438,0 128.2485054197481,36.43097842724149,0 128.2484407107366,36.43096604560439,0 128.2483850033494,36.43097271856069,0 128.2483812317804,36.43097555206848,0 128.248308976898,36.43099919061125,0 128.2482701723878,36.43103060051874,0 128.2480958885697,36.43118595497033,0 128.2480688401285,36.43123213979253,0 128.2480327959367,36.43128553388945,0 128.2480114048846,36.43132300117851,0 128.2479694088747,36.43134693201657,0 128.2478277381881,36.43133461903948,0 128.2476474842634,36.43133449307197,0 128.246944195607,36.43124121859419,0 128.2464792453609,36.43118524149718,0 128.2453329040142,36.43102567936496,0 128.2442409535812,36.4308632735179,0 128.2436773878578,36.43079421446458,0 128.2430123111124,36.43067648235555,0 128.242799155865,36.43062575034048,0 128.2424736215554,36.43053385973498,0 128.2420358813195,36.43036157353087,0 128.2417420313457,36.43022876910953,0 128.2414394475027,36.43005428597947,0 128.2411768905864,36.42989042490122,0 128.2409353538976,36.42970169988808,0 128.2407517199595,36.42953477158903,0 128.2405804550011,36.42936527992653,0 128.2404180871409,36.4291851117777,0 128.240284261314,36.42901569584809,0 128.2401598944725,36.42882341064614,0 128.2399790327179,36.42850338746179,0 128.239870433684,36.42823495405532,0 128.2397844252453,36.42797348177696,0 128.2397200102993,36.42771730469848,0 128.2396864052808,36.42746884555149,0 128.2396458577021,36.42711890958958,0 128.2395991064074,36.42675964997003,0 128.2395510937937,36.42645222286822,0 128.2394706223639,36.42575880231677,0 128.23942013543,36.4254871080115,0 128.2393873201758,36.42507196717178,0 128.2393582888313,36.42474661890562,0 128.2392724220139,36.42415137790489,0 128.2392350516851,36.42374567825186,0 128.2391679101699,36.42318293942707,0 128.2391273646897,36.4228760343326,0 128.2391128343547,36.42257449591384,0 128.2391057699251,36.42221826404406,0 128.2391199573784,36.42169634156922,0 128.2391420798988,36.42144656778741,0 128.2391978810056,36.42109695633815,0 128.2392824472731,36.42072946450688,0 128.239403110413,36.42019469740279,0 128.2395088164422,36.41985334254971,0 128.2396881221872,36.41940130832021,0 128.2398749875995,36.41899992864231,0 128.240047469075,36.41864300370339,0 128.2402155654951,36.41834615315563,0 128.2404925273233,36.41790447116092,0 128.2407101363045,36.41759564004651,0 128.2411279402311,36.41708396037484,0 128.2414480110067,36.41673385645345,0 128.24219947699,36.41602369083357,0 128.2427883439852,36.41557882276993,0 128.2431870469646,36.41529109154721,0 128.2436190960459,36.41503076971187,0 128.24407857,36.41476586626693,0 128.2447164238792,36.41444581184324,0 128.245130809977,36.41426654152764,0 128.2456174892991,36.41407485091229,0 128.2461940584943,36.41387502473975,0 128.2466693285641,36.41373353114815,0 128.2471302776385,36.41362404945461,0 128.2476067663225,36.41351888542079,0 128.2484785655923,36.41337071998419,0 128.2491713676924,36.41330443089962,0 128.2497397794922,36.41325919851558,0 128.2504223011058,36.41322186545586,0 128.2514692213793,36.41315193704028,0 128.2519849538453,36.41313019532095,0 128.2532870670069,36.41304275589656,0 128.2541674036845,36.41298918516218,0 128.2554567279257,36.41290635378797,0 128.2564544098568,36.41283820070058,0 128.2571428143404,36.41279091597843,0 128.2585581313646,36.41268977042516,0 128.2590216040355,36.41265426635471,0 128.2603768665542,36.41258172660293,0 128.2616271099403,36.41250012888635,0 128.2631635152596,36.41240030298115,0 128.2640332980652,36.41233125816538,0 128.2646481437655,36.412289210122,0 128.2647754291913,36.41230152526101,0 128.2649411863195,36.41233596428408,0 128.2650661788956,36.41234409058914,0 128.2652059294739,36.41233616226407,0 128.2655197195809,36.41230282258966,0 128.2656389679847,36.41230695245854,0 128.2657820369458,36.41231501305045,0 128.2658649218241,36.41231318242646,0 128.2659515966376,36.41227262468235,0 128.266003520856,36.41223052049332,0 128.2660489737569,36.41213581420406,0 128.2661375910629,36.4119798285453,0 128.2662929644118,36.41178840688166,0 128.2664267424664,36.41155959439653,0 128.266500103774,36.41141218257469,0 128.2665329968376,36.41125566869476,0 128.2665828131304,36.41119636932818,0 128.2666219300893,36.41114559281568,0 128.2666412579548,36.41106395158169,0 128.2666597848543,36.41097577107126,0 128.2667098035594,36.4109134903452,0 128.2667971312354,36.41082422431492,0 128.266885307215,36.4107530728197,0 128.2669494512819,36.4106966332032,0 128.2670341055389,36.41064262317778,0 128.2671625642525,36.41059718281051,0 128.2673945490364,36.4105560692617,0 128.2675738952949,36.41051725408208,0 128.2677480316279,36.41048463737099,0 128.267880982516,36.41047443960076,0 128.2680532685943,36.41042361481408,0 128.2681592191639,36.41036300316437,0 128.2683283436484,36.41025717470518,0 128.2684791090388,36.41016284570961,0 128.2685937954773,36.41009702344412,0 128.2687422225973,36.41002964372414,0 128.2689351831767,36.40991704262706,0 128.2690253770366,36.40989603601049,0 128.2693768984783,36.40987895537295,0 128.269680367491,36.40984984806843,0 128.2698492577737,36.40978499487019,0 128.2699885576145,36.40969969475827,0 128.2701730188144,36.40958521193104,0 128.2703145860478,36.40946799167239,0 128.2704941731274,36.4093760672282,0 128.2706012623318,36.40934881562447,0 128.2707612698824,36.40933552225422,0 128.2711777695608,36.40930013086162,0 128.2713659962601,36.40926526224502,0 128.2714695920095,36.40923524809332,0 128.2715533797754,36.40918042687529,0 128.271603360491,36.40910624613927,0 128.2716172176972,36.40902195218489,0 128.2716570093432,36.40891419003108,0 128.2717752719935,36.40881308845673,0 128.2718714760285,36.4087403348432,0 128.2720950524547,36.40854631250443,0 128.2722106884048,36.40844753478565,0 128.2723169295666,36.408342696012,0 128.2723965010222,36.40823468170376,0 128.2724525105729,36.40812605907523,0 128.2725045076572,36.4080328689418,0 128.2725372178704,36.40788035601015,0 128.2725363405031,36.40774799212937,0 128.2725265685241,36.40754363738128,0 128.2725300516588,36.40738064167104,0 128.2725467031379,36.40717979094272,0 128.2725949926187,36.40703733612926,0 128.2727115349059,36.40691369377415,0 128.2728300912915,36.40684876421585,0 128.2731222269076,36.40669425812424,0 128.2735892830316,36.40646728318396,0 128.2738458787583,36.40635038642346,0 128.2740948624488,36.40625565819483,0 128.2741852745014,36.40623641150631,0 128.2744652190753,36.40619556993222,0 128.2751443599723,36.4061091575314,0 128.2754061265233,36.40607538521269,0 128.2755781185377,36.40605293805614,0 128.2757182221027,36.40600612318623,0 128.2758387175647,36.40597501964903,0 128.2761068144969,36.40592334625111,0 128.2763319339292,36.40589880065948,0 128.2764621393135,36.40590520800527,0 128.2765396862796,36.40591398854599,0 128.2765758617931,36.40596537348579,0 128.2765761888708,36.40606933669284,0 128.2765626165126,36.40627270131356,0 128.2765628791213,36.40639567267068,0 128.2765863754563,36.4065450214712,0 128.2766015531048,36.40668789078992,0 128.2765697766547,36.40684447842423,0 128.2765432261809,36.40698092583002,0 128.2765260003769,36.40732735268681,0 128.2764858570637,36.40743892037449,0 128.2764192298543,36.407553578561,0 128.276305763533,36.4076513192853,0 128.2762580336262,36.40774374482038,0 128.2762762769102,36.40786669579506,0 128.2763032067285,36.40802983023758,0 128.2763221813106,36.40814827218913,0 128.2763061654847,36.40822418969986,0 128.2762317061519,36.40833791648406,0 128.276130311243,36.40845684243443,0 128.2760883038064,36.4085589670997,0 128.2760853684653,36.40868134641791,0 128.276122509038,36.40882796709352,0 128.2762167867365,36.40897433353133,0 128.276266375993,36.40914647297619,0 128.2762866217041,36.40929203524097,0 128.2762804783426,36.40942480786515,0 128.2762893416751,36.40951490305992,0 128.2763739996776,36.40967949866249,0 128.2764352599125,36.40976521609957,0 128.2765183347031,36.40982421996488,0 128.2766047676116,36.4098582884065,0 128.2767064493773,36.40985961511505,0 128.2770076857716,36.4098398195252,0 128.2771367756127,36.40985445454696,0 128.2772011256819,36.40987919774,0 128.2772278485383,36.40993024210636,0 128.2773145857886,36.410154784745,0 128.2773754741243,36.41027827706301,0 128.2774102856072,36.41040371049436,0 128.2774169815841,36.41049357418208,0 128.2774239010956,36.41058160036893,0 128.277467218822,36.41066046416374,0 128.2775379215732,36.4107473996269,0 128.2775908688479,36.41083079408143,0 128.2776795922929,36.4109977022269,0 128.2777403094459,36.41117179637742,0 128.2778070468608,36.41131593993735,0 128.2778947490619,36.41155858335588,0 128.2779901031966,36.41182907246081,0 128.2780355152671,36.41195662409852,0 128.2780486443153,36.41212751617213,0 128.2780453840005,36.41223318241801,0 128.2780644783495,36.41236306530874,0 128.2781525509863,36.41252938626012,0 128.278289238589,36.41274594643795,0 128.2783466286274,36.41286796490507,0 128.278460087316,36.41293377931367,0 128.2785159153363,36.4129553051871,0 128.2786004195998,36.41294933436633,0 128.2786824127283,36.41291627683277,0 128.2787251723869,36.41286202078903,0 128.2787905406203,36.41274628537211,0 128.2788450808562,36.4125893893594,0 128.2789022101339,36.41242186620761,0 128.278965216128,36.41231656494939,0 128.2790552228436,36.41221012906222,0 128.2791127038055,36.41212196118137,0 128.2791831912263,36.41200908804206,0 128.279219305219,36.41195447593035,0 128.2792983281175,36.41189345223315,0 128.2793521733987,36.41186733486931,0 128.2794375531339,36.41184532828416,0 128.2795169378924,36.41182992038342,0 128.2796356888588,36.41182943870618,0 128.2797698340743,36.41184138467698,0 128.2799962453059,36.4119257239245,0 128.2802381290962,36.41204595354903,0 128.2803777518898,36.41216165579264,0 128.2806001817106,36.41234168406135,0 128.2807934290372,36.41250983245718,0 128.2809717292529,36.4126414322087,0 128.2810949807638,36.41270802197396,0 128.2812137471927,36.41275625526419,0 128.2812737617707,36.41276002353634,0 128.2814534252338,36.41270971783287,0 128.2817018215993,36.41263169905866,0 128.2818921156531,36.41260745293507,0 128.2821001003099,36.4126168136864,0 128.2822488644646,36.41266349668537,0 128.2823567539522,36.41272395097647,0 128.282543104576,36.41283148821153,0 128.2828615660084,36.41297266329767,0 128.2830837273866,36.41310301456172,0 128.2832071064314,36.41320312742944,0 128.2832611502792,36.41331496991425,0 128.2833337485453,36.41352487673677,0 128.2833791094241,36.41361280456834,0 128.2835766133341,36.41374330033769,0 128.2836768269602,36.41364837959951,0 128.2838802473483,36.41347830700077,0 128.2844330668503,36.41299437540457,0 128.2846239983808,36.41283091305117,0 128.284780971001,36.41265129251825,0 128.2848714453872,36.41251022571719,0 128.2850945064881,36.41214651801219,0 128.285250014312,36.41190792141549,0 128.2854028468736,36.41169142793558,0 128.285467660607,36.41156859686286,0 128.2855255802959,36.41145292301044,0 128.2856146065687,36.41123279753767,0 128.2856330957288,36.41107293877315,0 128.2856227184131,36.41089307892773,0 128.2855975189958,36.41075470338846,0 128.2853501228146,36.4099896953739,0 128.2852686105658,36.40978338134368,0 128.2852539818051,36.40964861202161,0 128.2852226691814,36.40951365835878,0 128.2852366215171,36.40939068455047,0 128.2852587498446,36.40926059734407,0 128.2854717656759,36.40886513959901,0 128.2855315075075,36.4087746341181,0 128.285559196084,36.40874554589168,0 128.2853078741923,36.40867728086833,0 128.285813343415,36.40790601579532,0 128.2859849803135,36.407613742406,0 128.2860307807682,36.40759146523656,0 128.2862609293132,36.40763350883685,0 128.2865989719307,36.40766153588581,0 128.2875245595963,36.40768409147467,0 128.2880231126454,36.40769087670508,0 128.2882153376925,36.4077178137355,0 128.2885712828453,36.40779911604969,0 128.2886881015146,36.40781825049559,0 128.2889845786879,36.40782536733313,0 128.2910772448425,36.40790785659903,0 128.2924181432958,36.40795272897083,0 128.2925867584408,36.40797018819502,0 128.2926673237563,36.4080153814084,0 128.292740338133,36.40807343412855,0 128.2927507137592,36.4081447741399,0 128.2927426425882,36.40821683356983,0 128.2927132563459,36.40829485061723,0 128.292704369671,36.40839487680125,0 128.2927239695664,36.4084667779093,0 128.29281013484,36.40853936509598,0 128.2929266500912,36.40862085456737,0 128.293271874837,36.40878190635266,0 128.2933864745687,36.40884645524528,0 128.2934685640812,36.40891160706482,0 128.2936918920458,36.409121674604,0 128.2938541216665,36.40938116693447,0 128.2939184869785,36.40953471295234,0 128.294016403367,36.4096941511245,0 128.2940531558377,36.40973040564371,0 128.2943310829884,36.40970572340349,0 128.2945662180755,36.40967997395013,0 128.2947018717584,36.4096702239039,0 128.2949209345215,36.40964571950891,0 128.2950698937769,36.40962441640574,0 128.2952269126874,36.40953414406521,0 128.2954608484169,36.40944226547893,0 128.2956562741094,36.40930455177673,0 128.2958573688527,36.40918067066,0 128.2959964212459,36.40902212468573,0 128.2961463027762,36.40893266165948,0 128.2963466828648,36.40883038796534,0 128.2965233638532,36.40875485371598,0 128.296735159846,36.40865989397121,0 128.2969358725709,36.40859943195929,0 128.2970232381473,36.40857061032656,0 128.2972353588486,36.40851660798377,0 128.2973823005678,36.40846592355607,0 128.2975771809968,36.40841959607568,0 128.297735930079,36.40837120439353,0 128.2979288119929,36.40830798086523,0 128.2981022599304,36.40826436447053,0 128.298227613924,36.40822914984288,0 128.2983899111938,36.40818695908797,0 128.2984763157827,36.40814346825021,0 128.2985616003441,36.40808678717894,0 128.2986823104129,36.4080020738544,0 128.2988248768983,36.40793790059625,0 128.2989155017052,36.40793080116831,0 128.2990157908911,36.40792903399538,0 128.299124920561,36.40794845127559,0 128.2992228477373,36.40797799811456,0 128.2992982200036,36.407996376322,0 128.29939543843,36.4080005804882,0 128.2994511678997,36.40799972392092,0 128.2995441135624,36.40797071835237,0 128.2996671674017,36.40792533854718,0 128.2997444578738,36.40791493540242,0 128.2998477918,36.40790176318492,0 128.2999205029937,36.40792265952327,0 128.2999850934279,36.407947751462,0 128.3000346860249,36.40799378765671,0 128.3001036904103,36.40807171302606,0 128.3001322971767,36.40815117406459,0 128.3002852513118,36.40834648678371,0 128.3003915842388,36.40845358126686,0 128.3005083514965,36.40855514985448,0 128.300744702746,36.40873724794434,0 128.3008686853726,36.408811562009,0 128.3009922003354,36.40886993541165,0 128.3010574831758,36.40889235886286,0 128.3011216158344,36.40889235371087,0 128.30118273034,36.4088699141489,0 128.3012773216331,36.40882308729028,0 128.3014295751276,36.40872363350456,0 128.3015153438392,36.40867882458696,0 128.301612128273,36.40860474163998,0 128.3017329723735,36.40852624031889,0 128.3018398447118,36.40847576992977,0 128.3019374397443,36.40845703936412,0 128.3020995721742,36.40845230296723,0 128.3022125419405,36.40845884939105,0 128.3023004277761,36.40848762239371,0 128.3023981147299,36.40853915339991,0 128.3024486504247,36.40857957715966,0 128.3024924017739,36.40866042318905,0 128.3025191474994,36.40873995975414,0 128.3025444448385,36.40883453408266,0 128.3026071600243,36.40894508039211,0 128.3026441349965,36.4090449225264,0 128.3027009329807,36.40910877582276,0 128.302705468126,36.40911240178684,0 128.3027554245336,36.40915603599682,0 128.3027554333474,36.409157889043,0 128.302850982371,36.4091916863005,0 128.3029750164634,36.40919926774531,0 128.30315001685,36.40919687416954,0 128.303282476639,36.40919712977605,0 128.3033800362311,36.409218770213,0 128.3033823955408,36.40922064534345,0 128.3034876439264,36.40925381948297,0 128.3035961917526,36.40928338622878,0 128.3037231040689,36.40930539076532,0 128.3038200446299,36.40931233592358,0 128.3039950158737,36.40931125097698,0 128.3041545838085,36.40930832973643,0 128.3044476912342,36.40927878862438,0 128.3045925211817,36.40925776261338,0 128.3047470495207,36.40923235028063,0 128.3049164185598,36.40921457640508,0 128.3050595408754,36.40919482718785,0 128.3051689196438,36.40919383252651,0 128.3053407862042,36.40921406602426,0 128.3054607634748,36.40929120691103,0 128.305516717591,36.40938374823327,0 128.3055391543624,36.40947630989491,0 128.3055504729366,36.40960407781213,0 128.3055320521514,36.40976613506417,0 128.3055412069536,36.40984803690122,0 128.3055726957589,36.40996978892891,0 128.3056339797824,36.41009045427664,0 128.3056779716457,36.41013489178059,0 128.3057564874965,36.41018791272411,0 128.3058358198731,36.410207026281,0 128.3059357756057,36.41021731309356,0 128.3060875204796,36.41020488310871,0 128.3061906179638,36.41019016266539,0 128.306267526942,36.41015454100805,0 128.3063120039549,36.41010270532217,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스</name>
+			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.316399448812,36.40277093986396,0 128.3162995556046,36.40283405424876,0 128.3162323572961,36.40288988332664,0 128.3161885412613,36.40293273160414,0 128.3162470775174,36.40304254619409,0 128.3164048567892,36.40332727894597,0 128.3165099358861,36.40356765031176,0 128.3166293995105,36.40377705910734,0 128.316717655778,36.40394847887499,0 128.3167613000433,36.40412285165088,0 128.3168609141421,36.40433455189557,0 128.3169080234468,36.40437386221518,0 128.3169635314875,36.4043878447013,0 128.3170764706188,36.40438224806261,0 128.317652270439,36.40432499056602,0 128.3177605515994,36.40433530639957,0 128.3179106008037,36.40439554534553,0 128.3180044293269,36.40443379494923,0 128.3179482962409,36.40468872031245,0 128.3179160940993,36.40480451472858,0 128.31788458744,36.40527492059466,0 128.3178673298731,36.40556937512806,0 128.317824925216,36.4063394257358,0 128.3178024760801,36.40675877364624,0 128.3178029739489,36.40692428675978,0 128.3178032271979,36.40703480010724,0 128.3178244388284,36.40711658189236,0 128.3178584169182,36.40722440461811,0 128.317875790702,36.40733682954959,0 128.3178830201997,36.40741673199905,0 128.3178668332692,36.40755557227866,0 128.3178306733377,36.40775900849498,0 128.3177968232137,36.40794885773693,0 128.3177386321535,36.40807613452208,0 128.3176786152786,36.40821775672495,0 128.3176429609717,36.40831160819116,0 128.3176164676593,36.40839715333134,0 128.3175814766497,36.40862942116211,0 128.3175458804442,36.40884565146141,0 128.317507550255,36.40918601227824,0 128.3174689436737,36.40930796271341,0 128.3174337873684,36.40937436562248,0 128.3173850013708,36.40944919079843,0 128.3172887917351,36.40961791592155,0 128.3171710930748,36.40980041814881,0 128.3170901678908,36.4099256597639,0 128.3170121365165,36.41000234085129,0 128.3169278820583,36.41007776360237,0 128.3166618162449,36.41028151641239,0 128.3162929237292,36.41057260214951,0 128.316028787449,36.41077549179363,0 128.3156102049226,36.41103136986406,0 128.3150364251163,36.41138699492822,0 128.3144902461098,36.41173504869762,0 128.3139616467111,36.41206246977417,0 128.3137207750758,36.41219316695036,0 128.3136222755683,36.41223548785149,0 128.3134809588051,36.41229397948037,0 128.3126686639188,36.41257791983949,0 128.3124514964449,36.4126578478138,0 128.3123343695848,36.41269860698164,0 128.3122222565719,36.41272212072932,0 128.3121072900206,36.41273230003405,0 128.3119960236279,36.41271362244414,0 128.3117841703066,36.41263076694771,0 128.3117082850165,36.4126019963913,0 128.3116599236677,36.41258765791091,0 128.3115766931642,36.41257339668128,0 128.3114754685733,36.41257750773267,0 128.3114032450879,36.41259208062542,0 128.3113278077199,36.41259911400316,0 128.3112697387958,36.41259821717735,0 128.311214641169,36.41259200099405,0 128.311154437518,36.41256595421395,0 128.3111120947876,36.41254242020327,0 128.3110632720496,36.41250574054295,0 128.3110177251105,36.41247696759132,0 128.3109754474533,36.41245082405678,0 128.3109294527983,36.41246796291595,0 128.3108612896212,36.41242531130568,0 128.3107994069391,36.41236046448088,0 128.310739103789,36.4122892295004,0 128.3106920681919,36.41217635806949,0 128.3106271883111,36.41210850690749,0 128.3105703406615,36.41206273382838,0 128.3104797435903,36.41201592839391,0 128.3104326239643,36.41198716537526,0 128.310394872387,36.41194368542784,0 128.3102248071393,36.41163646998388,0 128.3101538072073,36.41148767748517,0 128.3100568367237,36.41131267099424,0 128.3100112932895,36.41125868680334,0 128.309955648215,36.41121786626925,0 128.3099083313683,36.41121248194932,0 128.3098297934553,36.41121357265112,0 128.3097163004144,36.41124644397527,0 128.3095119272902,36.4113622289081,0 128.3092428524122,36.4114956342287,0 128.3089056819943,36.41163854379417,0 128.3086477668947,36.41170485702483,0 128.3084141969079,36.41177213991242,0 128.308385847003,36.41180303265948,0 128.3083756869331,36.41187304224416,0 128.3083752716702,36.41194893116664,0 128.3083798539267,36.41203190861921,0 128.308379635181,36.41207285290985,0 128.3083492377222,36.41209622347927,0 128.3081230262559,36.41216974857705,0 128.3079594227892,36.41226141964354,0 128.3077850965356,36.41236283408011,0 128.3076689254337,36.41243889659388,0 128.3075151274881,36.41250536244075,0 128.30724317188,36.41203014993806,0 128.3070826147584,36.41173810456569,0 128.3068700026449,36.41137187628687,0 128.3066165632696,36.41093816978682,0 128.3065119062843,36.41075806111118,0 128.306432113961,36.41062531515804,0 128.3063923533613,36.41051786604473,0 128.3063496647245,36.41035262921432,0 128.3063102727893,36.41024141311689,0 128.3062404802667,36.40971144336959,0 128.306091623492,36.40882534541084,0 128.3060199025918,36.40839052115223,0 128.3059074327544,36.4076973126765,0 128.3057773465839,36.40702074425303,0 128.305644124088,36.40633292317214,0 128.3055503293489,36.40592587367045,0 128.3055236130094,36.40585582601416,0 128.3054409199584,36.40576043036689,0 128.3053973615543,36.40562945455383,0 128.3053532048566,36.40548348537048,0 128.3053124074872,36.40535849332024,0 128.3054113593754,36.40532889081991,0 128.305184293706,36.40436846948155,0 128.3047364885258,36.4024642455577,0 128.3044166152651,36.40101264703205,0 128.3042192622018,36.40030325831279,0 128.3042963963173,36.40027497711154,0 128.3042397368398,36.40012064198189,0 128.3040729234769,36.3995358626637,0 128.3037298553074,36.39772705270281,0 128.303480600276,36.39683621515619,0 128.3033563097218,36.39636497158782,0 128.3031438088775,36.39595142163802,0 128.3027518080259,36.39526083416839,0 128.3024703886974,36.39494435951081,0 128.3019500932259,36.39422581083679,0 128.3015110813899,36.3937159518084,0 128.3012847258319,36.39329985776401,0 128.30100044927,36.39277432638675,0 128.3006645186136,36.39212137521864,0 128.3003043864155,36.39153399038708,0 128.299826600616,36.39078553245905,0 128.2995771978844,36.39039142796811,0 128.298993855913,36.38978489410612,0 128.2984642612521,36.38920471867192,0 128.2977536058517,36.38847722969778,0 128.2976957951371,36.38840751085645,0 128.2979662052085,36.38811746774686,0 128.2981721561896,36.3878702564914,0 128.2991801946398,36.38689872148918,0 128.2998728997,36.38624586335619,0 128.3002874705938,36.38583207283595,0 128.3003726531453,36.3857613145439,0 128.3004261400176,36.38567652764071,0 128.3004390164111,36.38560679245519,0 128.3004172499015,36.38552177392267,0 128.3003880993103,36.3854676706632,0 128.3003591060381,36.38539855298685,0 128.3003777349671,36.38534381956406,0 128.3004801774761,36.38523375682357,0 128.3005705308738,36.3851371061298,0 128.3006633390177,36.3850239175308,0 128.3007373449073,36.38493249463569,0 128.3008282416836,36.38487056624508,0 128.3008352541452,36.38487049289,0 128.3008491088497,36.38485881107062,0 128.3008734644269,36.38484992711499,0 128.3009635027626,36.38482037750627,0 128.3010383105383,36.38475989518865,0 128.3012697657919,36.38456267684897,0 128.3014251400039,36.38444129154144,0 128.3015062991224,36.38437045116149,0 128.3015550708222,36.38429237032266,0 128.3016106514118,36.38417004980614,0 128.3016535037975,36.3840678411574,0 128.3016896307905,36.38402664333829,0 128.3019793429585,36.38386089168106,0 128.3021637719802,36.38377955968863,0 128.3024304990618,36.38361925370094,0 128.3025355266375,36.38353781622899,0 128.3025841211992,36.38347847923882,0 128.3026226278027,36.38340715776054,0 128.3026512203935,36.38328916230159,0 128.3026699740155,36.38319397434319,0 128.3026761561478,36.38310906810563,0 128.3026729425066,36.38299952768011,0 128.3026729404522,36.38299704439568,0 128.3026728770387,36.38292019010779,0 128.3026838294832,36.38281845799457,0 128.3027470552558,36.38278621931214,0 128.3027536386752,36.38278352155911,0 128.3027962738188,36.38276479836112,0 128.3029298586361,36.38265221026336,0 128.3030364985848,36.38260669469953,0 128.3031283951752,36.38257441377336,0 128.3032037616118,36.38255236492246,0 128.3032635116871,36.38251149455589,0 128.3033198755711,36.38247805495622,0 128.3034110105857,36.38241178383937,0 128.3034546848025,36.38237188451421,0 128.303466171639,36.38234379471843,0 128.3035034636945,36.38227865631217,0 128.3035663966291,36.38227629088587,0 128.3036613018873,36.38230868241404,0 128.3037015112583,36.38231917153756,0 128.3037521030836,36.38234763885134,0 128.3037944380909,36.38235317784966,0 128.3038419269402,36.38233630282615,0 128.3038773552233,36.38229226256573,0 128.3038842013374,36.38224282665854,0 128.3038552215712,36.38215373198769,0 128.3038427076531,36.382107009682,0 128.3038315026607,36.38203266864837,0 128.3038267111147,36.38196497473839,0 128.3038376792958,36.38191415366654,0 128.3038392590311,36.3818178168307,0 128.3038597614163,36.38169607550012,0 128.3038795603837,36.38152781042094,0 128.3039042322174,36.38134804711802,0 128.3039658437647,36.38123058002427,0 128.3040449424831,36.38111003963925,0 128.3041927325342,36.38098618752359,0 128.3043055059519,36.38088166189885,0 128.3044262051938,36.38080234487067,0 128.3046552388914,36.38063507134793,0 128.3047262094379,36.38054488631606,0 128.3048245458151,36.38042937144932,0 128.3048848761414,36.38033956777949,0 128.304904965425,36.38013490983552,0 128.3049022685763,36.37996434936431,0 128.3048574940387,36.37984679496415,0 128.3047481360348,36.37975096163665,0 128.304742716339,36.37975093267685,0 128.3046643412123,36.37967979187114,0 128.3045367143915,36.37960812634596,0 128.3044579510822,36.37956269653352,0 128.3043752125152,36.37947090327261,0 128.3043688069815,36.37924483854085,0 128.3043197167274,36.37907095963878,0 128.3043537975851,36.37882307575499,0 128.3043543863818,36.37867771976686,0 128.3043035171144,36.37857338947001,0 128.3041158199106,36.37837794646484,0 128.303701481829,36.3780541462371,0 128.3035847633412,36.37798906789241,0 128.3035378426113,36.37791871986803,0 128.3034733905061,36.3778343687155,0 128.3033799463887,36.3777878781685,0 128.3032162590189,36.37770408755745,0 128.3030699380971,36.37762481635026,0 128.3029644641203,36.37754997658833,0 128.3028765339857,36.37749385988831,0 128.3027779968947,36.37747195514652,0 128.3025811022138,36.37744344533739,0 128.3024346011388,36.37744577797322,0 128.3022557328265,36.37737793691306,0 128.3020295957916,36.37726686182837,0 128.3018871248446,36.37713237024282,0 128.3017688381063,36.3769823444874,0 128.3017141616816,36.37684409015431,0 128.3017082179686,36.37674693584206,0 128.3016782342684,36.37662538730007,0 128.3015820383939,36.37655596922127,0 128.3015230996928,36.37636212930062,0 128.3014410963024,36.37610934202532,0 128.3013707469535,36.37596446649841,0 128.3013121218972,36.37586835275061,0 128.3011938199352,36.37578270326782,0 128.3011878416827,36.37578275742907,0 128.301038571997,36.37575990131681,0 128.300906228763,36.37576586596161,0 128.3007490555353,36.37577689480418,0 128.30059871245,36.37572991422646,0 128.3005867005169,36.37572518185895,0 128.3004336868794,36.37563036725761,0 128.3003593817418,36.37554415156449,0 128.3003163826918,36.37546758648586,0 128.3002926527739,36.37535457640032,0 128.3002314426147,36.37525319311698,0 128.3001460152097,36.37511169781489,0 128.3000290814429,36.37500700158498,0 128.2999252945246,36.37487679617629,0 128.2998477364079,36.3747010656104,0 128.2997759005974,36.3745663121485,0 128.2997092219477,36.37448701707067,0 128.2996875410787,36.37407568863188,0 128.2997045167713,36.37385377124877,0 128.299763834211,36.37371031906162,0 128.2998351569808,36.37357791721501,0 128.2998679102345,36.37349158837857,0 128.2999010578869,36.37337511269252,0 128.2998908164103,36.37323370686475,0 128.2998486649893,36.37314300720546,0 128.2997828124697,36.37297770907615,0 128.2997775818629,36.37290313116981,0 128.2998179769666,36.372827833811,0 128.2998387111694,36.37269413549664,0 128.2998332311198,36.37262211065031,0 128.2998342991167,36.37253485726177,0 128.2997593009339,36.37244193520392,0 128.2996716519774,36.3723193399907,0 128.2995960740946,36.37221301262927,0 128.2995529803779,36.37208601918766,0 128.2995167655766,36.37193374029353,0 128.299486322767,36.3718273658658,0 128.2994520099899,36.37167442138183,0 128.2994623841613,36.37156209025488,0 128.2994772568032,36.37148615170293,0 128.2995106440451,36.37142060638739,0 128.2995689071735,36.37136035706677,0 128.299730438398,36.37127783787312,0 128.2998279221331,36.3712789399515,0 128.299947134695,36.3712570916414,0 128.2999502171025,36.37116075673867,0 128.2999701632803,36.37080349998136,0 128.2999350465693,36.37052827933945,0 128.2998716171147,36.37015699758381,0 128.2998635684154,36.36987904252852,0 128.2997990086299,36.36956087520468,0 128.2998105303199,36.36903113020193,0 128.299797164826,36.36861997423095,0 128.299794920566,36.36808861860788,0 128.2997998338019,36.36783790340031,0 128.2996584010753,36.36753568821953,0 128.2995322005341,36.36733476893127,0 128.2994933000776,36.36708938220453,0 128.2994109507752,36.36684544899062,0 128.2992970494361,36.36656574032866,0 128.2992491436825,36.36634299742859,0 128.2992982566403,36.36621338036959,0 128.2992965606043,36.36599903989846,0 128.2991901939497,36.36579225458233,0 128.2991948777496,36.36558237005153,0 128.2992567250492,36.36542097606127,0 128.2993078233363,36.3651473683053,0 128.2992858771768,36.36492473594479,0 128.2988225019518,36.36489263372631,0 128.2984009750252,36.364806122453,0 128.2980154653593,36.364728816122,0 128.2980303255105,36.36456760558065,0 128.2981554731905,36.36373763339035,0 128.2981870005989,36.36332975970865,0 128.2982739920182,36.36285889711856,0 128.2983336362991,36.36225082081951,0 128.2983625117205,36.36176086637619,0 128.2984901643365,36.36128708012393,0 128.2986235504984,36.36094512452561,0 128.2988314983984,36.36066107554863,0 128.2990086395356,36.36043793422581,0 128.2992940302619,36.36016171530597,0 128.2995286331897,36.35998988161507,0 128.2996504566262,36.35997510736979,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>도남서원</name>
+			<LookAt>
+				<longitude>128.254543693982</longitude>
+				<latitude>36.44021298640363</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03146428294134859</heading>
+				<tilt>0</tilt>
+				<range>644.8163644042126</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2542308267672,36.44021071458336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>병성교</name>
+			<LookAt>
+				<longitude>128.2254102071915</longitude>
+				<latitude>36.4374185212495</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04876832217098567</heading>
+				<tilt>0</tilt>
+				<range>1460.880298724696</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.221885561903,36.43727572162652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정기룡장군 신도비</name>
+			<LookAt>
+				<longitude>128.2249337678976</longitude>
+				<latitude>36.43973348431533</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04905115637267084</heading>
+				<tilt>0</tilt>
+				<range>1104.214790066803</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2219326204501,36.44044535288296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>충의사</name>
+			<LookAt>
+				<longitude>128.2158619247197</longitude>
+				<latitude>36.44447129340652</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05443995350109194</heading>
+				<tilt>0</tilt>
+				<range>1093.736066582335</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2126262595407,36.44496702958259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>전사벌왕릉</name>
+			<LookAt>
+				<longitude>128.22504988465</longitude>
+				<latitude>36.44505309161777</latitude>
+				<altitude>0</altitude>
+				<heading>-0.048981752936141</heading>
+				<tilt>0</tilt>
+				<range>558.6018715897811</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2238705010791,36.44498028434156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>화달리3층석탑</name>
+			<LookAt>
+				<longitude>128.22504988465</longitude>
+				<latitude>36.44505309161777</latitude>
+				<altitude>0</altitude>
+				<heading>-0.048981752936141</heading>
+				<tilt>0</tilt>
+				<range>558.6018715897811</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2231045224266,36.4449415527679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>경천대</name>
+			<LookAt>
+				<longitude>128.2457616371342</longitude>
+				<latitude>36.45722124200538</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03667739489109701</heading>
+				<tilt>0</tilt>
+				<range>526.3727744226362</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2464183396947,36.45824825116413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3코스 등산1</name>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3016680861361,36.3766309671984,0 128.3017120073689,36.37650040093859,0 128.3017411379905,36.37636508120585,0 128.3017701326301,36.37621281647958,0 128.30172615093,36.37602650744918,0 128.3017914610066,36.37581570501941,0 128.3018201297203,36.3756645393108,0 128.3019215944875,36.37550238398998,0 128.3020092187859,36.37539759186478,0 128.3020531935342,36.37529206750209,0 128.3021129672358,36.375093774522,0 128.3021837492921,36.37487448737394,0 128.3022818532988,36.37468555610967,0 128.3024071238839,36.37454947363692,0 128.3025722573483,36.3743542065183,0 128.3026830904441,36.37421577843793,0 128.3027219264534,36.3740382964457,0 128.3028107471233,36.3736803121493,0 128.3029418795976,36.37337542378324,0 128.3029689436807,36.37322123113523,0 128.3029905910606,36.37306738644703,0 128.3029905879225,36.37290897693143,0 128.302990512031,36.37270206982394,0 128.3029905031863,36.37269328020585,0 128.3029794544681,36.37255262132414,0 128.302979437374,36.37253505207016,0 128.3029902523313,36.37244292520426,0 128.3030854096275,36.37205840852757,0 128.303204978976,36.37180340370554,0 128.30334158853,36.37163161937063,0 128.3033581328668,36.37161395302562,0 128.3034774355791,36.37151721858823,0 128.3037565733718,36.37145093901524,0 128.3039267041614,36.37148182539762,0 128.3039431920154,36.37148624856098,0 128.3039872065145,36.37148626252148,0 128.3041917103214,36.37148188785339,0 128.3044203411932,36.37143285895397,0 128.3046805689067,36.37136974937909,0 128.3050372271154,36.37130083925954,0 128.3054224771312,36.37124446986633,0 128.3056444548635,36.3712161264927,0 128.3059116282153,36.37120625329192,0 128.3060901378869,36.37116846243569,0 128.3062280779114,36.37128770073241,0 128.3060458504697,36.37157105200703,0 128.3059528628334,36.37175217662882,0 128.3059021406255,36.37195899888903,0 128.305982370623,36.37208185366593,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스 제방</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3043085919854,36.40027402461939,0 128.3043931951711,36.40031421208191,0 128.3046126787591,36.40029229779412,0 128.305301313465,36.400034816653,0 128.3060109187071,36.39968859209448,0 128.3066091532515,36.39930694041635,0 128.3070891252862,36.39899459328696,0 128.3076533153528,36.39866629713348,0 128.3079683779187,36.39845570877124,0 128.3082295986939,36.3982767334788,0 128.3086821678415,36.39784650769589,0 128.3090089306242,36.39747029388602,0 128.3092770272845,36.39705616192728,0 128.3097766068231,36.39631739842495,0 128.310169518849,36.39567392233188,0 128.3108881344383,36.39466598571622,0 128.3114078166649,36.39383337852711,0 128.3123002488295,36.39248077709797,0 128.3125447416915,36.39204356919793,0 128.3128995451865,36.39131166230672,0 128.3130764560542,36.39075175768269,0 128.3131664021356,36.39018725074595,0 128.313216621478,36.38957903733171,0 128.313188771656,36.3889984385697,0 128.3130685098789,36.38817508652112,0 128.3129092886709,36.38703073740462,0 128.3128085485089,36.38648091693696,0 128.3126182240523,36.3852789706216,0 128.3125470131595,36.38480472541669,0 128.3125059672474,36.38465128888663,0 128.3124623918475,36.38453337197331,0 128.3124552774211,36.38443896363964,0 128.3125426777516,36.38442332566506,0 128.3128154031735,36.38435828949039,0 128.3129514084463,36.38431063020832,0 128.3130848397799,36.38420421482451,0 128.3132089233634,36.38403675336861,0 128.3132753746653,36.38393458758323,0 128.3132149115184,36.38334772685074,0 128.313031359833,36.38278887171803,0 128.3128669974854,36.38238621256281,0 128.3127460130838,36.38215348023502,0 128.3126412372087,36.38185136085266,0 128.3124148954433,36.38135449933353,0 128.3121641330725,36.38065819524301,0 128.3121783774588,36.38046944168858,0 128.3120763311659,36.38028675444708,0 128.3119619753732,36.38009906339412,0 128.3118978578914,36.37994095345425,0 128.3118331615239,36.37975938124428,0 128.3116277499356,36.3793919472604,0 128.3114962897452,36.37918625483258,0 128.3114088951903,36.37906904724367,0 128.3114163268102,36.3788588317315,0 128.3113944866914,36.37871219858211,0 128.3113799081209,36.37855337906905,0 128.3112921431778,36.37844772575161,0 128.3110636805192,36.37822049504592,0 128.3109465926541,36.3780416776879,0 128.3109229670841,36.37792850675621,0 128.3108487051055,36.37776521847755,0 128.3106867652098,36.37773936202548,0 128.3104999420469,36.37775203954148,0 128.3104923493841,36.37775216730866,0 128.3103262566269,36.37777677451282,0 128.3102361715716,36.37777823847539,0 128.3100767353015,36.37746371396883,0 128.3099939019439,36.3772873144109,0 128.3099722686878,36.37711108779064,0 128.3099112156065,36.37691785520428,0 128.3098220830782,36.37672894514361,0 128.3097535087604,36.37655735138507,0 128.3097154734142,36.3765098125596,0 128.3095156172878,36.37643888266681,0 128.309358014544,36.37636240559445,0 128.3091894974172,36.3762637377349,0 128.308983188221,36.37621128705482,0 128.3088533555321,36.37617879836111,0 128.3088374586616,36.37609150938799,0 128.3088378137686,36.37534621394167,0 128.3088391287372,36.37513150486394,0 128.3088256603651,36.37498585848486,0 128.3087844903617,36.37485492136205,0 128.3087445795998,36.37476257926083,0 128.3086649469566,36.37467300471601,0 128.3084249809009,36.37461994210403,0 128.3081217436771,36.37459374602199,0 128.3075014457626,36.37445276305753,0 128.3073482605897,36.37438060597408,0 128.3072252376747,36.37421367742067,0 128.3071428982009,36.37402146402133,0 128.3071350021186,36.37390124744143,0 128.3071857286017,36.37375478657467,0 128.3072528804956,36.37362752155396,0 128.3073228376638,36.37351398238312,0 128.30741712349,36.37336834217023,0 128.3074308623154,36.37322041889788,0 128.3073117541008,36.37306040564028,0 128.3071680898171,36.3729246101946,0 128.3070263991465,36.37275361096364,0 128.3069732214037,36.37265650327986,0 128.3068917876669,36.37254947065061,0 128.3066904283792,36.37245234009198,0 128.3060984585312,36.37218613784275,0 128.3059896984425,36.37207636925599,0 128.3060405443089,36.3719452472973,0 128.3061240101256,36.37176526088785,0 128.3061682962258,36.37166878437224,0 128.3064046994107,36.37156018903251,0 128.3066509816065,36.37147878876144,0 128.3068419715481,36.37140935304561,0 128.3069969192868,36.3713329903477,0 128.3073387568601,36.37111027638535,0 128.3074170022941,36.37102571166204,0 128.3074812620052,36.37090344053367,0 128.3074915731191,36.37076833817742,0 128.3075641182808,36.37063627484039,0 128.3076765656665,36.37053981837155,0 128.3078336909492,36.3703463247244,0 128.3078829786202,36.37022199313599,0 128.3079325552203,36.37006043388586,0 128.3080489596111,36.36951958902933,0 128.3081274707148,36.36929025857924,0 128.3081227219642,36.3690491794,0 128.3081154769848,36.36881628975689,0 128.3080389901791,36.36816394244027,0 128.30793395206,36.36790494822856,0 128.3079085687022,36.36771716230822,0 128.3078924882888,36.36757356671851,0 128.3078886388896,36.3674817225513,0 128.3079080496753,36.3671499180287,0 128.3078438947669,36.36695321864388,0 128.3077131578036,36.36665743241237,0 128.307624557652,36.36651896214082,0 128.3074891634296,36.36630166484204,0 128.3074568810769,36.36620341638477,0 128.3075120758266,36.36615037926206,0 128.3076171751478,36.36604372877756,0 128.3077343058,36.36587175189496,0 128.3077901313319,36.36574497229129,0 128.3078267339375,36.3655235865735,0 128.3079945522936,36.36502472802913,0 128.3081107978575,36.36475389670466,0 128.3082371699373,36.36448949476301,0 128.3082621403915,36.36427298934734,0 128.3082331529753,36.36414658956313,0 128.3081754941172,36.36402285480247,0 128.3079138433089,36.36355546058938,0 128.3077087627827,36.36327210500995,0 128.3075802955293,36.3631275417666,0 128.3074038305119,36.36298043646987,0 128.307208359153,36.36285415121833,0 128.3070965806322,36.36281321239451,0 128.3068203351535,36.36279414485144,0 128.3066945532774,36.36281588766069,0 128.3065435583183,36.36283239944554,0 128.304115949517,36.36220778306645,0 128.3032067042826,36.36197655049399,0 128.3029817805417,36.36187181650101,0 128.3026823060103,36.36167115645302,0 128.3015579291073,36.36102782594436,0 128.3001192330074,36.3602324485137,0 128.2996406386503,36.35997321418157,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스 등산로2</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3128950327888,36.38712788557735,0 128.3121147538995,36.38711964436422,0 128.3115669598944,36.38712306537268,0 128.3113787093016,36.38717857365568,0 128.3111905276523,36.38734750752807,0 128.3110476619365,36.3873671558984,0 128.3109584276142,36.38726611715735,0 128.31088709917,36.38715826966698,0 128.3108335291648,36.38692236158416,0 128.3108780101003,36.3867162250128,0 128.3106377209707,36.38667067230205,0 128.3103015571195,36.38666692745104,0 128.3101079673419,36.38658628642413,0 128.3098624422651,36.38658470026882,0 128.3095729266065,36.38667664196083,0 128.3093885754402,36.38677584217599,0 128.3092313653201,36.38688801207527,0 128.3090922998202,36.38683005994443,0 128.3088669076448,36.38676442994283,0 128.3087113994281,36.38671366645388,0 128.3085148177176,36.38660546091762,0 128.3082181778412,36.38653118768512,0 128.3079746413894,36.38642318576756,0 128.3079421752571,36.38629715554328,0 128.3077846657242,36.38613555767793,0 128.3075623314568,36.38590524287565,0 128.3075135242236,36.38579444643203,0 128.307398425065,36.38573198450729,0 128.3071363670277,36.38567631066767,0 128.306734264233,36.38553978040465,0 128.3064954660127,36.3853932556281,0 128.3063050133468,36.38521995791706,0 128.3060566029518,36.38498104383534,0 128.3058804296269,36.38478242543597,0 128.305658642539,36.38455636969489,0 128.3054847870523,36.38439704354249,0 128.3051635550991,36.38409988937303,0 128.3050613718076,36.38387119980162,0 128.3047810687979,36.3835547879597,0 128.3044714305624,36.38332367025544,0 128.3042844077526,36.38322680429468,0 128.3039894814562,36.3831049069926,0 128.3038400919127,36.38293966739698,0 128.30365826432,36.38267821365734,0 128.3035054688486,36.38249202328612,0 128.3034408938701,36.38241608078563,0 128.303436406277,36.38237650716832,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스 등산4</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3043274708716,36.37860539507533,0 128.3044049352989,36.37854267218403,0 128.304474503288,36.37847355391927,0 128.3045587369956,36.37839859339186,0 128.3046824683558,36.37836831009903,0 128.3048145485402,36.37832523367071,0 128.3048839017065,36.37824952297888,0 128.3050253569802,36.3781348150431,0 128.3051446928156,36.37807711696807,0 128.3052161743005,36.37799977003708,0 128.3052795237497,36.37790922030742,0 128.3054077600419,36.3777267917247,0 128.3055288669378,36.37761511980646,0 128.3056507729042,36.3774897692518,0 128.3058463707294,36.37733860339665,0 128.306010604748,36.37719197751308,0 128.3062098360464,36.37703627516097,0 128.3062098850479,36.37702295076671,0 128.3063277285966,36.3768400776865,0 128.3065955483582,36.37666930460903,0 128.3067477428334,36.37653886917886,0 128.3068751064279,36.37638834356016,0 128.3069602897006,36.37627197919612,0 128.3070890561096,36.37613324307113,0 128.3072268584399,36.3760681393541,0 128.3072787635588,36.37603935884639,0 128.3073571492338,36.37596862279963,0 128.3074456113235,36.37580786294775,0 128.3074837741362,36.37566679769235,0 128.3074927463716,36.37565937557263,0 128.3076381843255,36.37551129498701,0 128.3077473069408,36.3754209232679,0 128.3079551578202,36.37528427632981,0 128.3081264904325,36.37519926023404,0 128.3082460195733,36.37510799572714,0 128.308402374387,36.37500766181018,0 128.3086763545694,36.3749101104308,0 128.3088021178811,36.3748844711418,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스 등산5</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3123642971572,36.38143148809566,0 128.3122430126085,36.3816150741706,0 128.3120281965011,36.38171192525571,0 128.3118008748978,36.38175464160108,0 128.3116676606128,36.38178656893629,0 128.3115218132022,36.38195732783485,0 128.3113631158879,36.38208489963851,0 128.3113367330507,36.38211678988385,0 128.3111918080812,36.38216925374613,0 128.3110343930166,36.38216808631872,0 128.3108388961799,36.38207087847786,0 128.3105283084306,36.38200533848939,0 128.3102844730593,36.38194070977391,0 128.3100547073571,36.38189765247825,0 128.3097357835771,36.38193849773353,0 128.3094180065158,36.38204178404195,0 128.3092433413104,36.3821653682645,0 128.3089806852804,36.38221546960824,0 128.3086328999586,36.38227492768331,0 128.3082379487969,36.38222061571108,0 128.3079302906025,36.3821880378667,0 128.3074432772339,36.38204232991731,0 128.3072992251645,36.38194995313555,0 128.3068112248705,36.38168483092824,0 128.3065427360212,36.38151319998853,0 128.3063430982321,36.38137313545363,0 128.3060886716507,36.38125465545504,0 128.3057313240928,36.38105967829526,0 128.3056588720726,36.38095231842524,0 128.3055136075945,36.38078795617068,0 128.3054638694239,36.38066190627188,0 128.3053583807342,36.380498270838,0 128.3053547961217,36.38031094755355,0 128.3053521486412,36.38017261994126,0 128.3053010856181,36.37991660107588,0 128.3052640093951,36.37983787928574,0 128.3051078664964,36.37980003485571,0 128.3047925061772,36.37980077468315,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3코스 연계</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.3060410142851,36.37116073703077,0 128.3061441463839,36.37101347787912,0 128.3061231033819,36.37079255831655,0 128.3059664190155,36.37056294137286,0 128.3058426092686,36.37032520373121,0 128.3056917036756,36.37002391243882,0 128.3055625201702,36.36975814160379,0 128.305340311928,36.36946347357318,0 128.305197910365,36.36916684650893,0 128.3051490798863,36.3689663150271,0 128.305147096749,36.36881998623583,0 128.3051684628692,36.36866394037754,0 128.3050977404328,36.36854487933958,0 128.3049562026094,36.36832464960163,0 128.3049443895502,36.36830626870902,0 128.3047796982334,36.36807601976776,0 128.3047795740808,36.3680575176947,0 128.3047669000708,36.36790022012617,0 128.3047900112671,36.36788164789233,0 128.3049864860921,36.36780723372764,0 128.3050094657886,36.36778869402725,0 128.3052165366647,36.36766813180147,0 128.3056833326961,36.36748315336615,0 128.3054606665845,36.36710202489268,0 128.3052499474819,36.36679450758631,0 128.3051552379167,36.36661699551608,0 128.3049548102145,36.3663548224955,0 128.3048559706945,36.36613766643285,0 128.3048290976843,36.3659020343408,0 128.3047797873657,36.36561947532189,0 128.3047251426393,36.36505239168367,0 128.3049055719831,36.36427183031586,0 128.3052523720127,36.36298815399818,0 128.3053931947482,36.36255435468972,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>경천교</name>
+			<LookAt>
+				<longitude>128.2579970498339</longitude>
+				<latitude>36.45271248243033</latitude>
+				<altitude>0</altitude>
+				<heading>0.001776719790593397</heading>
+				<tilt>0</tilt>
+				<range>1084.549272572819</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2575456331695,36.45425026318589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상도촬영지</name>
+			<LookAt>
+				<longitude>128.2652044956446</longitude>
+				<latitude>36.44622598935175</latitude>
+				<altitude>0</altitude>
+				<heading>0.006058817439649472</heading>
+				<tilt>0</tilt>
+				<range>910.7178276310611</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2639426592332,36.44657420750043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>나각산등산로입구</name>
+			<LookAt>
+				<longitude>128.3028947992001</longitude>
+				<latitude>36.38597439854651</latitude>
+				<altitude>0</altitude>
+				<heading>0.02843483560082943</heading>
+				<tilt>0</tilt>
+				<range>2733.771263875095</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon57</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2977121021498,36.38848615712688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>물량1리</name>
+			<LookAt>
+				<longitude>128.3096120949126</longitude>
+				<latitude>36.38347797598281</latitude>
+				<altitude>0</altitude>
+				<heading>0.03241978372498451</heading>
+				<tilt>0</tilt>
+				<range>2795.584763038399</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon572</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3091839588911,36.38683791565681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>낙동중학교</name>
+			<LookAt>
+				<longitude>128.3111466645402</longitude>
+				<latitude>36.37198771463974</latitude>
+				<altitude>0</altitude>
+				<heading>0.03333346861981755</heading>
+				<tilt>0</tilt>
+				<range>5106.737125029995</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon576</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.301025991762,36.36490811749873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>낙단교</name>
+			<LookAt>
+				<longitude>128.3116620564369</longitude>
+				<latitude>36.36647928431861</latitude>
+				<altitude>0</altitude>
+				<heading>0.03363820035501452</heading>
+				<tilt>0</tilt>
+				<range>5104.357330505397</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon574</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3007274138198,36.35822418787456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>죽암1리노인회관</name>
+			<LookAt>
+				<longitude>128.2715873285942</longitude>
+				<latitude>36.40941530249425</latitude>
+				<altitude>0</altitude>
+				<heading>0.009861520365425936</heading>
+				<tilt>0</tilt>
+				<range>654.8510170996519</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon579</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2717152234136,36.40911305594395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2코스연계</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					128.223321788518,36.43796701037867,0 128.2232606779467,36.43789322803295,0 128.2221692372158,36.43767551053605,0 128.2220632156051,36.43758986845827,0 128.2219537789113,36.43742905255997,0 128.2211443900971,36.43474055164644,0 128.220899097224,36.43387462736936,0 128.2208949135722,36.43379681544212,0 128.221015451954,36.43378087241422,0 128.221701325246,36.43375912190589,0 128.2220392348911,36.43371128352438,0 128.2224743657852,36.4336931970817,0 128.2228337765393,36.43360848963074,0 128.2232631748352,36.43345816276879,0 128.2235282755433,36.43332032010981,0 128.2240192684836,36.43315595023064,0 128.2244078689079,36.43312806120478,0 128.2244649777872,36.43297428206476,0 128.224338937881,36.43264855582117,0 128.2242289109045,36.43239516388587,0 128.2241091290056,36.4320852637203,0 128.224083318588,36.43193221465837,0 128.2241814773252,36.43172622085213,0 128.2243555403202,36.43149169624175,0 128.2245214059329,36.4311734004792,0 128.2246208111285,36.43100204375803,0 128.2248049028671,36.43083198649578,0 128.2250216365099,36.43071733210636,0 128.2251220998324,36.43067232781341,0 128.2252724009539,36.43043190086095,0 128.2254165518236,36.43016391053292,0 128.2254725032433,36.43000576865108,0 128.2254126168076,36.42986256047089,0 128.2253279827527,36.42968526584684,0 128.2253101105904,36.42957050445978,0 128.2253067128292,36.42944527188962,0 128.2253325415688,36.42932523187909,0 128.2254504902871,36.42922531871809,0 128.225511889564,36.42915630866555,0 128.2255576281221,36.42904937537475,0 128.2255989995848,36.4288766943713,0 128.2255553058774,36.42856243066186,0 128.2255781008268,36.42836314488905,0 128.2256348146475,36.42825707786438,0 128.2256915891479,36.42817450514376,0 128.2257334838755,36.4280668257523,0 128.2257628532215,36.42776482277667,0 128.2258081766251,36.42758059740981,0 128.2258205283888,36.42746205555581,0 128.2259758827036,36.42718034882429,0 128.2262198693992,36.42691305310094,0 128.2264981422197,36.42656588539142,0 128.2265909369433,36.42630107082458,0 128.2266387710976,36.42585194461368,0 128.2267533799378,36.42561579105224,0 128.2269081022005,36.42530446784514,0 128.2269247243438,36.42510423421871,0 128.2267941537431,36.42437907547625,0 128.2265681044285,36.4238122614677,0 128.2264591024328,36.42347780672446,0 128.2264820845482,36.42314834716402,0 128.2265861029156,36.42267148266621,0 128.2267114112851,36.42238854487443,0 128.2268869760807,36.42202270859129,0 128.2268876461989,36.42157548632098,0 128.2269772912329,36.42068322824482,0 128.2269594503771,36.42035672754081,0 128.2270797241889,36.4200192699247,0 128.2273204010118,36.41973941529477,0 128.2277392624518,36.4194436892793,0 128.2281898625874,36.41919547037735,0 128.2283695979808,36.41904627966562,0 128.2283552132161,36.41873402392628,0 128.2282680101019,36.41823586204647,0 128.2282021204696,36.4176374523964,0 128.2281451963228,36.41732358856894,0 128.2280060092243,36.41688464415996,0 128.2278254192558,36.4164724568333,0 128.2276492651834,36.41617182313044,0 128.2274775132243,36.41586487324005,0 128.2272690284983,36.41559693456235,0 128.2273080204591,36.4154549983004,0 128.2273154232038,36.41535170242796,0 128.2275112699864,36.41517377950181,0 128.2278682238349,36.41503085196986,0 128.2281598147693,36.41497075624566,0 128.2286285441255,36.41471808228981,0 128.228755574303,36.41453820515659,0 128.2288744141387,36.41437355246072,0 128.2289683119121,36.41425417460178,0 128.2290538476555,36.41416081007898,0 128.2291226246957,36.41407364236831,0 128.2297869046009,36.4139113067362,0 128.2303618842318,36.41370744524857,0 128.2305635082185,36.41370767079846,0 128.2310104528416,36.41370771865665,0 128.2312481397346,36.41368077838668,0 128.2316703668754,36.41351760477103,0 128.232076558263,36.41344163094449,0 128.2326055811582,36.41332232604781,0 128.2330567246869,36.41323031479455,0 128.2335197598928,36.41309567955467,0 128.2337975081621,36.41301190677918,0 128.2346676947188,36.41290575442122,0 128.2352497525718,36.4128294349007,0 128.2358924518972,36.41284379173611,0 128.2362236497199,36.41284347941281,0 128.2367229483787,36.41291007039807,0 128.237009373833,36.41294859935929,0 128.2373017845533,36.41288235513064,0 128.2375972908718,36.41284187278537,0 128.2378827427401,36.41273737041303,0 128.2379283688172,36.41271559792937,0 128.2383442443676,36.41254708066929,0 128.2385621916327,36.41243127124106,0 128.238656940673,36.41227987234893,0 128.2389143282047,36.41212609899218,0 128.2391794294488,36.4120626977083,0 128.2394338694637,36.41202514451894,0 128.2396082124521,36.4119383379652,0 128.2397421333679,36.41171472937832,0 128.2398224023222,36.41159323920186,0 128.2399479862098,36.41146300695036,0 128.2400993370134,36.4113936226026,0 128.2402428011466,36.41127788846345,0 128.2403453390409,36.41113869588757,0 128.2404451821393,36.41092478411445,0 128.2405712446368,36.41080962640829,0 128.2407418590912,36.41070889755469,0 128.2408174818841,36.41059814430475,0 128.240899506718,36.41046766879787,0 128.2410451491252,36.41029867471757,0 128.2411547752054,36.4101841229155,0 128.2414754072454,36.41004182999964,0 128.241703859302,36.40994280467099,0 128.2419791493044,36.40991250375086,0 128.2421952527359,36.40993312009677,0 128.2424438529863,36.40992774115944,0 128.2425154353032,36.40977108327147,0 128.2425797027264,36.40955335448743,0 128.2426118777371,36.40949404386596,0 128.242784851037,36.40936093797726,0 128.2428803324896,36.4092766042836,0 128.2428935061053,36.40919189299345,0 128.2427865322772,36.40906203601301,0 128.2426861684206,36.40893732573632,0 128.2426302574437,36.40880773312065,0 128.2426495735774,36.40872296656969,0 128.2427728711867,36.40850869459958,0 128.2429729670509,36.40822061225496,0 128.2430399744908,36.40809313934326,0 128.2438755316983,36.40913005052025,0 128.2473879640236,36.4135284524719,0 128.2474159367267,36.4135613102123,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>병성동</name>
+			<LookAt>
+				<longitude>128.2306276812109</longitude>
+				<latitude>36.42943750461942</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01444908324744864</heading>
+				<tilt>0</tilt>
+				<range>5218.53890976255</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon575</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2228497153778,36.43361281834453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>강창교</name>
+			<LookAt>
+				<longitude>128.2435947140202</longitude>
+				<latitude>36.41281277590268</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006752195946089204</heading>
+				<tilt>0</tilt>
+				<range>5298.88244349656</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon570</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2453048105492,36.41087562743784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>낙암서원</name>
+			<LookAt>
+				<longitude>128.2725301229822</longitude>
+				<latitude>36.4106454895826</latitude>
+				<altitude>0</altitude>
+				<heading>0.01043995074841789</heading>
+				<tilt>0</tilt>
+				<range>1527.303467922701</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon578</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.2706337361494,36.41053599487976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>심암삼거리(2코스종점)</name>
+			<LookAt>
+				<longitude>128.3037763019072</longitude>
+				<latitude>36.40882212078311</latitude>
+				<altitude>0</altitude>
+				<heading>0.02898544930885904</heading>
+				<tilt>0</tilt>
+				<range>2578.319502241062</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon571</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3062986192367,36.41018279552333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>토진나루터</name>
+			<LookAt>
+				<longitude>128.3046687065223</longitude>
+				<latitude>36.40597563909977</latitude>
+				<altitude>0</altitude>
+				<heading>0.02951511137699319</heading>
+				<tilt>0</tilt>
+				<range>738.1479747696461</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon577</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>128.3049885806144,36.40515806160471,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

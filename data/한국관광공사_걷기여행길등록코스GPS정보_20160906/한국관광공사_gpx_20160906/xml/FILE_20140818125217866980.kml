@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>맑은물길.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>맑은물길</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0545760515229,37.74412466845587,0 127.0550920150258,37.74451028095684,0 127.0555316795957,37.74487137425984,0 127.0560710562249,37.74526992770865,0 127.0565353877712,37.74568085590732,0 127.0569731551911,37.74598651540053,0 127.0575126873053,37.74642407536255,0 127.0583260453083,37.74696001166721,0 127.0588960979946,37.74746924108474,0 127.0596251892071,37.74795133445926,0 127.0603964000559,37.74831527337491,0 127.0613034124056,37.74866710397468,0 127.0627295800514,37.74912271680255,0 127.0642739779735,37.74948567495262,0 127.0657019189949,37.74979754415726,0 127.0670034107815,37.75012481835345,0 127.0680943519845,37.75035771356236,0 127.0691150650821,37.75062585222092,0 127.0701115362018,37.7508879358906,0 127.0710885646887,37.75114968580619,0 127.0719798444789,37.75140302690606,0 127.0727928365245,37.75160522127531,0 127.0734798164823,37.7520126678793,0 127.0740929128448,37.75240532716809,0 127.0747426119371,37.75296836136162,0 127.0753380795288,37.75344461904415,0 127.0759763989123,37.75387766496872,0 127.0765011311295,37.75421803631052,0 127.0770855760942,37.75448183064125,0 127.0778657078319,37.75469932162471,0 127.0785450643921,37.75469687223098,0 127.0790686995939,37.75458821404954,0 127.079858849785,37.75432320849701,0 127.080798337985,37.75390523065182,0 127.0816215518334,37.75359697951591,0 127.0821533380993,37.75332035987925,0 127.0825716224425,37.75278376633452,0 127.0829196800584,37.75204613936994,0 127.0834524464781,37.75112851065416,0 127.0838401972687,37.75015428879283,0 127.0841488682389,37.7495128575441,0 127.0841842345303,37.74908495115103,0 127.0842160628737,37.74826667545631,0 127.0842477836903,37.74765376303564,0 127.0845074638963,37.74690259196905,0 127.0848777951324,37.74585677157051,0 127.0850079305968,37.74543152938578,0 127.0849279522565,37.74518878739711,0 127.0852448293352,37.7445995800127,0 127.085407800493,37.74402891762971,0 127.0856448197361,37.74352141468928,0 127.0858054105072,37.74316575825911,0 127.086032993403,37.7425333797561,0 127.086320085685,37.74188947686449,0 127.0866281324074,37.74143864141573,0 127.0869928430734,37.74091727216644,0 127.0874034042189,37.7404261033229,0 127.0879094590488,37.74004401444844,0 127.0882561789643,37.73937122768619,0 127.0882906006318,37.73881053268595,0 127.0886139331487,37.73809860014369,0 127.0885871635751,37.73754257144667,0 127.088444012226,37.73688405138467,0 127.0883426662693,37.73642819975097,0 127.0882988630876,37.7359152155572,0 127.0885407462458,37.73542057045597,0 127.088725113699,37.73498845665285,0 127.0889079187342,37.73444004805575,0 127.0891827236183,37.73380669357082,0 127.0893227505282,37.73323807146085,0 127.0895582333818,37.73281792381705,0 127.0897031808223,37.73249884252195,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>탑석역</name>
+			<LookAt>
+				<longitude>127.0867458698286</longitude>
+				<latitude>37.73737163740422</latitude>
+				<altitude>0</altitude>
+				<heading>0.01910199053290271</heading>
+				<tilt>6.026508797891037</tilt>
+				<range>2013.245837083814</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.0897037692581,37.73252764038487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>중량천합류부</name>
+			<LookAt>
+				<longitude>127.0627977047852</longitude>
+				<latitude>37.74701807126377</latitude>
+				<altitude>0</altitude>
+				<heading>0.004444795825382009</heading>
+				<tilt>6.028342040106369</tilt>
+				<range>3290.717990941228</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.0547073243709,37.74412394541748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>부용천교</name>
+			<LookAt>
+				<longitude>127.0744870620199</longitude>
+				<latitude>37.74991515086099</latitude>
+				<altitude>0</altitude>
+				<heading>0.01182020382858592</heading>
+				<tilt>8.756261121147501</tilt>
+				<range>2218.663249318546</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.0722699546456,37.75144866288686,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

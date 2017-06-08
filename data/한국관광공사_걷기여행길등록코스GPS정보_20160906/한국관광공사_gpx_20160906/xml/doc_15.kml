@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>동작충효길7코스-까치산길.kmz</name>
+		<open>1</open>
+		<StyleMap id="msn_40">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_40</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_40</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_42">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/42.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_39">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/39.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_37">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/37.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_42">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/42.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="sh_40">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/40.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_40">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/40.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_41">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/41.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_39">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/39.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_39">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_39</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_39</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_38">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/38.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_38">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/38.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_subway">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_36">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/36.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_37">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_37</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_37</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_41">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/41.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_36">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_36</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_36</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_37">
+			<IconStyle>
+				<scale>0.827274</scale>
+				<Icon>
+					<href>files/37.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_38">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_38</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_38</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_42">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_42</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_42</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin00">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_subway">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_subway</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_subway</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_36">
+			<IconStyle>
+				<scale>0.7</scale>
+				<Icon>
+					<href>files/36.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl00">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_41">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_41</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_41</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_subway">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>동작충효길7코스-까치산길</name>
+			<description>서울시립남서울미술관-생태통로-경로당,어린이놀이터-북까페-숲속문고-상동중학교-상현중학교</description>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9620591606568,37.49426879055909,0 126.9617107451004,37.49322387900168,0 126.9613746442927,37.49278887188308,0 126.9613132897367,37.49210209375677,0 126.9613367873643,37.49179295300586,0 126.960799873181,37.49093318422422,0 126.9606803754713,37.49081948210235,0 126.9607975172571,37.49031842075053,0 126.9608052405711,37.49005952516514,0 126.9612324101143,37.48954866535084,0 126.9618304474716,37.48895365547331,0 126.9619339344393,37.48860632657375,0 126.9619342221712,37.48840104180783,0 126.9620470197611,37.48824616238944,0 126.9619392398556,37.4879603488635,0 126.9619994581751,37.48732113863996,0 126.9621957561449,37.48696674566505,0 126.9622973631113,37.48648460011378,0 126.9623016324892,37.48575713906469,0 126.96226443915,37.48546328462125,0 126.9623273381054,37.48522861314698,0 126.9621066565126,37.48477344025777,0 126.9619111477413,37.48423500573615,0 126.9617564746905,37.484152382974,0 126.9614856269205,37.48395590982062,0 126.9613333738243,37.4836434206474,0 126.96134443683,37.48348950610932,0 126.9617710705248,37.48321509609059,0 126.9620940150931,37.48313064513409,0 126.9622841728316,37.48295510259709,0 126.9623098932751,37.48278969497535,0 126.9623773969677,37.48252041753317,0 126.9626434596893,37.48228473076144,0 126.9629182416132,37.48215754051397,0 126.9629854181742,37.48199443370105,0 126.9629801454662,37.48183328315191,0 126.9631677184085,37.48158432491218,0 126.9635926517113,37.4814501079146,0 126.9639498766285,37.48116159833609,0 126.9642193157017,37.48107483275151,0 126.9643499333957,37.48074886638949,0 126.9644847909146,37.48064302020837,0 126.9645511902907,37.48051777464489,0 126.9648542153786,37.48022762961532,0 126.9647668749393,37.47993676663468,0 126.9648670715721,37.47967511973869,0 126.9653036427788,37.47954670367768,0 126.965441537262,37.47943498245267,0 126.9658084735174,37.47927011792479,0 126.9661475627544,37.47923198933827,0 126.9663694030965,37.47896079145063,0 126.9666091257579,37.47880006361722,0 126.9667657703034,37.47868663187986,0 126.9670105224857,37.47848405111566,0 126.9671991701233,37.47814489085414,0 126.9675682166012,37.47796787929862,0 126.967921561194,37.47781864943585,0 126.9681893314977,37.4773638720069,0 126.9684658847269,37.477167268176,0 126.9686912231209,37.47687944256746,0 126.9690555325741,37.47667335595351,0 126.9695383845179,37.47657954629742,0 126.9697413204954,37.47662215248714,0 126.9701480386388,37.47655294856649,0 126.9702627313821,37.47641554744486,0 126.9703800287318,37.47637206197759,0 126.9704926380912,37.47623097059123,0 126.9706493581638,37.47615540150762,0 126.9707884266711,37.47594379184008,0 126.9707775540257,37.47575771987242,0 126.9709422980653,37.47528437432562,0 126.9711353779612,37.47530381788789,0 126.9717029032386,37.4754746563833,0 126.9737343235454,37.47595259325171,0 126.9742520170182,37.47606303284763,0 126.9746059384819,37.47617313488123,0 126.9756904148613,37.4762954424402,0 126.9768051277025,37.47646594015905,0 126.9785317846418,37.47651069440592,0 126.9800488250942,37.4765039189258,0 126.9812504168799,37.47643177113964,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>생태통로</name>
+			<description>동물보단 사람들이 다니기 좋고 식재가 잘 되어 있다.</description>
+			<LookAt>
+				<longitude>126.9711542263917</longitude>
+				<latitude>37.47555643485053</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002433407317903718</heading>
+				<tilt>0</tilt>
+				<range>228.9589526904264</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_37</styleUrl>
+			<Point>
+				<coordinates>126.9709483644397,37.47534911918923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서울시립남서울미술관</name>
+			<description>사적 제254호로 지정되어 있으며, 예전에는 벨기에 영사관으로 쓰였지만 현재 공공미술관으로 쓰이고 있다.</description>
+			<LookAt>
+				<longitude>126.9790711097948</longitude>
+				<latitude>37.4767839214401</latitude>
+				<altitude>0</altitude>
+				<heading>0.005060262209453304</heading>
+				<tilt>0</tilt>
+				<range>319.9711632713306</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_36</styleUrl>
+			<Point>
+				<coordinates>126.9794328364897,37.47658087398788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>경로당, 어린이 놀이터</name>
+			<description>격구장이 가까이 있고, 시내와 가까워 접근성이 좋다.
+(격구 : 장시(杖匙)라는 채를 이용하여, 나무공[毛毬]을 쳐서 일정한 거리에 있는 구문(毬門)에 넣는 경기.)</description>
+			<LookAt>
+				<longitude>126.9700150604732</longitude>
+				<latitude>37.47671184986832</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004497738075031955</heading>
+				<tilt>0</tilt>
+				<range>218.2125439872168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_38</styleUrl>
+			<Point>
+				<coordinates>126.9695420602304,37.47663102875626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북카페</name>
+			<LookAt>
+				<longitude>126.9671990143456</longitude>
+				<latitude>37.47819175159805</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002162341820391895</heading>
+				<tilt>0</tilt>
+				<range>353.7617033699235</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_39</styleUrl>
+			<Point>
+				<coordinates>126.9675523444574,37.47804546984606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>숲속문고</name>
+			<LookAt>
+				<longitude>126.9620689414784</longitude>
+				<latitude>37.48306108940138</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005285406943390612</heading>
+				<tilt>5.925870767218983</tilt>
+				<range>159.7106231725067</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_40</styleUrl>
+			<Point>
+				<coordinates>126.9620256190536,37.48317202641711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상동중학교</name>
+			<LookAt>
+				<longitude>126.9606594686388</longitude>
+				<latitude>37.49062420834274</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006140560433638994</heading>
+				<tilt>5.927863992188382</tilt>
+				<range>304.1799122195764</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_41</styleUrl>
+			<Point>
+				<coordinates>126.9607981070241,37.49035391188391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상현중학교</name>
+			<description>서울특별시 동작구 상도5동에 있는 공립중학교이다. 1969년 3월 3일 상도여자중학교로 개교하였다. 1972년 1월 15일 제1회 졸업식을 거행하였다. 2001년 3월 1일 상현중학교로 교명을 변경하였다. 교훈은 ‘성실, 협동, 봉사’이며, 교목은 목련, 교화는 목련화이다. 서울특별시 동작구 상도5동 111-52번지에 있다.</description>
+			<LookAt>
+				<longitude>126.9615536986102</longitude>
+				<latitude>37.49361511165667</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005596527771269289</heading>
+				<tilt>5.928998073133394</tilt>
+				<range>190.1701799876115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_42</styleUrl>
+			<Point>
+				<coordinates>126.9618993974714,37.49382842215225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>사당역 6번 출입구</name>
+			<LookAt>
+				<longitude>126.9808177243273</longitude>
+				<latitude>37.47661054220738</latitude>
+				<altitude>0</altitude>
+				<heading>0.006248018109527413</heading>
+				<tilt>7.450843462109101</tilt>
+				<range>182.0448537873367</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9808861507564,37.47643089066305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>제목 없는 경로</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9623150326984,37.48517794193927,0 126.9623404480017,37.4851785818905,0 126.9623645568883,37.48519029299732,0 126.9628824463592,37.4853070336905,0 126.9637191989875,37.48522090912156,0 126.9640686474506,37.48482387617839,0 126.9642162531435,37.48427323462043,0 126.9642770862613,37.4841540981212,0 126.9646665174043,37.4842597914591,0 126.9649127957726,37.48442916251548,0 126.9653044616951,37.48459692576576,0 126.9655946415147,37.48488108966115,0 126.9661703499392,37.485042767725,0 126.9671931424868,37.48450078054329,0 126.9674591816171,37.48493205150363,0 126.9686451249741,37.48592159705062,0 126.9696027680758,37.48523518194828,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>남성역 2번 출입구</name>
+			<LookAt>
+				<longitude>126.9690396580156</longitude>
+				<latitude>37.48565567091358</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0007374149303376489</heading>
+				<tilt>18.29955428320399</tilt>
+				<range>370.4219629579026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9695840223499,37.48518765807972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원길</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9621551838457,37.48308706287336,0 126.9623416327659,37.48345694327101,0 126.9627923550825,37.48369487573481,0 126.9634760405021,37.48385099964445,0 126.9639809523806,37.48385742576639,0 126.9643581400003,37.48382208933936,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>동래정씨임당공파묘역</name>
+			<LookAt>
+				<longitude>126.9633312470944</longitude>
+				<latitude>37.48349344227876</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004645675257467431</heading>
+				<tilt>0</tilt>
+				<range>374.0310322201906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.9643971157474,37.48381781000145,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

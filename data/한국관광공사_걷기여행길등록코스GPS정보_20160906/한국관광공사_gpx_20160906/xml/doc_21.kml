@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Document>
+			<name>낙성대 산책길.kmz</name>
+			<open>1</open>
+			<StyleMap id="m_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl">
+				<IconStyle>
+					<scale>1.18182</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sn_ylw-pushpin">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Style id="sh_2">
+				<IconStyle>
+					<scale>1.18182</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sn_2">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_ylw-pushpin">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff55aa</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl0">
+				<IconStyle>
+					<scale>1.18182</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<StyleMap id="msn_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_2">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_2</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_2</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin0">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<Style id="sn_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff55aa</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="msn_ylw-pushpin0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>낙성대 산책길</name>
+				<description>안국사-낙성대 공원</description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						126.9612496925124,37.47064854575929,0 126.9612954340058,37.47094584501151,0 126.9602876255746,37.47138559018138,0 126.9596569515739,37.47155944843241,0 126.9596872179412,37.47194707343245,0 126.9603906470296,37.47207158672757,0 126.9608298358136,37.47222625705184,0 126.9612997174185,37.4721612121947,0 126.9615295216923,37.47185585198254,0 126.9619461078668,37.47174609119223,0 126.9624115465935,37.47179837933742,0 126.9626582904983,37.47188278591186,0 126.9628672736667,37.47198779118605,0 126.9631658614679,37.47193258351378,0 126.9634282143497,37.47174509889521,0 126.9634594607104,37.47154021219608,0 126.9633395960282,37.47118807425632,0 126.9633187995501,37.47089699005841,0 126.9630956849821,37.47037820463616,0 126.9630081369856,37.47017161906814,0 126.9630335726644,37.46997747342969,0 126.9628922133705,37.46959919443159,0 126.9626026651243,37.4693729168202,0 126.9620053355934,37.46948550224541,0 126.96147859217,37.46945489649215,0 126.9611569427012,37.46946553602339,0 126.9609110085393,37.46956632740847,0 126.9604620684595,37.46961804580793,0 126.9603079493263,37.47032930136253,0 126.9599955179096,37.47069383381101,0 126.9599426522149,37.47093480075036,0 126.9612496925124,37.47064854575929,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>안국사</name>
+				<LookAt>
+					<longitude>126.9605912179864</longitude>
+					<latitude>37.47107024452297</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005333516786448292</heading>
+					<tilt>0</tilt>
+					<range>222.8275697884093</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>126.9612568568089,37.47068578488078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>낙성대 공원</name>
+				<LookAt>
+					<longitude>126.9605645934505</longitude>
+					<latitude>37.47115174527705</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005495486476518098</heading>
+					<tilt>0</tilt>
+					<range>223.0193188151423</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_2</styleUrl>
+				<Point>
+					<coordinates>126.9597561255981,37.47158768349459,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>문화자원연계부</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						126.9604699053275,37.46962159707807,0 126.9602139832252,37.469731497932,0 126.9601412479454,37.469634198132,0 126.9602589553222,37.46953462447181,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>낙성대 천문대</name>
+				<LookAt>
+					<longitude>126.9606156919092</longitude>
+					<latitude>37.4697450205951</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005184983105237482</heading>
+					<tilt>0</tilt>
+					<range>220.028333766303</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>126.9602647328842,37.4695257573533,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+	</Folder>
+</Folder>
+</kml>

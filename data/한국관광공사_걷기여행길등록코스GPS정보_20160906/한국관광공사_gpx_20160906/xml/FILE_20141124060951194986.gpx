@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-11-13T13:06:21Z</time>
+    <bounds maxlat="36.2869124" maxlon="128.7849970" minlat="36.2777945" minlon="128.7708722"/>
+  </metadata>
+
+  <trk>
+    <name>트랙</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="36.2838941" lon="128.7731752">
+        <ele>143.5078125</ele>
+      </trkpt>
+      <trkpt lat="36.2838941" lon="128.7730217">
+        <ele>142.1875000</ele>
+      </trkpt>
+      <trkpt lat="36.2860321" lon="128.7716399">
+        <ele>140.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2869124" lon="128.7708722">
+        <ele>141.3359375</ele>
+      </trkpt>
+      <trkpt lat="36.2839570" lon="128.7730984">
+        <ele>142.0273438</ele>
+      </trkpt>
+      <trkpt lat="36.2825107" lon="128.7735590">
+        <ele>150.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2811273" lon="128.7743267">
+        <ele>150.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2800583" lon="128.7751711">
+        <ele>152.5898438</ele>
+      </trkpt>
+      <trkpt lat="36.2788007" lon="128.7766296">
+        <ele>159.5546875</ele>
+      </trkpt>
+      <trkpt lat="36.2786120" lon="128.7775508">
+        <ele>160.0703125</ele>
+      </trkpt>
+      <trkpt lat="36.2788007" lon="128.7794699">
+        <ele>163.1367188</ele>
+      </trkpt>
+      <trkpt lat="36.2777945" lon="128.7805446">
+        <ele>160.5507813</ele>
+      </trkpt>
+      <trkpt lat="36.2779203" lon="128.7817728">
+        <ele>165.9570313</ele>
+      </trkpt>
+      <trkpt lat="36.2788007" lon="128.7834617">
+        <ele>170.0000000</ele>
+      </trkpt>
+      <trkpt lat="36.2788007" lon="128.7849970">
+        <ele>170.2734375</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

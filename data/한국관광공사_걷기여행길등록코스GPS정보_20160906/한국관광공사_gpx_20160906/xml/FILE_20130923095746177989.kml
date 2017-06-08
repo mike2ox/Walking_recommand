@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>여강길 3코스 바위늪구비길.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_blue-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="point0_h0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="point0_n0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point0Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point0_n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point0_h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>여강길 3코스 바위늪구비길</name>
+		<Placemark>
+			<name>여강길 3코스 바위늪구비길</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.7090973709052,37.234462987911,0 127.7088909907937,37.23440600714986,0 127.7086918173255,37.23435969221679,0 127.7086417441151,37.23433982196994,0 127.7083933192894,37.23455461007382,0 127.7080218036607,37.23481596788071,0 127.7078148793157,37.23496748333446,0 127.7075149957023,37.2351693688256,0 127.7071796800247,37.23538899795867,0 127.7070201379516,37.23544927972003,0 127.7064764239162,37.23558005018447,0 127.7057484592444,37.23576527952217,0 127.7051313376973,37.23592724344105,0 127.7049916052903,37.2359602528887,0 127.7045354175286,37.23598687809749,0 127.704037021588,37.23608386688081,0 127.7036824389637,37.23608317348028,0 127.7033407352762,37.23608135136435,0 127.7030398031507,37.23605407505868,0 127.702778056996,37.23605167486221,0 127.7026407240348,37.23603119701751,0 127.7024957914204,37.23600118673242,0 127.702339810047,37.23599972994835,0 127.7022289681149,37.2360366271717,0 127.7021005288177,37.23595009023762,0 127.702023825351,37.23587664200361,0 127.7020252201317,37.23575583867197,0 127.7020001026665,37.23569507365108,0 127.7018521361424,37.23563700697193,0 127.7017763149021,37.23560802139514,0 127.7017567009508,37.23546692453879,0 127.7017550214702,37.23540251289136,0 127.7016266220505,37.23534139570405,0 127.7014206771723,37.23525397051871,0 127.701251830518,37.23524394041051,0 127.7011340150741,37.23532794849822,0 127.7011253616471,37.2354572241895,0 127.7010269920163,37.23558604848414,0 127.7007614201861,37.23574687538873,0 127.7006454591387,37.23582390997712,0 127.7004000143613,37.23577973985349,0 127.7003139453354,37.23580566720353,0 127.7000981678542,37.23591228798914,0 127.6999815261829,37.23606139201191,0 127.6999339619015,37.23616775158024,0 127.6997232634163,37.23620290855202,0 127.6991649338855,37.23668004035159,0 127.6989608862058,37.23689260286773,0 127.6984701946579,37.23728676408173,0 127.6980290062258,37.23760976795641,0 127.6974811504553,37.23790915363345,0 127.6966023217132,37.23841015569047,0 127.6953206223371,37.23915998213884,0 127.6944769328347,37.23976435949003,0 127.6934886479699,37.24068479157882,0 127.6930128679719,37.24115164460301,0 127.6925232094092,37.24153081910443,0 127.6917710686683,37.2423697136913,0 127.691272605321,37.24315909107612,0 127.6893963899692,37.24604487446134,0 127.6887271240354,37.24730080864411,0 127.6873878989275,37.25026722283853,0 127.6869729079574,37.25126685025073,0 127.6866290801503,37.25400321317625,0 127.6866356246466,37.25524027643384,0 127.6861491135875,37.2575136619595,0 127.6859187788993,37.25905471515151,0 127.6856742597491,37.26149643246376,0 127.6856771823172,37.26255183143984,0 127.6863186853573,37.26526985240599,0 127.6867988554084,37.26688704783674,0 127.6874650831692,37.26894842157633,0 127.6879266494698,37.27035692410902,0 127.6881907548756,37.27235077386357,0 127.6883485356802,37.27335091420321,0 127.6884479095665,37.27394343221965,0 127.6883065200781,37.27434386347488,0 127.6885341487568,37.27447519177548,0 127.688735090852,37.27451583804987,0 127.6889067543257,37.27455656642876,0 127.6890839169083,37.27456098446027,0 127.6892554919626,37.27461963666011,0 127.6893760502858,37.27467767745464,0 127.6896046065895,37.27472082101963,0 127.6898539383357,37.27482594788625,0 127.6898595610828,37.27492858407837,0 127.689686170968,37.27576629494163,0 127.6895486397893,37.27642653308871,0 127.6895444183967,37.27676391461993,0 127.6896264759658,37.27705552307238,0 127.6897417465844,37.27730540565166,0 127.689879449357,37.27765216952484,0 127.6899067675246,37.27802949194403,0 127.6898794781676,37.27818677940289,0 127.6898522937836,37.27840170149447,0 127.6898625098996,37.27858318290043,0 127.6900588504456,37.2788691670281,0 127.6904186336229,37.27922929795044,0 127.6907081034081,37.27948154339913,0 127.6909966964705,37.27972910876904,0 127.6911914904179,37.28002235521964,0 127.6911970696548,37.28033219056732,0 127.6910604773566,37.28065406181327,0 127.6909232425899,37.28103508005734,0 127.6908293454242,37.28132333430541,0 127.6908183169123,37.28166715359765,0 127.6908824529016,37.28212104214822,0 127.6909916218963,37.28282278969144,0 127.69110110198,37.28350814278673,0 127.6911871832615,37.28411615435643,0 127.6912437604257,37.28438051554845,0 127.6911628765758,37.28444675464796,0 127.6908559042036,37.28450627409499,0 127.6896042451856,37.2847990171098,0 127.6887447524127,37.28503930519296,0 127.6882245763262,37.28526830464926,0 127.6874236185363,37.28586815618512,0 127.687068950132,37.28620026967283,0 127.6863946273747,37.28663004746669,0 127.6862150953405,37.28672958418988,0 127.6859491244371,37.28672393237083,0 127.6858257618661,37.28670367832946,0 127.6857891584282,37.28636314634798,0 127.6858123225123,37.28601869076948,0 127.6858611152793,37.28594989623723,0 127.6857991425653,37.28587086686186,0 127.6856023044065,37.28581613845636,0 127.6853021088279,37.28575630090112,0 127.6849738562833,37.28568730786245,0 127.684755601938,37.28573177951623,0 127.6844504924556,37.28578119353655,0 127.6844102207331,37.28544604381648,0 127.684154209,37.28541139597643,0 127.6838179818682,37.28569382479131,0 127.6835279958241,37.28621722364044,0 127.6828228697839,37.28725141899913,0 127.6822028684922,37.2882145787823,0 127.6810574828147,37.29010078496657,0 127.6806469406841,37.29076651267615,0 127.6795935301885,37.29247400370328,0 127.6794994218076,37.29269232685122,0 127.6798041617324,37.29265122544566,0 127.6800449827364,37.2925758461732,0 127.6803050371154,37.29243611754881,0 127.6803113731553,37.29242620839928,0 127.6805419324453,37.29221370092844,0 127.6807784999764,37.29194699124273,0 127.6809850274469,37.29165072226818,0 127.6810865010587,37.29137947495545,0 127.6812123252365,37.29119732242041,0 127.6813624799833,37.29123699628431,0 127.681686960851,37.29126701548331,0 127.6817623494696,37.29132620581253,0 127.6816830870618,37.29180281017911,0 127.6815331719067,37.29274397205267,0 127.6815272964241,37.29316548439124,0 127.6816379781122,37.29351344802554,0 127.6820718743657,37.29412803038773,0 127.6821679397787,37.29442040168197,0 127.6821848614185,37.29529778818365,0 127.6822151473377,37.29599054375382,0 127.6822220877368,37.29644606069788,0 127.6821549323688,37.29654338203717,0 127.6819379498643,37.29654467646216,0 127.6818186544283,37.29643860312306,0 127.6817220478008,37.29621060061703,0 127.6814772208714,37.29605015601954,0 127.681182262594,37.29591863926946,0 127.6805291255089,37.29564379014127,0 127.6800353302594,37.29547659526851,0 127.6797162751566,37.29544226632194,0 127.6792914455283,37.29551183887233,0 127.6788886558479,37.29571926660781,0 127.6784392710193,37.29635577127723,0 127.6775031823364,37.29745381414866,0 127.6771783570551,37.29797418528938,0 127.6770973282974,37.29830470690849,0 127.6771423398821,37.29913685272342,0 127.6774722315109,37.30094126306201,0 127.6776728319203,37.3022214153475,0 127.6778567236051,37.30319923449192,0 127.6760906525495,37.30354918524823,0 127.6761154535749,37.30340550791434,0 127.6760859295681,37.30306937094255,0 127.6760434860423,37.30271759295019,0 127.6759896816102,37.30240015291489,0 127.6758649951571,37.30203727289936,0 127.6756593101048,37.30161987178835,0 127.6753600912833,37.30125735124629,0 127.6750104161251,37.30099903330886,0 127.6746173042907,37.30081025202262,0 127.6742617944795,37.30066126330014,0 127.6738496683865,37.30059155440859,0 127.6735931216841,37.30052175252614,0 127.673216569063,37.30044157076363,0 127.6728153511683,37.30036649157197,0 127.6722801941758,37.30025141890879,0 127.6722676913395,37.30025142355925,0 127.6717005992635,37.30010794013807,0 127.6714600843295,37.300109008303,0 127.671333952325,37.30015012036738,0 127.6713062580792,37.30027438630897,0 127.6712321220143,37.30045735650733,0 127.6711018730017,37.3005165192494,0 127.6709794484524,37.3006484146752,0 127.6708375948623,37.30072603338527,0 127.6706948466122,37.30073062473014,0 127.6705488766884,37.3006818613807,0 127.67039752588,37.30063337879508,0 127.6702456845104,37.30060440335048,0 127.6700712756345,37.30055636340118,0 127.6698814265034,37.30046976053296,0 127.6698021800787,37.30042163905161,0 127.6696900907487,37.30046018142598,0 127.6696044454255,37.30056586044025,0 127.6695235905337,37.30065687244662,0 127.6695076517953,37.30079116836588,0 127.6695117126044,37.30093039638464,0 127.6694816865616,37.30099273274601,0 127.6692748036827,37.30095866872905,0 127.6691305216712,37.30093942928436,0 127.6689125096517,37.30096820817812,0 127.6686759295302,37.3009634722411,0 127.6685646114149,37.30087214538374,0 127.668463930942,37.30083848540621,0 127.6683716479404,37.30094395492551,0 127.6683040830799,37.30098236621274,0 127.6683536476962,37.30108831261778,0 127.6682786864827,37.30111256027286,0 127.6683902710273,37.30120901304875,0 127.6684535879662,37.30129117503657,0 127.6682862398793,37.3015154818354,0 127.6681521318797,37.301741929843,0 127.6680962134367,37.30198976558624,0 127.6682004506011,37.30211285128745,0 127.6684698608546,37.30221507824919,0 127.6686901374383,37.30229777939796,0 127.6688367221435,37.30241018613714,0 127.6687131919775,37.30270504194485,0 127.6682525242613,37.30266565962145,0 127.6679210725534,37.30263605406584,0 127.6676291426705,37.30257600422632,0 127.6674108739401,37.30247764522966,0 127.6671375790608,37.30230192340218,0 127.6668580164847,37.30212178294627,0 127.6667308170801,37.30197595391603,0 127.6667187544125,37.30197109122651,0 127.6664512142066,37.30160285508292,0 127.6663574155333,37.3013953066419,0 127.6662399010605,37.30119322336658,0 127.6661051648016,37.30096299299651,0 127.6660295941327,37.30080025283745,0 127.6659791002203,37.30064107921095,0 127.6658575219356,37.30056863271621,0 127.6657484577117,37.30054928342117,0 127.6656582449274,37.30067937179141,0 127.665535884016,37.30087647133662,0 127.6653083199986,37.3010497415279,0 127.6650674818381,37.30113136257691,0 127.664893492622,37.30111684263881,0 127.6647975633609,37.30110237979636,0 127.6646706647003,37.30100627713323,0 127.6645496561399,37.30090535297998,0 127.6645401018909,37.30106865053529,0 127.6644457666597,37.30114531798758,0 127.6643299949884,37.30129350271147,0 127.6642128983311,37.30151696764539,0 127.6641358435265,37.30169202037904,0 127.6639676073592,37.30179545144899,0 127.6637861755141,37.30181829031933,0 127.66348342409,37.30177038640987,0 127.6631666964526,37.3016944280229,0 127.662962472718,37.30161315930916,0 127.6626831505298,37.30156979623746,0 127.6621897143879,37.30155979985194,0 127.6618084162246,37.30151717750653,0 127.661602909369,37.30128473407973,0 127.6615620153402,37.30100104584152,0 127.6615819722066,37.30075085422983,0 127.6615036896535,37.30054746195433,0 127.6613365581477,37.30044270197305,0 127.6610512836474,37.30035401234912,0 127.6607044398762,37.30023727692183,0 127.660378566453,37.30002873966923,0 127.6601536020108,37.29976546397953,0 127.6600738020623,37.29955386672113,0 127.6600716437598,37.29933156448608,0 127.6601494081449,37.29918619158494,0 127.6602702022492,37.29905524705183,0 127.6603427144926,37.29890001250736,0 127.6598745164723,37.29820185136833,0 127.6597218705509,37.2979375359095,0 127.6594825976357,37.29789326311707,0 127.6590528319953,37.29785866971785,0 127.6586403964768,37.29779912085874,0 127.6583256415203,37.29772978153363,0 127.6580602910332,37.29775867321695,0 127.6579979484317,37.29768970463952,0 127.6579067470794,37.29750132805721,0 127.6572416028608,37.29763662098381,0 127.6570617361853,37.29682718263911,0 127.6563600694483,37.29688647937064,0 127.6552799002272,37.29743552555106,0 127.6551519523139,37.29760649640361,0 127.6546931985584,37.29766380585975,0 127.6538647759832,37.29798224751513,0 127.6535840981627,37.29812773309999,0 127.6533372781675,37.29829211653214,0 127.651558157457,37.29884817995263,0 127.6507345380192,37.29911395752615,0 127.6496467384057,37.29948753378583,0 127.6496287619103,37.29952040805254,0 127.6497418317051,37.2997676549363,0 127.6496300534952,37.29980801652405,0 127.6488980553483,37.29839318288204,0 127.6478178749504,37.29615063350187,0 127.6475279478245,37.29554041253213,0 127.6473072766591,37.29504360549628,0 127.6470399591409,37.29456990401365,0 127.6468565790922,37.2942711643294,0 127.6468076028821,37.29421764139347,0 127.6466963083646,37.29421709402251,0 127.6465354709801,37.29430569483147,0 127.6463520228527,37.29439082215065,0 127.6462534648128,37.2943586225357,0 127.6460652904783,37.29407350601175,0 127.6447095719985,37.2930421630418,0 127.6436142922889,37.29233908841121,0 127.6424638073528,37.29180912136332,0 127.6411751513152,37.29128372559612,0 127.6399169730316,37.29078791277247,0 127.6390128089689,37.29042972748275,0 127.6381126135232,37.29013425582224,0 127.6371640922278,37.28982044777261,0 127.6361014831944,37.28945078404517,0 127.6353494234094,37.28922354810359,0 127.6350550500589,37.2891558978255,0 127.6349209913656,37.28920884782448,0 127.6349477110091,37.2894108718577,0 127.635037162429,37.28974039584415,0 127.6351409089103,37.2900832954351,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>강천교, 강천마을</name>
+			<description>시작점</description>
+			<styleUrl>#msn_blue-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.7090959065,37.2344635148,59.7271728516</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여주종합터미널</name>
+			<description>종착점</description>
+			<LookAt>
+				<longitude>127.6361184072097</longitude>
+				<latitude>37.28936913566047</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02173423526687723</heading>
+				<tilt>0</tilt>
+				<range>577.4235969022938</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.635149220448,37.29008402730999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>문화재</name>
+			<open>1</open>
+			<Placemark>
+				<name>신륵사</name>
+				<description>문화재</description>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>127.6616476508344,37.29742697146237,54.4399414063</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>관광지</name>
+			<open>1</open>
+			<Placemark>
+				<name>여주박물관</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>127.6533493009661</longitude>
+					<latitude>37.2988181340639</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02740588140206375</heading>
+					<tilt>22.55039239718945</tilt>
+					<range>1420.021100659061</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#point0Style</styleUrl>
+				<Point>
+					<coordinates>127.6534766730613,37.29950424227673,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>목아박물관</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>127.6977562555445</longitude>
+					<latitude>37.28001933114164</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02155780912423578</heading>
+					<tilt>0</tilt>
+					<range>2614.362695614886</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<Point>
+					<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+					<coordinates>127.6876409780279,37.28781171080777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>여성생활사박물관</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>127.7049170536928</longitude>
+					<latitude>37.24043313151171</latitude>
+					<altitude>0</altitude>
+					<heading>0.003222681163343193</heading>
+					<tilt>18.53970907053424</tilt>
+					<range>2875.723702809035</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#point0Style</styleUrl>
+				<Point>
+					<coordinates>127.7082913534832,37.24347365796032,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>화장실</name>
+			<open>1</open>
+			<Placemark>
+				<name>화장실</name>
+				<description>화장실</description>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>127.7079767548,37.234784374,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실</name>
+				<description>화장실</description>
+				<LookAt>
+					<longitude>127.6566670406612</longitude>
+					<latitude>37.29860444739042</latitude>
+					<altitude>0</altitude>
+					<heading>3.073745920755304</heading>
+					<tilt>5.029196013855326</tilt>
+					<range>576.9428337172639</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>127.6563685596831,37.29866476476454,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>기타</name>
+			<open>1</open>
+			<Placemark>
+				<name>여주대교</name>
+				<description>다리</description>
+				<LookAt>
+					<longitude>127.6528793135513</longitude>
+					<latitude>37.29307454800598</latitude>
+					<altitude>0</altitude>
+					<heading>8.899141382257627</heading>
+					<tilt>18.69142241837145</tilt>
+					<range>1937.622842643052</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>127.648084990809,37.29715767956581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>강천보</name>
+				<LookAt>
+					<longitude>127.6867659589606</longitude>
+					<latitude>37.27812389125188</latitude>
+					<altitude>0</altitude>
+					<heading>0.1968226463928176</heading>
+					<tilt>2.188760806044596</tilt>
+					<range>1036.593214692432</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin8</styleUrl>
+				<Point>
+					<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+					<coordinates>127.6843487591598,37.27866672813719,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>오감도토리마을</name>
+				<description>마을</description>
+				<LookAt>
+					<longitude>127.6923175767957</longitude>
+					<latitude>37.27042910078228</latitude>
+					<altitude>0</altitude>
+					<heading>0.2001747489667659</heading>
+					<tilt>2.187869812118868</tilt>
+					<range>2023.363385241558</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin13</styleUrl>
+				<Point>
+					<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+					<coordinates>127.6899117800084,37.27344601739465,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>대순진리회</name>
+				<LookAt>
+					<longitude>127.6883642116401</longitude>
+					<latitude>37.27732485771134</latitude>
+					<altitude>0</altitude>
+					<heading>-0.006741128399533699</heading>
+					<tilt>18.81549619320027</tilt>
+					<range>2272.739428046613</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#point0Style</styleUrl>
+				<Point>
+					<coordinates>127.6914020741067,37.28003607807393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>금당교</name>
+				<description>다리</description>
+				<LookAt>
+					<longitude>127.6750580412546</longitude>
+					<latitude>37.30069660999266</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01441554263974792</heading>
+					<tilt>21.30795167776094</tilt>
+					<range>1799.338108108801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#point0Style</styleUrl>
+				<Point>
+					<coordinates>127.6769407380933,37.30341177257923,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>신륵사 매표소</name>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>127.6578314323,37.2975391801,54.4399414063</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>중점</name>
+				<description>중점</description>
+				<Point>
+					<coordinates>127.6790353,37.2764808,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

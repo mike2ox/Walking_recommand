@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>P619  Entire route.kml</name>
+	<Style id="redLine">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>P619 : Entire route</name>
+		<description>Route of Province road 619</description>
+		<styleUrl>#redLine</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				128.612861,36.823006,0 128.614895,36.819894,0 128.613708,36.810167,0 128.609287,36.802994,0 128.616547,36.799468,0 128.621756,36.794402,0 128.626468,36.794056,0 128.629471,36.791937,0 128.631928,36.793049,0 128.634796,36.786217,0 128.632073,36.782414,0 128.628613,36.780404,0 128.62058,36.778238,0 128.620992,36.77577,0 128.623088,36.772301,0 128.62096,36.766071,0 128.621363,36.763536,0 128.626487,36.763637,0 128.62919,36.762812,0 128.629586,36.760191,0 128.626031,36.755277,0 128.625953,36.752832,0 128.629131,36.74664,0 128.630292,36.739955,0 128.629284,36.73408,0 128.621058,36.733531,0 128.620423,36.731018,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

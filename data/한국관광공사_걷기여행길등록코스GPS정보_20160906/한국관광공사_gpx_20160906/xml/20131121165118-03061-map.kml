@@ -1,0 +1,355 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name><![CDATA[초안산나들길.kmz]]></name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20131121165118">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_waypoint_normal">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="gv_waypoint_highlight">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="gv_waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gv_waypoint_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gv_waypoint_highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+   
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[초안산나들길]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff00ff77</color>
+            <width>5</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.049749328,37.641796084,0 127.048742717,37.642158176,0 127.048827107,37.642472943,0 127.048700591,37.642657858,0 127.048553699,37.642369342,0 127.048470411,37.64249514,0 127.046632451,37.643003572,0 127.046278025,37.642929661,0 127.045485294,37.642466836,0 127.045138562,37.642529892,0 127.04465283,37.64247756,0 127.044470247,37.641988442,0 127.044705285,37.641432401,0 127.044612446,37.641213674,0 127.044717847,37.641060208,0 127.044962833,37.639986274,0 127.044834314,37.639903351,0 127.044894836,37.63961877,0 127.044995403,37.639510069,0 127.045023009,37.63919701,0 127.045087316,37.638942118,0 127.045252348,37.638615983,0 127.045602676,37.638476693,0 127.045881075,37.638511591,0 127.046077747,37.638685969,0 127.04618476,37.638844312,0
+			
+			127.046256784,37.638696169,0 127.046536428,37.638630948,0 127.046766975,37.63872837,0 127.046911471,37.638991794,0 127.047042835,37.638883718,0 127.04722352,37.638971838,0 127.047157556,37.639121195,0 127.047310141,37.639558348,0 127.04744305,37.639682758,0 127.047751862,37.639697522,0 127.047969954,37.640000743,0 127.047889342,37.640147968,0 127.047963166,37.640311263,0 127.048109758,37.640167216,0 127.048323684,37.640219086,0 127.048331173,37.640347606,0 127.048529856,37.640368703,0 127.048767962,37.640602015,0 127.048663066,37.640676595,0 127.048784054,37.640958605,0 127.049193966,37.641393328,0 
+			
+			127.049537374,37.641543114,0 127.049744295,37.641805445,0 127.05011526,37.641938928,0 127.05014762,37.641563571,0 127.050339555,37.641497952,0 127.050717223,37.641676035,0 127.050831955,37.641997462,0 127.05119211,37.642163259,0 127.051210017,37.641789365,0 127.050826036,37.641437737,0 127.051018539,37.640665944,0 127.050792608,37.640370307,0 127.050692195,37.639436194,0 127.050889604,37.639510379,0 127.051575333,37.638125603,0 127.051786623,37.638223094,0 127.051857286,37.638115378,0 127.052426894,37.638293371,0 127.053082392,37.63817332,0 127.053300758,37.63824589,0 127.053522677,37.637573833,0 127.053880017,37.637536866,0 127.053763383,37.637153563,0 127.054480548,37.636698067,0 127.054481419,37.636348615,0 127.054679127,37.636046066,0 127.055260451,37.635894308,0 127.055605268,37.635676177,0 127.055212979,37.635429512,0 127.055139352,37.634980343,0 127.05482957,37.634702665,0 127.054996687,37.63452342,0 127.055006483,37.633945085,0 127.054460148,37.63384312,0 127.054640564,37.633636146,0 127.054366445,37.633466073,0 127.054476678,37.632848557,0 127.054459781,37.63280841,0 127.054105847,37.632608248,0 127.053769855,37.632686684,0 127.053459174,37.632457634,0 127.052538679,37.632318209,0 127.052430401,37.632594485,0 127.049459364,37.632364699,0 127.049386005,37.632113459,0 127.048342737,37.631777839,0 127.047990974,37.63183589,0 127.047428474,37.632176592,0 127.046936548,37.631755676,0 127.046690408,37.632158915,0 127.046651897,37.632662377,0 127.04678746,37.633152229,0 127.046899235,37.633621367,0 127.047059473,37.633953438,0 127.047335415,37.634154806,0 127.047838981,37.63436493,0 127.047848741,37.634847066,0 127.048225448,37.635201782,0 127.047777046,37.635530223,0 127.047780546,37.635897055,0 127.048035015,37.636024928,0 127.048124417,37.6365424,0 127.047837564,37.636736215,0 127.048112137,37.637094325,0 127.04768137,37.637642282,0 
+			127.04778804,37.637992659,0 127.047749431,37.638202337,0 127.047211897,37.638195506,0 127.047093715,37.638458719,0 127.046901439,37.638483864,0 127.046909126,37.638660026,0 127.046779572,37.638729766,0 
+		
+			
+						127.046256784,37.638696169,0 127.046536428,37.638630948,0 127.046766975,37.63872837,0 127.046911471,37.638991794,0 127.047042835,37.638883718,0 127.04722352,37.638971838,0 127.047157556,37.639121195,0 127.047310141,37.639558348,0 127.04744305,37.639682758,0 127.047751862,37.639697522,0 127.047969954,37.640000743,0 127.047889342,37.640147968,0 127.047963166,37.640311263,0 127.048109758,37.640167216,0 127.048323684,37.640219086,0 127.048331173,37.640347606,0 127.048529856,37.640368703,0 127.048767962,37.640602015,0 127.048663066,37.640676595,0 127.048784054,37.640958605,0 127.049193966,37.641393328,0 
+			</coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[초안산진입로1]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.051677718,37.643711396,0 127.052105897,37.642426199,0 127.051334731,37.642296861,0 127.051189787,37.642160444,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[초안산진입로2]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.049007993,37.645329785,0 127.048559687,37.645203074,0 127.048930301,37.644349309,0 127.048748803,37.643644173,0 127.048467804,37.643526281,0 127.048560364,37.643391905,0 127.048507183,37.642775406,0 127.048307418,37.642619656,0 127.048435104,37.642507792,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[초안산진입로3]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.0446438,37.64246606,0 127.044302617,37.642600205,0 127.043986685,37.642976108,0 127.044130728,37.643385891,0 127.043922021,37.643491162,0 127.043534012,37.643507097,0 127.043384832,37.643746393,0 127.043270071,37.643867177,0 127.043120288,37.643950602,0 127.04288904,37.643940925,0 127.042750986,37.64406846,0 127.042660536,37.64426208,0 127.042634665,37.644528061,0 127.042662214,37.644791295,0 127.042801571,37.644957871,0 127.042878154,37.645114123,0 127.042763587,37.645287864,0 127.042676199,37.645674664,0 127.042670698,37.645940162,0 127.04283196,37.646165736,0 127.043123645,37.646362301,0 127.043345212,37.646516436,0 127.043498918,37.646736019,0 127.043559586,37.646989158,0 127.043528026,37.647185678,0 127.043670909,37.647308003,0 127.04366129,37.647661719,0 127.043489781,37.647749826,0 127.043741712,37.647940902,0 127.043653509,37.648315406,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[초안산진입로4]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.045269178,37.628550664,0 127.046315656,37.629641077,0 127.046509118,37.629813251,0 127.046553492,37.62995674,0 127.046619628,37.630177026,0 127.046870159,37.63029596,0 127.047146507,37.630415287,0 127.047457473,37.630356116,0 127.047672799,37.630302339,0 127.047151439,37.630831707,0 127.047103106,37.631083923,0 127.047056419,37.631336932,0 127.046890549,37.631550031,0 127.046913524,37.631784431,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[초안산진입로5]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>127.055487361,37.628597509,0 127.05305086,37.631178591,0 127.052794091,37.631563193,0 127.052619509,37.631923917,0 127.052543745,37.632323599,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+	 <Folder id="Waypoints">
+      <name>Waypoints</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>지하철정류장(녹천역4번출입구)</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.051632573,37.64370707</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>덕룡로</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <scale>0.7</scale>
+            <Icon>
+              <href>files/진입로3.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.049011324,37.645338047</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>해등로3길</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <scale>0.7</scale>
+            <Icon>
+              <href>files/진입로3.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.043651033,37.648348798</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>우이천다리</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <scale>0.7</scale>
+            <Icon>
+              <href>files/진입로3.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.045266174,37.628549952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>버스정류장(인덕대학교)</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.055445888,37.628583956</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>산사나무군락지</name>
+        <description><![CDATA[도봉구와 노원구에 걸쳐있는 해발 114.1m의 산 속에 있는 산사나무 군락지이다.]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.045142411,37.638567301</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>파고라 쉼터</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.046039314,37.638652539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>헬기장</name>
+        <description><![CDATA[초안산 가장 높은 정상에 자리하고 있다. 주변 경치를 감상하기에 좋다.]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.0467244,37.638705994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>성원교회직전, 초안산 숲길로 진입</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.05254941,37.632320933</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>초안산 체육공원</name>
+        <description><![CDATA[인조잔디로 된 국제규격의 축구장이 조성되어있다. 이 뿐만 아니라 배드민턴장, 테니스장 등 다양한 운동 시설들을 갖추고 있어 여러 연령층의 사람들이 즐겨 찾는 장소이다.]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.051250454,37.638782027</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

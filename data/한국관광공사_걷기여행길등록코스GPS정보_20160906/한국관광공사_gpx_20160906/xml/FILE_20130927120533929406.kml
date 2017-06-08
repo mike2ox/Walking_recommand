@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>무안갯길1코스.kml</name>
+	<Style id="waypoint4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint1301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint520</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint52">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint29">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint130">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint521</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="path0Style">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="waypoint20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint1300">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint520">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint1301">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="waypoint351">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint522</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint521">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint74">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="path0Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint65">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint352">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint1302</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint1302">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint522">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint63">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>무안갯길 1코스</name>
+		<Placemark>
+			<name>무안갯길1코스</name>
+			<styleUrl>#path0Style1</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						126.3329349868322,34.99349350332403,0 126.3331731237257,34.99400036024905,0 126.3342075897266,34.99482035019796,0 126.335248615682,34.99547055107934,0 126.3369418949011,34.99643489260639,0 126.3377808679715,34.99674192336087,0 126.3390010186626,34.99752096832836,0 126.3394065535996,34.99744312042468,0 126.340734230013,34.99748173678538,0 126.3412477366605,34.99743476602509,0 126.3423706182155,34.99681736328721,0 126.3432386045116,34.99640733350733,0 126.343472108323,34.99602028287523,0 126.3437070865737,34.99593883825308,0 126.3438680862003,34.9957217406446,0 126.3442973068196,34.9956641679775,0 126.344712401875,34.9955376515627,0 126.3450014074178,34.99552488313692,0 126.3452508699922,34.99557005575341,0 126.3452426506293,34.99594750645785,0 126.3452648832549,34.99616853131828,0 126.345392875286,34.99620542614428,0 126.3454871508787,34.99647942960039,0 126.3455782513403,34.99684593205839,0 126.3458247432167,34.99722646228361,0 126.3460539811607,34.99757997899229,0 126.3464262779719,34.99847325977672,0 126.3467209017501,34.99912188821303,0 126.3468163195553,34.99931344048131,0 126.3477712405373,34.99989535114989,0 126.347826826773,35.00041214801703,0 126.3479244841567,35.00074885809296,0 126.34821075468,35.0013746627974,0 126.348434217287,35.00170217016466,0 126.3485522821563,35.00192808761714,0 126.3488315572985,35.00220241821444,0 126.348521474157,35.00228625929933,0 126.3482920785703,35.00237873066639,0 126.3482390639831,35.00250895103441,0 126.3483443537215,35.00269644294623,0 126.3485029290097,35.00285048034876,0 126.348594388497,35.00299990780356,0 126.3484783093274,35.00311234069304,0 126.3494679797,35.0036185607,0 126.3516205363,35.0044880994,0 126.3546006382,35.0056803413,0 126.3585559744,35.0073257927,0 126.3592665922,35.0076672714,0 126.3607400522732,35.00837007128011,0 126.360889430377,35.00823495551691,0 126.3613703329652,35.0084642038824,0 126.3618617617762,35.00857282254692,0 126.3620819266432,35.00849522014468,0 126.3623398346418,35.00822283991531,0 126.3626727275174,35.00796764292102,0 126.3633810772993,35.00786255448924,0 126.363787012496,35.00788352092349,0 126.364225847754,35.00784880662421,0 126.3645482079517,35.00821965114659,0 126.3648010184486,35.0087786646311,0 126.3651163458749,35.00932085067352,0 126.365839039711,35.01020242650028,0 126.3671093086811,35.01158750678182,0 126.367278490775,35.01181732596643,0 126.3672227499904,35.01212823135204,0 126.3678810932,35.012547886,0 126.3682577759,35.01292306,0 126.3687902782,35.0133800413,0 126.369731063,35.0139339175,0 126.3703847677,35.0142623205,0 126.3710804656,35.014835475,0 126.3714292366,35.0149004348,0 126.3717525266,35.0152357109,0 126.3717630878,35.0152450148,0 126.3722286187,35.0155938696,0 126.3733751792,35.016339859,0 126.3743390981,35.0167963374,0 126.3765979372,35.0182440598,0 126.3786283694,35.0191909634,0 126.3811523281,35.0200502761,0 126.3815100677,35.0199352764,0 126.3817770313,35.0198715739,0 126.3820899278,35.0199805386,0 126.3822915126,35.0201231148,0 126.3824703824,35.0202827062,0 126.3836338744,35.0207957625,0 126.3838143367,35.0209188089,0 126.3842014968,35.0213275943,0 126.3843486831,35.0216467772,0 126.3843910955,35.0219351985,0 126.3842895068,35.0221388787,0 126.3840931188,35.0224040821,0 126.383955488,35.0226355903,0 126.3840053603,35.022763079,0 126.3854863588,35.0236996729,0 126.3877869397,35.0240596756,0 126.3893038966,35.023864964,0 126.390316179,35.0242988113,0 126.3903499581,35.0244974624,0 126.3902234752,35.0247432198,0 126.3902424183,35.0249862112,0 126.3903450128,35.0251700263,0 126.3903859165,35.0254410971,0 126.3904690649,35.0257855933,0 126.3906099647,35.0260741822,0 126.3906034268,35.0265827961,0 126.3906688895,35.0270780828,0 126.3905756827,35.0275717769,0 126.3905528001,35.0279964041,0 126.3907379564,35.0286419783,0 126.3908161595,35.0292685255,0 126.3908104599,35.0298498105,0 126.3907667901,35.0302626193,0 126.3907664549,35.0305740908,0 126.3911709655,35.0307851471,0 126.391604729,35.0308614224,0 126.3917900529,35.031155711,0 126.3922515605,35.0314797554,0 126.3925188594,35.0318114273,0 126.3926103059,35.0323167723,0 126.3928240445,35.0325388089,0 126.3928028382,35.0328196026,0 126.3928475138,35.0333352573,0 126.3929262199,35.0336276181,0 126.3929851446,35.0340009481,0 126.3935944252,35.0341610424,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Folder>
+			<name>웨이포인트</name>
+			<Placemark>
+				<name>조금나루해수욕장</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>126.3452629995847</longitude>
+					<latitude>34.99675442295358</latitude>
+					<altitude>0</altitude>
+					<heading>31.10445779013651</heading>
+					<tilt>24.8885822526204</tilt>
+					<range>2020.513400159365</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#waypoint17</styleUrl>
+				<Point>
+					<coordinates>126.3391058393534,34.99760062794617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실(황토골무안낙지공원)</name>
+				<open>1</open>
+				<description>2013-04-15 8:19:05AM</description>
+				<styleUrl>#waypoint8</styleUrl>
+				<Point>
+					<coordinates>126.3478467,35.002806,11.66162</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2코스 시작점(조금나루터)</name>
+				<description>2013-04-15 8:23:17AM</description>
+				<styleUrl>#waypoint20</styleUrl>
+				<Point>
+					<coordinates>126.3330188067307,34.99357947772694,10.94055</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>버스정류장(송정리)</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>126.3942163038369</longitude>
+					<latitude>35.03597444653714</latitude>
+					<altitude>0</altitude>
+					<heading>1.222321832122118</heading>
+					<tilt>12.930818765199</tilt>
+					<range>590.0181610116392</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#waypoint350</styleUrl>
+				<Point>
+					<coordinates>126.3928546498196,35.03551046830043,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>송현마을회관(화장실)</name>
+				<LookAt>
+					<longitude>126.3467620665415</longitude>
+					<latitude>34.99830517451378</latitude>
+					<altitude>0</altitude>
+					<heading>1.195034209200442</heading>
+					<tilt>0</tilt>
+					<range>2462.772835429475</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#waypoint35</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.3446162798267,34.99591950302534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실(장재마을)</name>
+				<LookAt>
+					<longitude>126.3751349017789</longitude>
+					<latitude>35.01694090286664</latitude>
+					<altitude>0</altitude>
+					<heading>1.211370935515753</heading>
+					<tilt>12.93084256664343</tilt>
+					<range>601.8594061303469</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#waypoint352</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.3733002060597,35.01621408937087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>외덕마을</name>
+				<LookAt>
+					<longitude>126.3882149340484</longitude>
+					<latitude>35.0222740277353</latitude>
+					<altitude>0</altitude>
+					<heading>1.21887723236572</heading>
+					<tilt>12.93082213643237</tilt>
+					<range>591.6953805433288</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#waypoint351</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.3878205676765,35.02272867281867,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

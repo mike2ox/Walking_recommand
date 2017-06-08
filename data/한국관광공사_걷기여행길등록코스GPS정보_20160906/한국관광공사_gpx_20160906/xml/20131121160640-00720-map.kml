@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name><![CDATA[전쟁기념관산책길.kmz]]></name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20131121160640">GPS Visualizer</A>]]></Snippet>
+   
+  
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[전쟁기념관진입로1]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>ff0055ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>126.977545217,37.534825764,0 126.977394364,37.53481629,0 126.977355281,37.535302772,0 126.978560144,37.535362529,0 126.978473456,37.537260631,0 126.976034825,37.53719617,0 126.976153824,37.535251885,0 126.977069845,37.535289219,0 126.977103517,37.534811941,0 126.975762603,37.534742571,0 126.974948201,37.535200002,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+	  <Folder id="Waypoints">
+      <name>Waypoints</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>옥외전시장</name>
+        <description><![CDATA[우리 기술로 생산되는 우수한 방산장비를 생산업체별, 품목별로 구분 전시하여, 국산장비의 우서성과 자주국방 체제가 구축되었음을 보여주는 공간이다.]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>126.978508192,37.536673367</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>전사자영비</name>
+        <description><![CDATA[기념관 양측 화랑에 국군전사자명비와 유엔군전사자명비가 있으며, 6.25전쟁과 월남전 등에서 전사한 장병과 경찰, UN군의 명비가 세워져 있다.]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>126.978077912,37.536084863</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

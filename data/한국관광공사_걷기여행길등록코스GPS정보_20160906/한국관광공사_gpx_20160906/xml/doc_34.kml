@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>봉제산숲 나들길.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_진입로3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_진입로30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로3">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_bus">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_진입로3">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_bus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로30">
+		<IconStyle>
+			<scale>0.816667</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로31">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로30">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>봉제산숲 나들길</name>
+		<description>등촌중학교 후문-담소터-봉제산배드민턴장-봉제산주능선길시작점-등서초등학교 운동장-뒷동산숲길 시작점-등촌중학교후문</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8585431734038,37.55239656705081,0 126.8582009324804,37.55208174727718,0 126.8578655163623,37.5516796297748,0 126.8574207473752,37.55189889150088,0 126.8571225975987,37.55162895238071,0 126.856857933878,37.55148623207274,0 126.8561030191618,37.55187494800418,0 126.8557331839709,37.55210667942428,0 126.8553008978675,37.55218766810038,0 126.8552120031321,37.55206755030066,0 126.8556240787265,37.55190667879161,0 126.8553597506093,37.55164839214319,0 126.8553610092247,37.55146636145753,0 126.8550633324351,37.55107803459448,0 126.8548948392443,37.5509461207893,0 126.8551119866058,37.5506837886641,0 126.8554384559666,37.55044514772744,0 126.8556650618118,37.55014969393763,0 126.8560512158128,37.54990026237456,0 126.8562905026217,37.54973205169798,0 126.8564439792381,37.54946314000755,0 126.8564872741396,37.54907221989355,0 126.8566998831437,37.54846762860109,0 126.8566827155371,37.54824948398674,0 126.8563866590335,37.54806711791327,0 126.8559779107035,37.54787586958158,0 126.8558394907756,37.54738586166565,0 126.8552556308429,37.54706771653065,0 126.855075880067,37.54678977945846,0 126.854896377498,37.54644564151803,0 126.8550013275793,37.54615291829047,0 126.8547868042466,37.54570065026125,0 126.8546923691979,37.54557917454488,0 126.8547611904455,37.54542483080093,0 126.8548218288306,37.54520428011413,0 126.8545927725942,37.54484139625487,0 126.8541307332599,37.54445889102748,0 126.8537581474863,37.54424099035356,0 126.8539863989609,37.54383966966103,0 126.8541478364354,37.54358501586896,0 126.8544285547469,37.54346299637044,0 126.8545867930873,37.54321832235679,0 126.8549104912105,37.54304951778871,0 126.8553922487358,37.54276651100322,0 126.8562130469265,37.54244667524615,0 126.8560551755154,37.54236009992855,0 126.8558301973389,37.54228457294303,0 126.8555095967315,37.5423212932961,0 126.8553314274807,37.54227398276224,0 126.8554773339693,37.54195645399073,0 126.8553710757688,37.54190937620295,0 126.8552629811081,37.54202134029584,0 126.8546915335159,37.54171842304757,0 126.8547401021604,37.54155915289697,0 126.8545124301027,37.54145455033464,0 126.8542552357544,37.54135153970953,0 126.8542569162413,37.54106920852164,0 126.8540825515892,37.54077721027816,0 126.853808462724,37.54057834432608,0 126.8532474627965,37.54048752613157,0 126.8526906179321,37.54025265752256,0 126.8526762954832,37.5399661433861,0 126.8525267547791,37.53969601242203,0 126.8522187352563,37.53962339891347,0 126.8521860487757,37.53937400057348,0 126.8519460940284,37.53924627492678,0 126.8520800657609,37.53892202718654,0 126.8522905076631,37.53859903574937,0 126.8521435637172,37.53836079114747,0 126.8520615619157,37.53813285883582,0 126.8518838665324,37.53785897614052,0 126.8517992515487,37.53743909264922,0 126.8516314299923,37.53697189507178,0 126.8517537257462,37.53662644566137,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>등촌중학교 후문</name>
+		<LookAt>
+			<longitude>126.8520406342466</longitude>
+			<latitude>37.53705403544696</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001856020366603665</heading>
+			<tilt>0</tilt>
+			<range>221.1506526384692</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>126.8517496747556,37.53663630072866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>담소터</name>
+		<description>봉제산 초입에서 조금만 올라가면 바로 나타나는 공간 마을버스 정류장을 같이 끼고 있다.</description>
+		<LookAt>
+			<longitude>126.8521760023198</longitude>
+			<latitude>37.5395382419574</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001763825837913141</heading>
+			<tilt>1.350127053660896</tilt>
+			<range>190.5697307274152</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_2</styleUrl>
+		<Point>
+			<coordinates>126.8521699969355,37.53935936675926,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산배드민턴장</name>
+		<description>화곡배수지에서 봉제산 자연체험 학습장으로 가는 길 중간에 위치하고 있다.</description>
+		<LookAt>
+			<longitude>126.8544107490384</longitude>
+			<latitude>37.5422719682372</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0004067389958397457</heading>
+			<tilt>1.35028624494666</tilt>
+			<range>237.5626805223146</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_3</styleUrl>
+		<Point>
+			<coordinates>126.8547038380294,37.54164583192762,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산주능선길시작점</name>
+		<description>아까시나무, 리기다소나무, 상수리나무 등 울창한 숲을 이루는 곳 주민들의 편의 시설과 자연학습장 등이 이루어져 있다.</description>
+		<LookAt>
+			<longitude>126.8555952743465</longitude>
+			<latitude>37.54279494290037</latitude>
+			<altitude>0</altitude>
+			<heading>0.000315045854127136</heading>
+			<tilt>1.350282856309858</tilt>
+			<range>221.5547543443739</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_4</styleUrl>
+		<Point>
+			<coordinates>126.8562074334435,37.54244644434886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>등서초등학교 운동장</name>
+		<description>1984년 개교한 서울시 강서구 화곡6동에 있는 공립초등학교 28학급으로 편성되어 있다.</description>
+		<LookAt>
+			<longitude>126.8552200471011</longitude>
+			<latitude>37.55163890171075</latitude>
+			<altitude>0</altitude>
+			<heading>7.575847881547162e-005</heading>
+			<tilt>4.422833424029235</tilt>
+			<range>180.4947959639026</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_5</styleUrl>
+		<Point>
+			<coordinates>126.8553595585335,37.55155973728697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>뒷동산숲길 시작점</name>
+		<LookAt>
+			<longitude>126.8572239623083</longitude>
+			<latitude>37.55187629502205</latitude>
+			<altitude>0</altitude>
+			<heading>0.001297098173425145</heading>
+			<tilt>4.423306984947028</tilt>
+			<range>171.0892164501881</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_6</styleUrl>
+		<Point>
+			<coordinates>126.8568590096534,37.5514884316592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>등촌중학교후문</name>
+		<LookAt>
+			<longitude>126.8583213865414</longitude>
+			<latitude>37.55264036173487</latitude>
+			<altitude>0</altitude>
+			<heading>0.001923007931292432</heading>
+			<tilt>17.58725672964415</tilt>
+			<range>195.6420185395961</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_7</styleUrl>
+		<Point>
+			<coordinates>126.8585432867847,37.55239479680793,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲 나들길1</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8522191349495,37.53956698537346,0 126.8524627560464,37.5395598688761,0 126.8529191277147,37.53940505229171,0 126.852934549508,37.53909281625447,0 126.8530398240328,37.53883641765744,0 126.8534355474045,37.53856455812903,0 126.853756451581,37.53848537909199,0 126.8542544467255,37.53823899494887,0 126.8547583064633,37.53817358644235,0 126.8549797730339,37.53808459290864,0 126.8553791470346,37.53786425749532,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>버스정류장(미주아파트)</name>
+		<LookAt>
+			<longitude>126.8543058798586</longitude>
+			<latitude>37.53950984774807</latitude>
+			<altitude>0</altitude>
+			<heading>25.09800192986467</heading>
+			<tilt>0.7869710147603584</tilt>
+			<range>538.0970678199376</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_bus</styleUrl>
+		<Point>
+			<coordinates>126.8553370187804,37.53780048147922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲 나들길2</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8566633115136,37.53856627176496,0 126.856670756674,37.53888091035456,0 126.8564438303071,37.53955876802954,0 126.8563677488193,37.54019247427058,0 126.8562270274646,37.54067929486693,0 126.8570872437639,37.54149854956437,0 126.8573096352291,37.54193235112535,0 126.8573421462448,37.54202633368585,0 126.8562367268319,37.54243068933293,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>신곡초등학교</name>
+		<LookAt>
+			<longitude>126.8565145910745</longitude>
+			<latitude>37.53889913308723</latitude>
+			<altitude>0</altitude>
+			<heading>25.14707276951681</heading>
+			<tilt>9.404918779856283</tilt>
+			<range>283.4679336318181</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로3</styleUrl>
+		<Point>
+			<coordinates>126.8566351075065,37.53853427827719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길진입로3</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8573356044762,37.54202549266029,0 126.8583880100451,37.54169261995594,0 126.8587722369205,37.54153964631988,0 126.8599674130463,37.54135154276869,0 126.8604238149652,37.5408123092934,0 126.8605523340147,37.54008016361431,0 126.860338818457,37.53980341638224,0 126.8606159833428,37.53949940733578,0 126.8607818134947,37.53910659126159,0 126.8606666250319,37.53884853471703,0 126.860713976954,37.53833940701306,0 126.8608866801523,37.53816393992083,0 126.8604473578102,37.53805656721439,0 126.8601420775555,37.53835004197535,0 126.8599246177579,37.53875520943634,0 126.8595334819608,37.53905777400517,0 126.8591353612787,37.53919283870378,0 126.8588445268325,37.53924008686192,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>등촌로 13길</name>
+		<LookAt>
+			<longitude>126.8589070946421</longitude>
+			<latitude>37.54032550204909</latitude>
+			<altitude>0</altitude>
+			<heading>25.14853281470801</heading>
+			<tilt>9.408876093079586</tilt>
+			<range>633.0340503389385</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로31</styleUrl>
+		<Point>
+			<coordinates>126.8587839679324,37.53918816202052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길진입로4</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8607357346549,37.53834994966685,0 126.8611082501696,37.53839176981371,0 126.8616643612965,37.53828498945524,0 126.862192261246,37.53836565147979,0 126.8623827699441,37.53831195290935,0 126.8627075394645,37.53840491463853,0 126.8629152392076,37.5385406613258,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>대일고등학교</name>
+		<LookAt>
+			<longitude>126.8622052657872</longitude>
+			<latitude>37.53976897999902</latitude>
+			<altitude>0</altitude>
+			<heading>25.15054244196841</heading>
+			<tilt>9.408875158011847</tilt>
+			<range>632.3972393736576</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.8629152392076,37.5385406613258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길5</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8537663626393,37.54423569582441,0 126.8533684538025,37.54420175046741,0 126.8527078027599,37.54398750152815,0 126.8521146305885,37.54374041494749,0 126.8520858297062,37.54373199848346,0 126.8511022952444,37.54341144661343,0 126.850847783529,37.54313681144762,0 126.8506937121863,37.54282720491421,0 126.8506074456453,37.54272183552921,0 126.8509697452068,37.54220263452388,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>봉제산근린공원</name>
+		<LookAt>
+			<longitude>126.8515767301056</longitude>
+			<latitude>37.54186301804639</latitude>
+			<altitude>0</altitude>
+			<heading>25.14406620932201</heading>
+			<tilt>9.410566487183623</tilt>
+			<range>611.0484152725649</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.8509616908728,37.54221546733772,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길6</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.851102592413,37.54339701447257,0 126.8509216733013,37.54342018652273,0 126.8507707182826,37.54349606548011,0 126.8506262147201,37.54354400163702,0 126.8504652471727,37.54355278766128,0 126.8504545738335,37.54391180818664,0 126.8503763827233,37.54430243447757,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>경로수녀회</name>
+		<LookAt>
+			<longitude>126.8509351178611</longitude>
+			<latitude>37.54496013415632</latitude>
+			<altitude>0</altitude>
+			<heading>25.14367521853035</heading>
+			<tilt>9.410579523347675</tilt>
+			<range>619.9241962013541</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.8503386009496,37.54431410549109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길7</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8559500666341,37.54786861900335,0 126.8553438682407,37.54759715162979,0 126.8549401517488,37.54745237859878,0 126.8548014254932,37.54759193385525,0 126.8545558108081,37.54781236812634,0 126.8538006195389,37.54785705635587,0 126.8533169429636,37.54762102202041,0 126.8530235765668,37.54733104700662,0 126.8527905817271,37.54718706792167,0 126.8521540985769,37.54701242209719,0 126.8518046478198,37.54712694738054,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>청구빌라</name>
+		<LookAt>
+			<longitude>126.8510056093278</longitude>
+			<latitude>37.54781333506703</latitude>
+			<altitude>0</altitude>
+			<heading>25.1437180409174</heading>
+			<tilt>9.410613417257091</tilt>
+			<range>643.0007651510458</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로3</styleUrl>
+		<Point>
+			<coordinates>126.8517864442717,37.54710860223184,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길8</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8559820206503,37.54783970511403,0 126.8563692208538,37.54721927163391,0 126.8569553960316,37.54654264345497,0 126.8573681601489,37.54639319258637,0 126.8577666075383,37.54632467432227,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>백석빌라</name>
+		<LookAt>
+			<longitude>126.8579539606669</longitude>
+			<latitude>37.54755133373404</latitude>
+			<altitude>0</altitude>
+			<heading>25.14795242516603</heading>
+			<tilt>9.410625346120948</tilt>
+			<range>651.0321713326487</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.8577847239659,37.546311147986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길9</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8566538292032,37.54825926648642,0 126.8570811666536,37.54832847991528,0 126.8575715325033,37.54833417244359,0 126.8578644466145,37.54814647030064,0 126.8579808330389,37.5480450000297,0 126.8579884781486,37.54804216487008,0 126.8581672248556,37.54812327405293,0 126.8581779747058,37.54814147625693,0 126.8582979963601,37.54831269195269,0 126.8584845697048,37.54864467975286,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>백석중학교후문</name>
+		<LookAt>
+			<longitude>126.8586680267563</longitude>
+			<latitude>37.54886560020988</latitude>
+			<altitude>0</altitude>
+			<heading>25.14847851994763</heading>
+			<tilt>9.413724448400739</tilt>
+			<range>699.4281125659253</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로3</styleUrl>
+		<Point>
+			<coordinates>126.8584534976786,37.54864056957226,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길10</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8563470216987,37.54965962676505,0 126.8561172025993,37.54939543412097,0 126.8555457511892,37.54928027926225,0 126.8552849697082,37.54929943655169,0 126.8550092007193,37.54923374066853,0 126.8547158458328,37.54921714846256,0 126.8543323878675,37.54921838631299,0 126.8541384766392,37.54916259182009,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>그리스도대학교</name>
+		<LookAt>
+			<longitude>126.8553701819791</longitude>
+			<latitude>37.54972406966871</latitude>
+			<altitude>0</altitude>
+			<heading>25.14646869972655</heading>
+			<tilt>9.413705669864401</tilt>
+			<range>686.6469654852273</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.8540905815255,37.54914629499812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>봉제산숲나들길11</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8562606534667,37.54980521701108,0 126.8565178715804,37.54990339508964,0 126.8566494326104,37.55018727476571,0 126.8566537950247,37.5502093385334,0 126.8565886505816,37.5505058996751,0 126.8564914329293,37.55077635612815,0 126.8563307593852,37.55099688589423,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>등촌로51길</name>
+		<LookAt>
+			<longitude>126.8559283179804</longitude>
+			<latitude>37.55022648944497</latitude>
+			<altitude>0</altitude>
+			<heading>25.14680885243979</heading>
+			<tilt>9.413697998926484</tilt>
+			<range>681.4257897300219</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.8563228868274,37.55103330908826,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

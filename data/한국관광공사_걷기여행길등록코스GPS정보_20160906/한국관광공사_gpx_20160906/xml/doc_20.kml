@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>관음사 산책길.kmz</name>
+		<open>1</open>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_2">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>관음사 산책길</name>
+			<description>관음사-상록약수터</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9766775178983,37.46736920600269,0 126.9774844106564,37.4680986155016,0 126.9783715622364,37.46902824112743,0 126.9787132442834,37.46903062221909,0 126.9788808534685,37.46870818131323,0 126.979286711695,37.46804299034808,0 126.9792493024782,37.46762031057966,0 126.9787215311432,37.46690099020911,0 126.978359549889,37.46682533770424,0 126.9780661764405,37.46674100806508,0 126.9778971289349,37.46681239239405,0 126.9777911773187,37.46692814825025,0 126.9776658463375,37.46681293951106,0 126.977524683366,37.46695387684043,0 126.9775280478262,37.4671579444585,0 126.9770110997073,37.4673834014711,0 126.9768218967185,37.46723185614721,0 126.9766775178983,37.46736920600269,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>관음사</name>
+			<description> 신라 말기의 고승 도선 국사가 895년 (진성여왕 9년)에 창건하였다. 현재의 불당은 1924년 당시의 주지 석주가 중건한 것이다.
+</description>
+			<LookAt>
+				<longitude>126.9775513640312</longitude>
+				<latitude>37.4677311014274</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002620409985520953</heading>
+				<tilt>0</tilt>
+				<range>329.249619045923</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.9766803250946,37.46735474121484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상록약수터</name>
+			<description>관악산 산책길 코스의 일부 거점이며, 등산객들의 쉼터이다. 상록약수 사모회 일동이 관리하고 있다.
+</description>
+			<LookAt>
+				<longitude>126.9775513640312</longitude>
+				<latitude>37.4677311014274</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002620409985520953</heading>
+				<tilt>0</tilt>
+				<range>329.249619045923</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9775253788952,37.46693897733772,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

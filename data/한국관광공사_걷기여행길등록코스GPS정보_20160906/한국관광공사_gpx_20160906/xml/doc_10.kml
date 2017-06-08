@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>동작충효길2코스-현충원길.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_bus0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_9">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_8">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>동작충효길2코스-현충원길</name>
+		<description>국립현충원입구-사당출입문-서달산산책로-서달산계단입구</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9627338888693,37.49433269580605,0 126.9632630319707,37.49411843982,0 126.9636013665044,37.49406598472196,0 126.9638701230616,37.49385132631793,0 126.9642149100643,37.49371789905091,0 126.9646487846923,37.49331445739139,0 126.9650540754185,37.49315379147967,0 126.9653904775871,37.49339829118694,0 126.9665183624874,37.49361844343917,0 126.9671846061153,37.49375669397215,0 126.9674170235892,37.49378479781474,0 126.967818739797,37.49403175744278,0 126.968465988914,37.49392551777444,0 126.9697420948244,37.49357613359155,0 126.9703979577103,37.49341527712784,0 126.9717814256603,37.49325892712533,0 126.9728106625492,37.49334501265692,0 126.9731187398214,37.49334601623242,0 126.9732178571662,37.49389088301601,0 126.9735575773194,37.49427400831475,0 126.9742103089365,37.4943046072429,0 126.9747584348979,37.49477192812384,0 126.9752061261666,37.49485607357234,0 126.9756207231041,37.49480355246769,0 126.9755828881683,37.49532317567801,0 126.9760639588171,37.49595719537098,0 126.9765474329103,37.49637309648548,0 126.9773806898216,37.49665550714651,0 126.9780397475963,37.49729477269615,0 126.9784958412052,37.49777203990704,0 126.9793040128107,37.49819882827985,0 126.980081874707,37.49876740462864,0 126.9807767219431,37.49910140585521,0 126.981193862741,37.49954704664655,0 126.982039445818,37.49994605715747,0 126.9823692152109,37.50009838066314,0 126.9824968611986,37.50084464100611,0 126.9818655638471,37.50095575544183,0 126.9812975021463,37.50151992665521,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>국립현충원입구</name>
+		<description>국가와 민족을 위해 목숨을 바친 영령들이 안장되어 있는 묘지이다.</description>
+		<LookAt>
+			<longitude>126.9625833210808</longitude>
+			<latitude>37.49425885774191</latitude>
+			<altitude>0</altitude>
+			<heading>-0.006106605420866696</heading>
+			<tilt>0</tilt>
+			<range>786.7208771748384</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>126.9627649269576,37.49436792153795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>사당출입문</name>
+		<description>현충원의 외곽 담장에 설치된 출입문이다.</description>
+		<LookAt>
+			<longitude>126.9672866856937</longitude>
+			<latitude>37.49432437024723</latitude>
+			<altitude>0</altitude>
+			<heading>-0.003243843439469049</heading>
+			<tilt>0</tilt>
+			<range>415.3445467178332</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_7</styleUrl>
+		<Point>
+			<coordinates>126.9677574189621,37.49397774603493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>서달산 산책로</name>
+		<description>상도동 숭실대 방향에서 국립현충원 담을 끼고 서달산 정상을 거치며 이어진다.</description>
+		<LookAt>
+			<longitude>126.9817983678868</longitude>
+			<latitude>37.50113195288097</latitude>
+			<altitude>0</altitude>
+			<heading>0.005589401185729277</heading>
+			<tilt>0</tilt>
+			<range>483.1012164961578</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_8</styleUrl>
+		<Point>
+			<coordinates>126.9823864488679,37.50020325810814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>서달산 계단입구</name>
+		<LookAt>
+			<longitude>126.9812110467463</longitude>
+			<latitude>37.50069126137134</latitude>
+			<altitude>0</altitude>
+			<heading>0.005232124779008012</heading>
+			<tilt>0</tilt>
+			<range>477.2442229771903</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_9</styleUrl>
+		<Point>
+			<coordinates>126.9815555684315,37.5012571258623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>현충원길진입로1</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9654716438184,37.49333764356623,0 126.9657540216978,37.49294465936719,0 126.9661973838727,37.492244784654,0 126.9665587212384,37.49180803273003,0 126.9672340348987,37.49153473467014,0 126.9679023659684,37.49119579040308,0 126.9680868401274,37.49100963706881,0 126.9681607652957,37.49064970956346,0 126.9683455089876,37.49053256634642,0 126.9685956123046,37.49039671045478,0 126.9686081557833,37.49039674402498,0 126.9687963657005,37.49061433231885,0 126.9688208326986,37.49076216002172,0 126.9696708346008,37.49037935577489,0 126.9701931434459,37.49002580467197,0 126.9709489659272,37.48981165695487,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>버스정류장(삼성레미안, 롯데캐슬아파트)</name>
+		<LookAt>
+			<longitude>126.9706194113076</longitude>
+			<latitude>37.4904777537457</latitude>
+			<altitude>0</altitude>
+			<heading>8.956211668226541e-005</heading>
+			<tilt>0</tilt>
+			<range>320.2773477728541</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_bus0</styleUrl>
+		<Point>
+			<coordinates>126.9709447164927,37.48981081377524,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>현충원길진입로2</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9731349493562,37.49338495900797,0 126.9733575922682,37.49336018638729,0 126.973704489996,37.49334858993883,0 126.9739071391192,37.49314037076366,0 126.974496700708,37.4928955160906,0 126.974829727714,37.49267743497593,0 126.975752058806,37.49239634528276,0 126.9765808478371,37.49161914342211,0 126.9766203529368,37.49159791411109,0 126.9766203529368,37.49159791411109,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>사당신동아아파트</name>
+		<LookAt>
+			<longitude>126.9767258495327</longitude>
+			<latitude>37.49173197643612</latitude>
+			<altitude>0</altitude>
+			<heading>0.003806350639722367</heading>
+			<tilt>0</tilt>
+			<range>335.7493938404049</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.9766234545097,37.49155625336595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>현충원길진입로3</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9773093201117,37.4966237843924,0 126.97734589734,37.49659790549926,0 126.9778695129793,37.49671251447304,0 126.9779566038727,37.49668363153551,0 126.9782195024602,37.49671088005697,0 126.9789568466494,37.49660108919137,0 126.9795016821643,37.49634949080102,0 126.9801454904596,37.49591710676823,0 126.9814878134582,37.49602195278699,0 126.9816133873598,37.49583657056461,0 126.9816522400614,37.49567114148402,0 126.9821199980689,37.49569030482999,0 126.9824305979509,37.49563263367294,0 126.9825548252268,37.49561562819592,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>버스정류장(정금마을)</name>
+		<LookAt>
+			<longitude>126.9816892148903</longitude>
+			<latitude>37.49540360966252</latitude>
+			<altitude>0</altitude>
+			<heading>0.006827519876647851</heading>
+			<tilt>0</tilt>
+			<range>254.785026055018</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_bus</styleUrl>
+		<Point>
+			<coordinates>126.982568893455,37.49559774795736,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

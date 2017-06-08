@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>진관공원 나들길.kmz</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>진관공원 나들길</name>
+			<description>귀모양을 닮았다 하여 붙여진 이(耳)말산에 위치한 진관공원은 진행 중인 은평뉴타운 내 주민들의 산책로로 이용되고 있는 진관공원은 은평뉴타운 및 북한산의 파노라믹한 우수한 경관이 한눈에 들어와 뉴타운사업 완료시 이용객의 수요 증가를 예상할 수 있다.</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9190324368306,37.63744490176272,0 126.9190556904882,37.63644285402595,0 126.9197543027252,37.63670325680123,0 126.9196265513831,37.63691973761313,0 126.9199022214366,37.63705505169181,0 126.9212205880533,37.63702607873686,0 126.9218157146016,37.63757848311062,0 126.9224204604501,37.63731444883072,0 126.9227736764696,37.6372828605117,0 126.9228232540184,37.63749775582321,0 126.9239822542,37.63775762063854,0 126.9240105777804,37.63812679065054,0 126.925274097497,37.63904164306054,0 126.9261250997682,37.63869723668806,0 126.9264964010875,37.63875703249673,0 126.9270533774367,37.63859805784988,0 126.9281865763092,37.63868180776841,0 126.9293967681364,37.6393275473519,0 126.9299957851,37.63914244843623,0 126.9308379268202,37.6395463333128,0 126.931878679722,37.63980078236368,0 126.9332041484881,37.63966990124023,0 126.9333554448489,37.64009220931501,0 126.9339968278649,37.64050343337217,0 126.9344784257497,37.64206520943559,0 126.9347953781816,37.64225566361166,0 126.9348333205471,37.64274263367604,0 126.9349694581401,37.64290259602981,0 126.934943955178,37.64347730278742,0 126.9352726158142,37.6438770551584,0 126.9352619079366,37.64437428961961,0 126.9342796399399,37.64575877763004,0 126.9343156809665,37.6460555505823,0 126.9338231943233,37.64619503162059,0 126.9338221744789,37.64662954451327,0 126.9328114859789,37.64706210873906,0 126.9311335909414,37.64579809119509,0 126.9299225690074,37.64592572130665,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로3</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9349930084103,37.64348922550198,0 126.9357812044847,37.6434067207884,0 126.9361706553111,37.64300484873174,0 126.9369011824149,37.64283494459675,0 126.9380001080438,37.64281893979638,0 126.9387071865581,37.64284841169335,0 126.9387922002537,37.64231911106439,0 126.9400393403951,37.64190803623683,0 126.9412945005537,37.64130880417123,0 126.9413051577211,37.64104316078802,0 126.9401080338256,37.63980419666317,0 126.9396109043502,37.63941384254739,0 126.9393719089102,37.63924942377835,0 126.9393103800716,37.63899434681164,0 126.9389804596003,37.63863500441195,0 126.9390527478965,37.63854624643561,0 126.9382016569685,37.63765011400064,0 126.9383920966476,37.63743175583232,0 126.9383275284996,37.63718180653513,0 126.9381321024812,37.63689786098556,0 126.9379194392397,37.63683598110848,0 126.9379952903172,37.63658644101678,0 126.9383996427218,37.63637501461069,0 126.9384256101362,37.63538705027522,0 126.9383969321537,37.63480505014659,0 126.9384896752257,37.63431395184991,0 126.9384707787636,37.63384107855626,0 126.9387706532652,37.6336037806942,0 126.9388933981309,37.63319162606792,0 126.9387108792533,37.63262131786158,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9278657770137,37.63780853889828,0 126.9274698980416,37.63791342768863,0 126.9270515980252,37.63820007459901,0 126.9264357374106,37.63837847810778,0 126.9264881202873,37.63866560960259,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진관공원 전파기지국</name>
+			<description>해발고도 132.7m의 이말산이 곧 진관공원이다. 면적 98만3,791㎡로 북한산국립공원까지 이어지며, 다양한 운동기구와 휴식공간이 있다. 조선시대 한양 사람들이 성묘를 다녔던 곳이 진관공원길이다.</description>
+			<LookAt>
+				<longitude>126.9274595015712</longitude>
+				<latitude>37.63834984243618</latitude>
+				<altitude>0</altitude>
+				<heading>6.267280057271758</heading>
+				<tilt>21.52312346401291</tilt>
+				<range>1508.668832957097</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.9227616284179,37.63727306934537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>갈림길</name>
+			<LookAt>
+				<longitude>126.9338752903137</longitude>
+				<latitude>37.64045320380961</latitude>
+				<altitude>0</altitude>
+				<heading>2.738406451309305</heading>
+				<tilt>0</tilt>
+				<range>2881.129129365453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9265075811147,37.63873865589828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>휴게시설 및 운동시설</name>
+			<description>은평뉴타운 주민의 건강을 책임지고 있는 진관근린공원의 정상부 부근에는 걷기 운동 외에 근력을 강화할 수 있는 다양한 운동기구가 설치되어 있다. 단편적인 산책에서 벗어나 가족과 함께 운동하며 건강을 다질 수 있는 공간이다.</description>
+			<LookAt>
+				<longitude>126.9338752903137</longitude>
+				<latitude>37.64045320380961</latitude>
+				<altitude>0</altitude>
+				<heading>2.738406451309305</heading>
+				<tilt>0</tilt>
+				<range>2881.129129365453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9278448814207,37.63865014183104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>진관초 방향 내리막길</name>
+			<description>진관초교와 은평뉴타운 아파트 단지 사이 길로 빠져나오면 뉴타운의 정돈된 거리로 진입한다. 뉴타운은 도시 내에서 자연 그대로를 느낄 수 있게 계획되었고 진관공원의 산책로는 뉴타운 내에서의 그 역할을 충분히 해 내고 있다.</description>
+			<LookAt>
+				<longitude>126.9336671550037</longitude>
+				<latitude>37.64583461895866</latitude>
+				<altitude>0</altitude>
+				<heading>2.738347544702124</heading>
+				<tilt>15.75244457001861</tilt>
+				<range>696.6415576197974</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9314162108088,37.64598538999106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정자</name>
+			<LookAt>
+				<longitude>126.9338752903137</longitude>
+				<latitude>37.64045320380961</latitude>
+				<altitude>0</altitude>
+				<heading>2.738406451309305</heading>
+				<tilt>0</tilt>
+				<range>2881.129129365453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>126.9300139304023,37.64590877550208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>구파발역 1번 출입구</name>
+			<LookAt>
+				<longitude>126.9211896193587</longitude>
+				<latitude>37.63685095406201</latitude>
+				<altitude>0</altitude>
+				<heading>4.33279116473225</heading>
+				<tilt>15.05995745120651</tilt>
+				<range>708.0187958262153</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9191510643181,37.63740609848933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>우물골 두산위브 7단지</name>
+			<LookAt>
+				<longitude>126.930593175367</longitude>
+				<latitude>37.63807828592798</latitude>
+				<altitude>0</altitude>
+				<heading>1.128006608210729</heading>
+				<tilt>25.29432109570077</tilt>
+				<range>1016.098094873392</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>126.9279931074893,37.63785874548988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>둘레길 연계진입부</name>
+			<LookAt>
+				<longitude>126.9394261485521</longitude>
+				<latitude>37.63342705789238</latitude>
+				<altitude>0</altitude>
+				<heading>-4.004236410017743</heading>
+				<tilt>0</tilt>
+				<range>546.0085751264077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>126.9388262854817,37.63263835517016,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

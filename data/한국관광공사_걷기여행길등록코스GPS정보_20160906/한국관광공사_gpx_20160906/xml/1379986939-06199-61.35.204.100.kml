@@ -1,0 +1,1311 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name><![CDATA[경주시 낙동정맥 트레킹로드]]></name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=1379986939">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_waypoint_normal">
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>FFFFFFFF</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="gv_waypoint_highlight">
+      <IconStyle>
+        <color>FFFFFFFF</color>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.ca/mapfiles/kml/pal4/icon56.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+      </IconStyle>
+      <LabelStyle>
+        <color>FFFFFFFF</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p align="left" style="white-space:nowrap;"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="gv_waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#gv_waypoint_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#gv_waypoint_highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder id="Waypoints">
+      <name>Waypoints</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>새마을 구판장 (1코스끝 2코스시작)</name>
+        <description><![CDATA[1코스끝&#160; 2코스 시작]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.126509428,35.820945032,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>황수탕 1코스(시작)</name>
+        <description><![CDATA[1코스시작 (본선 시작)]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.114546776,35.927337796,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>삼봉사</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FFF08641</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FFF08641</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.120356,35.808454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>명암사</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FFF08641</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FFF08641</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.108669,35.888874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신경주역 (2코스끝 3코스시작)</name>
+        <description><![CDATA[2코스끝 3코스시작]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.138944,35.798374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>내남면 비지리 (돌꼬지 마을)</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FFF08641</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FFF08641</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.123880863,35.76697255,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>괘전</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FFF08641</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FFF08641</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.10639286,35.718085496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>학동 (3코스끝 4코스시작)</name>
+        <description><![CDATA[3코스끝 4코스시작]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.110426903,35.769253329,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산경계&#160; (4코스끝 본선끝)</name>
+        <description><![CDATA[4코스끝 (본선 끝)]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.107637405,35.707126639,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>시다2교</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FFF08641</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FFF08641</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.076682,35.704187,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>지선 1코스시작</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.10639286,35.716656923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태종( 1코스 끝 2코스 시작)</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.079987643,35.695663698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>청도경계(지선끝)</name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <styleUrl>#gv_waypoint</styleUrl>
+        <Style>
+          <IconStyle>
+            <color>FF39DCCD</color>
+            <scale>1.1</scale>
+            <Icon>
+              <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>FF39DCCD</color>
+          </LabelStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>129.039573669,35.636162536,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[선 2]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.112744331,35.9235672,0 129.113388062,35.922628867,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 4]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.113388062,35.922628867,0 129.1132164,35.921794784,0 129.113602638,35.921099708,0 129.113559723,35.920578397,0 129.112229347,35.91884067,0 129.111800194,35.918423609,0 129.113001823,35.916824857,0 129.112958908,35.915121804,0 129.112443924,35.914774237,0 129.111456871,35.915677907,0 129.110469818,35.915677907,0 129.109997749,35.914496183,0 129.109869003,35.914009585,0 129.10943985,35.913940071,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 10]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.10943985,35.913940071,0 129.108195305,35.914218128,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 11]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.108195305,35.914218128,0 129.107680321,35.913279684,0 129.107766151,35.912723564,0 129.107336998,35.912306471,0 129.108023643,35.911298488,0 129.108667374,35.911159455,0 129.108839035,35.910672837,0 129.108066559,35.909456279,0 129.108581543,35.908900132,0 129.10823822,35.907961626,0 129.109997749,35.906119339,0 129.110126495,35.905493647,0 129.110684395,35.905180799,0 129.11072731,35.904346532,0 129.109997749,35.903442733,0 129.109311104,35.902712734,0 129.108366966,35.902851782,0 129.107680321,35.903060353,0 129.107809067,35.902365113,0 129.107165337,35.901565579,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 12]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.107165337,35.901565579,0 129.107680321,35.900140302,0 129.107809067,35.896420557,0 129.107723236,35.89217914,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 13]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.107723236,35.89217914,0 129.108066559,35.889606366,0 129.109740257,35.886894433,0 129.109911919,35.885155965,0 129.110469818,35.884251947,0 129.111027718,35.883347918,0 129.111542702,35.882513421,0 129.111886024,35.882270024,0 129.112744331,35.881400745,0 129.113559723,35.881609373,0 129.115447998,35.881018258,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 14]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.115447998,35.881018258,0 129.115877151,35.880705314,0 129.116392136,35.879592612,0 129.117164612,35.878306031,0 129.117765427,35.877645346,0 129.117422104,35.875141648,0 129.117379189,35.871838037,0 129.117035866,35.871038195,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 15]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.117035866,35.871038195,0 129.118065834,35.869334156,0 129.118108749,35.868638619,0 129.118323326,35.867525748,0 129.120254517,35.86526518,0 129.120984077,35.864152261,0 129.121198654,35.861682917,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 16]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.121456146,35.853474403,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 17]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.121456146,35.853474403,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 18]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.121198654,35.861682917,0 129.120823145,35.860178666,0 129.120715857,35.859535221,0 129.120672941,35.859274363,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 19]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.120672941,35.859274363,0 129.120705128,35.859030895,0 129.120855331,35.858117883,0 129.121617079,35.856717911,0 129.121799469,35.855944003,0 129.121767282,35.855161392,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 20]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.121767282,35.855161392,0 129.121686816,35.854683125,0 129.121853113,35.853787455,0 129.122164249,35.853178742,0 129.122486115,35.852456975,0 129.122421741,35.851574324,0 129.122373462,35.851322136,0 129.12225008,35.850574264,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 21]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.12225008,35.850574264,0 129.122571945,35.849708985,0 129.122797251,35.849039365,0 129.122775793,35.848039273,0 129.122657776,35.847152225,0 129.122099876,35.846247773,0 129.12104845,35.844212719,0 129.120951891,35.843203869,0 129.121273756,35.842108035,0 129.122496843,35.841525323,0 129.123054743,35.841177434,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 22]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.123054743,35.841177434,0 129.123666286,35.840438163,0 129.123988152,35.839246619,0 129.124041796,35.838663886,0 129.124406576,35.837350548,0 129.125071764,35.836637335,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 23]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.125071764,35.836637335,0 129.126691818,35.836124166,0 129.127517939,35.835697972,0 129.128311872,35.834758597,0 129.129127264,35.833801816,0 129.129427671,35.832914608,0 129.129942656,35.83222745,0 129.130758047,35.831244543,0 129.131509066,35.830322513,0 129.132034779,35.829626634,0 129.132421017,35.829261295,0 129.13238883,35.829139515,0 129.132796526,35.828234858,0 129.133290052,35.827034431,0 129.133858681,35.825781793,0 129.134159088,35.82546863,0 129.134212732,35.82539034,0 129.133504629,35.825042379,0 129.132764339,35.824520436,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 24]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.132764339,35.824520436,0 129.131873846,35.823950644,0 129.131299853,35.824372551,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 25]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.131299853,35.824372551,0 129.131138921,35.824463892,0 129.129926562,35.823794059,0 129.129626155,35.823633124,0 129.128950238,35.822802348,0 129.128344059,35.822289089,0 129.12750721,35.821549643,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 26]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.12750721,35.821549643,0 129.127147794,35.821353906,0 129.127061963,35.821362606,0 129.126906395,35.821062475,0 129.126552343,35.820771042,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 29]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.110877514,35.92634738,0 129.11128521,35.925530712,0 129.112272263,35.924609779,0 129.112744331,35.9235672,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 30]]></name>
+        <description><![CDATA[영천시경계 (황수탕) ~ 건천읍 모량리 (새마을 구판장)]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.110877514,35.92634738,0 129.113645554,35.925565464,0 129.114439487,35.926590641,0 129.113752842,35.92732042,0 129.113323689,35.927581054,0 129.113945961,35.928015441,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 1]]></name>
+        <description><![CDATA[2코스 건천읍 모량리 (새마을구판장) ~ 신경주역]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.126552343,35.820771042,0 129.126219749,35.819761894,0 129.128065109,35.817604363,0 129.127936363,35.813010713,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 2]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.120919704,35.808277584,0 129.120898247,35.807407493,0 129.1213274,35.806989846,0 129.121069908,35.806293763,0 129.121091366,35.805562868,0 129.12124157,35.804692747,0 129.120941162,35.804188073,0 129.121026993,35.803370145,0 129.120855331,35.802604418,0 129.122958183,35.802639224,0 129.124009609,35.802917671,0 129.125447273,35.802708836,0 129.125683308,35.802447792,0 129.125490189,35.801995312,0 129.124524593,35.801438411,0 129.124760628,35.800864102,0 129.126198292,35.800324597,0 129.126734734,35.799854701,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 3]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.126734734,35.799854701,0 129.127163887,35.7993674,0 129.127764702,35.797679225,0 129.127893448,35.797383356,0 129.127571583,35.796547954,0 129.127657413,35.795799565,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 4]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.127657413,35.795799565,0 129.127357006,35.795521093,0 129.127571583,35.795068575,0 129.126498699,35.7926667,0 129.128987789,35.793711002,0 129.130661488,35.792945182,0 129.131863117,35.792875562,0 129.132184982,35.793154043,0 129.134674072,35.793328093,0 129.134781361,35.792370812,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 5]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.134781361,35.792370812,0 129.135918617,35.793493441,0 129.136283398,35.794320172,0 129.136798382,35.794998956,0 129.136948586,35.796774209,0 129.136980772,35.798227451,0 129.137388468,35.798862692,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 13]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.127936363,35.813010713,0 129.127421379,35.811792656,0 129.126219749,35.810922603,0 129.124717712,35.810818196,0 129.123387337,35.810818196,0 129.122614861,35.810470172,0 129.120941162,35.80803396,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 1]]></name>
+        <description><![CDATA[3코스 신경주역 ~ 내남면비지리 (돌꼬지마을)]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.137914181,35.799419611,0 129.138858318,35.799976526,0 129.139738083,35.800620455,0 129.140746593,35.800985926,0 129.14096117,35.801386201,0 129.140939713,35.802186746,0 129.142259359,35.804927681,0 129.143246412,35.804579631,0 129.144018888,35.804344696,0 129.144287109,35.804718851,0 129.144726992,35.804466514,0 129.144920111,35.803909631,0 129.145274162,35.80358768,0 129.145563841,35.803866124,0 129.146507978,35.804014047,0 129.146733284,35.804257683,0 129.146776199,35.804475216,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 2]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.147291183,35.804605735,0 129.147377014,35.804623137,0 129.147838354,35.804161969,0 129.148846865,35.803857422,0 129.149265289,35.803361444,0 129.149318933,35.802821955,0 129.148879051,35.802247657,0 129.148836136,35.802117134,0 129.14935112,35.802369478,0 129.14981246,35.80232597,0 129.151496887,35.801473217,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 3]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.151496887,35.801473217,0 129.15211916,35.800951119,0 129.152612686,35.801647249,0 129.152934551,35.801159959,0 129.154007435,35.800690069,0 129.154136181,35.800933716,0 129.153342247,35.80149062,0 129.153277874,35.802204149,0 129.153492451,35.802587015,0 129.153985977,35.802465195,0 129.154586792,35.801908297,0 129.154393673,35.801577636,0 129.154994488,35.801316588,0 129.15553093,35.801803878,0 129.155702591,35.803039491,0 129.156196117,35.803056894,0 129.156153202,35.803457159,0 129.156711102,35.803491965,0 129.157161713,35.803909631,0 129.158062935,35.804153268,0 129.159007072,35.803892228,0 129.159071445,35.803196117,0 129.160294533,35.802500001,0 129.160702229,35.801890893,0 129.161088467,35.801856087,0 129.161753654,35.800916312,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 4]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.161753654,35.800916312,0 129.164671898,35.798740865,0 129.159822464,35.79449422,0 129.158577919,35.789446683,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 5]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.158577919,35.789446683,0 129.148020744,35.781335141,0 129.145617485,35.774998512,0 129.13377285,35.773222772,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 6]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.13377285,35.773222772,0 129.132936001,35.770506859,0 129.126992226,35.768609146,0 129.126541615,35.767599335,0 129.124631882,35.767529693,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 8]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.124621153,35.767538398,0 129.124084711,35.767364291,0 129.124342203,35.76685938,0 129.124470949,35.766685272,0 129.124213457,35.766319643,0 129.124234915,35.765832136,0 129.122775793,35.765501326,0 129.121853113,35.765623204,0 129.120737314,35.766232589,0 129.120265245,35.767103131,0 129.118999243,35.76708572,0 129.116252661,35.767782147,0 129.11580205,35.768408926,0 129.113935232,35.768913828,0 129.112089872,35.768670082,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 9]]></name>
+        <description><![CDATA[4코스 학동~ 박달저수지]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.112089872,35.768670082,0 129.111413956,35.768417631,0 129.110931158,35.767790852,0 129.110255241,35.767651567,0 129.110019207,35.766955139,0 129.109375477,35.766685272,0 129.108549356,35.766502458,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 10]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.108549356,35.766502458,0 129.108130932,35.766102007,0 129.107583761,35.765553559,0 129.107240438,35.76517922,0 129.106843472,35.764918052,0 129.106339216,35.764639472,0 129.105437994,35.763307498,0 129.105470181,35.763020206,0 129.10492301,35.762489149,0 129.104633331,35.762358561,0 129.104633331,35.762193149,0 129.104011059,35.762097384,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 11]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.104011059,35.762097384,0 129.103914499,35.76187103,0 129.103136659,35.760983018,0 129.102959633,35.760578186,0 129.102825522,35.760173352,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 12]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.102825522,35.760173352,0 129.102401733,35.758910953,0 129.102444649,35.75816221,0 129.101543427,35.756386095,0 129.101135731,35.755672155,0 129.100470543,35.751771492,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 13]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.100255966,35.751527694,0 129.098796844,35.749890747,0 129.098539352,35.749124505,0 129.101285934,35.747591998,0 129.106521606,35.745119028,0 129.110813141,35.743586444,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 14]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.110813141,35.743586444,0 129.112315178,35.742419571,0 129.112679958,35.741775171,0 129.110791683,35.738483424,0 129.109911919,35.7375429,0 129.109354019,35.736323686,0 129.109590054,35.735417972,0 129.109632969,35.734233561,0 129.109568596,35.733850365,0 129.109686613,35.73363264,0 129.110630751,35.733467168,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 17]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.106993675,35.718782352,0 129.107143879,35.717963546,0 129.106693268,35.716116846,0 129.108216763,35.712301358,0 129.108431339,35.71019318,0 129.108710289,35.709252322,0 129.108581543,35.708555383,0 129.108474255,35.708067522,0 129.108452797,35.707161486,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 18]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF3644DB</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.110630751,35.733467168,0 129.110469818,35.730889247,0 129.110255241,35.730157659,0 129.108924866,35.728990589,0 129.108624458,35.727614469,0 129.107830524,35.726133808,0 129.10722971,35.724914419,0 129.106736183,35.723451128,0 129.107401371,35.720576727,0 129.107358456,35.719897308,0 129.106993675,35.718782352,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 22]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.10639286,35.716656923,0 129.104998112,35.716674344,0 129.10418272,35.716413017,0 129.103388786,35.715054103,0 129.102573395,35.714757926,0 129.101672173,35.715315434,0 129.1010499,35.715437389,0 129.100577831,35.715681297,0 129.100620747,35.715106369,0 129.101092815,35.714775348,0 129.100534916,35.714461748,0 129.10040617,35.713921656,0 129.100663662,35.713555785,0 129.100084305,35.712998265,0 129.099912643,35.711970326,0 129.099333286,35.71244074,0 129.099290371,35.713189913,0 129.098989964,35.713398983,0 129.098110199,35.713608053,0 129.098002911,35.714043613,0 129.098260403,35.71447917,0 129.097573757,35.714444326,0 129.097123146,35.713939078,0 129.096801281,35.714078457,0 129.096779823,35.714879881,0 129.096736908,35.71528059,0 129.095728397,35.715594187,0 129.095363617,35.715419967,0 129.094998837,35.716029736,0 129.095191956,35.716482705,0 129.094848633,35.716813719,0 129.094119072,35.716744031,0 129.093732834,35.716953092,0 129.093732834,35.717406056,0 129.093024731,35.717580272,0 129.093346596,35.718050653,0 129.094312191,35.718817194,0 129.093883038,35.719113356,0 129.092252254,35.719705676,0 129.091823101,35.720001834,0 129.092059135,35.720402518,0 129.092273712,35.72062899,0 129.09330368,35.720872882,0 129.093968868,35.721517451,0 129.093711376,35.721848444,0 129.093604088,35.722858835,0 129.092681408,35.722823994,0 129.091544151,35.724165357,0 129.091587067,35.724705379,0 129.091243744,35.725018939,0 129.090964794,35.725367337,0 129.08952713,35.725227978,0 129.088861942,35.725419597,0 129.088776112,35.725802833,0 129.089205265,35.726308005,0 129.089312553,35.726848013,0 129.088926315,35.727492534,0 129.088282585,35.728328661,0 129.085965157,35.728328661,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 23]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.085965157,35.728328661,0 129.084377289,35.723242084,0 129.085707664,35.719897308,0 129.089183807,35.710837835,0 129.089012146,35.707666777,0 129.088797569,35.705959231,0 129.081244469,35.704704685,0 129.07699585,35.7042168,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 25]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.076682,35.704187,0 129.077382088,35.702857677,0 129.078025818,35.701463681,0 129.077768326,35.700592422,0 129.077124596,35.700139363,0 129.077296257,35.699198386,0 129.078111649,35.698431656,0 129.078111649,35.697664919,0 129.079399109,35.696514799,0 129.079935551,35.69573933,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 26]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.076682,35.704187,0 129.077135324,35.7042168,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 28]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.10639286,35.716656923,0 129.106714725,35.716465283,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 31]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.079935551,35.69573933,0 129.079731703,35.695495361,0 129.079415202,35.695177328,0 129.079350829,35.695029203,0 129.079431295,35.694624036,0 129.079383016,35.694510763,0 129.07920599,35.694497693,0 129.079028964,35.69433214,0 129.078508615,35.694205796,0 129.078256488,35.694127376,0 129.077939987,35.693996676,0 129.077795148,35.693826765,0 129.077108502,35.693399808,0 129.076722264,35.693029486,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 33]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.076722264,35.693029486,0 129.075322151,35.68916061,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 34]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.075322151,35.68916061,0 129.0726614,35.685396119,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 35]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.0726614,35.685396119,0 129.068841934,35.680829691,0 129.069485664,35.675147436,0 129.06897068,35.669987737,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 36]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.06897068,35.669987737,0 129.068026543,35.668174791,0 129.068026543,35.663677112,0 129.067339897,35.662456767,0 129.067575932,35.662003492,0 129.067296982,35.661271272,0 129.066824913,35.66081799,0 129.067554474,35.660120628,0 129.067811966,35.659423259,0 129.068498611,35.658935098,0 129.069700241,35.65774955,0 129.070301056,35.657575204,0 129.070644379,35.65715677,0 129.06989336,35.656755769,0 129.068734646,35.65668603,0 129.067919254,35.655936326,0 129.067211151,35.65513431,0 129.065365791,35.654872781,0 129.06482935,35.654279979,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 37]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.064185619,35.654977393,0 129.06482935,35.654279979,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[선 38]]></name>
+        <Snippet></Snippet>
+        <description><![CDATA[&nbsp;]]></description>
+        <Style>
+          <LineStyle>
+            <color>FF37EBF4</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>129.064185619,35.654977393,0 129.060988426,35.654245109,0 129.060258865,35.654367156,0 129.057469368,35.653826658,0 129.053993225,35.648578397,0 129.050366879,35.649572281,0 129.046912193,35.650426661,0 129.044036865,35.646137229,0 129.044079781,35.643382106,0 129.0402174,35.63633693,0 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

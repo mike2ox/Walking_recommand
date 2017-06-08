@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>관동팔경.kml</name>
+	<Style id="point92_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point92Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point92_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point92_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point92_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<description>Latitude: 38.0041860044 Longitude : 128.7326520123</description>
+		<styleUrl>#point92Style</styleUrl>
+		<Point>
+			<coordinates>128.7326520123,38.0041860044,-3.71</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

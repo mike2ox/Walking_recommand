@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2구간.kml</name>
+	<StyleMap id="waypoint6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style2">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="waypoint">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>2구간</name>
+		<open>1</open>
+		<Placemark>
+			<name>선비문화탐방로 2구간</name>
+			<styleUrl>#stylemap_id2</styleUrl>
+			<LineString>
+				<coordinates>
+					127.7812212,35.6228202,0 127.7812629,35.6231383,0 127.781312,35.623328,0 127.7812835,35.6236266,0 127.7813104,35.6238377,0 127.7813906,35.6240065,0 127.7815077,35.6243255,0 127.7816954,35.6245941,0 127.7821483,35.6252497,0 127.7824497,35.6257739,0 127.7827838,35.6263479,0 127.7830131,35.6267969,0 127.7830342,35.6269482,0 127.7831551,35.6280168,0 127.7832034,35.6285677,0 127.7833864,35.6291029,0 127.7836452,35.6295552,0 127.7839798,35.6299708,0 127.7844211,35.6303362,0 127.7847863,35.6305286,0 127.78544,35.6306536,0 127.7860597,35.6307831,0 127.7864697,35.6308339,0 127.7866366,35.6308268,0 127.786764,35.6308111,0 127.7864545,35.6306067,0 127.7864237,35.6305317,0 127.7867699,35.6306977,0 127.7870529,35.6308287,0 127.7865046,35.632022,0 127.7868591,35.6321769,0 127.7872885,35.6323413,0 127.7875267,35.6324071,0 127.7878346,35.6324263,0 127.7881952,35.6324688,0 127.7886905,35.6324903,0 127.7889835,35.632527,0 127.7894996,35.6326099,0 127.7899656,35.6327713,0 127.7905692,35.6330333,0 127.7911802,35.6333127,0 127.7918627,35.6336483,0 127.7926403,35.634042,0 127.7932022,35.6344028,0 127.7937017,35.634705,0 127.79416,35.6349596,0 127.7946202,35.6351251,0 127.7951738,35.6352486,0 127.7956241,35.6353485,0 127.7960716,35.6353454,0 127.796391,35.6353119,0 127.7966486,35.6353116,0 127.7971364,35.6352807,0 127.7975096,35.6352791,0 127.7983074,35.6353354,0 127.7991055,35.6355049,0 127.7998329,35.6356105,0 127.8004389,35.6357264,0 127.8010725,35.6357958,0 127.8015924,35.6357695,0 127.8020727,35.6357424,0 127.802554,35.6357192,0 127.8031293,35.6357188,0 127.8036261,35.6356981,0 127.8039587,35.6356686,0 127.8041867,35.6356306,0 127.8050777,35.635509,0 127.8055306,35.6354711,0 127.8060484,35.635428,0 127.8064251,35.6353944,0 127.8067903,35.6353561,0 127.8071863,35.6352607,0 127.8077262,35.6350359,0 127.8080445,35.6349303,0 127.8083627,35.6347719,0 127.8084628,35.6345802,0 127.8086809,35.6344171,0 127.8089697,35.6341677,0 127.8096155,35.6336159,0 127.8098678,35.6333555,0 127.8102147,35.6330923,0 127.8105233,35.6328588,0 127.8108688,35.6325951,0 127.8112251,35.6323064,0 127.8115991,35.6319835,0 127.8119279,35.6317847,0 127.812267,35.6313139,0 127.8125154,35.6310058,0 127.812947,35.6305724,0 127.8132462,35.6302406,0 127.8136864,35.6297822,0 127.8139348,35.629484,0 127.8132088,35.6289959,0 127.8128751,35.6293695,0 127.8121759,35.6301624,0 127.8118678,35.6305453,0 127.8114222,35.6302245,0 127.8108201,35.6296509,0 127.8106232,35.6294387,0 127.8101526,35.6297282,0 127.8095302,35.6301071,0 127.8094593,35.6302387,0 127.8094013,35.6304451,0 127.809152,35.6306562,0 127.808915,35.6307237,0 127.8087297,35.630695,0 127.8085476,35.6306943,0 127.8082362,35.6306753,0 127.8079831,35.6306325,0 127.8077535,35.6305818,0 127.8079391,35.6305987,0 127.8080915,35.6306118,0 127.8082454,35.630637,0 127.8083722,35.6306406,0 127.8085728,35.6306505,0 127.8088235,35.6306791,0 127.8089969,35.6306526,0 127.8091635,35.6305858,0 127.8092758,35.6305157,0 127.8093731,35.6303876,0 127.80941,35.6302733,0 127.8094433,35.6301642,0 127.8094974,35.6300675,0 127.8096462,35.6299783,0 127.8099325,35.6298119,0 127.8105402,35.6294118,0 127.8098617,35.6287151,0 127.8098077,35.6286306,0 127.8099424,35.6285257,0 127.8102593,35.6283292,0 127.8113365,35.6276251,0 127.8117933,35.6273239,0 127.8126619,35.6267599,0 127.8135752,35.6262542,0 127.8137216,35.6261824,0 127.8138306,35.626141,0 127.8139532,35.6262982,0 127.8140553,35.6264196,0 127.8141916,35.6265411,0 127.8143127,35.626731,0 127.8144026,35.6268543,0 127.814121,35.6270809,0 127.8146205,35.6272814,0 127.814482,35.6275052,0 127.8141628,35.6278064,0 127.8138567,35.6280879,0 127.8135501,35.6284731,0 127.8133733,35.6286798,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>농월정주차장</name>
+			<description>시작점</description>
+			<LookAt>
+				<longitude>127.7838534375246</longitude>
+				<latitude>35.62314716164534</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008193009586627841</heading>
+				<tilt>0</tilt>
+				<range>1227.969521344539</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint6</styleUrl>
+			<Point>
+				<coordinates>127.7812290349553,35.62282642169817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안의터미널</name>
+			<description>종착점</description>
+			<styleUrl>#waypoint5</styleUrl>
+			<Point>
+				<coordinates>127.8133264,35.6286336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>화장실</name>
+			<Placemark>
+				<name>화장실(월림마을회관)</name>
+				<description>화장실</description>
+				<styleUrl>#waypoint50</styleUrl>
+				<Point>
+					<coordinates>127.7863413,35.6320372,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>관광지</name>
+			<Placemark>
+				<name>광풍루</name>
+				<description>관광지</description>
+				<styleUrl>#waypoint50</styleUrl>
+				<Point>
+					<coordinates>127.8130499,35.6289379,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>안의약초시장</name>
+				<description>관광지</description>
+				<styleUrl>#waypoint50</styleUrl>
+				<Point>
+					<coordinates>127.8140239,35.6264098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>허삼둘 가옥</name>
+				<description>관광지</description>
+				<styleUrl>#waypoint50</styleUrl>
+				<Point>
+					<coordinates>127.8111015,35.6301833,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>노응규 의병장 생가</name>
+				<description>관광지</description>
+				<styleUrl>#waypoint50</styleUrl>
+				<Point>
+					<coordinates>127.8076986,35.6305576,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>기타</name>
+			<Placemark>
+				<name>중점</name>
+				<description>중점</description>
+				<Point>
+					<coordinates>127.798647,35.6346043,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

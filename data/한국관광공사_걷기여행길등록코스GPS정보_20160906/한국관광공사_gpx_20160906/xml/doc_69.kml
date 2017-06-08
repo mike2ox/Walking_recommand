@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>망우산숲나들길.kmz</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>망우산숲진입로1</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0965564760922,37.5854719615248,0 127.0963665443642,37.58507306355555,0 127.0948764467709,37.58557523574379,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>망우산숲나들길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0965413747492,37.58547954411034,0 127.1000171096373,37.5844336141983,0 127.1009867961188,37.58404390382007,0 127.1024423724896,37.58385825963048,0 127.1043475329766,37.58418517295986,0 127.1058744860046,37.5841439628441,0 127.1063364634298,37.58388049965438,0 127.1078188705953,37.58419315441408,0 127.1084296959012,37.58393017127338,0 127.1088343027927,37.58405980896094,0 127.1089144120122,37.58445336714216,0 127.1095717791597,37.58449985744714,0 127.1099113811386,37.58480092384156,0 127.1097261547417,37.58525704640805,0 127.109817862667,37.58612386638897,0 127.1094768970259,37.58710135193752,0 127.1089875476546,37.58771147781617,0 127.108481651415,37.58789841786468,0 127.1088306459952,37.58816278256729,0 127.1085350425717,37.58885040747472,0 127.1091085467224,37.58956480530549,0 127.1093451188312,37.59052201558247,0 127.1096961715663,37.59070662341378,0 127.1100670607105,37.59178092267541,0 127.1098234725993,37.59214656953341,0 127.1103320731491,37.59294708764938,0 127.1101947230414,37.59330161280981,0 127.1105129212692,37.59340836174266,0 127.1104360121196,37.59413892830585,0 127.1107895551881,37.59437313165999,0 127.1107720846017,37.59490375606851,0 127.1111564733644,37.59508587213924,0 127.1112041095736,37.59561556482741,0 127.1114040226977,37.59592726012948,0 127.1112973931602,37.59658178974242,0 127.1117103352033,37.59651599370206,0 127.1124033437756,37.59713763820062,0 127.1124819004984,37.59749202597427,0 127.1128632486148,37.59746754407337,0 127.1131086174154,37.59792861207741,0 127.1136189781777,37.59795079339134,0 127.114044302312,37.59833823566404,0 127.1140239962274,37.59867533048591,0 127.1141589322872,37.59890133046525,0 127.1145408364965,37.5988625306852,0 127.114919799685,37.59865274489488,0 127.115319973138,37.59882229747431,0 127.1154032433912,37.59929199086461,0 127.1161525100934,37.59872878307241,0 127.1172153255493,37.59855845834741,0 127.1180925529462,37.59798282634507,0 127.1181863872888,37.59731727568353,0 127.1185880875226,37.59659600709064,0 127.1201538047458,37.59763502971422,0 127.1201338402228,37.59716029466364,0 127.1206298737644,37.59663684455167,0 127.1212897775537,37.59658191141017,0 127.1209917150321,37.59596033757267,0 127.1204137381112,37.59564012825101,0 127.1198469165559,37.59506086573384,0 127.1202267914811,37.59430018331239,0 127.1191369123465,37.59387439163552,0 127.1191463306959,37.59345263349108,0 127.1188433989947,37.59314774065815,0 127.1184428313926,37.59335467595807,0 127.1183163858369,37.59367689066375,0 127.1176813515551,37.59378157410468,0 127.1170773300208,37.59291275386975,0 127.1161748331269,37.59271154498242,0 127.1157137672292,37.59211977993332,0 127.1146408776148,37.59209058431095,0 127.1144973104096,37.59149525828577,0 127.1140036455922,37.59099778094268,0 127.11403707005,37.59033876897443,0 127.1132612437713,37.5902822004983,0 127.1118144938105,37.58790365673076,0 127.1119527400021,37.58731813416868,0 127.1111625212409,37.58655028063702,0 127.1113092687707,37.58586748262434,0 127.1106248175584,37.58541429005413,0 127.1106266276907,37.58523242651402,0 127.1103168721569,37.58513930654819,0 127.1102738459996,37.58461997711093,0 127.1096518691822,37.58427132393135,0 127.1089273807925,37.5844331071912,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(용마문화복지센터)</name>
+			<LookAt>
+				<longitude>127.0961581814696</longitude>
+				<latitude>37.58531146588283</latitude>
+				<altitude>0</altitude>
+				<heading>-8.528615867179857</heading>
+				<tilt>33.63704856671007</tilt>
+				<range>379.3816067673628</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0949028268721,37.58552138981273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>전망대</name>
+			<description> 서울시 우수조망명소로 서울 강북 일대와 북한산, 도봉산, 봉화산의 전경을 한눈에 조망할 수 있는 곳이다.
+</description>
+			<LookAt>
+				<longitude>127.1108991759979</longitude>
+				<latitude>37.58901783465406</latitude>
+				<altitude>0</altitude>
+				<heading>1.334796799426911</heading>
+				<tilt>0</tilt>
+				<range>2433.236540624774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.1085451602088,37.58791603700893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>망우산공동묘지입구</name>
+			<description>망우산 등산 코스 중 지나가게 되는 코스이며, 망우리 공동묘지 이다. 지금은 공원으로 조성되어 공동묘지 느낌보단 도시자연공원의 느낌을 주고 있다.
+</description>
+			<LookAt>
+				<longitude>127.1108991759979</longitude>
+				<latitude>37.58901783465406</latitude>
+				<altitude>0</altitude>
+				<heading>1.334796799426911</heading>
+				<tilt>0</tilt>
+				<range>2433.236540624774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.1103122154312,37.59287668372785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>망우사색의길</name>
+			<description>서울시 선정 아름다운 단풍길 83선 중 한 곳이며 망우산 사색의 길은 5.2km이다. 서울 시내 3대 마라톤 훈련 명소이기도 하다.
+</description>
+			<LookAt>
+				<longitude>127.1108991759979</longitude>
+				<latitude>37.58901783465406</latitude>
+				<altitude>0</altitude>
+				<heading>1.334796799426911</heading>
+				<tilt>0</tilt>
+				<range>2433.236540624774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.1154013150422,37.59924002964223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>동락천약수터</name>
+			<description>망우산 코스는 아차산, 용마산, 망우산으로 3개의 산 코스가 중복된다. 그중에서 탐방객들의 쉼터인 동락천 약수터는 구리시에서 관리하고 있다.
+</description>
+			<LookAt>
+				<longitude>127.1108991759979</longitude>
+				<latitude>37.58901783465406</latitude>
+				<altitude>0</altitude>
+				<heading>1.334796799426911</heading>
+				<tilt>0</tilt>
+				<range>2433.236540624774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.1150338785217,37.59206142211207,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

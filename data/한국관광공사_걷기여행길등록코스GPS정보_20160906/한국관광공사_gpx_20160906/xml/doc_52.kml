@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>인사동삼청동 나들길.kmz</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_13">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/13.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_10">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_16">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/16.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/10-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_17">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/17.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_16">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/16.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_9">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/9-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_13">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/13.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_15">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/15.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_11">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/11.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_12">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/12.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_15">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/15.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_12">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/12.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_14">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/14.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_17">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/17.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_8">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_14">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/14.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_11">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/11.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>인사동삼청동 나들길</name>
+			<description>서울 도심에서 맛볼 수 있는 역사와 문화가 고르게 어우러진 코스이다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9857498215647,37.57757390967051,0 126.9853988196078,37.57821837710414,0 126.9852817108859,37.57816168842636,0 126.9848762754139,37.57960146626419,0 126.9850594235855,37.58407521031484,0 126.9843836358779,37.58419627566936,0 126.9840819282027,37.58403868006732,0 126.9841210362553,37.58372374649924,0 126.9839464431296,37.5835261748277,0 126.983670271536,37.58342625938543,0 126.9839397405371,37.58264685406826,0 126.9836804874874,37.58238582880135,0 126.9833606686022,37.58340501941142,0 126.9832065926237,37.58347716651771,0 126.9832562965527,37.58437837795037,0 126.9834394245336,37.58441977549503,0 126.9835556294309,37.58555022581247,0 126.9838810782451,37.58564084884338,0 126.983605616234,37.5862627576139,0 126.9836636806032,37.5866126797125,0 126.9835002264291,37.58690312754673,0 126.9835701243158,37.58730531834078,0 126.983462332407,37.58757115852395,0 126.9816424173348,37.58693380548288,0 126.981700814766,37.58602288774091,0 126.9821240591396,37.58509576589555,0 126.9820591055663,37.58440812883097,0 126.9817383491045,37.58386342258854,0 126.9795771529301,37.58393024234754,0 126.9793956683033,37.58375132729869,0 126.9796470810805,37.58338490378608,0 126.979480842935,37.58324628870052,0 126.9793179597677,37.58336485696903,0 126.9766328402739,37.58376054315891,0 126.9736618234577,37.58334022475363,0 126.973713994732,37.58077591006941,0 126.9744683524626,37.58078375521993,0 126.9747120614172,37.5806643892763,0 126.9749531807711,37.58067381459001,0 126.9762613450608,37.58073378009964,0 126.976002708646,37.58145505295176,0 126.9763284328458,37.58148711424465,0 126.9764454183219,37.58134531730143,0 126.9776455086496,37.5813083629685,0 126.9777763477439,37.58115877282516,0 126.9776324060512,37.58086434167713,0 126.9776434826351,37.58066664793889,0 126.9774803828636,37.58056867841553,0 126.9776360851906,37.58050857569746,0 126.9774914144597,37.58039908984673,0 126.9774522711985,37.57983898771021,0 126.977276694095,37.57976574561579,0 126.9770770692092,37.57976355772099,0 126.9770615575657,37.57963452704442,0 126.9775322196929,37.57960890675656,0 126.9774956076558,37.57929172534752,0 126.9769827283577,37.57931244925054,0 126.9769654398211,37.57913961990025,0 126.9747405056523,37.57919542235578,0 126.9747935054866,37.57892530238487,0 126.9748888321704,37.57880518262417,0 126.9768827731111,37.57874480051427,0 126.9768769092352,37.57852900615897,0 126.9770194351347,37.57837260992654,0 126.9769230031161,37.57686385114056,0 126.978018219389,37.57680485950883,0 126.9780221292612,37.57665038558071,0 126.9793793581633,37.57664667370738,0 126.97938338542,37.57639940535042,0 126.9800056539278,37.57638313787417,0 126.9798388934307,37.57616909485363,0 126.9799127469518,37.57605299125744,0 126.9814253379575,37.57590537404418,0 126.9821748931743,37.5757885345615,0 126.9827735605005,37.57506585427792,0 126.9829480486542,37.57507002635969,0 126.9829261357149,37.57521681578722,0 126.983128805986,37.5752875546217,0 126.9833922353022,37.57520849066021,0 126.9845012405859,37.57421585051774,0 126.9856404541317,37.57348680037949,0 126.9862138104308,37.57297548565618,0 126.987179029162,37.57158972045263,0 126.9874740967318,37.57168690190154,0 126.9874699169222,37.57156379796319,0 126.9876957145725,37.57155993224978,0 126.9877109762083,37.57060268996251,0 126.9879811029795,37.5704086090133,0 126.9911771862982,37.57059054235148,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>인사동삼청동 나들길</name>
+			<description>서울 도심에서 맛볼 수 있는 역사와 문화가 고르게 어우러진 코스이다.</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9885228484366,37.57076359418866,0 126.9887266150896,37.57101133454054,0 126.9885903365018,37.57120325980718,0 126.9886308242645,37.57146677292117,0 126.9882314157713,37.57177741200083,0 126.9879464410706,37.57172163057919,0 126.9878267494709,37.57156306532852,0 126.9879571956264,37.57083748365522,0 126.9880930499409,37.57074211851027,0 126.9885008174668,37.57076338719677,0 126.9885316520683,37.57043074951326,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>인사동삼청동 나들길</name>
+			<description>서울 도심에서 맛볼 수 있는 역사와 문화가 고르게 어우러진 코스이다.</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9834886395575,37.58756306677439,0 126.9844463756677,37.58848517485856,0 126.9841976143721,37.58860119558084,0 126.9844669181132,37.58874947763719,0 126.9844973008024,37.58914559341751,0 126.9849750480393,37.58944677904352,0 126.9855158788315,37.59051630707914,0 126.9852557085173,37.59091581085524,0 126.9844796195352,37.59049154457607,0 126.9841559335874,37.59073736369565,0 126.9837502662804,37.59061449873635,0 126.9834622330316,37.59017163363264,0 126.9832186155125,37.59037274973898,0 126.983350000037,37.59065810627416,0 126.9825801430809,37.59087406235244,0 126.9823439247257,37.59139036191935,0 126.981751753259,37.59115435054432,0 126.9817974943896,37.59056875872894,0 126.9825914464428,37.59003006184068,0 126.9835108800173,37.58991948809183,0 126.9836241218711,37.58951754236011,0 126.9839616564468,37.58940074776406,0 126.9841730491334,37.58926795998662,0 126.9843804810751,37.58898672813938,0 126.984200339856,37.58860359679419,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<description>지하철 1, 3, 5호선이 지나는 역으로 유동인구가 많고 1번 출입구로 나가 직진하면 탑골공원을 지나 인사동 문화의 거리로 접어들 수 있다.</description>
+		<LookAt>
+			<longitude>126.9904628504296</longitude>
+			<latitude>37.57038485083578</latitude>
+			<altitude>0</altitude>
+			<heading>89.56972153724891</heading>
+			<tilt>0</tilt>
+			<range>801.4337309649508</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin10</styleUrl>
+		<Point>
+			<coordinates>126.9911583849368,37.57059098446702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>인사동 네거리</name>
+		<description>보통 사람들이 인사동 사거리라고 불리는 곳으로 인사동 문화의 거리 안에 자리하고 있다. 지하철 5호선 종로3가역과 3호선 안국역 사이에 있으며, 서울관광지로 먹을거리와 구경거리를 즐기는 데이트 코스로 유명하다.</description>
+		<LookAt>
+			<longitude>126.9896313813702</longitude>
+			<latitude>37.57149327993015</latitude>
+			<altitude>0</altitude>
+			<heading>89.08768589690884</heading>
+			<tilt>0</tilt>
+			<range>1675.306857066132</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_2</styleUrl>
+		<Point>
+			<coordinates>126.9862251171418,37.57296532782019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>종로문화원</name>
+		<description>서울 종로구 소송동에 위치하고 있으며, 주요 사업으로 매년3월1일 3.1절 만세의 날 거리축제를 시행하고 있다.</description>
+		<LookAt>
+			<longitude>126.9855903037482</longitude>
+			<latitude>37.57292391372826</latitude>
+			<altitude>0</altitude>
+			<heading>89.56675041646052</heading>
+			<tilt>0</tilt>
+			<range>2213.579291545367</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_3</styleUrl>
+		<Point>
+			<coordinates>126.9798541347038,37.57606965116728,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>경복궁매표소</name>
+		<description>오전09시~오후5시까지 입장이 가능하며, 오후6시까지 관림시간이다. 매주 화요일은 정기 휴무일이다.</description>
+		<LookAt>
+			<longitude>126.9839591811652</longitude>
+			<latitude>37.5786725491066</latitude>
+			<altitude>0</altitude>
+			<heading>91.1703604868718</heading>
+			<tilt>0</tilt>
+			<range>3095.750566180724</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin2</styleUrl>
+		<Point>
+			<coordinates>126.978037296504,37.57665739496786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>홍례문</name>
+		<description>경복궁에 있는 3개의 문중 가운데 위치하고 있는 중문, 임진왜란과 조선총독부 청사를 지으면서 두 번의 파괴가 있었지만 2001년 재건되었다.</description>
+		<LookAt>
+			<longitude>126.9839591811652</longitude>
+			<latitude>37.5786725491066</latitude>
+			<altitude>0</altitude>
+			<heading>91.1703604868718</heading>
+			<tilt>0</tilt>
+			<range>3095.750566180724</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_5</styleUrl>
+		<Point>
+			<coordinates>126.9769578922678,37.57688001270762,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>근정문</name>
+		<description>보물 제812호로 지정되어있으며, 1392년 태조4년에 지어진 건물이다. 임진왜란 때 화재로 소실되었다가 1867년 고종4때 중창되었다.</description>
+		<LookAt>
+			<longitude>126.978359254092</longitude>
+			<latitude>37.57782930742197</latitude>
+			<altitude>0</altitude>
+			<heading>91.48769600539578</heading>
+			<tilt>0</tilt>
+			<range>822.7262007617502</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_6</styleUrl>
+		<Point>
+			<coordinates>126.9769754504674,37.57772371828313,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>근정전</name>
+		<description>국보 제2223호로 지정되어있으며, 1395년 태조4에 경복궁이 창건되면서 지어진 건물이며 역대 국왕의 즉위식이나 대례 등이 거행되었고 조선 왕실을 상징하는 건물이다.</description>
+		<LookAt>
+			<longitude>126.9784626242627</longitude>
+			<latitude>37.578147064927</latitude>
+			<altitude>0</altitude>
+			<heading>94.37682433965108</heading>
+			<tilt>0</tilt>
+			<range>1083.194684560494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_7</styleUrl>
+		<Point>
+			<coordinates>126.9769227981009,37.5784869125669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>교태전</name>
+		<description>경복궁 창건당시 없었던 건물이며, 세조 때 지어진 것으로 추정됨. 우측에는 원길헌이 위치하고, 좌측에 함홍각, 동북쪽에 건순각이 부속 건물로 연결되어 있다.</description>
+		<LookAt>
+			<longitude>126.9794791819105</longitude>
+			<latitude>37.57755546279715</latitude>
+			<altitude>0</altitude>
+			<heading>94.21695483300947</heading>
+			<tilt>0</tilt>
+			<range>1522.771704220847</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_8</styleUrl>
+		<Point>
+			<coordinates>126.9770662711388,37.57964155595669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>집경당</name>
+		<description>일제강점기를 거치면서 많은 전각들이 훼철되고 소멸되었다. 그중 향원정 남쪽에 남은 전각이며 경복궁 내전의 침전으로 사용된 건물이다.</description>
+		<LookAt>
+			<longitude>126.9770800388444</longitude>
+			<latitude>37.57985237039625</latitude>
+			<altitude>0</altitude>
+			<heading>94.37598122492574</heading>
+			<tilt>0</tilt>
+			<range>1729.880247552658</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_9</styleUrl>
+		<Point>
+			<coordinates>126.9750980629162,37.58069287750597,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>청와대분수앞</name>
+		<LookAt>
+			<longitude>126.9786058632661</longitude>
+			<latitude>37.5804643319732</latitude>
+			<altitude>0</altitude>
+			<heading>96.94506477074297</heading>
+			<tilt>0</tilt>
+			<range>2427.661012114533</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_10</styleUrl>
+		<Point>
+			<coordinates>126.973675180579,37.58334345543879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>신문옥</name>
+		<LookAt>
+			<longitude>126.9785716100948</longitude>
+			<latitude>37.58303575979833</latitude>
+			<altitude>0</altitude>
+			<heading>94.21640447159167</heading>
+			<tilt>0</tilt>
+			<range>1303.09027929255</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_11</styleUrl>
+		<Point>
+			<coordinates>126.9766133310567,37.58372752781837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>삼청동카페골목</name>
+		<description>광화문 광장을 지나 경복궁 미술관 길을 따라 걸어가면 다양한 카페들이 줄을 지어 서 있다. 전통한옥의 빛깔과 이국적인 현대미술적인 색감이 공존하는 곳이다.</description>
+		<LookAt>
+			<longitude>126.9811015876009</longitude>
+			<latitude>37.58207764689934</latitude>
+			<altitude>0</altitude>
+			<heading>95.98355261842339</heading>
+			<tilt>0</tilt>
+			<range>2365.316165073451</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_12</styleUrl>
+		<Point>
+			<coordinates>126.981730832914,37.58384385436325,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>삼청공원 입구</name>
+		<description>북촌한옥마을 위 주한베트남 대사관 위쪽으로 자리 잡고 있으며, 마을, 지선버스 등이 지나간다.</description>
+		<LookAt>
+			<longitude>126.9848960947046</longitude>
+			<latitude>37.58331818662355</latitude>
+			<altitude>0</altitude>
+			<heading>96.62790529385532</heading>
+			<tilt>0</tilt>
+			<range>2351.320682898261</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_13</styleUrl>
+		<Point>
+			<coordinates>126.9837238044851,37.58752294566125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>삼청공원</name>
+		<description>면적 38만753㎡ 경복궁 북동쪽의 북악산 기슭에 위치하고 있으며, 노송을 비롯한 울창한 수림과 청계천의 상류인 삼청천의 계곡이 공원의 주된 경관을 이룬다.</description>
+		<LookAt>
+			<longitude>126.9849193314399</longitude>
+			<latitude>37.58253187767504</latitude>
+			<altitude>0</altitude>
+			<heading>96.62791943831029</heading>
+			<tilt>0</tilt>
+			<range>2355.646460738908</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_14</styleUrl>
+		<Point>
+			<coordinates>126.9847317779518,37.59050286125538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>북촌한옥마을길</name>
+		<description>주로 1930년대 지어진 한옥들이 있는 곳으로 조선시대와 구한말 이래의 수많은 가지모양의 골목길을 그대로 보존하고 있으며 내외국인들을 위한 전통숙소, 게스트하우스들이 있다.</description>
+		<LookAt>
+			<longitude>126.9843722084382</longitude>
+			<latitude>37.58237738750499</latitude>
+			<altitude>0</altitude>
+			<heading>96.94881108921476</heading>
+			<tilt>0</tilt>
+			<range>1066.312337447561</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_15</styleUrl>
+		<Point>
+			<coordinates>126.9835733948263,37.5845329223722,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>성북동 고택북촌 문화길</name>
+		<description>600년 도성의 성곽을 사이에 두고 오랜 세월을 견뎌낸 성북동 고택과 북촌한옥마을의 고색창연한 길. 실상사, 심우장, 취순우 옛집 등을 관람할 수 있는 문화의 길이다.</description>
+		<LookAt>
+			<longitude>126.9853465008658</longitude>
+			<latitude>37.58158453678568</latitude>
+			<altitude>0</altitude>
+			<heading>96.9494053076811</heading>
+			<tilt>0</tilt>
+			<range>1371.504105705018</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_16</styleUrl>
+		<Point>
+			<coordinates>126.9838335863392,37.58237370756071,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>3호선인 안국역 2번 출입구로 나가 정면으로 보이는 헌법재판소를 지나가면 오른쪽으로 북촌 한옥마을을 구경할 수 있다.</description>
+		<LookAt>
+			<longitude>126.9864566522844</longitude>
+			<latitude>37.5778582434144</latitude>
+			<altitude>0</altitude>
+			<heading>95.66591094303232</heading>
+			<tilt>0</tilt>
+			<range>716.9751784911929</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_17</styleUrl>
+		<Point>
+			<coordinates>126.985813442447,37.57757945862359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>진입로2</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9737025932446,37.58083018851968,0 126.9743768220186,37.57609520776504,0 126.9745950937424,37.57598398801675,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>종로3가역 1번출입구</name>
+		<LookAt>
+			<longitude>126.991252563248</longitude>
+			<latitude>37.57041937799469</latitude>
+			<altitude>0</altitude>
+			<heading>96.79155550206735</heading>
+			<tilt>0</tilt>
+			<range>302.0037368870014</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.991136035845,37.57053671100145,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>경복궁역 5번출입구</name>
+		<LookAt>
+			<longitude>126.9752528714917</longitude>
+			<latitude>37.57619344188277</latitude>
+			<altitude>0</altitude>
+			<heading>96.3004497913463</heading>
+			<tilt>0</tilt>
+			<range>497.9402977792101</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9745542832042,37.57592692143381,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>안국역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9856219504884</longitude>
+			<latitude>37.57671715869949</latitude>
+			<altitude>0</altitude>
+			<heading>102.4063590270275</heading>
+			<tilt>0</tilt>
+			<range>480.2106727390212</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9856822463821,37.57751357049052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9794530984279,37.58194310196505,0 126.9790375738843,37.5812513789097,0 126.9776027285289,37.58131974454924,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>국립민속박물관</name>
+		<Camera>
+			<longitude>126.9807451084857</longitude>
+			<latitude>37.58093455872516</latitude>
+			<altitude>982.5642337765713</altitude>
+			<heading>-172.4142253574963</heading>
+			<tilt>0.1726296144795755</tilt>
+			<roll>90.46042623265289</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9794712059351,37.58194081622827,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9824787846406,37.57541984639424,0 126.981780224794,37.57500972791272,0 126.9811740979013,37.57353420726022,0 126.9815191499429,37.57390604069767,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>조계사</name>
+		<Camera>
+			<longitude>126.9830539090324</longitude>
+			<latitude>37.57482910168186</latitude>
+			<altitude>751.8672952433342</altitude>
+			<heading>-150.9536125119376</heading>
+			<tilt>0.1874348773703803</tilt>
+			<roll>112.8825795381002</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9815169455455,37.57389181083848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9867902485971,37.57594067109306,0 126.9863310838427,37.57557612392782,0 126.9861443976616,37.57618511924435,0 126.985974978352,37.57704351637008,0 126.9857428053951,37.57757278650098,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>운현궁</name>
+		<Camera>
+			<longitude>126.987311859339</longitude>
+			<latitude>37.57580607750391</latitude>
+			<altitude>651.5370756763524</altitude>
+			<heading>-159.0474452490063</heading>
+			<tilt>0.1871568939345336</tilt>
+			<roll>112.6510870834045</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.986811404817,37.57594793754803,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

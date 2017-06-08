@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MapSource</name>
+	<LookAt>
+		<longitude>128.6482975</longitude>
+		<latitude>38.03119384</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>22453.1539</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+
+
+	
+		<Folder>
+			<name>경로</name>
+
+			
+		
+			<Placemark>
+				<name>트랙 006</name>
+				<styleUrl>#path4Style</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							128.6196640413,38.0762210023,20.81 128.6196640413,38.0762210023,25.61 128.6196640413,38.0762210023,16.48 128.6196640413,38.0762210023,18.88 128.6196640413,38.0762210023,15.04 128.6196640413,38.0762210023,23.69 128.6196640413,38.0762210023,25.13 128.6196640413,38.0762210023,22.25 128.6196640413,38.0762210023,27.53 128.6196640413,38.0762210023,24.17 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			
+		</Folder>
+
+</Document>
+</kml>

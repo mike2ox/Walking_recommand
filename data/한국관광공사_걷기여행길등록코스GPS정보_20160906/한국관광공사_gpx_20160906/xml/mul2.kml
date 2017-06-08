@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>물소리길 2코스.kml</name>
+	<Style id="point30_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point29Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point29_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point29_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point25_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point34_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point24_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point36Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point36_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point36_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point34_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point28Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point28_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point28_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="point33Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point33_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point33_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point24_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point29_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point36_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point27Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point27_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point27_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point29_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point28_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point33_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point31_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point36_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point35Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point35_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point35_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="point26Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point26_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point26_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point28_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point31_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point33_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point30Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point30_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point30_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point27_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point32Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point32_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point32_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point35_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point25Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point25_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point25_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point27_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point26_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point32_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point30_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point32_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point31Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point31_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point31_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point35_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point34Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point34_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point34_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="point24Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point24_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point24_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point26_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point25_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>웨이포인트</name>
+		<open>1</open>
+		<Placemark>
+			<name>국수역1</name>
+			<description>국수역</description>
+			<styleUrl>#point24Style</styleUrl>
+			<Point>
+				<coordinates>127.3996566609,37.515725065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>기곡터널</name>
+			<description>다루래기길53번길 및 다루래기길67번길</description>
+			<styleUrl>#point25Style</styleUrl>
+			<Point>
+				<coordinates>127.4268578645,37.5159716606,64</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>단풍마을</name>
+			<description>Latitude: 37.5217643101 Longitude : 127.4442836735</description>
+			<styleUrl>#point26Style</styleUrl>
+			<Point>
+				<coordinates>127.4442836735,37.5217643101,88</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>단풍마을가는 산책로</name>
+			<description>Latitude: 37.5216245838 Longitude : 127.4411220197</description>
+			<styleUrl>#point27Style</styleUrl>
+			<Point>
+				<coordinates>127.4411220197,37.5216245838,129</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>들꽃수목원</name>
+			<description>들꽃수목원뒤</description>
+			<styleUrl>#point28Style</styleUrl>
+			<Point>
+				<coordinates>127.4700513203,37.5011434034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>무광사 앞</name>
+			<description>쭌1</description>
+			<styleUrl>#point29Style</styleUrl>
+			<Point>
+				<coordinates>127.4396639876,37.5208770018,79.272491</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>양근성지</name>
+			<description>양근성지</description>
+			<styleUrl>#point30Style</styleUrl>
+			<Point>
+				<coordinates>127.4767420068,37.4988500308,32.883041</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>양근향교</name>
+			<description>향교</description>
+			<styleUrl>#point31Style</styleUrl>
+			<Point>
+				<coordinates>127.4577942956,37.5249065179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>양평미술관</name>
+			<description>미술관</description>
+			<styleUrl>#point32Style</styleUrl>
+			<Point>
+				<coordinates>127.4838684686,37.4963854998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>옥천초등학교</name>
+			<description>옥천초</description>
+			<styleUrl>#point33Style</styleUrl>
+			<Point>
+				<coordinates>127.459694976,37.5188719667,43.516495</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>육교</name>
+			<description>오빈리덕구실다리</description>
+			<styleUrl>#point34Style</styleUrl>
+			<Point>
+				<coordinates>127.458336018,37.5049740169,37.775997</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>종점 양평시장입구</name>
+			<description>Latitude: 37.4921031017 Longitude : 127.4903717358</description>
+			<styleUrl>#point35Style</styleUrl>
+			<Point>
+				<coordinates>127.4903717358,37.4921031017,30.4023438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>천변길</name>
+			<description>Latitude: 37.4957037158 Longitude : 127.4854853377</description>
+			<styleUrl>#point36Style</styleUrl>
+			<Point>
+				<coordinates>127.4854853377,37.4957037158,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

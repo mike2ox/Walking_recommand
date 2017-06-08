@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>9코스 문화적 갯벌길_종로1.2.3.4동</name>
+	<LookAt>
+		<longitude>126.9877175</longitude>
+		<latitude>37.5707334</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>386.5364457</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="point2_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point10_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point2_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point2Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point2_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point2_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point8_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point10Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point10_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point10_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="point5Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point5_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point5_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point0_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point0Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point0_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point0_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point4_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point9Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point9_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point9_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point9_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point6_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point7Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point7_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point7_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point5_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point4Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point4_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point4_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point1_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point11_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="path0Style">
+		<LineStyle>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="point4_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point6_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="point9_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point5_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point7_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="point11Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point11_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point11_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="point1Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point1_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point1_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point3_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point6Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point6_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point6_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point1_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point0_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point11_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point8Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point8_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point8_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path0Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="point10_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point3_h">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<b>$[name]</b><br/><br/>$[description]<br/><br/><!--$[geDirections]-->]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="point7_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point8_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="point3Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#point3_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#point3_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Track</name>
+		<styleUrl>#path0Style1</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					126.977559356,37.5704110321,30 126.9781427365,37.5703795999,30 126.9782636967568,37.57040602296697,30 126.97826833801,37.57122006107669,30 126.9782366458332,37.57162746073293,30 126.9781888115438,37.57235806566426,30 126.9785726443,37.5723983813,30 126.9785802718,37.5723983813,30 126.9790046840312,37.5724226358695,30 126.9791423672692,37.57229790960116,30 126.9794233074281,37.57229823284025,30 126.9797354073034,37.57235302643456,30 126.9801052302521,37.5723186266716,30 126.9801791083796,37.57236457001582,30 126.9804368055079,37.57231375276913,30 126.9808907434,37.5728510879,30 126.9812592119,37.5736246537,30 126.9814514594169,37.57411563029064,30 126.9821092446242,37.57419114862038,30 126.9828481693,37.5740148313,30 126.9828557968,37.5752284471,30 126.9828581151233,37.57550751941854,30 126.9834314659,37.5752787385,30 126.9838152733,37.5748826098,30 126.9844447542,37.5742600858,30 126.9847056828,37.5740776956,30 126.9860565942,37.5731973443,30 126.9865477737,37.5726500899,30 126.9875482234764,37.57258184490888,30 126.9873516635239,37.57154045598471,30 126.9876762118351,37.57158116595989,30 126.9878299628719,37.57189383787483,30 126.9882299556884,37.5719792178752,30 126.988733961139,37.57150358791385,30 126.9891496841,37.5714550819,30 126.9894106966,37.5706501678,30 126.9895950968331,37.57046896908126,30 126.9919974668025,37.57061001770474,30 126.9920083540306,37.57086274745048,30 126.9931858122393,37.57087014448259,30 126.9937489182,37.5708841067,30 126.9937545401014,37.57205130810897,30 126.9932323415,37.5726703741,30 126.9925513957,37.5736699998,30 126.9925612863,37.5736699998,30 126.9918344915,37.5746668596,30 126.9914762489,37.5753536727,30 126.9913545437,37.5757336244,30 126.9913512748,37.5757336244,30 126.9913413841,37.5759788789,30 126.9915618282,37.5764368661,30 126.9917558692,37.5768464059,31 126.9918380957,37.5772913173,32 126.9917887263,37.5775365718,32.98828125 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Folder>
+		<name>Waypoints</name>
+		<Placemark>
+			<name>고종 즉위 40년 칭경기념비</name>
+			<description>2014-10-08 12:50:11PM</description>
+			<styleUrl>#point0Style</styleUrl>
+			<Point>
+				<coordinates>126.9775981642,37.5704056676,-47.2186279297</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>귀금속 상가</name>
+			<description>종로구</description>
+			<styleUrl>#point1Style</styleUrl>
+			<Point>
+				<coordinates>126.9921211526,37.57086684,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>남인사마당</name>
+			<description>종로구</description>
+			<styleUrl>#point2Style</styleUrl>
+			<Point>
+				<coordinates>126.9878432807,37.5720014982,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북인사마당</name>
+			<description>율곡로 and 우정국로 and 율곡로3길 and 인사동길</description>
+			<styleUrl>#point3Style</styleUrl>
+			<Point>
+				<coordinates>126.9828557968,37.5755167007,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서순라길</name>
+			<description>종로구</description>
+			<styleUrl>#point4Style</styleUrl>
+			<Point>
+				<coordinates>126.9936399534,37.5709386729,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서울탑골공원 및 원각사지 십층석탑</name>
+			<description>종로구</description>
+			<styleUrl>#point5Style</styleUrl>
+			<Point>
+				<coordinates>126.9885852467,37.5704238564,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>우정총국(사랑메시지 창)</name>
+			<description>종로구</description>
+			<styleUrl>#point6Style</styleUrl>
+			<Point>
+				<coordinates>126.9828043319,37.574050203,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>인사동길</name>
+			<description>종로구</description>
+			<styleUrl>#point7Style</styleUrl>
+			<Point>
+				<coordinates>126.9852768257,37.5737753604,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>조계사 대웅전 및 백승</name>
+			<description>종로구</description>
+			<styleUrl>#point8Style</styleUrl>
+			<Point>
+				<coordinates>126.9814467151,37.5739909429,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>종묘</name>
+			<description>Unknown Area</description>
+			<styleUrl>#point9Style</styleUrl>
+			<Point>
+				<coordinates>126.9941387605,37.5721599162,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>중학천 물길</name>
+			<description>종로구</description>
+			<styleUrl>#point10Style</styleUrl>
+			<Point>
+				<coordinates>126.9784576446,37.5703940168,30</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>피맛(避馬)골</name>
+			<description>종로구</description>
+			<styleUrl>#point11Style</styleUrl>
+			<Point>
+				<coordinates>126.9896329846,37.5704190787,30</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

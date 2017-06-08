@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>4코스 낭길.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>4코스 낭길</name>
+		<Placemark>
+			<name>4코스 낭길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8720103306158,34.16269288086028,0 126.872055700319,34.16266189076626,0 126.8721268712819,34.16267308440677,0 126.8722215066516,34.16273006146223,0 126.8724109876779,34.16277707005229,0 126.8725421161481,34.16266058807426,0 126.8725589731126,34.16245934380701,0 126.8725105905221,34.16231984241062,0 126.8725058003213,34.16217206671822,0 126.8724663268594,34.16201852264932,0 126.8724615364642,34.1618793796943,0 126.8724607970746,34.16177510382879,0 126.8725183129676,34.16168109896067,0 126.8726998948446,34.16164158657132,0 126.872851787264,34.16157882674445,0 126.8728342845362,34.16142501275022,0 126.8729078839179,34.16135076576732,0 126.8730743325094,34.16130044422257,0 126.8732448578425,34.16127394613428,0 126.8733770188641,34.16116408697428,0 126.8734261832108,34.16100801027663,0 126.8732990121216,34.16087062376789,0 126.8732918345652,34.16076611128743,0 126.8734402815233,34.16069771058069,0 126.8735099008,34.1606411036901,0 126.8736541299252,34.16055212494621,0 126.873804429685,34.1605344619764,0 126.8739388270547,34.16048070374077,0 126.8740353682007,34.1604191035623,0 126.8741050675773,34.16033345936467,0 126.874367038547,34.16036579157816,0 126.8746241513357,34.16036543610028,0 126.8749349646719,34.16034529909991,0 126.8750770228235,34.16031001911752,0 126.8751322170081,34.16017414482622,0 126.8751299505715,34.16006013288634,0 126.8751070499817,34.15992957298894,0 126.8749737262438,34.15982610723212,0 126.8749268541832,34.15971113649231,0 126.8749226608933,34.15963669028044,0 126.8750334755269,34.15957973222386,0 126.8751388466474,34.1595723355115,0 126.8753331188398,34.15949401169183,0 126.8753901067662,34.15937367382497,0 126.8756515427127,34.15941831678988,0 126.8759297633586,34.15945044692951,0 126.876069505132,34.15946329415745,0 126.8762191224437,34.15946019386863,0 126.8764427460441,34.15943637898435,0 126.876571923269,34.15939824684398,0 126.8766215910213,34.15932936743695,0 126.8764580771197,34.15914899401132,0 126.8764344684869,34.15894061827534,0 126.8765581332811,34.15874968341817,0 126.8767079446666,34.15856778883369,0 126.8770193272968,34.15836470356052,0 126.8772549435074,34.15821481516198,0 126.8776243936212,34.15808306414599,0 126.8778116160061,34.15808008166291,0 126.8780580888444,34.15803570080367,0 126.8782734930753,34.15800320121029,0 126.8785184081012,34.15800292183477,0 126.8786937195924,34.15797845170965,0 126.8788748787601,34.15792607056959,0 126.8790347323769,34.15780678635199,0 126.8791297572204,34.15765199218843,0 126.8791494114219,34.15753706840074,0 126.879199630681,34.1572878165624,0 126.8791813820042,34.15700730522551,0 126.8791891459478,34.15699646780571,0 126.8792778578148,34.15674792435723,0 126.8793617525678,34.15665561986252,0 126.8796308358687,34.15651739593721,0 126.8798453589844,34.15633321273088,0 126.8800744572708,34.15625465599975,0 126.8802615119041,34.15625147902754,0 126.8804433174901,34.15625051643074,0 126.8806029848803,34.15636930621689,0 126.8807920569578,34.15644559928696,0 126.8810005116148,34.15642811597876,0 126.881170437998,34.15634454049831,0 126.8812935087145,34.15611741023668,0 126.8812498981659,34.15592602519156,0 126.8813869129289,34.15587443973687,0 126.8814558584199,34.15576014622545,0 126.8815412659038,34.15583098239768,0 126.881821243567,34.15579620687698,0 126.8820542597297,34.15572746743528,0 126.8821578714687,34.15568980260181,0 126.8823095324045,34.15576628359702,0 126.8824552325536,34.15580674263055,0 126.8825970885727,34.15589271719433,0 126.8825985801993,34.15599684445743,0 126.8827042527039,34.15604174008901,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>읍리해변 방파제</name>
+			<description>시작점</description>
+			<open>1</open>
+			<Camera>
+				<longitude>126.8726304674486</longitude>
+				<latitude>34.16283635219478</latitude>
+				<altitude>438.9546792282064</altitude>
+				<heading>113.150865347261</heading>
+				<tilt>0.01042608336293877</tilt>
+				<roll>91.23067232993482</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.8720232218059,34.16269393612788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>권덕리마을회관(종점)</name>
+			<description>종착점</description>
+			<LookAt>
+				<longitude>126.8837954136097</longitude>
+				<latitude>34.15670164205533</latitude>
+				<altitude>0</altitude>
+				<heading>4.829323555474913</heading>
+				<tilt>0</tilt>
+				<range>587.501436399811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.8827035213117,34.15602180178867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>관광지</name>
+			<Placemark>
+				<name>권덕리해변</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>126.8822096549187</longitude>
+					<latitude>34.15501452515719</latitude>
+					<altitude>0</altitude>
+					<heading>3.826876495222567</heading>
+					<tilt>0.07744951093130277</tilt>
+					<range>403.2299490622445</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>126.8814762154642,34.15560897980371,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>따순기미</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>126.8746943682536</longitude>
+					<latitude>34.16043946947767</latitude>
+					<altitude>0</altitude>
+					<heading>3.822656938981742</heading>
+					<tilt>0.07744860048300647</tilt>
+					<range>328.2581504624251</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>126.873788385826,34.16056594560171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>바람구멍</name>
+				<description>관광지</description>
+				<LookAt>
+					<longitude>126.8739286300027</longitude>
+					<latitude>34.16168425261892</latitude>
+					<altitude>0</altitude>
+					<heading>3.822226996936442</heading>
+					<tilt>0.07744883360439048</tilt>
+					<range>347.4583090624031</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>126.8726927734989,34.16165603790207,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>기타</name>
+			<Placemark>
+				<name>중점</name>
+				<description>중점</description>
+				<Point>
+					<coordinates>126.876603,34.159448,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

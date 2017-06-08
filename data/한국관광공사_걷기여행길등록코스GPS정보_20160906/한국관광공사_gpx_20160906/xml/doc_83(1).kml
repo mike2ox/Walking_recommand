@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>용산가족산책길.kmz</name>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+
+		<Placemark>
+			<name>용산가족산책길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>126.9742275935323,37.52264230628749,0 126.9742879091264,37.52277292953474,0 126.9771333368119,37.52183151389023,0 126.9775089091111,37.5219115132647,0 126.9777739190632,37.52240906790591,0 
+					126.9783637720104,37.52253881847007,0 126.9777739684909,37.52241899596661,0 126.9776681469724,37.5229009727599,0 126.9774167603124,37.52313014469618,0 126.9775684296814,37.52327755981163,0 126.9775440994786,37.52370319221028,0 126.9776827445406,37.52384045517427,0 126.9776817817282,37.52394087433374,0 126.9779522172189,37.52479333439573,0 126.9784284063699,37.5248137199015,0 126.9786028597232,37.52493715748496,0 126.9789669551496,37.52487683621777,0 126.9792930799274,37.5249390240517,0 126.9793811319631,37.52479624110774,0 126.9797448777786,37.52474516857015,0 126.9798074444578,37.52469379162371,0 126.9800705058048,37.52467289118541,0 126.9802468398234,37.52481635452654,0 126.9807482689327,37.52479523438659,0 126.9807595427854,37.52470227733895,0 126.9811724237982,37.52471102871634,0 126.9813119286174,37.52481370786585,0 126.9815108237877,37.52467168007957,0 126.9815895706197,37.52479686405729,0 126.9819937780059,37.52472087889127,0 126.9821355573671,37.52482527891065,0 126.9827501170569,37.52472362416204,0 126.9829868444378,37.52455215200671,0 126.9829571466834,37.5239607940168,0 126.983057221403,37.52387101609158,0 126.9829092374232,37.52315621744285,0 126.9822622384559,37.52314175752889,0 126.9822358631103,37.5229250855479,0 126.9824616851986,37.52291600076967,0 126.9824466061369,37.52308256787054,0 126.9828779563108,37.52309648317544,0 126.9827730981206,37.52283675970865,0 126.9829728129262,37.52271820224435,0 126.9831057000619,37.52273110760612,0 126.9830909208951,37.52287617832206,0 126.9833777326457,37.52305701334837,0 126.9834749903084,37.52487496812039,0 126.984411984423,37.5248171756933,0 126.9843352119068,37.52414135351204,0 126.9842205533724,37.52386246866134,0 126.9842364864056,37.52339248530074,0 126.9843894957505,37.52318118748726,0 126.9843987067569,37.52296278976888,0 126.9842405484715,37.52291463653992,0 126.9841372949164,37.52243956345812,0 126.9843155784093,37.52217368740141,0 126.9843403390212,37.52158140547678,0 126.9842085113986,37.52135355885231,0 126.9843531922286,37.52087678049121,0 126.9846422914779,37.5205885675956,0 126.984645487448,37.52029979747236,0 126.9844350896953,37.52018981353282,0 126.9836212313871,37.52018946762631,0 126.9836067151415,37.52040881619869,0 126.9834924977978,37.52054832369798,0 126.9834552460921,37.52099680950769,0 126.9833250643816,37.52121504284817,0 126.9830478695699,37.52142283113324,0 126.9828270694263,37.52179261493167,0 126.9824790972061,37.5218574616274,0 126.9821864467611,37.52194672225149,0 126.9819262046347,37.52191741229237,0 126.9815814406568,37.5218977170777,0 126.981466395132,37.52199707319271,0 126.9812377486202,37.52208557703641,0 126.9810514293007,37.52196123591077,0 126.9808323976054,37.52198840046999,0 126.980844485142,37.52215677270915,0 126.9808802097596,37.52237359473985,0 126.9806067766442,37.52234502670937,0 126.9804953348433,37.52222699841457,0 126.9803209597452,37.52215834236985,0 126.9801587712414,37.5220796067593,0 126.979895909354,37.52205066391479,0 126.9795066079072,37.52210205631605,0 126.979153887529,37.52223264497251,0 126.978902385525,37.52239177407677,0 126.9787280667132,37.52262833192118,0 126.9787931480019,37.52288250441677,0 126.9789691859961,37.52305881194714,0 126.9793817715172,37.52314715433955,0 126.9803525610039,37.52318841727281,0 126.9803771094325,37.52332577132239,0 126.9799930114775,37.52331156143011,0 126.9798932708198,37.52352917439225,0 126.9796564253084,37.52354994792369,0 126.9795566601996,37.52334376290019,0 126.9788076000566,37.52328434926706,0 126.9783637720104,37.52253881847007,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>지하철정류장(이촌역2번출구)</name>
+			<LookAt>
+				<longitude>126.9792842805284</longitude>
+				<latitude>37.52200768805814</latitude>
+				<altitude>0</altitude>
+				<heading>3.615818887767416</heading>
+				<tilt>0</tilt>
+				<range>881.3875325928739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.974176077255,37.52251745058032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>국립중앙박물관</name>
+			<description>2010년 세계박물관 중 관람객수 9위를 차지했으며, 구석기시대의 시대상부터 근대의 이르기까지 우리나라의 역사와 삶, 예술을 볼 수 있는 곳이다.
+</description>
+			<LookAt>
+				<longitude>126.9792842805284</longitude>
+				<latitude>37.52200768805814</latitude>
+				<altitude>0</altitude>
+				<heading>3.615818887767416</heading>
+				<tilt>0</tilt>
+				<range>881.3875325928739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>126.9795262957736,37.5233304787836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>거울못</name>
+			<description> 박물관 건물의 모습이 커다란 못에 비춰지게 된 데서 ‘거울못’이라 한다. 거울못은 산과 물의 조화를 강조하여 꾸미는 우리나라 전통의 정원 원리를 반영하고 있다.
+</description>
+			<LookAt>
+				<longitude>126.9792842805284</longitude>
+				<latitude>37.52200768805814</latitude>
+				<altitude>0</altitude>
+				<heading>3.615818887767416</heading>
+				<tilt>0</tilt>
+				<range>881.3875325928739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9794841097469,37.52251269996373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>용산가족공원</name>
+			<description>8.15광복 이후 주한미군사령부의 골프장으로 쓰였던 부지이며, 현재 8만9256㎡이다. 지하철 4호선 이촌역에서 내려 도보로 10분 거리에 있으며, 남산공원, 전쟁기념관 등의 관광지가 있다.
+</description>
+			<LookAt>
+				<longitude>126.9792842805284</longitude>
+				<latitude>37.52200768805814</latitude>
+				<altitude>0</altitude>
+				<heading>3.615818887767416</heading>
+				<tilt>0</tilt>
+				<range>881.3875325928739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9827383325822,37.5217739917576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>보신각종</name>
+			<description>높이 318cm 보물 제2호로 지정되어 있으며, 조석을 알리던 종으로 조선 세조13년 주조되어 원각사에 있다가 광해군 11년에 현재의 보신각 자리로 옮겨졌다.
+</description>
+			<LookAt>
+				<longitude>126.9792842805284</longitude>
+				<latitude>37.52200768805814</latitude>
+				<altitude>0</altitude>
+				<heading>3.615818887767416</heading>
+				<tilt>0</tilt>
+				<range>881.3875325928739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9823568875704,37.52300387929832,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>고덕산산책길.kmz</name>
+		<open>1</open>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl000">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin00">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl00">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin000">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin00</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl000</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin00">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_110">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_121">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_101">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_110</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_121</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin3">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>임시 장소</name>
+			<open>1</open>
+			<Placemark>
+				<name>고덕산 산책길</name>
+				<description>도덕산 정상</description>
+				<styleUrl>#m_ylw-pushpin000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						127.1473851535066,37.561228886779,0 127.1466163596449,37.5609033289878,0 127.1464310045271,37.56094769648335,0 127.1464178168792,37.56110334516511,0 127.1464788747322,37.56152015649179,0 127.1463211401844,37.56172264965435,0 127.1461626150682,37.56180562344589,0 127.1461491534816,37.56208283680382,0 127.1458133825885,37.56232002559919,0 127.1456216756815,37.56252164971242,0 127.1446517530641,37.56334723372621,0 127.1444037288831,37.56350420318054,0 127.1439545345986,37.5641053131349,0 127.144153870029,37.56418571274796,0 127.1441322867038,37.56440053648448,0 127.144190763068,37.56453744293346,0 127.1442327519242,37.56475046117807,0 127.1445733963401,37.56508040387148,0 127.1445669114421,37.56527127034298,0 127.1446109615929,37.56530224814379,0 127.1446558660521,37.5656734405959,0 127.1447536059569,37.5658368751807,0 127.1449161685859,37.56584914316014,0 127.1450146296027,37.56566848664239,0 127.1451457375046,37.56548792904223,0 127.1453013069447,37.56535546557945,0 127.1453053162358,37.56524692376939,0 127.1453522749935,37.56491479085577,0 127.1454561448087,37.56480718833654,0 127.1454535046477,37.56432206571345,0 127.1454944606075,37.56408281689919,0 127.1457367357572,37.5638783514502,0 127.1459039952722,37.56385215039646,0 127.1459937328979,37.56363591053286,0 127.1462881778151,37.5635417885546,0 127.1468964133238,37.56349601612053,0 127.1474181288127,37.56358967881589,0 127.1477573604953,37.56377495198829,0 127.1480260928002,37.56407695195652,0 127.1481762851061,37.56413383222096,0 127.1481723594062,37.56395310420069,0 127.1481799689063,37.56384612033199,0 127.148192422742,37.56384673351138,0 127.1482933596927,37.5637561787244,0 127.1484865097319,37.56385585462824,0 127.1485573072275,37.56396743148346,0 127.1486642864014,37.56379501834812,0 127.1486650028856,37.56364740400808,0 127.1486684048494,37.5634325509315,0 127.1486026931706,37.56325959467522,0 127.1486879295535,37.56309359870343,0 127.1488790449548,37.56297575926831,0 127.1489403296166,37.56286543123174,0 127.1490983676423,37.56270723546021,0 127.1490819050442,37.56257969665232,0 127.1491277172284,37.56246987267549,0 127.1491977401011,37.56232611060808,0 127.1491188426459,37.56227062189945,0 127.1490195133327,37.56211139506891,0 127.1488784033412,37.56207045161154,0 127.1485593760264,37.56205645371217,0 127.1482327645179,37.56209101451435,0 127.1480527288023,37.56207953523812,0 127.147923867047,37.56200678996094,0 127.1478679225136,37.5619107330159,0 127.1479288750682,37.56177616243403,0 127.1480171137823,37.56170590886993,0 127.1483045279577,37.56167226490759,0 127.1484559822084,37.56160642553169,0 127.1485575516099,37.56152278857697,0 127.1484754747275,37.56143133950894,0 127.1483354212673,37.56138021880722,0 127.147995265547,37.56136872150351,0 127.1476295896955,37.56129970190211,0 127.1473851535066,37.561228886779,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>고덕산 정상</name>
+				<description>서울시 우수조망명소 10곳 중 한 곳 으로 선정. 산 정상이라고 하기에는 낮은 경사로이고, 구리시의 구리타워까지 내다보인다.</description>
+				<LookAt>
+					<longitude>127.143882617287</longitude>
+					<latitude>37.56451297464949</latitude>
+					<altitude>0</altitude>
+					<heading>0.01058604686252775</heading>
+					<tilt>30.38064919075536</tilt>
+					<range>1788.350347923371</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_101</styleUrl>
+				<Point>
+					<coordinates>127.1448432445307,37.56585888031379,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>고덕산산책길진입로</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						127.1461308450007,37.56199578250372,0 127.1459620483423,37.56182737936528,0 127.1458304407272,37.56161507568253,0 127.1455823843826,37.56148076462502,0 127.1454968478427,37.5614256095197,0 127.1454628642349,37.56135732623487,0 127.1453958282035,37.56113348816258,0 127.1451934715747,37.560690146526,0 127.1449722814952,37.56048981170375,0 127.1449455835693,37.56028092524672,0 127.1449081619986,37.5600864221921,0 127.1449083597308,37.55970911485986,0 127.1449303490953,37.55948257068923,0 127.1442100128127,37.55871095055372,0 127.1445337315592,37.55843077650079,0 127.1447514988055,37.55822635751549,0 127.1447543760286,37.55822413306566,0 127.1448644089344,37.55799863586515,0 127.1448672782439,37.55799427760761,0 127.1449082628093,37.55779421755055,0 127.144561630924,37.55496552472309,0 127.1446320304897,37.55487742080887,0 127.1446172435831,37.5546042812126,0 127.1445172227211,37.55455434503319,0 127.1444800097349,37.55433062177475,0 127.1441909481248,37.55187509648906,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>명일역 3번출입구</name>
+				<LookAt>
+					<longitude>127.1451744493469</longitude>
+					<latitude>37.55399146596156</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004973110022996317</heading>
+					<tilt>35.67392476763257</tilt>
+					<range>556.0024429124155</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<coordinates>127.1441850431473,37.55187900202659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>문화자원길</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						127.1455356432198,37.56417753399072,0 127.1465582711838,37.56479292080706,0 127.1472895114449,37.56569367779203,0 127.147289396089,37.5656823638071,0 127.1472821018523,37.56565413716601,0 127.1472819319779,37.56562043568901,0 127.1472746428222,37.56559223751196,0 127.1472673573588,37.56556405389936,0 127.1475940999946,37.56617411026123,0 127.1475167099342,37.56713301231274,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>고덕동 생태경관보존지역</name>
+				<LookAt>
+					<longitude>127.1473379100075</longitude>
+					<latitude>37.56657331553954</latitude>
+					<altitude>0</altitude>
+					<heading>0.0005643480323233141</heading>
+					<tilt>0</tilt>
+					<range>352.604903498916</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<coordinates>127.1475168864214,37.56715511179838,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>문화자원길</name>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						127.146134416545,37.56199857202849,0 127.1457605503092,37.56201810613465,0 127.1451092390135,37.56233594051018,0 127.1449520996105,37.56287729441769,0 127.1446318022506,37.5632556163668,0 127.144198654352,37.5634850735398,0 127.1438713609568,37.56340765957823,0 127.1436454889935,37.56313353908676,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>광주이씨 광릉 부원군 묘역</name>
+				<LookAt>
+					<longitude>127.1455636065139</longitude>
+					<latitude>37.56323964812194</latitude>
+					<altitude>0</altitude>
+					<heading>0.6787874295510255</heading>
+					<tilt>0</tilt>
+					<range>699.9598724256479</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>127.1436020431091,37.56307034185451,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</Folder>
+</kml>

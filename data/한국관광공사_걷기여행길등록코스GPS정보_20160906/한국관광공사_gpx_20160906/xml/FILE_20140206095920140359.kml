@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>슬로길 11코스_20140205.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style12">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style120">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style121">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style4">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style40">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style41">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>슬로길 11코스</name>
+		<open>1</open>
+		<Placemark>
+			<name>청산도 슬로길 11코스</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<coordinates>
+					126.861446,34.18196,36.66748 126.8614613,34.1819506,36.66748 126.8613859,34.1818562,34.74487 126.8613058,34.1817467,32.82227 126.861291,34.1817382,32.82227 126.8612936,34.1817318,32.82227 126.86127,34.181724,32.34155 126.8612706,34.1817183,31.38013 126.8612362,34.1816767,31.38013 126.8610534,34.181634,28.0155 126.8609859,34.181717,27.05432 126.8608528,34.181749,25.13171 126.860727,34.181713,20.80566 126.8605662,34.1817932,19.36377 126.8605766,34.1818757,18.40234 126.8603819,34.1820209,15.99902 126.860299,34.18206,15.03772 126.8601468,34.1820662,14.55701 126.8600302,34.1820598,14.07642 126.8599469,34.1819097,13.59583 126.8598764,34.1818779,13.11511 126.8597233,34.1818107,12.15381 126.859709,34.181817,11.67322 126.8596608,34.1818327,11.1925 126.8594419,34.1819037,9.75061 126.8594177,34.1819144,9.75061 126.8593653,34.1819118,9.269897 126.8591256,34.1817871,8.308593999999999 126.8590659,34.1817545,9.269897 126.8590265,34.1817196,8.789185 126.8589744,34.1816321,8.308593999999999 126.8589288,34.181618,8.308593999999999 126.8588776,34.1816293,7.347168 126.858818,34.1816725,7.347168 126.8587497,34.1816378,7.827881 126.8587025,34.1815972,7.827881 126.8587094,34.1815435,7.347168 126.8587649,34.181469,7.347168 126.8587849,34.1814394,7.827881 126.8587825,34.1814099,7.827881 126.8586936,34.1813322,8.308593999999999 126.8587873,34.1811515,8.789185 126.8588546,34.1810104,8.308593999999999 126.8586948,34.180979,7.347168 126.8584503,34.1809409,5.905273 126.8582556,34.1809058,5.905273 126.858096,34.1808951,5.905273 126.8580027,34.1809385,5.424561 126.8579215,34.1810234,5.424561 126.8578483,34.1810893,6.385863999999999 126.8577208,34.1811687,5.424561 126.8575889,34.1813275,5.905273 126.8574954,34.1814631,5.905273 126.8574223,34.1815152,6.866454999999999 126.8573828,34.1815269,7.347168 126.8572457,34.1815476,7.347168 126.8571417,34.1814918,6.866454999999999 126.8571276,34.181493,6.866454999999999 126.857109,34.1814783,6.866454999999999 126.8569902,34.1813819,6.385863999999999 126.8568882,34.1814052,7.347168 126.8568462,34.1814034,7.347168 126.8567649,34.1814143,6.385863999999999 126.8566522,34.181456,6.866454999999999 126.8564989,34.18151,7.347168 126.8563474,34.1815457,7.827881 126.8561823,34.1815643,7.347168 126.8561341,34.1815607,7.827881 126.8559052,34.1815494,7.347168 126.8557386,34.1815067,7.347168 126.8556426,34.1814378,6.866454999999999 126.8555715,34.1813347,7.827881 126.855559,34.1813327,7.347168 126.8554587,34.1813346,7.347168 126.8553995,34.181283,7.827881 126.8550262,34.1812405,7.827881 126.8548071,34.1812414,6.866454999999999 126.8545849,34.1812668,9.269897 126.8545185,34.1812895,9.269897 126.8544516,34.1812164,8.789185 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>지점</name>
+			<Placemark>
+				<name>도청항방문자센터</name>
+				<description>관광안내소</description>
+				<LookAt>
+					<longitude>126.8556844551429</longitude>
+					<latitude>34.18038669248143</latitude>
+					<altitude>0</altitude>
+					<heading>-22.73545090053589</heading>
+					<tilt>4.534572092656029</tilt>
+					<range>371.5974681521422</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id22</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.8546009987715,34.18134686733117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>벽화</name>
+				<description>기타</description>
+				<LookAt>
+					<longitude>126.8598344709424</longitude>
+					<latitude>34.18049952409025</latitude>
+					<altitude>0</altitude>
+					<heading>-22.733119386539</heading>
+					<tilt>4.53456047979253</tilt>
+					<range>355.2459535938718</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id221</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.8587694444444,34.18165833333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>보호수</name>
+				<description>수목</description>
+				<LookAt>
+					<longitude>126.8610673313683</longitude>
+					<latitude>34.18073079998234</latitude>
+					<altitude>0</altitude>
+					<heading>-22.73242673728884</heading>
+					<tilt>4.534061404045696</tilt>
+					<range>343.8609116500948</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id220</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.8612888888889,34.18179444444444,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

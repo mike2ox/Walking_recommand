@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>제목없는 지도</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>제목없는 레이어</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>출발</name>
+				<description><![CDATA[1ㄱㄱ]]></description>
+				<Point>
+					<coordinates>127.37201603595167,35.20197535006075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>점 3</name>
+				<Point>
+					<coordinates>127.37532052138704,35.19463481566177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-4</styleUrl>
+				<name>선 4</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.37272804457461,35.20219531758238,0.0 127.3732157194172,35.20058540219737,0.0 127.37346930996864,35.199071096977924,0.0 127.37391797098098,35.19805091721848,0.0 127.37436663068365,35.19722201166241,0.0 127.3748738130962,35.19660032681063,0.0 127.37504937598715,35.19613804576815,0.0 127.37512740364764,35.19564387990401,0.0 127.37536148662912,35.19432077533794,0.0 127.37793640728341,35.19487871427065,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-4</styleUrl>
+				<name>선 5</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.37793640728341,35.19487871427065,0.0 127.37850796140265,35.193670375272404,0.0 127.37963936640881,35.19279360032504,0.0 127.3809658405662,35.19207623245299,0.0 127.3828385109664,35.191279149313374,0.0 127.3836773102812,35.19102408191338,0.0 127.38584258506307,35.190800896211236,0.0 127.38753969257232,35.19017916275577,0.0 127.38833947805688,35.19016322031576,0.0 127.38906123588094,35.19006756882089,0.0 127.3897244723048,35.189940032248906,0.0 127.39157763513504,35.190051626358944,0.0 127.3925724910805,35.190258872768354,0.0 127.39286509546218,35.19046611650849,0.0 127.39343079796527,35.1906255358924,0.0 127.39382093888707,35.19065741951758,0.0 127.39417206466896,35.190800896211236,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-4</styleUrl>
+				<name>선 6</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.39417206466896,35.190800896211236,0.0 127.39438858920039,35.190745897408306,0.0 127.39669041271554,35.1906219495323,0.0 127.39693912670191,35.19065423171752,0.0 127.3975974865607,35.190884989813355,0.0 127.3979242288624,35.19098064068041,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='line-000000-4'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

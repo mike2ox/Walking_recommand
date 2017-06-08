@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>독립공원안산 나들길.kmz</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>독립공원안산 나들길</name>
+			<description>옛 서울의 서쪽 관문인 독립문사거리 옆, 독립공원엔 일제강점기 아픈 역사의 흔적을 고스란히 재현해 놓은 서대문 형무소가 있고, 그 뒤로는 안산의 한적한 숲길과 산책로가 조성된 코스이다.</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9561337865346,37.57310218440846,0 126.957399619148,37.57394599132324,0 126.9558656424436,37.57547090888678,0 126.9545817297069,37.57459311079545,0 126.9553758119117,37.57379557100857,0 126.9549053511706,37.57382286559304,0 126.9543172947547,37.57342653173723,0 126.9540082327729,37.57330277106986,0 126.9535546187737,37.57340313144434,0 126.9527353098734,37.57315566858388,0 126.9522974644162,37.57361209106002,0 126.9520406390363,37.57347608352048,0 126.9518434267388,37.57358957567028,0 126.9514860445741,37.57414696362148,0 126.951087815872,37.57418846665914,0 126.9509465007421,37.57399818942843,0 126.9507831230185,37.57397430569643,0 126.9505108129477,37.57408576015834,0 126.9505521468417,37.57435176360131,0 126.9504355251267,37.57440218805072,0 126.9502001159497,37.57436462010139,0 126.9500159334021,37.57443391778804,0 126.9498565521634,37.57454201369391,0 126.9497652186379,37.57476123723109,0 126.9495847690328,37.57467512443004,0 126.949389126197,37.57475452842279,0 126.9492358401028,37.57491779341287,0 126.9489522266412,37.57486269442961,0 126.9491244957135,37.57455831362056,0 126.9496877614422,37.57420445517754,0 126.9501063338157,37.57271785685466,0 126.9505549554925,37.57223942358527,0 126.9509135416438,37.57098264712699,0 126.9517895557076,37.57028864869893,0 126.9536852160698,37.56957397344854,0 126.9541199556021,37.5692107040249,0 126.9547422726402,37.56886413984859,0 126.9551649376609,37.56827065308202,0 126.9562496698631,37.56816541078606,0 126.9570771642871,37.5683516549506,0 126.9579951830926,37.56884454117239,0 126.9575469159252,37.56888315027502,0 126.9572324659079,37.56917451249289,0 126.9566151637442,37.56919305048014,0 126.95687706086,37.56972810406204,0 126.9573980038832,37.57010753882017,0 126.9572659649186,37.57040249831927,0 126.956458830042,37.57036260181747,0 126.9558646009318,37.5697934034486,0 126.9554270428574,37.5701028583617,0 126.9549444992813,37.57016856726586,0 126.9548133922808,37.57045768407405,0 126.954223029304,37.57065262542304,0 126.9538216596724,37.57053339570346,0 126.9535045135028,37.57107184891956,0 126.953872152683,37.57125249272723,0 126.953870779268,37.57136756394041,0 126.9534183242774,37.57176143918544,0 126.9534154354417,37.5717692102368,0 126.9527136127593,37.57168783962298,0 126.9524826236633,37.57190265618781,0 126.9524813022285,37.57227746493152,0 126.9527720443733,37.57265358881944,0 126.9529809148198,37.57291576818777,0 126.9532960204225,37.57316273021517,0 126.9535414117259,37.5732719732484,0 126.953677169899,37.5731292963974,0 126.9544221044153,37.57335189042485,0 126.9547173732585,37.57333980284709,0 126.9549581292645,37.57306311577931,0 126.9553089299054,37.57304401713699,0 126.9553358295433,37.57317570101517,0 126.9557311683103,37.57314396952094,0 126.9557785810913,37.57343672627358,0 126.9561337865346,37.57310218440846,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9573994050909,37.57394601976418,0 126.9575703275812,37.5740378802328,0 126.9583816919791,37.57333861155804,0 126.9586506111616,37.57352401173666,0 126.9585480138113,37.57361242508472,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>서대문 독립공원</name>
+			<description>일제강점기에 의병투쟁, 3.1독립만세운동, 항일투쟁 등으로 투옥되어 옥고를 치르다 순국한 선열들을 기리기 위하여 조성되었다.</description>
+			<LookAt>
+				<longitude>126.9561221501353</longitude>
+				<latitude>37.57483104171655</latitude>
+				<altitude>0</altitude>
+				<heading>-9.792067257205181</heading>
+				<tilt>0</tilt>
+				<range>3212.191615957494</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.9561914355445,37.57314473279642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안산 조망대</name>
+			<description>지하철 3호선 서대문역 1번 출입구에서 경기대학교 방향으로 입구가 있으며, 안산 도시자연공원 길이다. 봉수대가 정상이고 조망대는 아랫니다. 서울시 베스트 조망장소 중 한 곳이기도 하다.</description>
+			<LookAt>
+				<longitude>126.9549307215313</longitude>
+				<latitude>37.57226310366382</latitude>
+				<altitude>0</altitude>
+				<heading>-9.79261594941589</heading>
+				<tilt>23.53878189797421</tilt>
+				<range>1187.556850137549</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9533038071846,37.56969785278601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>안산초화원포장 산책로 시작</name>
+			<LookAt>
+				<longitude>126.9581481869518</longitude>
+				<latitude>37.56981553768687</latitude>
+				<altitude>0</altitude>
+				<heading>-11.07608412748955</heading>
+				<tilt>0</tilt>
+				<range>471.0099584401179</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9579787404435,37.56883578379108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>독립문역 4번출입구</name>
+			<LookAt>
+				<longitude>126.9582594382804</longitude>
+				<latitude>37.57375601177289</latitude>
+				<altitude>0</altitude>
+				<heading>-14.92848131488646</heading>
+				<tilt>0</tilt>
+				<range>427.9709559619001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9586282505216,37.57361448176378,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>문화자원연계부</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9563051558458,37.57446816426532,0 126.9561078385764,37.57436186804183,0 126.9568654934554,37.57359306495572,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>서대문 형무소 역사관</name>
+		<LookAt>
+			<longitude>126.9568858056795</longitude>
+			<latitude>37.57469993548047</latitude>
+			<altitude>0</altitude>
+			<heading>-26.48207543197108</heading>
+			<tilt>0</tilt>
+			<range>457.7012895826666</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9563055035256,37.57447080183945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>문화자원연계부</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9573051574957,37.57389319283244,0 126.957432059509,37.57365228205479,0 126.9577551654876,37.57357695669757,0 126.9586659777236,37.57272106101286,0 126.9587752818392,37.57273779964174,0 126.9588803886956,37.572625752015,0 126.9589656867031,37.57264707316652,0 126.959771167196,37.57232358045766,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>독립문</name>
+		<LookAt>
+			<longitude>126.9595067694696</longitude>
+			<latitude>37.57306566901283</latitude>
+			<altitude>0</altitude>
+			<heading>-38.8395115326398</heading>
+			<tilt>0</tilt>
+			<range>341.5726944151227</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9597763648779,37.57231846390354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>영은문주초</name>
+		<LookAt>
+			<longitude>126.9595067694696</longitude>
+			<latitude>37.57306566901283</latitude>
+			<altitude>0</altitude>
+			<heading>-38.8395115326398</heading>
+			<tilt>0</tilt>
+			<range>341.5726944151227</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9598255807314,37.57227129175884,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

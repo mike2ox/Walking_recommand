@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>남산야외식물원산책길.kmz</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>남산야외식물원진입로1</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0016488161747,37.54034725430853,0 127.0014967615049,37.53835689384875,0 127.0008183109009,37.53835068030473,0 127.0008541870166,37.53865877291524,0 127.0004493991499,37.53874162611068,0 127.0004554970615,37.53885742377021,0 127.0008807959228,37.53938209435818,0 127.0006916128296,37.53954651611316,0 127.0001889172649,37.53969373767138,0 126.9997890550575,37.53999700791379,0 126.9995539226698,37.54024189286635,0 126.9992873693079,37.5403988457338,0 126.9991798004011,37.54051878604076,0 126.999186976398,37.54066373933338,0 126.9991321603659,37.54074125383149,0 126.9991068978641,37.54086574277616,0 126.9990055460212,37.54093944010429,0 126.9987877100506,37.54095418603064,0 126.9985798563221,37.54094442500543,0 126.997866583106,37.54077092329404,0 126.9974818444227,37.54080715920369,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>남산야외식물원산책길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9930759041514,37.54374174144557,0 126.9923665496533,37.54365432349693,0 126.9920104569083,37.54349507049525,0 126.9920271809456,37.5432631297174,0 126.9921873393487,37.54313606621371,0 126.9925608459955,37.54309394628636,0 126.9923686970372,37.54294286606044,0 126.9931577494985,37.54298465654624,0 126.9932996665269,37.54292348751704,0 126.9944321743557,37.54295331412168,0 126.9952231896572,37.54229489677221,0 126.9954100196024,37.54229426485263,0 126.9955537252636,37.54229738033344,0 126.9960735827413,37.54204078037618,0 126.9965308126088,37.54175766691692,0 126.9967967482882,37.54155602383434,0 126.9969214774938,37.54135851705394,0 126.9970548701335,37.5412889546105,0 126.9971958963518,37.5412123177696,0 126.9974264790859,37.54127380422843,0 126.9971250165744,37.54092720076941,0 126.9974645037949,37.54079798203334,0 126.9977835424077,37.54112732587508,0 126.9981527008814,37.54119747208678,0 126.9982681872165,37.54136490872625,0 126.9984901158468,37.54139211526638,0 126.9993306736173,37.54201260014538,0 126.9992367422243,37.54222503441785,0 126.9998293644778,37.54292479459193,0 126.9998210973297,37.54336671251599,0 126.9996615294675,37.54342336441179,0 126.999533131976,37.54317556551867,0 126.9993634479869,37.54313781785164,0 126.9993396891552,37.54291685536015,0 126.9989008759248,37.54250925011931,0 126.9988038057441,37.54231713777984,0 126.9985048011975,37.54207042272827,0 126.9978791204795,37.54199945436208,0 126.9977080078769,37.54181443541553,0 126.9970815436141,37.54211951709041,0 126.9960823979786,37.54275491934209,0 126.9960410685953,37.54293682715385,0 126.9953892240674,37.54335626336991,0 126.9945454556054,37.54339445625259,0 126.9944509421935,37.54352634521026,0 126.9939093778911,37.54370975189261,0 126.9936040522539,37.54367064729126,0 126.9930878155373,37.54374824500489,0 126.9930752537634,37.54404348533027,0 126.9941960990012,37.54409761129269,0 126.9943934699919,37.54421624963226,0 126.9952413596305,37.54426821015764,0 126.9955271697655,37.54422153580443,0 126.9963627015713,37.54443670570092,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>지하철정류장(한강진역1번출입구)</name>
+			<LookAt>
+				<longitude>126.9976185753217</longitude>
+				<latitude>37.53970319686507</latitude>
+				<altitude>0</altitude>
+				<heading>-5.545678861392426</heading>
+				<tilt>0</tilt>
+				<range>1289.119972980403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0016449361981,37.54030685447255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>라틴아메리카공원</name>
+			<description>남산공원으로 가는 코스 중 일부 이며, 남산공원으로 가는 출입구다. 하얏트 호텔 앞에 자리하고 있으며 소공원이다.
+</description>
+			<LookAt>
+				<longitude>126.9976185753217</longitude>
+				<latitude>37.53970319686507</latitude>
+				<altitude>0</altitude>
+				<heading>-5.545678861392426</heading>
+				<tilt>0</tilt>
+				<range>1289.119972980403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>126.9981397120726,37.54117522280058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>야생화공원</name>
+			<description>지하철 6호선 한강진역 2번 출입구에서 나와 좌측으로 나가면 있다. 일월비비추, 개미취, 금낭화 등 다양한 야생화와 그에 따른 팻말들이 잘 되어있다.
+</description>
+			<LookAt>
+				<longitude>126.9976185753217</longitude>
+				<latitude>37.53970319686507</latitude>
+				<altitude>0</altitude>
+				<heading>-5.545678861392426</heading>
+				<tilt>0</tilt>
+				<range>1289.119972980403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9994808971875,37.54247484108697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>팔도소나무단지</name>
+			<description>남산공원 산책 코스 중 일부임. 좌측 강원도를 시작으로 우측 대구광역시까지 총 16개의 시도의 소나무를 심어 소나무단지라는 의미를 두었다.
+</description>
+			<LookAt>
+				<longitude>126.9976185754694</longitude>
+				<latitude>37.53970319699058</latitude>
+				<altitude>0</altitude>
+				<heading>-5.545678861302495</heading>
+				<tilt>0</tilt>
+				<range>1289.119972952587</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9942778013175,37.54354393559444,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

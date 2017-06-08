@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>석촌호수산책길.kmz</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>석촌호수 산책길</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.102458088821,37.50975123651966,0 127.1022234504744,37.51003558830166,0 127.102046728954,37.51018864226305,0 127.1018248699594,37.51021501947881,0 127.1014097652378,37.51020380987034,0 127.1010017608042,37.51008925002377,0 127.1001533545378,37.50983431789899,0 127.0997508195065,37.50970279952318,0 127.0989838292315,37.50937781235875,0 127.0982133459856,37.50890844130524,0 127.0979810951954,37.50855127161636,0 127.0978815084114,37.50795999766356,0 127.0978736628776,37.50739258234201,0 127.098076972341,37.50711433912774,0 127.0984347117033,37.50702458026964,0 127.0991308143919,37.5069865113669,0 127.1002097498254,37.50725603508801,0 127.1018928063756,37.50799041867036,0 127.1026595983106,37.50850529250495,0 127.1028806657487,37.50882027427903,0 127.10288955085,37.50911136110251,0 127.1026850984093,37.50945151683294,0 127.102662674576,37.50951868890873,0 127.1034238969773,37.50999173300433,0 127.1037434247025,37.50964505640236,0 127.1039854587843,37.50954919855424,0 127.1042535155898,37.50956612019667,0 127.1047591204558,37.5098800840711,0 127.1055376009222,37.51032357453076,0 127.1063963955294,37.51104648306115,0 127.10713844387,37.51168564524421,0 127.1074016991739,37.51233571686525,0 127.1073505693614,37.51280618378493,0 127.107149063737,37.51295788093893,0 127.1068615630592,37.51304091494487,0 127.1064890144132,37.51292635589358,0 127.1058802042302,37.51263138352038,0 127.105308104943,37.51225897654867,0 127.1048677784891,37.51196840316863,0 127.1043487121431,37.51176645874123,0 127.1037065660975,37.51155786811955,0 127.1032659818569,37.51142738971416,0 127.10298818997,37.51128254381121,0 127.1028449967393,37.51106925902892,0 127.1028464988635,37.51067351659681,0 127.1030100833087,37.5103237822455,0 127.1031737269089,37.51022501269057,0 127.102458088821,37.50975123651966,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>석촌호수길</name>
+			<description>송파구에 있는 호수로 한강매립사업을 통해 형성되었다. 중앙에 송파대로가 지나가게 되면서 동호와 서호로 구분됐다. 석촌호수 길은 동호와 서호를 합쳐 2.5km이다.</description>
+			<LookAt>
+				<longitude>127.1040974723741</longitude>
+				<latitude>37.5117629935485</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2196414999574188</heading>
+				<tilt>22.12059117887789</tilt>
+				<range>369.8552848008865</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.104326569204,37.51176369932637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>석촌후수 산책길 진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.102859767582,37.51108622482185,0 127.1026602403453,37.51109752643078,0 127.1024202204292,37.51109959383972,0 127.102235015289,37.51106448899643,0 127.1017914272404,37.51148561154001,0 127.1010534985279,37.51266038790598,0 127.1011717267928,37.51304112691755,0 127.1014467847801,37.51340744669874,0 127.1015512697576,37.51350393630514,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>잠실역 2번 출입구</name>
+			<LookAt>
+				<longitude>127.101159952456</longitude>
+				<latitude>37.51298464247926</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2216516128012627</heading>
+				<tilt>11.65527381348319</tilt>
+				<range>442.3696226119776</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.1015214883697,37.51348349728585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>석촌호수산책길2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.1012792884555,37.51014693407309,0 127.1012431741501,37.51034960149926,0 127.1014940243351,37.51053884816481,0 127.1012904225715,37.5107421105994,0 127.1015476496148,37.51088996081533,0 127.1013659233689,37.51107261583379,0 127.1013993758855,37.51124635749589,0 127.1005865326535,37.51210028510311,0 127.100055348898,37.51263620530052,0 127.0999060476913,37.51268760945602,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>잠실역 3번 출입구</name>
+			<LookAt>
+				<longitude>127.0997499117433</longitude>
+				<latitude>37.5129019594567</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2222885067789169</heading>
+				<tilt>22.11932422316789</tilt>
+				<range>241.840223417816</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.0998904236421,37.51268838001855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원연계부</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0994662337779,37.5095935140568,0 127.0990731585848,37.5103774104339,0 127.0978607111921,37.51022809534866,0 127.0977811762479,37.51087097410749,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>문화자원연계부</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.099495194878,37.50956078875912,0 127.0998153756831,37.50904324868668,0 127.1006967487449,37.50915998874366,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>롯데월드</name>
+			<LookAt>
+				<longitude>127.096228951388</longitude>
+				<latitude>37.51067179664771</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003902070434592915</heading>
+				<tilt>0</tilt>
+				<range>1066.543927562946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>127.0977809700508,37.51096524818561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서울 삼전도비</name>
+			<LookAt>
+				<longitude>127.096228951388</longitude>
+				<latitude>37.51067179664771</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003902070434592915</heading>
+				<tilt>0</tilt>
+				<range>1066.543927562946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>127.1007646774338,37.50918132429608,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

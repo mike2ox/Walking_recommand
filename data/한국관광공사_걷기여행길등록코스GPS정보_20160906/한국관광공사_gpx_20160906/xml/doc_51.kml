@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>성북동고택북촌 산책길.kmz</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>성북동고택북촌 산책길</name>
+			<description>600년 도성의 성곽을 사이에 두고 오랜 세월을 견디어낸 성북동 고택과 북촌한옥마을의 고색창연한 길이다. 이 조선 역사의 길에는 법정 스님의 맑은 향이 영원히 가시지 않을 것 같은 길상사를 비롯해 만해 한용운 선생이 말년을 보낸 심우장, 시민기금으로 매입하여 보존하고 있는 최순우 옛집 등이 지나는 나그네들을 따스한 손길로 맞아들인다. 지금의 서울을 그윽하게 조망하게 하여 온고지신의 의미를 되새기는 시간을 만든다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9950702845675,37.59454176980247,0 126.9956771744091,37.59413833355629,0 126.9960041499229,37.59354165590217,0 126.996983402942,37.5930014006702,0 126.9976195116693,37.59301605318952,0 126.9993516251929,37.59330221651277,0 126.9991430768305,37.59447190596841,0 126.9987371024661,37.59469906675974,0 126.9984464887822,37.59471681123291,0 126.9980346770158,37.59508969849446,0 126.9977804998568,37.59515938855863,0 126.9975971005,37.595649322243,0 126.9969348235123,37.59607466195497,0 126.9966009460599,37.59664345466604,0 126.995458497744,37.59742463116491,0 126.9950177582616,37.59739614537579,0 126.9946049880941,37.59786485682277,0 126.9947076816158,37.59808635927368,0 126.9947064507973,37.59835984383506,0 126.9947274750093,37.59873673241803,0 126.9945721125923,37.5990179190669,0 126.9940838314253,37.59955437859583,0 126.9940087384089,37.59972071409847,0 126.994056114707,37.60004467654151,0 126.9938293711099,37.59965573815479,0 126.9939497132066,37.59861056393978,0 126.9937923981501,37.59854127084424,0 126.9938686975263,37.59847903610122,0 126.9937245310996,37.59838226827173,0 126.9934318798098,37.59849447424583,0 126.993070222537,37.59855720975235,0 126.9928719619696,37.59885809667446,0 126.9924834265077,37.59927102638934,0 126.9923152888922,37.59920847537128,0 126.9920395637819,37.59857768768401,0 126.9920794688566,37.59806903909141,0 126.9919281258757,37.59782058415615,0 126.9915102346493,37.59765260564134,0 126.9909883045426,37.59752385290233,0 126.990701805015,37.5970944376201,0 126.9906256288715,37.59669064652005,0 126.9902706104723,37.59644925823865,0 126.9898058259178,37.596498816258,0 126.9894484874561,37.59652323449164,0 126.9891249283589,37.59643448124864,0 126.9887613632106,37.59612273606322,0 126.9883885538566,37.59594321073753,0 126.9878929136838,37.59596387978889,0 126.9876697272885,37.595724616765,0 126.987848464785,37.59555211537727,0 126.987849454136,37.59536119511174,0 126.9885098311618,37.5955008927107,0 126.9900671582005,37.59507792060867,0 126.990359452137,37.59471912923464,0 126.9912129878638,37.59463881736886,0 126.9914195074379,37.59472642558401,0 126.992467347797,37.59438061876742,0 126.9927911504495,37.59440126612429,0 126.9931904542201,37.59460270498619,0 126.9938016348729,37.59472887333586,0 126.9945286130686,37.59466322167969,0 126.9950702845675,37.59454176980247,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>성북동고택북촌 산책길</name>
+			<description>600년 도성의 성곽을 사이에 두고 오랜 세월을 견디어낸 성북동 고택과 북촌한옥마을의 고색창연한 길이다. 이 조선 역사의 길에는 법정 스님의 맑은 향이 영원히 가시지 않을 것 같은 길상사를 비롯해 만해 한용운 선생이 말년을 보낸 심우장, 시민기금으로 매입하여 보존하고 있는 최순우 옛집 등이 지나는 나그네들을 따스한 손길로 맞아들인다. 지금의 서울을 그윽하게 조망하게 하여 온고지신의 의미를 되새기는 시간을 만든다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9878771314232,37.59538254216965,0 126.9851734875109,37.59585787569595,0 126.9847657316123,37.59617207420048,0 126.9844937902955,37.59603864892438,0 126.9841683451166,37.59604076263583,0 126.9841326387788,37.59622899362319,0 126.9840361313273,37.59607232932753,0 126.9839020119154,37.59608219947195,0 126.984052392116,37.59637671856447,0 126.9837357273634,37.59647495973346,0 126.9836575878026,37.59636076876888,0 126.9828848077979,37.59646199539144,0 126.982502474658,37.59634231243821,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>성북동고택북촌 산책길</name>
+			<description>600년 도성의 성곽을 사이에 두고 오랜 세월을 견디어낸 성북동 고택과 북촌한옥마을의 고색창연한 길이다. 이 조선 역사의 길에는 법정 스님의 맑은 향이 영원히 가시지 않을 것 같은 길상사를 비롯해 만해 한용운 선생이 말년을 보낸 심우장, 시민기금으로 매입하여 보존하고 있는 최순우 옛집 등이 지나는 나그네들을 따스한 손길로 맞아들인다. 지금의 서울을 그윽하게 조망하게 하여 온고지신의 의미를 되새기는 시간을 만든다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9915730592679,37.59355432592314,0 126.9917574626121,37.59358343644221,0 126.9917289275097,37.59366039825206,0 126.9918575099046,37.59370633533309,0 126.9918777290622,37.59383116172907,0 126.9920545533525,37.59391361033621,0 126.9920473618466,37.59405888533436,0 126.9923406400787,37.59417407303284,0 126.9924736891131,37.59437722363654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>성북동고택북촌 산책길</name>
+			<description>600년 도성의 성곽을 사이에 두고 오랜 세월을 견디어낸 성북동 고택과 북촌한옥마을의 고색창연한 길이다. 이 조선 역사의 길에는 법정 스님의 맑은 향이 영원히 가시지 않을 것 같은 길상사를 비롯해 만해 한용운 선생이 말년을 보낸 심우장, 시민기금으로 매입하여 보존하고 있는 최순우 옛집 등이 지나는 나그네들을 따스한 손길로 맞아들인다. 지금의 서울을 그윽하게 조망하게 하여 온고지신의 의미를 되새기는 시간을 만든다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9946009925797,37.59464482232601,0 126.9946216666956,37.59485391400224,0 126.9942737489696,37.59515508971868,0 126.9944523273341,37.59530425404628,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0056560213485,37.58839516425091,0 127.0057308067842,37.58862628094298,0 127.0043356628411,37.58994925430893,0 127.003040109884,37.59169616085472,0 127.0021147818837,37.59264143252414,0 127.0013756220487,37.59311981457951,0 127.0009481382788,37.59330859817342,0 127.0006281609927,37.59332104578445,0 127.0006373568609,37.59358731438366,0 127.0001420186655,37.59397483016149,0 126.9996960511154,37.59422147986748,0 126.9991498384575,37.5944490039141,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>길상사</name>
+			<description>대한불교조계종 소속의 사찰. 삼각산 남쪽 자락에 있음. 시민운동 ‘맑고 향기롭게’의 근본도량으로 해마다 5월 봉축법회와 자선음악회를 개최한다.</description>
+			<LookAt>
+				<longitude>126.9958822504868</longitude>
+				<latitude>37.60178904882415</latitude>
+				<altitude>0</altitude>
+				<heading>6.26147754339022</heading>
+				<tilt>0</tilt>
+				<range>2607.924536819108</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.9939632320184,37.59979273667825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>심우장</name>
+			<description>서울기념물 제7호로 지정되어있으며, 일제강점기 때 만해 한용운이 지은 집으로 남향을 선호하는 한옥에서는 흔히 볼 수 없는 북향집으로 지었다. 독립 운동가였던 그가 남향으로 터를 잡으면 조선총독부와 마주보게 되므로 이를 거부하고 북향으로 터를 선택한 것이다.</description>
+			<LookAt>
+				<longitude>126.9926407578826</longitude>
+				<latitude>37.59431215322484</latitude>
+				<altitude>0</altitude>
+				<heading>16.69314360130272</heading>
+				<tilt>0</tilt>
+				<range>655.0705278245089</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9915959112861,37.59355866181326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>수연산방</name>
+			<description>1933년에 지어진 개량한옥이며, 소설가 이태준이 머물면서 작품을 집필하던 곳. 서울시민속자료 제11호로 지정되어 있으며, 외국인들이 많이 오는 전통찻집으로 운영되고 있다.</description>
+			<LookAt>
+				<longitude>126.9950289598872</longitude>
+				<latitude>37.59580768661972</latitude>
+				<altitude>0</altitude>
+				<heading>18.46037487764676</heading>
+				<tilt>0</tilt>
+				<range>543.634971782316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9944398324602,37.59529744667132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>한성대입구역 5번 출입구</name>
+			<LookAt>
+				<longitude>127.0047186668219</longitude>
+				<latitude>37.58979093435309</latitude>
+				<altitude>0</altitude>
+				<heading>15.8973212541283</heading>
+				<tilt>0</tilt>
+				<range>626.3633406025749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>127.0057611961265,37.588354995194,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9842079577498,37.59605361256138,0 126.984125452599,37.59635670102016,0 126.9848412065392,37.59665263664444,0 126.9847382315935,37.59700293103985,0 126.983166212825,37.59738976270069,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>삼청각</name>
+		<LookAt>
+			<longitude>126.9849033028777</longitude>
+			<latitude>37.59779784117851</latitude>
+			<altitude>0</altitude>
+			<heading>8.020014479557615</heading>
+			<tilt>0</tilt>
+			<range>617.426374680834</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.983160240669,37.5973921387091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9923294029412,37.59922205544537,0 126.9923055372635,37.59966713293979,0 126.9920013958249,37.59995150390181,0 126.991836701251,37.6005023553187,0 126.9914612619786,37.60104909928088,0 126.9910119092568,37.60133273967602,0 126.9906657540879,37.60174396518395,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>정법사</name>
+		<LookAt>
+			<longitude>126.9915536390509</longitude>
+			<latitude>37.60116600397162</latitude>
+			<altitude>0</altitude>
+			<heading>-3.211462903793525</heading>
+			<tilt>0</tilt>
+			<range>657.0437350333023</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.9906690653006,37.60176035147461,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2013-11-26T08:57:01Z</time>
+    <bounds maxlat="33.3325880" maxlon="126.2562690" minlat="33.3234374" minlon="126.1667774"/>
+  </metadata>
+
+  <wpt lat="33.3234374" lon="126.1667774">
+    <time>2013-09-17T05:38:03Z</time>
+    <name>시작점, 스탬프박스, 용수포구, 공중화장실</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="33.3325880" lon="126.2562690">
+    <ele>124.0273210</ele>
+    <time>2013-08-25T09:43:50Z</time>
+    <name>종점, 스탬프박스, 저지리마을회관 14.7km</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="33.3277620" lon="126.2259410">
+    <ele>67.7962950</ele>
+    <time>2013-08-25T08:13:32Z</time>
+    <name>중간스탬프, 낙천리의자공원 8.2km</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

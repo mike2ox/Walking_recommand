@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>배봉산답십리나들길.kmz</name>
+	<StyleMap id="msn_bus0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_bus">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_bus0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_bus1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff77</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>배봉산답십리나들길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0685234435832,37.58901675322217,0 127.0682791465977,37.5888129758628,0 127.068088330805,37.58889583354231,0 127.0680536393408,37.58962862627105,0 127.0677867800871,37.58969384054299,0 127.0674797280679,37.58964102498768,0 127.0672268473152,37.58933877693563,0 127.0670401053573,37.58941867803582,0 127.0670603409035,37.58967771612078,0 127.0668271344538,37.58988838157691,0 127.0664370318451,37.58996491953182,0 127.0661286821847,37.58990547704497,0 127.0661898804632,37.58961348073945,0 127.0664707067766,37.58945620667978,0 127.0666360913878,37.58950707640923,0 127.0668990187218,37.58946690397596,0 127.067068037242,37.58924545198981,0 127.0670492812889,37.58903779441862,0 127.0672112827346,37.58902645790056,0 127.0673280520877,37.58889502167677,0 127.0669491818767,37.58843331660168,0 127.0667118622527,37.58838880475985,0 127.0661653979074,37.5875664720614,0 127.0661397090796,37.58689203164865,0 127.0659140750209,37.58645469702233,0 127.0657710441729,37.58638850891406,0 127.0657038992835,37.58626264106477,0 127.0654067720828,37.58623488757515,0 127.0652538982384,37.58583722309044,0 127.0647451755532,37.58527847324294,0 127.0645450225641,37.58459884120155,0 127.0643593202307,37.58450066161227,0 127.0646768200961,37.58333217533412,0 127.0641625444229,37.58265226301396,0 127.0639789792709,37.58147171558703,0 127.0638650126009,37.58135068830623,0 127.0634156745257,37.58134472664808,0 127.0633595508427,37.58091466321803,0 127.0635565382855,37.58079460058401,0 127.0636739080538,37.58058749722525,0 127.0637812370185,37.58052791624065,0 127.0639323307538,37.58007415689967,0 127.063478824652,37.57977087680331,0 127.0630422510834,37.57936735141616,0 127.0628792987514,37.57880135520267,0 127.0631593910353,37.57843000492456,0 127.0634713827756,37.57847440565786,0 127.0636555368057,37.5781723969619,0 127.0637529397131,37.57758042195192,0 127.0631287326454,37.57687065689202,0 127.0629647692409,37.5762119844964,0 127.0620231072211,37.57597574431949,0 127.061748302054,37.57582657807113,0 127.0616564489675,37.57538557703307,0 127.0615838267889,37.57484007904663,0 127.0622105485867,37.57507708109329,0 127.0627099611319,37.57487552336091,0 127.0631101981105,37.57562302660416,0 127.0631599605333,37.57484801928651,0 127.0630264656446,37.57462539520449,0 127.0627487359187,37.57455127264846,0 127.0626317734841,37.57433484540436,0 127.0624351204825,37.5742500175134,0 127.0623885945147,37.57403637683174,0 127.0624712679172,37.57392190222807,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리나들길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0638437157713,37.58712457653134,0 127.0640118057707,37.58716764674539,0 127.0642036051709,37.58710080000865,0 127.0649284409547,37.58742136578074,0 127.0651886122336,37.58731696538935,0 127.0649863873012,37.58679801682301,0 127.0651988924709,37.5866637153126,0 127.0654100553078,37.58623565049361,0 127.0652493817811,37.58583292292548,0 127.0651000951566,37.58567488897738,0 127.0650120452316,37.58557195590879,0 127.0647633591511,37.58529242818388,0 127.0652816237168,37.58526404080337,0 127.0651951952611,37.58444324396343,0 127.0655343870428,37.58372705782782,0 127.0653035854224,37.58363729330493,0 127.0653405053617,37.58320685311224,0 127.0655455540758,37.5831327088457,0 127.065413290275,37.58299054785581,0 127.0655755131791,37.58278575517163,0 127.0653873538911,37.58272178948397,0 127.0652441382409,37.58255938352087,0 127.0653449026352,37.58235978940056,0 127.0651060890725,37.58223340952028,0 127.0650267150845,37.5819591668078,0 127.0650646309236,37.58169501059597,0 127.0648978273205,37.581316990456,0 127.0648323685735,37.58077617246568,0 127.0645819633479,37.58054337174173,0 127.0647601963634,37.5802456140425,0 127.0645807981996,37.57991528951299,0 127.0637792530353,37.57922528665044,0 127.0639324942066,37.58008604460164,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리진입로1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0535266947885,37.58373572868099,0 127.054191891806,37.58378423003877,0 127.0552500582662,37.58350327768664,0 127.0561079466051,37.58379020380698,0 127.0573785579171,37.58447380799531,0 127.0576440109759,37.58431834084309,0 127.0612942483599,37.58423890797784,0 127.0613694905732,37.5840860078888,0 127.0614797665902,37.58404887829546,0 127.0616024539643,37.58399202320937,0 127.0616854822502,37.5839207636078,0 127.0617566353759,37.58381381315616,0 127.0617681798672,37.58366365640803,0 127.0616826770617,37.58355696855161,0 127.0615569435959,37.58355563492572,0 127.0615915028546,37.58333473123681,0 127.0623731632352,37.58329335150939,0 127.0625202392968,37.58365871267351,0 127.0627391039844,37.5839856505869,0 127.0631426243104,37.58396677263849,0 127.0634836385196,37.58412774058836,0 127.0639939652191,37.58405767894562,0 127.0643738623292,37.58442311329535,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리진입로2</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0603584186511,37.58194328713751,0 127.0609094500651,37.58203702731446,0 127.0614828255697,37.58233228721118,0 127.0621735933778,37.58248182412551,0 127.0628317764269,37.58250161674872,0 127.0629604393342,37.58255760710451,0 127.0632069949255,37.58296521521192,0 127.0638604064946,37.58268698936918,0 127.0640363384236,37.58284518843459,0 127.0643476282147,37.58291433925746,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리진입로3</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0611854747285,37.57295426212009,0 127.0612879102922,37.57305300239599,0 127.0612839740308,37.57318294158321,0 127.0613743891647,37.57329899884071,0 127.061533817629,37.57333287695968,0 127.0618375983218,37.5733461743996,0 127.0619984416855,37.57360371564761,0 127.062479931605,37.5739319877099,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리진입로4</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0674598696404,37.57871398087146,0 127.0672476675704,37.57871662663605,0 127.065623186903,37.57861233682858,0 127.0656701137733,37.57868008691766,0 127.0656719926916,37.57878010177268,0 127.0656317658152,37.57885115604574,0 127.0655791508397,37.57890492440654,0 127.0655196030417,37.57894584663418,0 127.0654143460193,37.57898718467283,0 127.0652670263299,37.57899969484714,0 127.0651686745665,37.57903210651473,0 127.0651108331744,37.57910509848534,0 127.0649812399011,37.57913883757685,0 127.0648632038128,37.57912666388162,0 127.0647475128745,37.57919719157724,0 127.0646671118194,37.57925242674723,0 127.0645824222303,37.57925783708762,0 127.0645660984634,37.57931717904265,0 127.0644106524971,37.57932454761284,0 127.0643943701012,37.57939109967526,0 127.0642878598865,37.57944314984565,0 127.0642137700679,37.5794184190534,0 127.0641309189775,37.57950677874027,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배봉산답십리진입로5</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0624422613327,37.59001319015952,0 127.0631387095488,37.58834385113713,0 127.0638501118956,37.587117824327,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		
+		<Placemark>
+			<name>버스정류장(서울시립대입구)</name>
+			<LookAt>
+				<longitude>127.0541853023953</longitude>
+				<latitude>37.58380510300918</latitude>
+				<altitude>0</altitude>
+				<heading>-15.43508014466717</heading>
+				<tilt>21.37621313685913</tilt>
+				<range>335.666025059612</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus0</styleUrl>
+			<Point>
+				<coordinates>127.0535373984539,37.58368095099805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>전농중학교 후문</name>
+			<LookAt>
+				<longitude>127.0605083393033</longitude>
+				<latitude>37.58122506783479</latitude>
+				<altitude>0</altitude>
+				<heading>-15.43398233693918</heading>
+				<tilt>15.94619313399335</tilt>
+				<range>252.2382240605726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>127.0603445071458,37.58192510313236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(답십리 2동 한양아파트 앞)</name>
+			<LookAt>
+				<longitude>127.0614081100752</longitude>
+				<latitude>37.57310430765867</latitude>
+				<altitude>0</altitude>
+				<heading>-15.4287414165128</heading>
+				<tilt>30.82269384222541</tilt>
+				<range>318.8191465968441</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus1</styleUrl>
+			<Point>
+				<coordinates>127.0611851498257,37.57265682524375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(배봉초등학교 앞)</name>
+			<LookAt>
+				<longitude>127.0673115950944</longitude>
+				<latitude>37.57872850174934</latitude>
+				<altitude>0</altitude>
+				<heading>14.47375244781253</heading>
+				<tilt>17.06532264282362</tilt>
+				<range>98.63458324737634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus</styleUrl>
+			<Point>
+				<coordinates>127.0674619239046,37.57869797336475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>삼육의료원 입구</name>
+			<LookAt>
+				<longitude>127.0622522504066</longitude>
+				<latitude>37.58961489211599</latitude>
+				<altitude>0</altitude>
+				<heading>-15.43587395076848</heading>
+				<tilt>13.01763660569703</tilt>
+				<range>166.9601320633636</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>127.0624367764229,37.5900254996313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>진달래숲</name>
+			<LookAt>
+				<longitude>127.0632187608622</longitude>
+				<latitude>37.58218116753383</latitude>
+				<altitude>0</altitude>
+				<heading>-14.07713974342476</heading>
+				<tilt>1.482717890216357</tilt>
+				<range>1501.170711997181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1</styleUrl>
+			<Point>
+				<coordinates>127.064517989512,37.58458259695647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>배봉산 출입구</name>
+			<description>동대문구 전농동에 있는 표고 110m의 산이다. 서울시립대학교가 위치해 있으며, 조선시대 영우원과 휘경원 등 왕실 묘원이 마련되어 있었으며, 목마장의 울타리가 세워져 있었던 곳이다.</description>
+			<LookAt>
+				<longitude>127.0632187608622</longitude>
+				<latitude>37.58218116753383</latitude>
+				<altitude>0</altitude>
+				<heading>-14.07713974342476</heading>
+				<tilt>1.482717890216357</tilt>
+				<range>1501.170711997181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.0633232116544,37.57845357864701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>답십리 근린공원</name>
+			<description>골프연습장과 종합체육시설을 비롯하여 배드민턴장 등 각종 체력단련시설이 설치되어 있다.</description>
+			<LookAt>
+				<longitude>127.0630597848922</longitude>
+				<latitude>37.57572142317426</latitude>
+				<altitude>0</altitude>
+				<heading>-13.99488001309927</heading>
+				<tilt>9.525260141978118</tilt>
+				<range>1051.094343164661</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.0641942751002,37.57452226205836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>배봉산 약수터</name>
+			<LookAt>
+				<longitude>127.065163820495</longitude>
+				<latitude>37.5825424671583</latitude>
+				<altitude>0</altitude>
+				<heading>-13.99435155790281</heading>
+				<tilt>9.117598494748457</tilt>
+				<range>924.006708498149</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.0655012072805,37.58287099492308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>배봉산 근린공원 진입</name>
+			<description>2005년 들어 배봉산 북쪽 능선에 있던 콘크리트 담장을 걷어 내며 이것 분위기를 완전 바꾸어 놓았다.</description>
+			<LookAt>
+				<longitude>127.0654732727574</longitude>
+				<latitude>37.58473438786298</latitude>
+				<altitude>0</altitude>
+				<heading>-13.99807651058006</heading>
+				<tilt>7.212242920332663</tilt>
+				<range>715.1791314043736</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>127.0640958570304,37.58712816277883,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

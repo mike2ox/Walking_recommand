@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>우장산공원 산책길.kmz</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>제목 없는 경로</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.844121061656,37.55296265887896,0 126.8445017813687,37.55314637522602,0 126.8448598815804,37.55328006374899,0 126.8451950531927,37.55322312849619,0 126.8452901321795,37.55310891798434,0 126.8454635107702,37.55302821268592,0 126.846059265924,37.55327934087752,0 126.8464689053911,37.55345884469928,0 126.8467089348817,37.55379700841571,0 126.8469134391772,37.55466504378651,0 126.846766959924,37.55523025940062,0 126.8465969731029,37.55579825516775,0 126.8457445025374,37.55622419352018,0 126.8454048521301,37.55641342846035,0 126.8450262146187,37.55633347836454,0 126.8446711782893,37.55600287231891,0 126.8441582154641,37.5558889408931,0 126.8440138781026,37.55547473155681,0 126.8440186777079,37.55472802382104,0 126.8436938713411,37.55430945063547,0 126.8441476895775,37.55341696626968,0 126.8442282007476,37.55325762286116,0 126.8442950106305,37.55315379840266,0 126.8438120692804,37.55292342659031,0 126.8434684506721,37.5527012810115,0 126.8431321463709,37.55275287289521,0 126.8423080632167,37.55232008358765,0 126.8421992771829,37.55299809021722,0 126.8419498934219,37.55305580574965,0 126.8416831777546,37.55303978692799,0 126.8413637184384,37.55290224330745,0 126.8410747627821,37.5526316514346,0 126.8404556058566,37.55213001782536,0 126.8400550092036,37.55139842343417,0 126.8401770484714,37.55116128068377,0 126.8401443044184,37.55042317829739,0 126.8402749375557,37.54992011123134,0 126.8406183723645,37.54947018859257,0 126.8414034224619,37.54915576617152,0 126.8426712051158,37.54916291829762,0 126.8437511804535,37.54922141597393,0 126.8439769151778,37.54937060084056,0 126.844319066897,37.5496159356354,0 126.8444963842976,37.54992542514348,0 126.8446217428049,37.54997877504589,0 126.8446105241114,37.55154692927772,0 126.8443997792913,37.55177239071629,0 126.8442417532435,37.55216387464652,0 126.8442697096357,37.5525593003192,0 126.8443654085572,37.55270088835676,0 126.844121061656,37.55296265887896,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>우장산공원 출입구</name>
+			<description>우장산역 2번 출입구에서 시작한 숲길 코스를 마치고 나오는 곳으로 우장산역 1번 출입구로 나오게 된다.</description>
+			<LookAt>
+				<longitude>126.8407037164166</longitude>
+				<latitude>37.55302709086632</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3921213224707026</heading>
+				<tilt>9.763910666390219</tilt>
+				<range>302.0222726337855</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>126.8409046094504,37.55248720986345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>한국폴리텍대학 앞</name>
+			<LookAt>
+				<longitude>126.8421245773135</longitude>
+				<latitude>37.54962459050769</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3912538684839764</heading>
+				<tilt>9.76551822458455</tilt>
+				<range>204.266411706067</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.842328882883,37.54915649230009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>우장산생태육교</name>
+			<description>폭 26m 길이 18m 의 규모 각종 상록 침엽수와 이팝나무, 조팝나무, 수수꽃다리 등 단풍을 감상할 수 있는 나무들을 식재해 주민들의 눈을 즐겁게 해주는 공간이다.</description>
+			<LookAt>
+				<longitude>126.8439961007355</longitude>
+				<latitude>37.55308650562946</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3900639869521929</heading>
+				<tilt>22.19312068776833</tilt>
+				<range>136.3544908976144</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.844229775965,37.55301339856341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원연계부</name>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8439276979331,37.55336669144708,0 126.8440081044951,37.55339426207351,0 126.8442133063999,37.55300758164224,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>강서구민회관</name>
+			<Camera>
+				<longitude>126.8442604565069</longitude>
+				<latitude>37.55353527869809</latitude>
+				<altitude>168.0349073445291</altitude>
+				<heading>-27.51455934189218</heading>
+				<tilt>1.979986914393392</tilt>
+				<roll>-46.53498379630629</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.8439229417804,37.55336387352286,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

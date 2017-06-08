@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>달마을공원산책길.kmz</name>
+	<open>1</open>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_8">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/8-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>달마을공원산책길</name>
+		<description>진입마당-생태연못-야생초화원-달맞이언덕-아카시아나무 숲길-전망데크-숲속길-보호초식물화원</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8692877425348,37.54329088678477,0 126.8690803632543,37.54339677055455,0 126.8690783490595,37.54350237693517,0 126.8690952612517,37.54356844150262,0 126.8693650269571,37.54366045244446,0 126.8693993261051,37.54375925932567,0 126.869366359191,37.54379418672711,0 126.8691328534593,37.54376906893143,0 126.8690061586894,37.54375599328082,0 126.8689403740092,37.5438565261427,0 126.8687930262231,37.54384877990913,0 126.8687754030355,37.54374330272643,0 126.8684804469412,37.54356398056651,0 126.8682340209774,37.54355678263997,0 126.8679954777307,37.54357422524024,0 126.8677176204565,37.54355389345015,0 126.8676759690781,37.54359319965612,0 126.8674200539216,37.54356753858754,0 126.8672440481518,37.5435810999436,0 126.8671046437349,37.54354169378406,0 126.8672444838064,37.54343981004002,0 126.8674139146335,37.54339127803164,0 126.8674383283983,37.54328282524789,0 126.8675798486409,37.54322115631988,0 126.8677027619403,37.54308431013395,0 126.8678044620275,37.54295611247276,0 126.867813541447,37.5428485365562,0 126.8679315325275,37.54280958565155,0 126.8680179511653,37.54265701797846,0 126.8680701769661,37.54260587364347,0 126.8681480363045,37.54260440620784,0 126.86837714808,37.54279244818541,0 126.8686158335843,37.54282110373826,0 126.8686840658917,37.54290111542566,0 126.8688667270559,37.54298149356843,0 126.8689171210191,37.54307881475948,0 126.8689744654676,37.54316088951056,0 126.8691210226025,37.54310539575133,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>진입마당</name>
+		<LookAt>
+			<longitude>126.8690423642084</longitude>
+			<latitude>37.54349358580243</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005552858757344746</heading>
+			<tilt>7.168179460745127</tilt>
+			<range>240.1496030733891</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>126.869288779358,37.54329445530362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>생태연못</name>
+		<description>총 길이 205m로 끊임없이 물이 흐르고 다양한 수생식물이 물길을 따라 가득 자라고 있다.</description>
+		<LookAt>
+			<longitude>126.8690423642084</longitude>
+			<latitude>37.54349358580243</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005552858757344746</heading>
+			<tilt>7.168179460745127</tilt>
+			<range>240.1496030733891</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_2</styleUrl>
+		<Point>
+			<coordinates>126.8690857072903,37.54339328140014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>야생초화원</name>
+		<description>숲속 벤치에 앉아 삼림욕을 즐기기에 제격이고, 인근 주민들이 주로 이용한다.</description>
+		<LookAt>
+			<longitude>126.8690423642084</longitude>
+			<latitude>37.54349358580243</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005552858757344746</heading>
+			<tilt>7.168179460745127</tilt>
+			<range>240.1496030733891</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_3</styleUrl>
+		<Point>
+			<coordinates>126.8690892366847,37.54355701127847,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>달맞이 언덕</name>
+		<LookAt>
+			<longitude>126.8689952698613</longitude>
+			<latitude>37.54377516553635</latitude>
+			<altitude>0</altitude>
+			<heading>0.0004512362587966023</heading>
+			<tilt>19.13458040087496</tilt>
+			<range>99.30267913536399</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>126.8690119949482,37.54376395532666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>아카시아나무 숲길</name>
+		<LookAt>
+			<longitude>126.8684917190993</longitude>
+			<latitude>37.54357924386027</latitude>
+			<altitude>0</altitude>
+			<heading>0.0001443898041669854</heading>
+			<tilt>19.13456566722071</tilt>
+			<range>94.29839864105036</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_5</styleUrl>
+		<Point>
+			<coordinates>126.8684917190992,37.54357924386027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>전망데크</name>
+		<description>서울시내 조망이 좋다.</description>
+		<LookAt>
+			<longitude>126.8676008174308</longitude>
+			<latitude>37.54355890271459</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0003984915095614945</heading>
+			<tilt>19.1345457737665</tilt>
+			<range>87.5415926220433</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_6</styleUrl>
+		<Point>
+			<coordinates>126.8676102588789,37.54358652859564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>숲속길</name>
+		<LookAt>
+			<longitude>126.8681465941208</longitude>
+			<latitude>37.54323201660865</latitude>
+			<altitude>0</altitude>
+			<heading>4.67007440349698e-006</heading>
+			<tilt>0</tilt>
+			<range>245.5057950506276</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>126.8677603848812,37.54302306326406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>보호초식물화원</name>
+		<LookAt>
+			<longitude>126.8681465941208</longitude>
+			<latitude>37.54323201660865</latitude>
+			<altitude>0</altitude>
+			<heading>4.67007440349698e-006</heading>
+			<tilt>0</tilt>
+			<range>245.5057950506276</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_8</styleUrl>
+		<Point>
+			<coordinates>126.8683208507182,37.54274048069588,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>달마을공원산책길진입로1</name>
+		<styleUrl>#m_ylw-pushpin2</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.869221510542,37.54378110547449,0 126.8692611768043,37.54387633246691,0 126.8691776687892,37.54405933997229,0 126.8693261706569,37.54405017219457,0 126.8695000639475,37.544349276859,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>목동중앙본로29길</name>
+		<LookAt>
+			<longitude>126.8692291131601</longitude>
+			<latitude>37.54403172435608</latitude>
+			<altitude>0</altitude>
+			<heading>0.0006512427566271283</heading>
+			<tilt>15.80684604191466</tilt>
+			<range>143.5942624781597</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.8694877244926,37.54434027983211,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>달마을공원 산책길진입로2</name>
+		<styleUrl>#m_ylw-pushpin2</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8671237257565,37.54352596320267,0 126.8670098425708,37.54350498977938,0 126.8668879493826,37.54349739432701,0 126.8668200001651,37.5435434394577,0 126.8667130141726,37.54353042677763,0 126.8666632005567,37.5435014470083,0 126.8665075239603,37.54350991363425,0 126.8662390939954,37.54326712755286,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>목동중앙본로7가길</name>
+		<LookAt>
+			<longitude>126.8659856879817</longitude>
+			<latitude>37.54339071417609</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001325186593147829</heading>
+			<tilt>15.80681451035145</tilt>
+			<range>130.7070226918568</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.8662440575376,37.5432640227931,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>달마을공원산책길진입로3</name>
+		<styleUrl>#m_ylw-pushpin2</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.8680736948631,37.54261172937093,0 126.8679273305465,37.54252224805174,0 126.8673728911929,37.54238860849569,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>목동중앙본로7가길</name>
+		<LookAt>
+			<longitude>126.8678610822201</longitude>
+			<latitude>37.54253232539155</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0001826180985020976</heading>
+			<tilt>15.80693407409901</tilt>
+			<range>179.5546302232513</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로</styleUrl>
+		<Point>
+			<coordinates>126.8673630698786,37.54237308562441,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

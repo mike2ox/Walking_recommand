@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>정릉숲 산책길.kmz</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_bus">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_bus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Placemark>
+			<name>정릉숲 산책길</name>
+			<visibility>0</visibility>
+			<description>한성대입구역에서 북악스카이웨이를 넘어가는 이 길은 태조 이성계의 계비인 신덕왕후 강씨를 모신 정릉으로 가는 길이다. 신덕왕후 강씨에 대한 미움이 대단했던 태종이 후에 옮겨 온 능이지만 능 주변으로는 걷기 좋은 산책로가 옹골차게 뿌려져 있다. 산책로 곳곳엔 시원한 약수터와 물이 졸졸 흐르는 작은 계곡도 있다. 성북 구민회관부터 북악스카이웨이 입구까지는 메타세콰이어나무가 시원한 그늘을 드리우고 있다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0049861473663,37.60015327055337,0 127.0054130281735,37.60016701439515,0 127.0057120886503,37.6003971328255,0 127.0059524115866,37.60034047238215,0 127.0062326840891,37.60041197259363,0 127.0068582282637,37.60042682041025,0 127.0071422298732,37.60066101341108,0 127.0073323510697,37.60116673792367,0 127.0075146498812,37.60126788305576,0 127.0073061985876,37.60148257496347,0 127.0071779636994,37.60214665370013,0 127.0067701735938,37.60277585342541,0 127.0063239792847,37.60294060218957,0 127.0058253497219,37.60296458929987,0 127.0052612403324,37.60286444867963,0 127.0049583310523,37.60302303706585,0 127.0046858133015,37.60312786951286,0 127.0044575906481,37.60345900510176,0 127.0040697703099,37.60372216196594,0 127.004072937141,37.60348514761471,0 127.0043809560909,37.60301864319951,0 127.0043744759574,37.60283762719664,0 127.0042986819717,37.60268701994632,0 127.0043610357773,37.60237241359697,0 127.0042138582475,37.60216910688594,0 127.003974886786,37.60199802265839,0 127.003997677554,37.60151368761736,0 127.0037448913133,37.60123518943159,0 127.0037810209832,37.60091092676542,0 127.0039953764148,37.60045785427524,0 127.004346245242,37.60022853696833,0 127.0046145635585,37.60026833397613,0 127.0046849905896,37.60005014633225,0 127.0049861473663,37.60015327055337,0 	127.0039987079683,37.60046033582184,0 127.0031529276435,37.60007573511683,0 127.0023102427803,37.5999312639708,0 127.0021121810487,37.60008027090471,0 127.0019076071481,37.60048523222868,0 127.0022090981245,37.60057177567393,0 127.0021861422731,37.60080688658785,0 127.002063215084,37.60088594557418,0 127.0017818445073,37.60092169689465,0 127.00160282753,37.60073139582504,0 127.0013879103612,37.60087358500415,0 127.0014400936687,37.60148915318474,0 127.0025462938487,37.60206138510445,0 127.0031857905759,37.60209832087807,0 127.0030052248726,37.60239188853101,0 127.0026699183789,37.60240374222185,0 127.0025022473723,37.60262207475783,0 127.0025426281267,37.60285885570675,0 127.0030166342881,37.60351417972449,0 127.0025751230102,37.60375514196399,0 127.0022618539172,37.60397972834274,0 127.002236154093,37.60417116529099,0 127.0024537791617,37.60440806452692,0 127.0027421992464,37.60434984367875,0 127.0033285442252,37.60446310628095,0 127.0035912909547,37.60414912466855,0 127.0038808364444,37.60409039707272,0 127.0040799794696,37.60373271931311,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>정릉숲 산책길</name>
+			<visibility>0</visibility>
+			<description>한성대입구역에서 북악스카이웨이를 넘어가는 이 길은 태조 이성계의 계비인 신덕왕후 강씨를 모신 정릉으로 가는 길이다. 신덕왕후 강씨에 대한 미움이 대단했던 태종이 후에 옮겨 온 능이지만 능 주변으로는 걷기 좋은 산책로가 옹골차게 뿌려져 있다. 산책로 곳곳엔 시원한 약수터와 물이 졸졸 흐르는 작은 계곡도 있다. 성북 구민회관부터 북악스카이웨이 입구까지는 메타세콰이어나무가 시원한 그늘을 드리우고 있다.</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0075085275483,37.60125530448949,0 127.0076541279465,37.6011427091962,0 127.0075242596229,37.6009507215359,0 127.0073598729441,37.60079291381518,0 127.007720233796,37.60015882600154,0 127.0076803616147,37.59946976671849,0 127.0075159525156,37.598826003412,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>정릉 매표소</name>
+			<visibility>0</visibility>
+			<description>관람시간은 오전06시부터 오후06시까지이며, 매주 월요일이 휴관일이다. 요금은 1000원으로 입장이 가능하다.</description>
+			<LookAt>
+				<longitude>127.0061468049523</longitude>
+				<latitude>37.60145939469248</latitude>
+				<altitude>0</altitude>
+				<heading>-6.259211398079594</heading>
+				<tilt>0</tilt>
+				<range>1504.313327810201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0075033568226,37.60125352200764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>홍살문</name>
+			<visibility>0</visibility>
+			<description>홍전문, 홍문이라고도 한다. 9m 이상의 둥근기둥 두 개를 세우고 위에는 지붕이 없이 화살 모양의 나무를 나란히 박아 놓고, 가운데에는 태극 문양이 있다.</description>
+			<LookAt>
+				<longitude>127.0066238784769</longitude>
+				<latitude>37.60177171927244</latitude>
+				<altitude>0</altitude>
+				<heading>-6.740542818386161</heading>
+				<tilt>0</tilt>
+				<range>748.3802340694867</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.0067906390958,37.60204674236606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정자각</name>
+			<visibility>0</visibility>
+			<description>제전, 왕릉, 원 등의 바로 앞에 짓는 침전이며, 왕의 위패를 조각해 두었다. 제례 때는 이곳에 제물을 진설하고 제사를 지냈으며 부속건물이 그 아래에 옆으로 있어 음식을 장만했다.</description>
+			<LookAt>
+				<longitude>127.0067889386754</longitude>
+				<latitude>37.60287401559949</latitude>
+				<altitude>0</altitude>
+				<heading>-8.024482827495191</heading>
+				<tilt>19.03827671730653</tilt>
+				<range>640.0525338454476</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.0064201196912,37.6022896868308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>비각</name>
+			<visibility>0</visibility>
+			<description>비를 안치하기 위해 지은 건축물이다.</description>
+			<LookAt>
+				<longitude>127.0065094140848</longitude>
+				<latitude>37.60236768918188</latitude>
+				<altitude>0</altitude>
+				<heading>-6.740656976799387</heading>
+				<tilt>14.08873180763734</tilt>
+				<range>379.5519759951228</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.0063359680157,37.60247848243671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정릉</name>
+			<visibility>0</visibility>
+			<description>조선 태조의 제2비 신덕왕후 강씨의 능이다. 사적 제208호로 지정되어있으며, 태종 때 왕후의 능이라기보다 주인 없는 무덤의 신세였지만 현종 때 능묘로 봉심했다.</description>
+			<LookAt>
+				<longitude>127.0065059966101</longitude>
+				<latitude>37.60234010049111</latitude>
+				<altitude>0</altitude>
+				<heading>-8.024711862376602</heading>
+				<tilt>0</tilt>
+				<range>371.8994749731623</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>127.0056232869067,37.60216208029554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(산장빌라)</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>127.007895569099</longitude>
+				<latitude>37.5991835356873</latitude>
+				<altitude>0</altitude>
+				<heading>-11.07325616290337</heading>
+				<tilt>0</tilt>
+				<range>399.8573990525477</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus</styleUrl>
+			<Point>
+				<coordinates>127.0076015501221,37.59879787963421,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>문화자원연계부
+</name>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				127.005635680798,37.60217778768529,0 127.0066608897827,37.60217673749609,0 127.0069702425539,37.60178481384087,0 127.0072606667979,37.60141016812418,0 127.0074980073557,37.60126424537436,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>정릉</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>127.0076995074152</longitude>
+			<latitude>37.6017676731026</latitude>
+			<altitude>0</altitude>
+			<heading>7.05533301782486</heading>
+			<tilt>0</tilt>
+			<range>911.3538347244938</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Point>
+			<coordinates>127.0056499980655,37.60217642885198,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

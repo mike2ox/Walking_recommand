@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>솔마루길 1코스.kml</name>
+	<Style id="gpsiesStyle">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.gpsies.com/images/milestone.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<colorMode>random</colorMode>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="gpsiesStyle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#gpsiesStyle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#gpsiesStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="gpsiesStyle1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.gpsies.com/images/milestone.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<colorMode>random</colorMode>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>솔마루길 1코스</name>
+		<Snippet maxLines="0"></Snippet>
+		<styleUrl>#gpsiesStyle0</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					129.293376,35.5422754,108.34596 129.293467,35.5424542,109.65401 129.2936,35.5426038,106.4419 129.29382,35.542624,106.2335 129.293987,35.5425007,108.92702 129.294061,35.5423151,109.93632 129.294114,35.5421311,108.80302 129.294243,35.5419538,110.78022 129.294385,35.5418054,104.01661 129.294541,35.5416399,101.47042 129.294641,35.5414769,104.10982 129.294667,35.5412935,106.22655 129.294903,35.541275,113.41492 129.295124,35.5412748,115.59254 129.295222,35.5414377,122.09384 129.295401,35.5415568,128.63779 129.295552,35.5416892,129.34125 129.295699,35.5418253,130.53328 129.29586,35.541953,135.88103 129.296025,35.5420735,134.2526 129.296539,35.5421468,141.0539 129.296728,35.5422408,131.41623 129.296934,35.5423307,128.64723 129.297161,35.5423344,121.21588 129.297339,35.5424535,121.36679 129.297517,35.5425616,127.28064 129.297683,35.5426837,131.3593 129.297929,35.542705,138.92134 129.298172,35.5427005,147.51157 129.298401,35.5427207,148.54744 129.29862,35.5427635,146.67638 129.298846,35.5427698,147.07497 129.299071,35.5427807,141.18951 129.299296,35.5427805,146.43616 129.299503,35.5428534,141.6729 129.299736,35.5428158,134.26682 129.299963,35.542746,131.57465 129.30019,35.5427145,132.60384 129.300417,35.5426986,138.29408 129.300631,35.5427558,134.49918 129.300824,35.5426646,140.08241 129.301292,35.5425339,133.8669 129.301473,35.5426399,139.2828 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

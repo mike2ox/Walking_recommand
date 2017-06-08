@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>백의종군로 2코스</name>
+		<description><![CDATA[광의면사무소→0.4㎞선월마을→1.3㎞광의교→3.0㎞광의대교→1.2㎞공설운동장 거점(지리산둘레길안내센터)]]></description>
+		<Folder>
+			<name>제목없는 레이어</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>광의면사무소</name>
+				<description><![CDATA[시점]]></description>
+				<Point>
+					<coordinates>127.44006904766138,35.26008082323954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>지리산둘레길안내센터</name>
+				<description><![CDATA[전라남도 구례군 구례읍 봉북리 1423-1]]></description>
+				<Point>
+					<coordinates>127.46827223185392,35.216820171738036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>광의대교</name>
+				<Point>
+					<coordinates>127.46049772656988,35.22387106873694,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>광의교</name>
+				<Point>
+					<coordinates>127.45441447652411,35.22964264328821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 5</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.44555343364482,35.24269648663509,0.0 127.44688185921405,35.24091132694243,0.0 127.4480912918807,35.23888793850021,0.0 127.44947628612863,35.23689636558261,0.0 127.45035409927368,35.23440921992884,0.0 127.45107585840742,35.233900947053996,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-DB4436-4</styleUrl>
+				<name>선 6</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.45107585840742,35.233900947053996,0.0 127.45280612682109,35.23191243907306,0.0 127.45441447652411,35.22964264328821,0.0 127.45579069465748,35.227992639752564,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>점 7</name>
+				<Point>
+					<coordinates>127.45579069465748,35.227992639752564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 8</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.45579069465748,35.227992639752564,0.0 127.45695916142722,35.226427056708545,0.0 127.45769067303627,35.22512835707255,0.0 127.46004711676505,35.22393401281398,0.0 127.46049772656988,35.22387106873694,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 9</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.46049772656988,35.22387106873694,0.0 127.46236649545608,35.22331093940625,0.0 127.46386853250442,35.2238702716782,0.0 127.46644345315872,35.223709324499154,0.0 127.46851119271014,35.222131707491364,0.0 127.469174429134,35.22090624501351,0.0 127.46989618695807,35.21970944785265,0.0 127.46983766555786,35.219153274788916,0.0 127.4683941512194,35.21896203889672,0.0 127.46847217887989,35.216858419694304,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>제목없는 레이어</name>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 1</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.44021730060922,35.260147721793544,0.0 127.4403733559302,35.259247772764326,0.0 127.44070497479697,35.25919998746242,0.0 127.44083177007269,35.25894513293423,0.0 127.44093905843329,35.25876195532935,0.0 127.44115363515448,35.258570813341585,0.0 127.44150476093637,35.25834781360787,0.0 127.44161204929696,35.25829206377909,0.0 127.44140722570592,35.258140742087214,0.0 127.4419436675089,35.257822169237116,0.0 127.44278246747854,35.25732837889827,0.0 127.44352373287256,35.256531936709735,0.0 127.44376757029386,35.255966458376626,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 2</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.44376757029386,35.255966458376626,0.0 127.44415283203125,35.25504336525572,0.0 127.44411381951068,35.253912383072134,0.0 127.44386022895924,35.25273359652882,0.0 127.4437431874685,35.251857460001396,0.0 127.4436066384078,35.25051934157393,0.0 127.44343107551686,35.24940422734931,0.0 127.44352861074731,35.24832095716355,0.0 127.44370417232858,35.24750849556053,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-A61B4A-4</styleUrl>
+				<name>선 3</name>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>127.44370417232858,35.24750849556053,0.0 127.44383681922045,35.24652795627308,0.0 127.44416843808722,35.24532516534394,0.0 127.4445975915296,35.244361326306986,0.0 127.44503649875696,35.24328595555349,0.0 127.44555343364482,35.24269648663509,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>제목없는 레이어</name>
+		</Folder>
+		<Style id='line-DB4436-4'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A61B4A-4'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

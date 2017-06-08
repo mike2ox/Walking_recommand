@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>북한산자락 산책길.kmz</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>북한산자락 산책길</name>
+			<description>길음초등학교 뒤편에서 시작되는 이 숲길은 서경대학교 뒤편을 지나면 성북생태체험관이 나온다. 생태체험관에서는 요일별로 다양한 생태프로그램을 운영하고 있으며 자연학습체험장이 함께 있다. 북한산 칼바위를 향한 북한산 자락길에 접어들면 울창한 잣나무 숲과 계류, 구릉지의 자연부락과 서울도심을 한눈에 감상할 수 있는 숲길이다.</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0136154432753,37.61384766407095,0 127.0142029584873,37.61355914112666,0 127.0149622941792,37.61364030306064,0 127.0149317833326,37.61393364189377,0 127.0150863691989,37.61403118380376,0 127.0149717294468,37.61413459682015,0 127.0148648444202,37.61419318975696,0 127.0148528930134,37.61444080156182,0 127.0144938172393,37.61453812730618,0 127.0143085051348,37.61484804742424,0 127.0145740023375,37.61523894560123,0 127.0145040521748,37.61535284435458,0 127.01404624161,37.61550866166041,0 127.0138383513986,37.61548893542588,0 127.0133023889551,37.61575713022323,0 127.0127596957099,37.61585884938795,0 127.0125749381682,37.61598270467595,0 127.0125217731268,37.616143786121,0 127.011712720757,37.61645506432335,0 127.0112622492791,37.61644886538211,0 127.0108373083614,37.61636952593003,0 127.0105436706982,37.61655475936863,0 127.0102019960247,37.61686481526279,0 127.0100406458578,37.617157553007,0 127.0099373923121,37.617730790355,0 127.0095074612345,37.61818494002916,0 127.008672353258,37.61854530821717,0 127.0084743219592,37.61841066540698,0 127.0083715937563,37.61798478563848,0 127.0083721205198,37.61784743217093,0 127.0084526618231,37.61767722082717,0 127.0085181542089,37.61752129662976,0 127.0086447559771,37.61742905925171,0 127.0083150961552,37.61736476345149,0 127.0082642055267,37.61724453521369,0 127.0076652234731,37.61719459096731,0 127.0069498702153,37.61737350113844,0 127.0068181340344,37.61728118061095,0 127.0068393930575,37.61614911200321,0 127.0069446956511,37.6159096119785,0 127.0070693980581,37.61561828779154,0 127.0072099784568,37.61541195985414,0 127.0074605002271,37.61533510685629,0 127.007795878495,37.61530002293353,0 127.0082037126278,37.61554701556288,0 127.0084426105258,37.61584239806014,0 127.0085738126965,37.61591509189347,0 127.0086936820262,37.6160373768551,0 127.0086538485918,37.615327442576,0 127.0092326020956,37.61530207799883,0 127.0097614726615,37.61477096709011,0 127.0100584119666,37.61424491415208,0 127.0102132224683,37.6139430188187,0 127.0105174319313,37.61384699728275,0 127.0108173088517,37.61437687241539,0 127.0110689436729,37.61472846646237,0 127.0112805136636,37.61476972322528,0 127.0119290041616,37.61441353624913,0 127.0120305495046,37.61426264554351,0 127.0121638387417,37.61398059379542,0 127.0124750270946,37.61366528992301,0 127.0127265643544,37.61375063358389,0 127.0129192091722,37.6134998623513,0 127.0136154432753,37.61384766407095,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>서경대뒷길</name>
+			<description>서경대학교 뒷길로 북한산자락 나들길의 일부이다.</description>
+			<LookAt>
+				<longitude>127.0081855508677</longitude>
+				<latitude>37.61699490063312</latitude>
+				<altitude>0</altitude>
+				<heading>0.2487051287595324</heading>
+				<tilt>0</tilt>
+				<range>1708.091146981746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0138500425848,37.6154736952681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정릉풍림상가</name>
+			<description>정릉파출소 옆이며 근방 주거단지 내 있는 상가이다.</description>
+			<LookAt>
+				<longitude>127.0081855508677</longitude>
+				<latitude>37.61699490063312</latitude>
+				<altitude>0</altitude>
+				<heading>0.2487051287595324</heading>
+				<tilt>0</tilt>
+				<range>1708.091146981746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.0079448637241,37.61719852521622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>정릉파출소</name>
+			<description>근방 주거단지 내 있는 파출소다.</description>
+			<LookAt>
+				<longitude>127.0081855508677</longitude>
+				<latitude>37.61699490063312</latitude>
+				<altitude>0</altitude>
+				<heading>0.2487051287595324</heading>
+				<tilt>0</tilt>
+				<range>1708.091146981746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.0083355539411,37.61568124589435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>서경대평생교육원</name>
+			<LookAt>
+				<longitude>127.0082863821971</longitude>
+				<latitude>37.6170514980709</latitude>
+				<altitude>0</altitude>
+				<heading>0.2487666684852506</heading>
+				<tilt>0</tilt>
+				<range>1708.482760407889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.0115378745751,37.61459068967267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0145383695969,37.61524906590161,0 127.0149988998555,37.61557267344191,0 127.0156409708975,37.61552993864984,0 127.0158290766288,37.61567248541672,0 127.0161318135813,37.61552961683194,0 127.0161692657114,37.61540673993773,0 127.0164117297049,37.61543031666472,0 127.0166795827679,37.61507959769171,0 127.0170565766331,37.61493033434655,0 127.0170669884789,37.61472701603348,0 127.0168324110116,37.61458329239945,0 127.0168327297202,37.6144539086077,0 127.0174258294658,37.61445567140935,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>길음초교뒷편</name>
+			<LookAt>
+				<longitude>127.0177823104022</longitude>
+				<latitude>37.61506433208137</latitude>
+				<altitude>0</altitude>
+				<heading>-0.547770374585013</heading>
+				<tilt>0</tilt>
+				<range>420.0811898203901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>127.0174824657926,37.61451654076208,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>동작충효길4코스-노량진길.kmz</name>
+	<open>1</open>
+	<Style id="sn_17">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/17.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_진입로3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로3">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_18">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로3">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_22">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/22.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/15.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_21">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/21.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_21">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/21.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_19">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/19.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_진입로30">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_20">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/20.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/15.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_18">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로30">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/22.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_20">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/20.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_16">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/16.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_17">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/17.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_19">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/19.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_16">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/16.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>동작충효길4코스-노량진길</name>
+		<description>노량진수상시장-경부시설녹지-대방e편한세상아파트-노량진근린공원-생태통로-무장애등산로-마을안길-상도3치안센터</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.943055977995,37.51406234616247,0 126.9427371495668,37.51585644994965,0 126.9387540469222,37.51530428312874,0 126.9391134842167,37.51358986251812,0 126.9352167593023,37.51339638148855,0 126.9319085924051,37.51334354133346,0 126.9316857811021,37.51324738503906,0 126.9322138168098,37.51269869060564,0 126.9314144163795,37.51194909814925,0 126.9310181002143,37.51148008607085,0 126.9305364640026,37.51166414743321,0 126.9300997282694,37.51169205014019,0 126.929643947519,37.51140578073335,0 126.9286067215255,37.5109873952762,0 126.9279264397016,37.51034827547977,0 126.9275837310833,37.51022575289803,0 126.9271693622406,37.50969596122238,0 126.9281993050879,37.50946352019803,0 126.9279507173423,37.50911391781567,0 126.9274044687734,37.50890093023812,0 126.9272135605711,37.5089161479284,0 126.9267737428116,37.50879144674164,0 126.9269833223064,37.50808055447189,0 126.9276763839658,37.50815291336943,0 126.9278401920389,37.50734804818288,0 126.9283401156192,37.50755152827804,0 126.9286992445214,37.50738697344526,0 126.9287063351485,37.50687078707885,0 126.9282104781473,37.50648862598416,0 126.9285092814055,37.50612846515168,0 126.9294054479237,37.50555957201595,0 126.9293896326628,37.50490364220369,0 126.9293069730523,37.50442619047315,0 126.9294933448922,37.5042912599969,0 126.9297774976918,37.50418829327931,0 126.9300229542064,37.50412756377703,0 126.930261611792,37.50413306306486,0 126.9304627608961,37.50416161000771,0 126.9308657013419,37.50420978518236,0 126.9310803324964,37.504235344441,0 126.9312389952465,37.50423342700059,0 126.9312216205895,37.50409084860236,0 126.9311511636839,37.50397425123207,0 126.9311264369381,37.50395463514489,0 126.9310943233493,37.50394119620831,0 126.9310459104822,37.50391478240417,0 126.9310377380996,37.50390828920379,0 126.9308869475454,37.50380147559836,0 126.9307929641508,37.50374531918853,0 126.9307058202838,37.50361799700171,0 126.9305370867367,37.50359689465395,0 126.9305973585397,37.50354460353752,0 126.9303237090636,37.50337788189903,0 126.9303294387897,37.50316770347786,0 126.9306169305576,37.50188026088328,0 126.9308393890157,37.50129583826561,0 126.9306765615661,37.50106254726622,0 126.9303928668087,37.50081271035484,0 126.9304325123448,37.50055145387958,0 126.9305209905994,37.50008076453325,0 126.9306030335148,37.49989608438201,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>노량진수산시장</name>
+		<description>1927년 의주로에서 경성수산(주)으로 문을 열었다. 1971년 한국냉장(주)이 아시아개발은행(ADB) 차관으로 지금의 위치에 도매시장을 건설해 직영하다, 1975년부터 서울수산·노량진수산(주)·삼호물산 등 3개의 민간회사가 운영하였다. 2002년 2월부터 어민의 소득증대와 수산업 발전을 위해 수산업협동조합이 인수한 이래 오늘에 이른다.</description>
+		<LookAt>
+			<longitude>126.9423284184972</longitude>
+			<latitude>37.51530179631033</latitude>
+			<altitude>0</altitude>
+			<heading>0.009292378388811348</heading>
+			<tilt>0</tilt>
+			<range>276.5706329329074</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<coordinates>126.942817707529,37.51542789204601,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>경부시설녹지</name>
+		<LookAt>
+			<longitude>126.9338205829994</longitude>
+			<latitude>37.5133652962649</latitude>
+			<altitude>0</altitude>
+			<heading>0.004111586757986928</heading>
+			<tilt>0</tilt>
+			<range>277.1063968568197</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_16</styleUrl>
+		<Point>
+			<coordinates>126.9338084489928,37.51341206272202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>대방 e편한세상 아파트</name>
+		<description>2003년 입주를 시작해 총 609세대가 살고 있다.</description>
+		<LookAt>
+			<longitude>126.9300485540504</longitude>
+			<latitude>37.51173092083707</latitude>
+			<altitude>0</altitude>
+			<heading>0.001799008978732649</heading>
+			<tilt>0.8753774810636059</tilt>
+			<range>195.6423396003138</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_17</styleUrl>
+		<Point>
+			<coordinates>126.9301011790602,37.51173673781925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진근린공원</name>
+		<description>면적 408,857㎡이고, 1993년도에 개장하였다.</description>
+		<LookAt>
+			<longitude>126.9267505837694</longitude>
+			<latitude>37.50864337708291</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0001749335052012608</heading>
+			<tilt>6.993983601364413</tilt>
+			<range>154.1791969638369</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_18</styleUrl>
+		<Point>
+			<coordinates>126.9267732744814,37.50880878722233,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>생태통로</name>
+		<LookAt>
+			<longitude>126.9278703462805</longitude>
+			<latitude>37.50729068260456</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005222739336088562</heading>
+			<tilt>18.41102999616443</tilt>
+			<range>309.5852374565494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_19</styleUrl>
+		<Point>
+			<coordinates>126.928363658751,37.50662747692086,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>무장애 등산로</name>
+		<description>보행약자의 원활한 등산을 위해 유효폭 2m로 유지.
+경사도 1/12이하 미끄럽지 않은 목재 데크로드를 조성하였다.</description>
+		<LookAt>
+			<longitude>126.9299627756578</longitude>
+			<latitude>37.50461712651855</latitude>
+			<altitude>0</altitude>
+			<heading>0.001796227404568487</heading>
+			<tilt>18.4140784717329</tilt>
+			<range>313.9775075735815</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_20</styleUrl>
+		<Point>
+			<coordinates>126.9297986274991,37.50421551193701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>마을안길</name>
+		<LookAt>
+			<longitude>126.9305229371246</longitude>
+			<latitude>37.50219898256204</latitude>
+			<altitude>0</altitude>
+			<heading>0.002137270660046176</heading>
+			<tilt>18.4149279039204</tilt>
+			<range>345.8852629792704</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_21</styleUrl>
+		<Point>
+			<coordinates>126.9306722704028,37.50179164391967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>상도 3치안센터</name>
+		<LookAt>
+			<longitude>126.930597708933</longitude>
+			<latitude>37.5005474370354</latitude>
+			<altitude>0</altitude>
+			<heading>0.002182689292306054</heading>
+			<tilt>18.41544149586366</tilt>
+			<range>259.3377273379571</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_22</styleUrl>
+		<Point>
+			<coordinates>126.9305991768002,37.49993226608737,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진역 2번 출입구</name>
+		<LookAt>
+			<longitude>126.9430651799006</longitude>
+			<latitude>37.51443237422824</latitude>
+			<altitude>0</altitude>
+			<heading>0.009788766776975405</heading>
+			<tilt>19.62102457147321</tilt>
+			<range>192.7556278884912</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9430529503155,37.51404995752258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진길진입로2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9293580548207,37.50436129258861,0 126.9291732546048,37.50415273992028,0 126.9290675335731,37.5039950648337,0 126.9288851924937,37.50386049768706,0 126.9286125388892,37.50376295906239,0 126.9284292706089,37.50379431456814,0 126.9283378321926,37.50368664403531,0 126.9282670151399,37.50357463871788,0 126.9279654505053,37.50340275023181,0 126.9278580104479,37.50322592778795,0 126.9276240031198,37.50318408554214,0 126.9275281254019,37.50310361338474,0 126.9274818832515,37.50296281138051,0 126.9275407994442,37.50284712526257,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>성은교회</name>
+		<LookAt>
+			<longitude>126.9271417789731</longitude>
+			<latitude>37.50318859535626</latitude>
+			<altitude>0</altitude>
+			<heading>0.001086183975065298</heading>
+			<tilt>22.0491064456086</tilt>
+			<range>184.8654165457553</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.9275272261082,37.50282869915541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진길진입로3</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9311405873928,37.50424610340372,0 126.9306288293085,37.50453967870446,0 126.9306198358706,37.50473195624051,0 126.9312843292182,37.50501331046119,0 126.9315088620216,37.5052077187371,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>동작사회복지관</name>
+		<LookAt>
+			<longitude>126.9303868814994</longitude>
+			<latitude>37.50498571719037</latitude>
+			<altitude>0</altitude>
+			<heading>0.002072640919302027</heading>
+			<tilt>19.62295263232508</tilt>
+			<range>391.9055373506782</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로3</styleUrl>
+		<Point>
+			<coordinates>126.9314950882966,37.50514246807936,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>노량진길진입로4</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.9305936907959,37.50355241036684,0 126.9307097156764,37.50354527744487,0 126.9309738297984,37.50352814434207,0 126.9311961069694,37.50357713073164,0 126.93158288852,37.50370060630868,0 126.9317777495682,37.50374917119135,0 126.9320423438111,37.50375003063784,0 126.9323269116995,37.5038928663295,0 126.9326119712886,37.50403935331411,0 126.9327484306958,37.50408186728482,0 126.9328915915317,37.50391481754338,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>상도동레미안1차아파트</name>
+		<LookAt>
+			<longitude>126.9327459017363</longitude>
+			<latitude>37.50427433350031</latitude>
+			<altitude>0</altitude>
+			<heading>0.007323349696348954</heading>
+			<tilt>38.14128366322487</tilt>
+			<range>309.3597908248985</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_진입로30</styleUrl>
+		<Point>
+			<coordinates>126.93288440138,37.50387073751759,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

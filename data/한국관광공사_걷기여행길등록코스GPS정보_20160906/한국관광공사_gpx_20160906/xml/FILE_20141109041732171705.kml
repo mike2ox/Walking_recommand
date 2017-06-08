@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>담양오방길 3코스 습지길.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="path0Style">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="path0Style1">
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>담양오방길 3코스 습지길</name>
+		<open>1</open>
+		<Placemark>
+			<name>담양오방길 3코스 습지길</name>
+			<styleUrl>#path0Style</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9391707075267,35.26993767851212,0 126.937873566094,35.2716692861163,0 126.9374127530016,35.27146992544559,0 126.935423561951,35.27052955090088,0 126.9342212275371,35.26992972769889,0 126.9327089438024,35.26925251920506,0 126.931793769144,35.26878282788519,0 126.9308792017699,35.26818394543594,0 126.9298878310174,35.2674013953106,0 126.9290679622954,35.26650787560405,0 126.9283513239422,35.2655655050125,0 126.9279960012732,35.26469609772865,0 126.9276948076635,35.2638739912612,0 126.9273465466258,35.26296655332771,0 126.9271590189703,35.26253078400767,0 126.9269705413026,35.2621606972553,0 126.9265894641733,35.2619423303231,0 126.9257739856821,35.26173632415207,0 126.9244324587683,35.2614554345308,0 126.923534984369,35.26140706072061,0 126.9219716920811,35.26139938537781,0 126.9204412907966,35.26136428067748,0 126.9189895392659,35.26134840321119,0 126.9173236832445,35.26135184781958,0 126.9159000634648,35.261307944048,0 126.9143823093338,35.26130216732666,0 126.9128927853838,35.26129227057382,0 126.911489177893,35.26125494716679,0 126.9106701963094,35.26121676742835,0 126.9091146169432,35.26104538062385,0 126.9076626239291,35.26082517854212,0 126.9065771433254,35.26060038662499,0 126.9057049336844,35.26034537102554,0 126.9048326815464,35.26005063378366,0 126.9038978358201,35.25966315395198,0 126.9029117498196,35.25923689659807,0 126.9021139389066,35.25873284352652,0 126.901715577438,35.25845447027828,0 126.9006473919354,35.25783661463027,0 126.8996066489134,35.25709930611445,0 126.8984146021617,35.25633027203816,0 126.8975228202529,35.25562002594877,0 126.8966742142814,35.25498343692648,0 126.8956958903156,35.25428598717191,0 126.8951368689796,35.25384497894822,0 126.8943431493535,35.25324623554901,0 126.8934773701399,35.2525825058898,0 126.8925335235581,35.25191295948216,0 126.8922075214782,35.25127925610023,0 126.8918327949212,35.25089567725682,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>wp</name>
+			<Placemark>
+				<name>삼지리버스정류장</name>
+				<LookAt>
+					<longitude>126.9400249524183</longitude>
+					<latitude>35.26878433030814</latitude>
+					<altitude>0</altitude>
+					<heading>3.56384740980577</heading>
+					<tilt>8.238953311154424</tilt>
+					<range>951.2417823701835</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.939698569002,35.26910360454337,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>삼지교</name>
+				<LookAt>
+					<longitude>126.9400249524183</longitude>
+					<latitude>35.26878433030814</latitude>
+					<altitude>0</altitude>
+					<heading>3.56384740980577</heading>
+					<tilt>8.238953311154424</tilt>
+					<range>951.2417823701835</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.9385473754047,35.27076249670835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>황금리녹색농촌체험마을</name>
+				<LookAt>
+					<longitude>126.9276352182014</longitude>
+					<latitude>35.26060128902209</latitude>
+					<altitude>0</altitude>
+					<heading>3.556693651240701</heading>
+					<tilt>8.238958539857759</tilt>
+					<range>955.3033952315067</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.9273350285751,35.26314560748617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실</name>
+				<LookAt>
+					<longitude>126.9287690065984</longitude>
+					<latitude>35.26492243163597</latitude>
+					<altitude>0</altitude>
+					<heading>3.557490860590939</heading>
+					<tilt>12.34229538523656</tilt>
+					<range>408.6012752511891</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.9281957986046,35.26540796495103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>하천습지주차장</name>
+				<LookAt>
+					<longitude>126.8937792152787</longitude>
+					<latitude>35.24958057121907</latitude>
+					<altitude>0</altitude>
+					<heading>3.537290912194415</heading>
+					<tilt>12.3449900004179</tilt>
+					<range>821.2311808178964</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>126.8919172258737,35.25091073405265,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>여의도공원 산책길.kmz</name>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>여의도공원산책길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9289186395962,37.52923653259499,0 126.9280127475691,37.52880649427537,0 126.9278008221001,37.52897519103127,0 126.9270132173624,37.52899276596227,0 126.9266673298055,37.52919646674937,0 126.9261514182451,37.52906840640645,0 126.9261101858632,37.52871763667994,0 126.9258513561316,37.52877151829571,0 126.9254324750956,37.52840888102499,0 126.9250066357891,37.52814177169922,0 126.9242584801275,37.5278461924809,0 126.9236934677829,37.52761363602563,0 126.9237732066799,37.52746021878188,0 126.92371646134,37.52723234028381,0 126.9232560726868,37.52709566525364,0 126.9230955452986,37.52688245892453,0 126.92291430118,37.52656612282246,0 126.922460188009,37.52653651334989,0 126.9220699680134,37.52627627158872,0 126.921421756948,37.52609740403258,0 126.9210813812562,37.52583867606012,0 126.9206588067615,37.52571375557812,0 126.9204128435139,37.52558763547226,0 126.9184766769065,37.52437573233278,0 126.9182741733849,37.52420181421581,0 126.9184545696939,37.52405440607694,0 126.9184847015007,37.52378845836824,0 126.9186540737218,37.52357383900503,0 126.9190195545614,37.52346025257359,0 126.9192140643711,37.5233575582113,0 126.9192211656341,37.52326755868396,0 126.9175287767113,37.52218519900789,0 126.917561607306,37.52199434766437,0 126.9170076935703,37.52168702935956,0 126.9168725892116,37.52184155852874,0 126.9167466613637,37.52176868393928,0 126.9169084319501,37.52161692562597,0 126.9165082999278,37.52140049521044,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원산책길2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9270279106919,37.52898456728592,0 126.927021081519,37.52878847827304,0 126.9269129437379,37.52861821369937,0 126.9266958036452,37.52861498965245,0 126.9266667942383,37.52865037641692,0 126.9264376154704,37.52859322415015,0 126.9262306160508,37.52861612089006,0 126.926104371666,37.52871293052064,0 126.9262553747657,37.5285812578387,0 126.9262910348286,37.52835667829083,0 126.9261513971764,37.52814079482718,0 126.9258874258198,37.52794739967694,0 126.9259976522018,37.5278724525422,0 126.9256000328189,37.52736442423478,0 126.9252396607706,37.52734409650423,0 126.9246673268316,37.52692700459485,0 126.9247058849804,37.52666459678048,0 126.9242325763964,37.52652933084978,0 126.9225814790375,37.52541413981937,0 126.919228392067,37.52330614950639,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 10번 출입구</name>
+			<LookAt>
+				<longitude>126.9283495502347</longitude>
+				<latitude>37.52948507002539</latitude>
+				<altitude>0</altitude>
+				<heading>18.6283292976618</heading>
+				<tilt>9.594604713633279</tilt>
+				<range>372.1523794115065</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>126.9288894688793,37.52922495875827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 산책로</name>
+			<LookAt>
+				<longitude>126.9257524240162</longitude>
+				<latitude>37.52827682635866</latitude>
+				<altitude>0</altitude>
+				<heading>18.62674724207189</heading>
+				<tilt>9.594582769700967</tilt>
+				<range>357.4957603649825</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9258708328469,37.52771311254563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 광장</name>
+			<description>면적 22만 9539㎡로 조성되어있으며, 1972년에 광장으로 조성되었다. 1999년 여의도공원으로 개장하였으며 남북으로 종단하여 마포구 와 영등포구를 연결하는 도로축이 형성되었다.
+</description>
+			<LookAt>
+				<longitude>126.9193999608898</longitude>
+				<latitude>37.52420609037566</latitude>
+				<altitude>0</altitude>
+				<heading>18.6228778349812</heading>
+				<tilt>9.594602407033586</tilt>
+				<range>370.6117711410842</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9192663316,37.52486712868861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 3번 출구</name>
+			<LookAt>
+				<longitude>126.917600700794</longitude>
+				<latitude>37.5221443097421</latitude>
+				<altitude>0</altitude>
+				<heading>18.62178197390039</heading>
+				<tilt>9.594601688732068</tilt>
+				<range>370.132117620758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>126.9180555356569,37.52251833107418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 샛강생태공원</name>
+			<description>면적은 18만2000㎡이며, 국내 최초로 조성된 생태공원이다. 여의도의 샛강을 환경친화구역으로 바꾸고 자연학습장소로 활용하기 위하여 조성되었다.
+</description>
+			<LookAt>
+				<longitude>126.9172338334136</longitude>
+				<latitude>37.52200709959136</latitude>
+				<altitude>0</altitude>
+				<heading>18.62155830446297</heading>
+				<tilt>9.597245474848108</tilt>
+				<range>391.9342100712248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>126.9166812571786,37.52148799866755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원 산책길진입로1</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9186059555444,37.52793037163343,0 126.9189559839666,37.52779869057172,0 126.9195477141216,37.52721773865443,0 126.9196492380473,37.5272217820506,0 126.9198137231463,37.52700277375285,0 126.9198301180537,37.52678954796783,0 126.9202690863057,37.52641048461972,0 126.9207163917123,37.52602628347678,0 126.9203573237738,37.52575182763481,0 126.9204873454514,37.52562461182604,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>국회의사당역 3번 출입구</name>
+			<LookAt>
+				<longitude>126.9190016199363</longitude>
+				<latitude>37.52787050786655</latitude>
+				<altitude>0</altitude>
+				<heading>18.6226328780778</heading>
+				<tilt>9.602407528750419</tilt>
+				<range>351.1675294217449</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9186120613152,37.52792087733729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>여의도공원산책길진입로2</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.9214265789766,37.52466801362619,0 126.9216397377259,37.52456032263736,0 126.9218751180005,37.52460753712365,0 126.922734264487,37.52397563725363,0 126.9232092589279,37.52352657178302,0 126.9239851455393,37.52237620186237,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>여의도역 3번 출입구</name>
+			<LookAt>
+				<longitude>126.9230802072755</longitude>
+				<latitude>37.5232057101834</latitude>
+				<altitude>0</altitude>
+				<heading>18.62511394026883</heading>
+				<tilt>9.605361234368031</tilt>
+				<range>579.0341021569348</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9239732704586,37.52231641686507,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

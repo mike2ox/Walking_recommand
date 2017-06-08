@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>1코스 문경새재길(함께걷는길).kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="path0Style">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path0Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="path0Style0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>1코스 문경새재길(함께걷는길)</name>
+		<open>1</open>
+		<Placemark>
+			<name>1코스 문경새재길(함께 걷는길)</name>
+			<styleUrl>#path0Style1</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						128.0760281347,36.7630519532,236.984375 128.0758173298,36.7636178993,238 128.0758117978,36.7638964299,239 128.0759060942,36.7641747929,241.7109375 128.0759893265,36.7645341251,241.04296875 128.075931659,36.7650262266,240 128.0757297389,36.7657367606,240 128.0756443273,36.7665919662,240.12890625 128.0756443273,36.7665982526,240.19921875 128.0755434092,36.7674597446,244.65234375 128.0754113942,36.7680508364,246.2265625 128.0754113942,36.76804455,246.2265625 128.0750929657,36.768730022,249.01953125 128.0750851706,36.768730022,248.93359375 128.0748755392,36.7691324372,250 128.074867744,36.7695412226,250.3515625 128.0751550756,36.7704655789,265.9140625 128.0751473643,36.7704655789,265.74609375 128.0752793793,36.7711636238,269.39453125 128.0752870906,36.7717924342,271.56640625 128.075302681,36.7722011358,273.19921875 128.0752792954,36.7726728693,274.03125 128.0751129147,36.772919884,270.51171875 128.0748300254,36.7730905395,270.015625 128.0743973516,36.7731848359,272.8828125 128.0740589742,36.773247784,276.28515625 128.0735152401,36.7732567526,277.76953125 128.0731491186,36.7732567526,278.76953125 128.0728107411,36.773292711,281.71484375 128.0726221483,36.7732342891,278.46875 128.0722782388,36.7730726022,270.328125 128.0718899891,36.7730545811,270.02734375 128.0712851509,36.7731668986,271.6171875 128.0712796189,36.7731668986,271.625 128.0710134096,36.7732657213,276.50390625 128.0710078776,36.7732657213,276.50390625 128.0704697594,36.7734229658,279.91015625 128.0702035502,36.77360259,280.84375 128.0699206609,36.7737867404,280.78125 128.0694378633,36.7740965355,280 128.0688276608,36.774518732,280 128.0684948992,36.7748646531,280 128.0679955892,36.7754347902,280 128.0674962793,36.7760366946,287.4453125 128.0674962793,36.7760411371,287.48046875 128.0670525413,36.776530724,290 128.0668694805,36.7767418642,290 128.0668251403,36.7770692613,291.63671875 128.0668140762,36.7775005102,295.015625 128.0668196082,36.7778553162,297.90625 128.0665921234,36.7782506067,301.2421875 128.0663702544,36.7786368448,306.109375 128.0662704259,36.77895125,308.26953125 128.0661816616,36.779283341,310.24609375 128.0661705974,36.7795977462,312.40625 128.0661705974,36.7796112411,312.55078125 128.0661317892,36.7798762769,312.87109375 128.0661594495,36.7800604273,313.7265625 128.0663481262,36.7805138882,317.984375 128.0663481262,36.7805183306,317.9375 128.0664368067,36.7807878088,319.23828125 128.0664312746,36.7807968613,319.1796875 128.0664368067,36.7811606359,319.9999999999999 128.0664534867,36.7814481352,319.9999999999999 128.066520039,36.7818698287,326.54296875 128.0665145069,36.7818698287,326.41015625 128.0664978269,36.7822426558,329.03515625 128.0665034428,36.7824941967,331.859375 128.0663591903,36.7828670237,335.234375 128.0663591903,36.7828714661,335.40625 128.0661428533,36.7830556165,337.26953125 128.0658599641,36.7832622305,336.85546875 128.0655826069,36.7835766356,339.6875 128.0653107818,36.7837697547,340 128.0652609095,36.7838865984,340 128.065360738,36.7840168532,340 128.065360738,36.7842189409,340.37890625 128.0653052498,36.7844030913,340.01171875 128.0651111249,36.7846722342,340 128.0649280641,36.7849866394,340 128.0648558959,36.7852471489,340 128.0649501923,36.785485195,343.35546875 128.0652552936,36.785768168,348.16796875 128.06534959,36.7860242352,350.0625 128.0654883105,36.7862847447,355.9140625 128.0656546913,36.786544919,362.5234375 128.0657489877,36.7868908402,366.421875 128.0657434557,36.7868952826,366.2421875 128.0658432841,36.7871557921,371.66015625 128.0657767318,36.7873938382,371.4609375 128.0657267757,36.7876633164,372.58203125 128.0656769034,36.7880047113,374.69921875 128.0656047352,36.7882427573,373.66796875 128.0654161423,36.7883909494,368.33203125 128.0653107818,36.7885885946,369.91015625 128.0653551221,36.7887548078,371.1015625 128.0655381829,36.7888940312,375.91796875 128.0657046475,36.7889434844,378.43359375 128.0657656677,36.789033087,378.34375 128.0657323077,36.7892846279,377.38671875 128.0657046475,36.7895495798,378.4765625 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>옛길박물관(시점)</name>
+			<Camera>
+				<longitude>128.0758042084719</longitude>
+				<latitude>36.76252244568985</latitude>
+				<altitude>595.9468296348377</altitude>
+				<heading>-73.07235149998748</heading>
+				<tilt>0.03460328654402076</tilt>
+				<roll>-88.94608704790394</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>128.0760354884205,36.76305051765035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>조곡관(종점)</name>
+			<LookAt>
+				<longitude>128.0640774525384</longitude>
+				<latitude>36.79254536440829</latitude>
+				<altitude>0</altitude>
+				<heading>0.01032217927569437</heading>
+				<tilt>27.48385976690059</tilt>
+				<range>1207.274115595927</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>128.0657045794637,36.78958802990101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>관광지</name>
+			<open>1</open>
+			<Placemark>
+				<name>문경새재 오픈세트장</name>
+				<Camera>
+					<longitude>128.0759816604036</longitude>
+					<latitude>36.76898992206615</latitude>
+					<altitude>565.4337039714137</altitude>
+					<heading>-73.07224525118728</heading>
+					<tilt>0.03460328654402076</tilt>
+					<roll>-88.9460870479102</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0743964863038,36.77088392167524,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>유적지</name>
+			<open>1</open>
+			<Placemark>
+				<name>조령원터</name>
+				<Camera>
+					<longitude>128.070025783278</longitude>
+					<latitude>36.77383039772741</latitude>
+					<altitude>923.2449662088008</altitude>
+					<heading>-73.07558775587646</heading>
+					<tilt>0.03460739051632869</tilt>
+					<roll>-88.94586486279781</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0686600155252,36.7751567710253,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>문화재</name>
+			<open>1</open>
+			<Placemark>
+				<name>제1관문(주홀관)</name>
+				<Camera>
+					<longitude>128.0757674282006</longitude>
+					<latitude>36.76873149665114</latitude>
+					<altitude>571.1157208189376</altitude>
+					<heading>-73.07237351040239</heading>
+					<tilt>0.03460328654402076</tilt>
+					<roll>-88.94608704792078</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0752294910946,36.76844420317249,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>제2관문(조곡관)</name>
+				<Camera>
+					<longitude>128.0668555865581</longitude>
+					<latitude>36.78770939526333</latitude>
+					<altitude>636.5575798762096</altitude>
+					<heading>-79.78212261746253</heading>
+					<tilt>0.03471784063331816</tilt>
+					<roll>-90.18595950665403</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0657144200588,36.78959664396489,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>화장실</name>
+			<open>1</open>
+			<Placemark>
+				<name>화장실</name>
+				<Camera>
+					<longitude>128.0759816604036</longitude>
+					<latitude>36.76898992206615</latitude>
+					<altitude>565.4337039714137</altitude>
+					<heading>-73.07224525118728</heading>
+					<tilt>0.03460328654402076</tilt>
+					<roll>-88.9460870479102</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0751090514942,36.7710085713948,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>화장실</name>
+				<Camera>
+					<longitude>128.0668555865581</longitude>
+					<latitude>36.78770939526333</latitude>
+					<altitude>636.5575798762096</altitude>
+					<heading>-79.78212261746253</heading>
+					<tilt>0.03471784063331816</tilt>
+					<roll>-90.18595950665403</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>128.0660058682757,36.78925935280885,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

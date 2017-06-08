@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>동작충효길5코스-보라매길.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_23">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/23.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_24">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/24.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_26">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/26.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_23">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/23.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_25">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/25.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_26">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/26.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_25">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/25.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_24">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/24.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>동작충효길5코스-보라매길</name>
+		<description>신대방삼거리역5번출입구-보라매e편한세상아파트-보라매삼성아파트-동작구민회관-농심관-보라매역6번출입구</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				126.928316619967,37.49972027737634,0 126.9281955081951,37.498244131869,0 126.9278246380437,37.49610901578211,0 126.9275200499951,37.49484964157982,0 126.9273953488303,37.49468825436546,0 126.9271048882648,37.49302611630957,0 126.9265844925849,37.49308633999075,0 126.926440476134,37.49326648378248,0 126.9259491596469,37.49344395882873,0 126.9252055394497,37.49387512866518,0 126.9254317407,37.49464320081565,0 126.9250963622573,37.49488564400846,0 126.9248801594244,37.49508257124526,0 126.9246215799517,37.49515237920948,0 126.9245492192652,37.49520562475465,0 126.9242345681127,37.49510663393669,0 126.9239558508962,37.49504338210851,0 126.9236569248168,37.49493017768925,0 126.9235147158681,37.49487579578295,0 126.9235483282748,37.49467270304406,0 126.9234407612484,37.49463490871657,0 126.9229248380921,37.49451235386182,0 126.9224862618334,37.49465902577864,0 126.9220619827054,37.49465602094556,0 126.9215530993437,37.49473468014982,0 126.9212504031086,37.49481908272162,0 126.9210615127599,37.49479322159128,0 126.9206102157903,37.49490219507583,0 126.9204255711956,37.49495445507879,0 126.9201741848922,37.49505226367404,0 126.920086828905,37.49502968559728,0 126.9198537236331,37.49511435445265,0 126.9196683762072,37.4951508078009,0 126.9195817961922,37.49521437077584,0 126.919464137917,37.49521181361639,0 126.919275838545,37.49531991105557,0 126.9189915255108,37.49523780481171,0 126.9185292107383,37.49527356645073,0 126.9184630267538,37.49530417546021,0 126.9178624078167,37.49704188434108,0 126.9179275753771,37.49714063577721,0 126.919426803872,37.49746145847488,0 126.9197653590523,37.49758517244,0 126.9201414719822,37.49790534460392,0 126.9203647945649,37.49826833513364,0 126.9204793126613,37.49870520817656,0 126.9205257132934,37.49984586380092,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>보라매e편한세상아파트</name>
+		<description>동작구 신대방동 720에 위치하고 있으며, 386세대가 입주해있다.</description>
+		<LookAt>
+			<longitude>126.9274773579754</longitude>
+			<latitude>37.49489169552348</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001147688015251173</heading>
+			<tilt>0</tilt>
+			<range>371.6716909967427</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_23</styleUrl>
+		<Point>
+			<coordinates>126.9276485356925,37.49540150009927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>보라매삼성아파트</name>
+		<description>1996년 준공되었으며 710세대가 입주해있다.</description>
+		<LookAt>
+			<longitude>126.927475896211</longitude>
+			<latitude>37.49387855076373</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001148578473637939</heading>
+			<tilt>0</tilt>
+			<range>237.7656940403351</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_24</styleUrl>
+		<Point>
+			<coordinates>126.9272772987884,37.49403493020089,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>동작구민회관</name>
+		<description>동작구 신대방2동 395에 위치하고 있으며, 오전06시부터 오후07시 까지 운영하고 있다.</description>
+		<LookAt>
+			<longitude>126.9227886054521</longitude>
+			<latitude>37.49438389636786</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004001629894891435</heading>
+			<tilt>0</tilt>
+			<range>247.7113947654345</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_25</styleUrl>
+		<Point>
+			<coordinates>126.9229229238578,37.4945309106602,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>농심관</name>
+		<LookAt>
+			<longitude>126.919153318438</longitude>
+			<latitude>37.49740632319397</latitude>
+			<altitude>0</altitude>
+			<heading>-0.006214421411457022</heading>
+			<tilt>0</tilt>
+			<range>260.9012786003248</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_26</styleUrl>
+		<Point>
+			<coordinates>126.918880891034,37.49736488283932,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>신대방삼거리역 5번 출입구</name>
+		<LookAt>
+			<longitude>126.928284159656</longitude>
+			<latitude>37.49976154912935</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0006593677203760181</heading>
+			<tilt>15.26683694079036</tilt>
+			<range>114.8675392469706</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9283159489901,37.49969963560413,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>보라매역 6번 출입구</name>
+		<LookAt>
+			<longitude>126.9204527031103</longitude>
+			<latitude>37.50018028406406</latitude>
+			<altitude>0</altitude>
+			<heading>-0.005638456780237863</heading>
+			<tilt>30.35812513431157</tilt>
+			<range>218.525079805162</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_subway</styleUrl>
+		<Point>
+			<coordinates>126.9205183650306,37.49981375941615,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

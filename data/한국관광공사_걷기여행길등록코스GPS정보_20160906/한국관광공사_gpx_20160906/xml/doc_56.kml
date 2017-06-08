@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>오동공원산책길.kmz</name>
+	<open>1</open>
+	<Style id="sh_진입로">
+		<IconStyle>
+			<scale>0.827274</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_subway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_subway</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_subway</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_subway">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_진입로">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_subway">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>오동공원산책길</name>
+			<description>1987년 4월 27일 시민근린공원으로 지정되었다. 서울 강북구 번동·미아동 등의 5개 동과 성북구 월곡동에 걸쳐 있는 대단위공원으로 면적이 138만 2,260㎡에 이른다. 공원에 오르면 북한산·도봉산·수락산·불암산이 병풍처럼 둘러쳐 있고 배드민턴장·운동장·체력단련시설·산책로·잔디밭 등과 함께 울창한 숲이 조성되어 있다. 특히 ‘꽃샘길’로 불리는 길이 400m 구간은 한 시민이 정성을 다해 꽃과 나무를 가꾸는 것으로 유명하다. 공원 산자락에는 북서울 꿈의 숲이 조성되어 있다.</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0453490798005,37.60961350882603,0 127.0456894477688,37.61033365002678,0 127.0461177086821,37.61037367134112,0 127.0462016092926,37.61059012460122,0 127.0458916529958,37.61068504438811,0 127.0462463743066,37.61127841963949,0 127.0461072038658,37.61154722755115,0 127.0457993658424,37.61157344790198,0 127.0454253383165,37.61138484714346,0 127.0452375736894,37.61158590042204,0 127.0445914693122,37.61167797962074,0 127.0438476332356,37.61160940810522,0 127.0435950724842,37.6114217652385,0 127.0429718124921,37.61122116725022,0 127.0422762299039,37.6113950824792,0 127.0419565861289,37.61132774536897,0 127.0418567031797,37.61097991482357,0 127.0411835284484,37.61105969160971,0 127.0409476757486,37.6107522286463,0 127.0408445549222,37.611019322144,0 127.0404529420698,37.61105910225283,0 127.0394723929402,37.60893898693145,0 127.0394707534904,37.60808849037814,0 127.0395996096039,37.60785163939202,0 127.0399520151574,37.60774997039172,0 127.0402519258067,37.6074816310244,0 127.0412400291104,37.60781803201549,0 127.0415536134193,37.60811022137451,0 127.0419167111433,37.60785667667791,0 127.0416560776123,37.60755128566761,0 127.0417579676471,37.60745763464197,0 127.0438190989282,37.6075698011535,0 127.0441987151674,37.6080184167331,0 127.044100994918,37.60893181203039,0 127.0443870337244,37.60942529847841,0 127.0453490798005,37.60961350882603,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0453515999036,37.6096123376444,0 127.0460457996525,37.6092515470977,0 127.0463571187876,37.60852232887174,0 127.0469536690186,37.60820533322436,0 127.0473967689397,37.60780945841538,0 127.0476220336934,37.60613826542431,0 127.04758901648,37.60609074743597,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>진입로2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0404544695424,37.61106195672012,0 127.0408436352041,37.61218199781822,0 127.0410615652881,37.6121597071654,0 127.0411353018468,37.61234962454155,0 127.0402953018051,37.61251979095541,0 127.0401530025374,37.61289918961126,0 127.0404844453144,37.61344417245906,0 127.0406221706547,37.61385574648353,0 127.0402300993052,37.61429936049516,0 127.0397935144532,37.6140855149264,0 127.0398002962047,37.61435535126667,0 127.0400723658431,37.6146244643274,0 127.0406511725899,37.61548047056572,0 127.040645813374,37.61615233213576,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>오동근린공원</name>
+			<description>1987년 시민근린공원으로 지정되었다. 면적 138만2260㎡이며, 정상으로 가면 북한산, 도봉산, 수락산, 불암산이 둘러쳐 있다. 각종 운동시설과 휴식공간이 있으며, 공원 산자락에는 북서울 꿈의 숲이 조성되어 있다.</description>
+			<LookAt>
+				<longitude>127.0450437735709</longitude>
+				<latitude>37.61073152348552</latitude>
+				<altitude>0</altitude>
+				<heading>4.285024597883689</heading>
+				<tilt>23.79628901192705</tilt>
+				<range>628.3998373244322</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>127.0446228835288,37.6100192270285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>상월곡역4번출입구</name>
+			<LookAt>
+				<longitude>127.0465984760984</longitude>
+				<latitude>37.60748760115696</latitude>
+				<altitude>0</altitude>
+				<heading>-1.968494673151061</heading>
+				<tilt>12.95585634953587</tilt>
+				<range>891.5813037927103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>127.0477898680994,37.60608260431618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲 방향</name>
+			<LookAt>
+				<longitude>127.0414296796876</longitude>
+				<latitude>37.61628792297472</latitude>
+				<altitude>0</altitude>
+				<heading>-5.032223945281526</heading>
+				<tilt>15.81132231256249</tilt>
+				<range>604.1892523497849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로</styleUrl>
+			<Point>
+				<coordinates>127.0407128317186,37.61618829666985,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>낙동강 예던길.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>낙동강 예던길</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				128.8966899378848,36.7882484807576,0 128.8964977275523,36.78839398376876,0 128.8964821093531,36.78869578143183,0 128.8964582895399,36.78935437222598,0 128.8962842899385,36.78989882726551,0 128.8961259381267,36.7901243942902,0 128.8960366828522,36.79040687491784,0 128.8957781880994,36.79094564877757,0 128.8953804958845,36.79149440856494,0 128.8950097779197,36.79192501234219,0 128.8947382295193,36.79221176024327,0 128.8941593598468,36.79290820606001,0 128.8937182162075,36.79354579543179,0 128.893411394423,36.7940957078798,0 128.8930431944898,36.79465159596066,0 128.8926401154501,36.79521958452153,0 128.8922169381296,36.79577220266885,0 128.89197776558,36.79630298557224,0 128.8917603406516,36.7967908614575,0 128.8915973547069,36.79723698041657,0 128.891401979822,36.79760661964556,0 128.8910709571738,36.79801392903383,0 128.8907646457158,36.79838228052599,0 128.8905353916721,36.79882911116999,0 128.8902862061527,36.79919587524262,0 128.8898492033726,36.79955962438314,0 128.8894602577712,36.79984138853626,0 128.8891000346772,36.80018843271137,0 128.8884845334661,36.80070714633595,0 128.8880087363943,36.80119486744228,0 128.8873214018852,36.80203676625087,0 128.8871432855953,36.80231257480838,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

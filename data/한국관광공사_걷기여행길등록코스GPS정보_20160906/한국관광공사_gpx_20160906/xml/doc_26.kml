@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>영등포봄꽃나들길.kmz</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_3">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sn_2">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_3</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin00">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ff73</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_subway">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_subway">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_subway">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_subway</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_subway</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin00">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin00</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_3">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>영등포봄꽃나들길</name>
+			<description>도림천역2번출구-신도림역-신갈공원-신길동넝쿨장미길-신풍역2번출임구</description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8842926892543,37.51496195919385,0 126.8846248826571,37.51487424228127,0 126.8849171719257,37.51471677285777,0 126.8853244199591,37.51438768300247,0 126.8860821966107,37.51416355605053,0 126.8865713745498,37.5138347583022,0 126.8871115524037,37.51355575934109,0 126.8875975890166,37.51343894881608,0 126.8879562156183,37.51326613657533,0 126.8889774132212,37.51286740719715,0 126.889848644126,37.51240847142019,0 126.8904546534561,37.51189133340612,0 126.890885507539,37.5112688965174,0 126.89121527718,37.51095276036384,0 126.8931239606319,37.50856577510251,0 126.8938873360958,37.50816176850046,0 126.8947775348478,37.50781627674436,0 126.8956083852374,37.50734849823004,0 126.8966103921158,37.50637170904067,0 126.8973322319515,37.50578417226068,0 126.8976228852568,37.50599939420825,0 126.8980885891817,37.50551739434978,0 126.8992645711094,37.50432318895068,0 126.900113326747,37.50352475907867,0 126.9021109106718,37.50175707337576,0 126.9032224425528,37.50087285402227,0 126.9037214616005,37.50054543422997,0 126.904399094153,37.50017233107224,0 126.904753717861,37.50003823787149,0 126.904764353456,37.49992751105964,0 126.9054167177324,37.49981381164962,0 126.9057961488107,37.49977648925306,0 126.9059216370462,37.49969451793383,0 126.9072770612159,37.49955774722592,0 126.9083856231148,37.49944977961084,0 126.9084555490857,37.49944944658017,0 126.9083441109262,37.49912019777314,0 126.9081256153842,37.49834269736518,0 126.908052730314,37.49801273276805,0 126.9080638165201,37.49776340320748,0 126.9081593870136,37.49693816495522,0 126.9083758748852,37.4958593044807,0 126.90844768807,37.49568207429908,0 126.9084491948968,37.49566848232358,0 126.9087022804531,37.49558414430595,0 126.9104500666002,37.49580067593706,0 126.9103164343646,37.49724409922145,0 126.9101707942621,37.49826187489858,0 126.9100671526263,37.49907681706169,0 126.9100614044339,37.49931614272197,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>신도림역</name>
+			<LookAt>
+				<longitude>126.8928715349179</longitude>
+				<latitude>37.50924429431064</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002228712738830085</heading>
+				<tilt>0</tilt>
+				<range>650.3279278113294</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.8926641066635,37.50911522972844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>신갈공원</name>
+			<LookAt>
+				<longitude>126.9056062247237</longitude>
+				<latitude>37.49991564263579</latitude>
+				<altitude>0</altitude>
+				<heading>0.005524767272059638</heading>
+				<tilt>0</tilt>
+				<range>372.3138561167579</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.9058600501825,37.49972346861946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>신갈동넝쿨장미길</name>
+			<description>‘사계절 웃음꽃 피어나는 살기 좋은 마을공동체’를 만들고자 이 꽃길을 조성하였다.</description>
+			<LookAt>
+				<longitude>126.9077542583829</longitude>
+				<latitude>37.49665249061992</latitude>
+				<altitude>0</altitude>
+				<heading>0.006832378494742691</heading>
+				<tilt>0</tilt>
+				<range>331.2997164607899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.9083188546416,37.49613386102576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>영등포봄꽃나들길</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8843117036349,37.51495308607473,0 126.8838835108177,37.51438901632617,0 126.8830714674744,37.51472270387875,0 126.8828548481236,37.51459870185497,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>도림천역 2번 출입구</name>
+			<LookAt>
+				<longitude>126.8835839507137</longitude>
+				<latitude>37.51438898413608</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007883546825498976</heading>
+				<tilt>0</tilt>
+				<range>540.7922661977921</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.8828345304551,37.51458255459213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>영등포봄꽃 나들길진입로2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.910074640715,37.49930141386606,0 126.9107606843238,37.50000810635935,0 126.910737923182,37.50008528629139,0 126.9097309134848,37.5000834076422,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>신풍역 2번 출입구</name>
+			<LookAt>
+				<longitude>126.9102206773681</longitude>
+				<latitude>37.49920142735229</latitude>
+				<altitude>0</altitude>
+				<heading>0.008333890399733427</heading>
+				<tilt>0</tilt>
+				<range>457.5769298855739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.9097366332259,37.50002430876304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원길</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8898078213572,37.51241453307222,0 126.8935672635338,37.51526712963665,0 126.8938133733271,37.51655394449237,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>문래공원</name>
+			<LookAt>
+				<longitude>126.8922255473447</longitude>
+				<latitude>37.51212661819901</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002785067263162646</heading>
+				<tilt>0</tilt>
+				<range>1651.377785995333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>126.8938135088738,37.51664696270418,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

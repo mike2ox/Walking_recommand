@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>임시 장소</name>
+	<open>1</open>
+	<Document>
+		<name>개웅산숲 산책길.kmz</name>
+		<open>1</open>
+		<StyleMap id="msn_subway">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_subway</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_subway</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_3">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_bus">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_3</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_bus">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_bus</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_bus</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="m_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin00</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="s_ylw-pushpin00">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_2">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ffff55aa</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl00">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0055ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_subway">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="s_ylw-pushpin_hl1">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+				</Icon>
+			</IconStyle>
+			<ListStyle>
+			</ListStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_2">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="s_ylw-pushpin1">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<StyleMap id="m_ylw-pushpin00">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#s_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_bus">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_3">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+				</Icon>
+				<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<ListStyle>
+				<ItemIcon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+				</ItemIcon>
+			</ListStyle>
+		</Style>
+		<Style id="sh_subway">
+			<IconStyle>
+				<scale>1.18182</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/subway.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>개웅산숲 산책길</name>
+			<description>배드민턴장-야생화단지-숲속길</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8500778279756,37.48886203038499,0 126.8498594520746,37.48912619192285,0 126.8499452678746,37.4893499420987,0 126.8497951579119,37.4895290932694,0 126.849521874894,37.48961681936643,0 126.8488372661567,37.48983553390271,0 126.8487398125363,37.48992841854938,0 126.8480871148082,37.48938959750992,0 126.8478487017514,37.4890457315203,0 126.8476527702221,37.48890205901583,0 126.8473639635389,37.48834404451353,0 126.8472665089212,37.48805135520287,0 126.8469074556814,37.48788752272422,0 126.8466121484728,37.48765253123798,0 126.8463349454812,37.48735832640319,0 126.846026585531,37.48710050285844,0 126.8455163922847,37.48698306141122,0 126.8450214056155,37.48685390833624,0 126.8450627414661,37.48651884750854,0 126.845744784434,37.48634272604071,0 126.8459121286269,37.48620334011687,0 126.8456904336668,37.48582582729366,0 126.845526549924,37.48553316760837,0 126.8454428562422,37.48530168918783,0 126.845324104456,37.48508183462256,0 126.8457688635945,37.48478822209096,0 126.8462964435994,37.4846662033906,0 126.8471298293268,37.48468205152307,0 126.8475398966087,37.48453499863827,0 126.8477819824895,37.4843057635711,0 126.8480795303082,37.48427078114777,0 126.8489089095075,37.4840330360199,0 126.8493843189391,37.48387097576312,0 126.8496312729448,37.48392464389501,0 126.8498953997271,37.48373483519197,0 126.8501754638077,37.48358104025734,0 126.8502611797478,37.48348385885716,0 126.8506357494126,37.48335484510049,0 126.850754619552,37.48353186151945,0 126.8508312656879,37.48359576280338,0 126.8506158586524,37.48374015810219,0 126.8504297288432,37.48389611753478,0 126.8502247681592,37.48443936701941,0 126.8504309876352,37.48457108882563,0 126.8506221012405,37.48474105501676,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>배드민턴장</name>
+			<description>개웅산 중턱에 있는 배드민턴장으로 주민들이 쉽게 이용 할 수 있으며, 운동공간과 휴식공간이 어우러져 등산객들에게 쉼터로 자리하고 있다.</description>
+			<LookAt>
+				<longitude>126.8499664306315</longitude>
+				<latitude>37.48809478273078</latitude>
+				<altitude>0</altitude>
+				<heading>0.001314662657082292</heading>
+				<tilt>0</tilt>
+				<range>440.9019178196322</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<coordinates>126.8500683483519,37.48884211533386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>야생화단지</name>
+			<description>개웅산 코스 중 일부이며, 야생화단지 코스로 어린이들의 생태학습장으로 이용 되고 있다.</description>
+			<LookAt>
+				<longitude>126.8486934013153</longitude>
+				<latitude>37.4900633514747</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005398292885263841</heading>
+				<tilt>0</tilt>
+				<range>412.6205351064307</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>126.8487426517078,37.48989469014101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>숲속길</name>
+			<LookAt>
+				<longitude>126.8473653159324</longitude>
+				<latitude>37.48816709130268</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002684386098148787</heading>
+				<tilt>0</tilt>
+				<range>390.4456567077924</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>126.847333534879,37.48824856208248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>개웅산 숲 산책길진입로1</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8490812839801,37.48975546458346,0 126.8495300518777,37.49002210213661,0 126.8497945425172,37.49012972465901,0 126.8498085866123,37.4901297005307,0 126.8498226541807,37.49012967641145,0 126.8498394574966,37.49013402221659,0 126.8500101101407,37.49025677256729,0 126.8498134693927,37.49034173539945,0 126.8496266695197,37.49048790423471,0 126.8498282235878,37.49057706507678,0 126.8503583586875,37.49070973340758,0 126.8503546421441,37.49080423115056,0 126.850431507869,37.49089177524118,0 126.8503302841823,37.49114579902515,0 126.8506069882282,37.49154296115177,0 126.850552024645,37.49175188182185,0 126.8505420428738,37.49189798948133,0 126.8504825514984,37.49205041551947,0 126.8503531566946,37.49225309611668,0 126.8501710249235,37.49239824323986,0 126.8498432349517,37.49240937604105,0 126.8498334381949,37.49241455316657,0 126.8496910475647,37.49249977289309,0 126.8496879804719,37.49250493423488,0 126.849498558399,37.49280434372827,0 126.8494987046626,37.49280980924501,0 126.8494212849228,37.49297680915522,0 126.8493534542457,37.49301391534539,0 126.84881984065,37.49293868090487,0 126.8484092232618,37.49280519502484,0 126.8480868086548,37.49291837410626,0 126.8479502869526,37.49317439840438,0 126.8479837718672,37.4934091416664,0 126.8483043962401,37.49360691421727,0 126.8481989087086,37.4936746124158,0 126.8483241809603,37.49378284925329,0 126.8484588916994,37.49452558971154,0 126.8458358466425,37.49398401550844,0 126.8457490406493,37.49420494633998,0 126.8448940070364,37.49404940913381,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>오류동역 1번 출입구</name>
+			<LookAt>
+				<longitude>126.8451839983799</longitude>
+				<latitude>37.49370973531384</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001596273326631255</heading>
+				<tilt>0</tilt>
+				<range>197.9462654141833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_subway</styleUrl>
+			<Point>
+				<coordinates>126.8448915179266,37.49404940904041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>개웅산 숲 산책길진입로2</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8459174276776,37.48616664279279,0 126.8466302363805,37.4862221950418,0 126.8470395515727,37.48588799274527,0 126.8472992355041,37.48573094856351,0 126.8476001722949,37.48546229548467,0 126.8483319350781,37.48539295693255,0 126.84909671534,37.48521885520516,0 126.8495266087676,37.48528243021497,0 126.849749596789,37.48525890276665,0 126.8500682848283,37.48532426958447,0 126.8507294784316,37.48574992433172,0 126.8508578515754,37.48607236563419,0 126.8521858605297,37.48614516267033,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(개봉한진아파트기점)</name>
+			<LookAt>
+				<longitude>126.8511700039301</longitude>
+				<latitude>37.48552771667852</latitude>
+				<altitude>0</altitude>
+				<heading>0.00204655476943467</heading>
+				<tilt>0</tilt>
+				<range>327.7679028730881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus</styleUrl>
+			<Point>
+				<coordinates>126.8522024105681,37.48610829354559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>개웅산숲산책길</name>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8506218714303,37.48473252658874,0 126.8510156639725,37.48468274642414,0 126.8516028408318,37.48407200061274,0 126.851361418382,37.48389771651593,0 126.8517684453404,37.48345043096264,0 126.8524293029363,37.4828875488726,0 126.8525411691879,37.48285038755765,0 126.8529614282392,37.48318304848748,0 126.8531213008801,37.4833079354153,0 126.8534419383802,37.48386919155014,0 126.8539214752938,37.48374574059853,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>버스정류장(한진아파트 후문)</name>
+			<LookAt>
+				<longitude>126.8535247118152</longitude>
+				<latitude>37.48339964129978</latitude>
+				<altitude>0</altitude>
+				<heading>0.003479483618515179</heading>
+				<tilt>0</tilt>
+				<range>369.4750319558568</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus</styleUrl>
+			<Point>
+				<coordinates>126.8539262129311,37.48369058260322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>문화자원연계부</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					126.8459016434084,37.48621380729557,0 126.8466183750154,37.48626865834365,0 126.8470424565081,37.48591159392523,0 126.8473820180167,37.48572691509772,0 126.8476178574055,37.48548739116452,0 126.8482905748378,37.48543201800518,0 126.8481417617106,37.48573952660906,0 126.8483142118043,37.48610374248487,0 126.8483218425821,37.48628431750229,0 126.8482090180155,37.48640639126572,0 126.8482227284472,37.48670792506074,0 126.8484008645468,37.48676717360569,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>개봉공원</name>
+			<LookAt>
+				<longitude>126.8474295735362</longitude>
+				<latitude>37.48631926968938</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001204589858040088</heading>
+				<tilt>0</tilt>
+				<range>577.3587675226673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>126.8484238392678,37.48675597207243,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

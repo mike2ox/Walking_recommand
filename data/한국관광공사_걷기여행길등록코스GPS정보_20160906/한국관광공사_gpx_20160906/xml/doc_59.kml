@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>북서울 꿈의숲 나들길.kmz</name>
+	<open>1</open>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로30">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_5">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_진입로3">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/1-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_7">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_진입로3">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_bus">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_4">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/4-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/5-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/7-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_진입로30">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>files/진입로3.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_2">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/2-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff73</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_6">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/6-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_진입로3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_진입로30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_진입로30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>임시 장소</name>
+		<open>1</open>
+		<Placemark>
+			<name>북서울 꿈의숲 나들길</name>
+			<description> 자연친화적인 공원, 외각 순환 산책로는 편하게 걸을 수 있으며 나지막한 야산 산책로가 정비되어 있다.
+</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0385779166417,37.6249172200954,0 127.0382071186934,37.62522095435034,0 127.037658482884,37.62537911458304,0 127.0373997588614,37.62551843528497,0 127.0371889405217,37.62542811517611,0 127.0367246302941,37.62533635531909,0 127.0364804058683,37.62525554683567,0 127.0366301140012,37.62481260415768,0 127.0359649750531,37.62458451604377,0 127.0357858428826,37.6246587447701,0 127.0354466505301,37.62452991593504,0 127.0344861657621,37.62373667235366,0 127.0341350447165,37.62331083088782,0 127.0341334552521,37.62312620196347,0 127.0337600320565,37.62283431775608,0 127.0339494693159,37.62237050282586,0 127.0342294751889,37.62220447478372,0 127.0343057169751,37.62126086789781,0 127.0345345108228,37.62096699253222,0 127.0347193386483,37.62091982761638,0 127.0349462536212,37.62093035008365,0 127.0350248983902,37.62114414154966,0 127.0351629227593,37.62130403718057,0 127.035383702764,37.62152839366701,0 127.0354890159281,37.6216772143571,0 127.0356011067006,37.62182731601244,0 127.0357385952949,37.62191246851991,0 127.0360721221015,37.62185910913557,0 127.0361826143647,37.62169359729595,0 127.0365234815924,37.62153337525737,0 127.0365665557838,37.62141317068075,0 127.0362629390695,37.62121583679538,0 127.0358156042472,37.62094570419214,0 127.0354841421024,37.62083138628007,0 127.0362620439883,37.62034151272037,0 127.0364302830478,37.62021547167716,0 127.0364553214976,37.61989658142441,0 127.0361521083945,37.61962607450604,0 127.0363140217493,37.61940492070636,0 127.0369601944907,37.61918802011168,0 127.0378166268791,37.61859095382514,0 127.0379852454653,37.61824936519751,0 127.0381574587871,37.61775375970934,0 127.0384775184915,37.61763113408208,0 127.0386307375571,37.61768016108796,0 127.0394471497445,37.61710870628328,0 127.0394968613958,37.6166601990997,0 127.0394647296025,37.61641150581411,0 127.0398477431409,37.61629280077663,0 127.0401552693453,37.61622969212551,0 127.0406272908319,37.6164204123943,0 127.0407187480563,37.61658725130773,0 127.0409469123918,37.61683924062529,0 127.0411210082899,37.61707930863286,0 127.041374289954,37.61703871224637,0 127.0415899386034,37.6171933798045,0 127.0419069569288,37.61741484721133,0 127.0419205070596,37.61767632223598,0 127.0421166680953,37.6177410888499,0 127.0423427498205,37.61767542603334,0 127.0425096772123,37.61786429806957,0 127.0428456748157,37.61803220304948,0 127.0436162389958,37.61861198790024,0 127.0443254088441,37.61933044010154,0 127.0447806286181,37.62004105057318,0 127.044495130865,37.62040041799353,0 127.0445685938093,37.62063603954722,0 127.0446344614756,37.620932501155,0 127.044736936867,37.62121671599456,0 127.0449737746964,37.62140208569092,0 127.0450399431699,37.62145956016845,0 127.0446051992852,37.62178136746137,0 127.0445595200998,37.62200121010105,0 127.044601221117,37.62225523048732,0 127.0447199307312,37.62236727471645,0 127.0449499139162,37.62231333124541,0 127.0451870984051,37.62238150338803,0 127.0456024412717,37.62266171518215,0 127.0456808174603,37.62289552729951,0 127.0456647297995,37.62310099537108,0 127.0454921838235,37.62330245598699,0 127.0453385463455,37.62333918720251,0 127.0451727791241,37.62365589427932,0 127.04509771563,37.62371808534343,0 127.0450501196273,37.62387795692423,0 127.0448236405434,37.62412632931897,0 127.0443619819491,37.62451694606406,0 127.0435186280806,37.6248360565592,0 127.0426790716464,37.62525837731659,0 127.0423185723753,37.62542276427805,0 127.0422063569713,37.62570895346569,0 127.0419788939152,37.6257416111148,0 127.0416416729588,37.62550505616098,0 127.041247302679,37.62541484611963,0 127.0409219098293,37.62543233683784,0 127.0407049545876,37.62578304162512,0 127.0401732950054,37.62545717824883,0 127.0398958615408,37.62539662165435,0 127.0397745501611,37.62500045457985,0 127.0394169470746,37.62482745584762,0 127.0390860489341,37.62515135204096,0 127.0385779166417,37.6249172200954,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>북서울 꿈의숲 나들길2</name>
+			<description> 자연친화적인 공원, 외각 순환 산책로는 편하게 걸을 수 있으며 나지막한 야산 산책로가 정비되어 있다.
+</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0394299738707,37.6248070847823,0 127.0393381087021,37.62470398556968,0 127.039162789585,37.62474171852303,0 127.0390813076856,37.62472325429597,0 127.0390086759402,37.62448284425661,0 127.0391266053608,37.62418996438559,0 127.0390534475038,37.6239154791347,0 127.0389585615967,37.62389233383547,0 127.0387262851856,37.62369486450827,0 127.0385842440759,37.62345937584468,0 127.0385440421028,37.62337227758039,0 127.0384708943584,37.62336134111511,0 127.0383920659228,37.62322105463118,0 127.0383651095564,37.62289690579142,0 127.0384349145952,37.62256224247337,0 127.038105043385,37.6220954052739,0 127.0380135911356,37.62194541046481,0 127.0382996955045,37.621367576115,0 127.0382697881238,37.62115084721733,0 127.0380806802987,37.62099019272321,0 127.0379091466922,37.62089129659344,0 127.0378378285459,37.62072048517143,0 127.0379597905537,37.62058721952373,0 127.03795735756,37.62034159593679,0 127.037604241717,37.62015232190814,0 127.037389856921,37.61983506728559,0 127.0372627266501,37.61939661529451,0 127.0369799164488,37.61918030862957,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>강북문화정보센터</name>
+			<LookAt>
+				<longitude>127.0358477057792</longitude>
+				<latitude>37.62457578352017</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3930398680334408</heading>
+				<tilt>0</tilt>
+				<range>220.5792624277909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>127.0362265977487,37.62467551073586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>삼각산 전망대</name>
+			<description>오동근린공원과 인접한 곳에 있으며, 전망대가 정자로 되어있어 쉼터이자 전망대 역할을 하고 있다. 서울 우수 전망대로 선정이 되어있다.</description>
+			<LookAt>
+				<longitude>127.0343810290965</longitude>
+				<latitude>37.62136834093587</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3939352488595199</heading>
+				<tilt>0</tilt>
+				<range>274.7311288415731</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_2</styleUrl>
+			<Point>
+				<coordinates>127.0343037862907,37.62136247834116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>생태이동로</name>
+			<description>야생동식물이 도로 등의 건설로 인해서 서식지가 단절되는 것을 막기 위해, 야생동물이 지나는 길을 인공적으로 만든 것을 말한다.</description>
+			<LookAt>
+				<longitude>127.0359762902666</longitude>
+				<latitude>37.61924991840156</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3929614274716433</heading>
+				<tilt>0</tilt>
+				<range>303.8002162071216</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_3</styleUrl>
+			<Point>
+				<coordinates>127.0365482717654,37.6193253553534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>칠폭지</name>
+			<description>북서울 꿈의 숲 내 있는 공간으로 넓은 잔디밭을 조성해 가족피크닉 및 경사 잔디놀이터가 있다. 수경요소가 있어 관람에도 인기가 있다.</description>
+			<LookAt>
+				<longitude>127.0440764007777</longitude>
+				<latitude>37.619452445733</latitude>
+				<altitude>0</altitude>
+				<heading>-0.388016302863054</heading>
+				<tilt>0</tilt>
+				<range>280.3196671721706</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_4</styleUrl>
+			<Point>
+				<coordinates>127.0443874784269,37.61942629231331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울 꿈의 숲 1번 출입구</name>
+			<description>북서울 꿈의 숲 정문이며 방문자 센터와 칠폭지, 이야기 정원이 바로 눈앞에 나타난다. 방문자 주차장도 되어있다.</description>
+			<LookAt>
+				<longitude>127.0443299546647</longitude>
+				<latitude>37.61991906018818</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3878615315209535</heading>
+				<tilt>0</tilt>
+				<range>280.4745927603497</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_5</styleUrl>
+			<Point>
+				<coordinates>127.0447720224389,37.62004168640095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>느티나무(보호수)</name>
+			<description>북서울 꿈의 숲 방문자 센터 바로 옆에서 자라고 있으며, 180년이 된 나무이다. 관리는 서울특별시에서 한다.</description>
+			<LookAt>
+				<longitude>127.044364319249</longitude>
+				<latitude>37.62047104861353</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3878405594014381</heading>
+				<tilt>0</tilt>
+				<range>278.9546387129047</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_6</styleUrl>
+			<Point>
+				<coordinates>127.0445035316619,37.620380187572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>단풍숲</name>
+			<description>북서울 꿈의 숲에서 지역주민들을 위한 휴식 및 문화체험의 공간을 마련하기 위해서 조성된 공간이다. 단풍나무테마로 여러 종류의 단풍나무들로 군락 식재하여 숲으로 느껴지도록 하였다.</description>
+			<LookAt>
+				<longitude>127.0387509238985</longitude>
+				<latitude>37.62421069108146</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3912672464622261</heading>
+				<tilt>0</tilt>
+				<range>236.3088170347868</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_7</styleUrl>
+			<Point>
+				<coordinates>127.0391142960206,37.62413588983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲나들길진입로1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0456019355114,37.62265851584991,0 127.0456981053833,37.62261894916148,0 127.045775378032,37.62262359278317,0 127.0458815147668,37.62269126974148,0 127.0459962450684,37.62266044876379,0 127.0461179233374,37.62259796789482,0 127.0462497696858,37.62234287488428,0 127.0464881133995,37.62248623223482,0 127.0476272225781,37.62319256671822,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>월계2교사거리</name>
+			<LookAt>
+				<longitude>127.0469272719705</longitude>
+				<latitude>37.62300252165858</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3862651650122641</heading>
+				<tilt>4.274372269962398</tilt>
+				<range>323.3020576227186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로30</styleUrl>
+			<Point>
+				<coordinates>127.0476261919353,37.62319101517433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲나들길진입로2</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0433288444081,37.62493052419661,0 127.0434675003812,37.62497930139283,0 127.0437332381006,37.62503397413288,0 127.0438533301473,37.62508252285694,0 127.0440288169723,37.62515184621955,0 127.0442175955205,37.62520773657677,0 127.0444110887528,37.62525361530184,0 127.044481485837,37.62528019135306,0 127.0445687116938,37.6253047435424,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>5번입구</name>
+			<LookAt>
+				<longitude>127.0445545897927</longitude>
+				<latitude>37.62563892418592</latitude>
+				<altitude>0</altitude>
+				<heading>0.9894775738208027</heading>
+				<tilt>1.599663301470674</tilt>
+				<range>247.0212521842414</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로30</styleUrl>
+			<Point>
+				<coordinates>127.0445761120015,37.62529407358358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲나들길진입로3</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0421204490265,37.62571134189203,0 127.0420956481484,37.62591711834593,0 127.0421273699718,37.62624608232431,0 127.0423909507478,37.62658267120181,0 127.0415089980135,37.62711110834067,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>8번입구</name>
+			<LookAt>
+				<longitude>127.0418144200599</longitude>
+				<latitude>37.62696616704036</latitude>
+				<altitude>0</altitude>
+				<heading>0.9878185495670261</heading>
+				<tilt>1.60006146527034</tilt>
+				<range>393.387691872937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로30</styleUrl>
+			<Point>
+				<coordinates>127.0415000516609,37.62713441368526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲나들길진입로4</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0371004491205,37.62540407167769,0 127.0368158742906,37.6260795870563,0 127.0367689225142,37.62626056415127,0 127.0367552196091,37.62641735626858,0 127.0368670837909,37.62656535105067,0 127.0374414120838,37.62706175378514,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>해모로아파트</name>
+			<LookAt>
+				<longitude>127.037601503205</longitude>
+				<latitude>37.62681984258584</latitude>
+				<altitude>0</altitude>
+				<heading>0.9852536210488131</heading>
+				<tilt>1.600223000967146</tilt>
+				<range>316.1913784820702</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus</styleUrl>
+			<Point>
+				<coordinates>127.0374420657762,37.62702821812256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>북서울꿈의숲나들길진입로5</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					127.0361812747384,37.61960831485516,0 127.0358754447633,37.6196505412865,0 127.0354726953068,37.61987459633619,0 127.0353863270106,37.61996360639751,0 127.0352558973762,37.6199305025705,0 127.0350593113439,37.61974283733536,0 127.0349159086763,37.6195704513044,0 127.0348878640861,37.61951959849333,0 127.0344904543879,37.61936257740222,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>오현로 9다길</name>
+			<LookAt>
+				<longitude>127.034848727273</longitude>
+				<latitude>37.61958401573828</latitude>
+				<altitude>0</altitude>
+				<heading>0.98357935168727</heading>
+				<tilt>1.600432169922915</tilt>
+				<range>430.0059542172988</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_진입로3</styleUrl>
+			<Point>
+				<coordinates>127.0344639531086,37.61937156629477,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

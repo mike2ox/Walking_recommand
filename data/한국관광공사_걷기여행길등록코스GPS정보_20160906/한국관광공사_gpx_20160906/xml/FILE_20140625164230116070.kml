@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>알천햇살길.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>알천햇살길</name>
+		<open>1</open>
+		<Placemark>
+			<name>알천햇살길</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					129.2478954307391,35.84306358430433,0 129.2479760779206,35.84304711746084,0 129.2480511804591,35.84304249851385,0 129.248202830298,35.84308140277651,0 129.2483481755283,35.84312783969759,0 129.2485470758086,35.84317249463371,0 129.2487461476617,35.84320110698726,0 129.2489432234522,35.84324136532422,0 129.2491504700642,35.84328750315461,0 129.2493230205852,35.84334312411677,0 129.249548486355,35.843463785914,0 129.2498105164135,35.84362708611958,0 129.2500985949457,35.84379653365068,0 129.2503898275797,35.84398533157535,0 129.2506692010238,35.84415888865529,0 129.2508456168293,35.84429094916407,0 129.2509397668936,35.84433040211305,0 129.2510288559478,35.84437362737621,0 129.2510734210788,35.84443083790496,0 129.2511839081206,35.84451030207133,0 129.2513405187726,35.84461504868663,0 129.2515633205065,35.84477210503852,0 129.2518596527495,35.84494501109334,0 129.2520861793567,35.84508379806127,0 129.2523437253747,35.84522614128127,0 129.2525549995313,35.84532209914158,0 129.2527425265384,35.84540917819049,0 129.2529993281474,35.84550927639044,0 129.253177305871,35.84557910219107,0 129.2533554535866,35.84565318738345,0 129.2535888277442,35.84575421088756,0 129.2539450897674,35.84589924159929,0 129.254153049836,35.84598791970934,0 129.2543451051867,35.84606391702214,0 129.2545790218761,35.84616933878615,0 129.254796337073,35.84624724336327,0 129.2549486037105,35.84633220239697,0 129.2551096539182,35.84642111380519,0 129.2552572825072,35.84649408546645,0 129.2553941986908,35.84658244167851,0 129.2555366233384,35.84664682574034,0 129.2556873060948,35.8467337350734,0 129.2558514757962,35.84682132792491,0 129.2560322807043,35.84692007706175,0 129.2561901755938,35.84699797701405,0 129.2563401259564,35.8470720228085,0 129.2564594654587,35.84710784687599,0 129.2566142632407,35.84717875877096,0 129.2567768136284,35.84725338958457,0 129.256927390189,35.84731433203271,0 129.2570903215288,35.84737345807764,0 129.2572258359159,35.84741462957084,0 129.2573704606715,35.84745631239439,0 129.2575366140912,35.84750221063443,0 129.2577213198894,35.84755949212313,0 129.257926933919,35.84762383583638,0 129.2579653001016,35.84763726294799,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>WP</name>
+			<open>1</open>
+			<Placemark>
+				<name>보문교</name>
+				<LookAt>
+					<longitude>129.2586150381499</longitude>
+					<latitude>35.84558995209729</latitude>
+					<altitude>0</altitude>
+					<heading>-3.121046955503622</heading>
+					<tilt>6.971575382887955</tilt>
+					<range>676.7499603313786</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>129.2586394296029,35.84728536411319,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>버드파크</name>
+				<LookAt>
+					<longitude>129.2583785864892</longitude>
+					<latitude>35.84648944713594</latitude>
+					<altitude>0</altitude>
+					<heading>-3.121185292089615</heading>
+					<tilt>6.971578689391446</tilt>
+					<range>679.7829030761772</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>129.2611865265531,35.84934355029274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>옛정식당</name>
+				<LookAt>
+					<longitude>129.2493138704814</longitude>
+					<latitude>35.84337131335208</latitude>
+					<altitude>0</altitude>
+					<heading>-3.126493793396986</heading>
+					<tilt>6.971582364970346</tilt>
+					<range>683.1536001399256</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>129.2480478995512,35.84405373440129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>보문교삼거리</name>
+				<LookAt>
+					<longitude>129.2586150381499</longitude>
+					<latitude>35.84558995209729</latitude>
+					<altitude>0</altitude>
+					<heading>-3.121046955503622</heading>
+					<tilt>6.971575382887955</tilt>
+					<range>676.7499603313786</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>129.2581037609781,35.84629656234092,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
